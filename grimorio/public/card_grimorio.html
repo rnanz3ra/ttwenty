@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grimório de Arton - Portal de Acesso</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Cinzel:wght@500;800&family=Italiana&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #120c06;
+            color: #e8dcc4;
+            font-family: 'Cinzel', serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* Card estilo pergaminho antigo */
+        .scroll-card {
+            background: radial-gradient(circle, #f5ecd6 0%, #d8c39e 100%);
+            border: 8px double #8a6c3e;
+            border-radius: 4px;
+            padding: 40px;
+            max-width: 400px;
+            text-align: center;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.8), inset 0 0 40px rgba(138, 108, 62, 0.3);
+            position: relative;
+            color: #2c1d11;
+        }
+
+        /* Cantos ornamentados */
+        .scroll-card::before {
+            content: "✦";
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            font-size: 20px;
+            color: #8a6c3e;
+        }
+        .scroll-card::after {
+            content: "✦";
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 20px;
+            color: #8a6c3e;
+        }
+
+        h1 {
+            font-family: 'Cinzel Decorative', serif;
+            font-size: 26px;
+            margin-top: 0;
+            color: #8b0000;
+            text-shadow: 1px 1px 0px rgba(255,255,255,0.6);
+            letter-spacing: 1px;
+            line-height: 1.2;
+        }
+
+        .subtitle {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: #5e462d;
+            font-weight: 800;
+            margin-bottom: 25px;
+            border-bottom: 1px solid rgba(138, 108, 62, 0.4);
+            padding-bottom: 10px;
+        }
+
+        .qr-frame {
+            background: white;
+            padding: 15px;
+            border: 3px solid #8a6c3e;
+            border-radius: 4px;
+            display: inline-block;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+            margin: 15px 0;
+        }
+
+        .qr-frame img {
+            display: block;
+            width: 200px;
+            height: 200px;
+        }
+
+        .instruction {
+            font-family: 'Italiana', serif;
+            font-size: 18px;
+            line-height: 1.4;
+            color: #3b2a1a;
+            margin: 20px 0;
+            font-style: italic;
+        }
+
+        .divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin: 20px 0;
+            opacity: 0.7;
+        }
+
+        .divider-line {
+            height: 1px;
+            background: #8a6c3e;
+            width: 50px;
+        }
+
+        .divider-dot {
+            width: 6px;
+            height: 6px;
+            background: #8b0000;
+            transform: rotate(45deg);
+        }
+
+        .footer {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #7c6146;
+            margin-top: 15px;
+        }
+
+        /* Otimização para Impressão */
+        @media print {
+            body {
+                background: white;
+                color: black;
+                padding: 0;
+            }
+            .scroll-card {
+                box-shadow: none;
+                border: 6px double #8a6c3e;
+                margin: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="scroll-card">
+        <h1>Grimório de Arton</h1>
+        <div class="subtitle">Compêndio de Regras & Magias</div>
+        
+        <div class="instruction">
+            "Aponte a sua lente mística e desvele os segredos guardados pela Tormenta..."
+        </div>
+
+        <div class="divider">
+            <div class="divider-line"></div>
+            <div class="divider-dot"></div>
+            <div class="divider-line"></div>
+        </div>
+
+        <div class="qr-frame">
+            <!-- Gerador dinâmico de QR Code com o IP do servidor local -->
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=http://192.168.10.168" alt="QR Code Grimório">
+        </div>
+
+        <div class="divider">
+            <div class="divider-line"></div>
+            <div class="divider-dot"></div>
+            <div class="divider-line"></div>
+        </div>
+
+        <div class="footer">Conectado à Rede de Arton</div>
+    </div>
+
+</body>
+</html>
