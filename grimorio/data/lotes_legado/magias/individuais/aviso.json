@@ -1,0 +1,11 @@
+{
+  "id": "aviso",
+  "name": "Aviso",
+  "circle": 1,
+  "type": "Universal",
+  "school": "Adivinhação",
+  "execution": "movimento;",
+  "range": "longo;",
+  "duration": "instantânea",
+  "description": "Envia um aviso telepático para uma  criatura, mesmo que não possa vê-la  nem tenha linha de efeito. Escolha um: Alerta: o alvo recebe +5 em seu próximo teste de Iniciativa e de Percepção   até o fim da próxima cena. Mensagem: o alvo recebe uma mensagem sua de até 25 palavras. Vocês devem ter um idioma em comum para o  alvo poder entendê-lo. Localização: o alvo sabe onde você está  naquele momento. Se você mudar de  posição, ele não saberá. +1 PM: aumenta o alcance em um fator de 10 (90m)."
+}

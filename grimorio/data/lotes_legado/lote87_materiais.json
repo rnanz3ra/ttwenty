@@ -1,0 +1,38 @@
+[
+    {
+        "material": "Aço-Rubi",
+        "lore": "Extraído de veios raros tocados pela corrupção da Tormenta, mas purificados por ferreiros mestres. Este metal carmesim é a única defesa confiável contra a anatomia bizarra dos Lefeu.",
+        "modificadores": {
+            "Arma": "Ignora 10 pontos de Redução de Dano (RD) do alvo e ignora imunidade a críticos de criaturas da Tormenta.",
+            "Armadura": "Concede Redução de Dano 1 (Leve), 2 (Pesada) ou 5 (Escudo) contra ataques de criaturas da Tormenta.",
+            "Preço": "+T$ 6.000 (Arma) / +T$ 2.000 (Armadura/Escudo)"
+        }
+    },
+    {
+        "material": "Adamante",
+        "lore": "O metal mais duro da criação. Armas de adamante possuem um peso e densidade que destroçam escudos e ossos com a mesma facilidade.",
+        "modificadores": {
+            "Arma": "Aumenta o dano da arma em um passo (ex: 1d8 vira 1d10).",
+            "Armadura": "Aumenta a Redução de Dano (RD) da armadura em +2.",
+            "Preço": "+T$ 3.000 (Arma) / +T$ 5.000 (Armadura/Escudo)"
+        }
+    },
+    {
+        "material": "Mitral",
+        "lore": "Prata brilhante, leve como seda e forte como o aço. O mitral é o sonho de qualquer batedor ou cavaleiro que preze pela agilidade sem abrir mão da proteção.",
+        "modificadores": {
+            "Arma": "Ganha +1 na margem de ameaça (ex: 19 vira 18).",
+            "Armadura": "Reduz o peso em 1 espaço e diminui a penalidade de armadura em 2. Armaduras pesadas permitem +1 na Destreza.",
+            "Preço": "+T$ 1.500 (Arma) / +T$ 2.000 (Armadura/Escudo)"
+        }
+    },
+    {
+        "material": "Madeira Tollon",
+        "lore": "Vinda das florestas do reino de Tollon, esta madeira é flexível e ressonante, ideal para arcos e cajados que precisam canalizar energia pura.",
+        "modificadores": {
+            "Arma_Distancia": "O alcance da arma aumenta em um passo (Curto > Médio > Longo).",
+            "Esoterico": "Reduz o custo em PM da primeira magia lançada na rodada em -1 PM.",
+            "Preço": "+T$ 600"
+        }
+    }
+]

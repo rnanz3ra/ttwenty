@@ -1,0 +1,11 @@
+{
+  "id": "proteção--contra-magia",
+  "name": "Proteção  contra Magia",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "Você protege o alvo contra efeitos mágicos nocivos. O alvo recebe +5 em  testes de resistência contra magias. +4 PM: muda o bônus para +10. Requer 4º círculo. +4 PM: em vez do normal, o alvo fica  imune a uma escola de magia a sua escolha. Requer 4º Círculo. +9 PM: em vez do normal, o alvo fica  imune a duas escolas de magia a sua  escolha. Requer 5º Círculo."
+}

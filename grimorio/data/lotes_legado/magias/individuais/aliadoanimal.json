@@ -1,0 +1,11 @@
+{
+  "id": "aliado-animal",
+  "name": "Aliado Animal",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "1 dia",
+  "description": "Você cria um vínculo mental com um  animal prestativo em relação a você.  O Aliado Animal obedece a você no  melhor de suas capacidades, mesmo  que isso arrisque a vida dele. Ele funciona como um parceiro veterano, de  um tipo a sua escolha entre ajudante,  combatente, fortão, guardião, montaria ou perseguidor. +1 PM: muda o alvo para 1 animal Minúsculo e a duração para 1 semana. Em  vez do normal, o animal se desloca no  melhor de suas capacidades até um local designado por você — em geral."
+}

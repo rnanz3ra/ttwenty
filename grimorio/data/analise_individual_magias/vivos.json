@@ -1,0 +1,11 @@
+{
+  "id": "vivos",
+  "name": "Vivos",
+  "circle": 2,
+  "type": "Universal",
+  "school": "Necromancia",
+  "execution": "completa;",
+  "range": "curto;",
+  "duration": "sustentada",
+  "description": "Você conjura seis esqueletos capangas  de tamanho Médio feitos de energia  negativa em espaços desocupados dentro do alcance. Você pode gastar uma  ação de movimento para fazer os mortos-vivos andarem (eles têm deslocamento 9m) ou uma ação padrão para  fazê-los causar dano a criaturas adjacentes (1d6+2 pontos de dano de trevas cada). Os esqueletos têm For 2,  Des 2, Defesa 18 e todos os outros  atributos nulos; eles têm 1 PV e falham automaticamente em qualquer  teste de resistência de Fortitude reduz à metade."
+}

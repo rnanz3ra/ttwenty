@@ -1,0 +1,12 @@
+{
+  "id": "enxame-rubro--de-ichabod",
+  "name": "Enxame Rubro  de Ichabod",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Convocação",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "sustentada",
+  "description": "Você conjura um enxame de pequenas  criaturas da Tormenta. O enxame pode  passar pelo espaço de outras criaturas  e não impede que outras criaturas entrem no espaço dele. No final de cada  um de seus turnos, o enxame causa  4d12 pontos de dano de ácido a qualquer criatura em seu espaço (Reflexos reduz à metade). Você pode gastar  uma ação de movimento para mover o  enxame com deslocamento de 12m. +1 PM: além do normal, uma criatura  que falhe no teste de Reflexos fica agarrada (o enxame ",
+  "resistance": "Reflexos reduz à metade"
+}

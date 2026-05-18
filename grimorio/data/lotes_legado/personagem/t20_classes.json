@@ -1,0 +1,214 @@
+{
+  "classes": [
+    {
+      "nome": "Arcanista",
+      "pv_inicial": 8,
+      "pv_nivel": 2,
+      "pm_nivel": 6,
+      "atributo_chave": "Inteligência",
+      "pericias_treinadas": [
+        "Misticismo",
+        "Vontade"
+      ],
+      "habilidades_base": [
+        "Caminho do Arcanista",
+        "Magias (3 de 1º círculo)"
+      ]
+    },
+    {
+      "nome": "Bárbaro",
+      "pv_inicial": 24,
+      "pv_nivel": 6,
+      "pm_nivel": 3,
+      "atributo_chave": "Força",
+      "pericias_treinadas": [
+        "Fortitude",
+        "Luta"
+      ],
+      "habilidades_base": [
+        "Fúria (+2 atq/dano corpo-a-corpo)"
+      ]
+    },
+    {
+      "nome": "Bardo",
+      "pv_inicial": 12,
+      "pv_nivel": 3,
+      "pm_nivel": 4,
+      "atributo_chave": "Carisma",
+      "pericias_treinadas": [
+        "Atuação",
+        "Reflexos"
+      ],
+      "habilidades_base": [
+        "Inspiração (+1 testes perícia)",
+        "Magias (3 escolas)"
+      ]
+    },
+    {
+      "nome": "Bucaneiro",
+      "pv_inicial": 16,
+      "pv_nivel": 4,
+      "pm_nivel": 3,
+      "atributo_chave": "Destreza",
+      "pericias_treinadas": [
+        "Reflexos",
+        "Luta ou Pontaria"
+      ],
+      "habilidades_base": [
+        "Audácia (Soma Car em perícia)",
+        "Insolência (Soma Car na Defesa)"
+      ]
+    },
+    {
+      "nome": "Caçador",
+      "pv_inicial": 16,
+      "pv_nivel": 4,
+      "pm_nivel": 4,
+      "atributo_chave": "Força",
+      "pericias_treinadas": [
+        "Sobrevivência",
+        "Luta ou Pontaria"
+      ],
+      "habilidades_base": [
+        "Marca da Presa (+1d4 dano)",
+        "Rastreador (+2 Sobrevivência)"
+      ]
+    },
+    {
+      "nome": "Cavaleiro",
+      "pv_inicial": 20,
+      "pv_nivel": 5,
+      "pm_nivel": 3,
+      "atributo_chave": "Força",
+      "pericias_treinadas": [
+        "Fortitude",
+        "Luta"
+      ],
+      "habilidades_base": [
+        "Baluarte (+2 Defesa/Resistência)",
+        "Código de Honra"
+      ]
+    },
+    {
+      "nome": "Clérigo",
+      "pv_inicial": 16,
+      "pv_nivel": 4,
+      "pm_nivel": 5,
+      "atributo_chave": "Sabedoria",
+      "pericias_treinadas": [
+        "Religião",
+        "Vontade"
+      ],
+      "habilidades_base": [
+        "Devoto Fiel",
+        "Magias Divinas"
+      ]
+    },
+    {
+      "nome": "Guerreiro",
+      "pv_inicial": 20,
+      "pv_nivel": 5,
+      "pm_nivel": 3,
+      "atributo_chave": "Força",
+      "pericias_treinadas": [
+        "Luta ou Pontaria",
+        "Fortitude"
+      ],
+      "habilidades_base": [
+        "Ataque Especial (+4 atq ou dano por 1 PM)"
+      ]
+    },
+    {
+      "nome": "Inventor",
+      "pv_inicial": 12,
+      "pv_nivel": 3,
+      "pm_nivel": 4,
+      "atributo_chave": "Inteligência",
+      "pericias_treinadas": [
+        "Ofício",
+        "Vontade"
+      ],
+      "habilidades_base": [
+        "Engenhosidade (Soma Int em testes)",
+        "Protótipo",
+        "Fabricar Item Superior"
+      ]
+    },
+    {
+      "nome": "Ladino",
+      "pv_inicial": 12,
+      "pv_nivel": 3,
+      "pm_nivel": 4,
+      "atributo_chave": "Destreza",
+      "pericias_treinadas": [
+        "Ladinagem",
+        "Reflexos"
+      ],
+      "habilidades_base": [
+        "Ataque Furtivo (+1d6)",
+        "Especialista"
+      ]
+    },
+    {
+      "nome": "Lutador",
+      "pv_inicial": 20,
+      "pv_nivel": 5,
+      "pm_nivel": 3,
+      "atributo_chave": "Força",
+      "pericias_treinadas": [
+        "Luta",
+        "Fortitude"
+      ],
+      "habilidades_base": [
+        "Briga (Dano desarmado 1d6)",
+        "Golpe Relâmpago (Ataque extra por 1 PM)"
+      ]
+    },
+    {
+      "nome": "Nobre",
+      "pv_inicial": 16,
+      "pv_nivel": 4,
+      "pm_nivel": 4,
+      "atributo_chave": "Carisma",
+      "pericias_treinadas": [
+        "Diplomacia",
+        "Vontade"
+      ],
+      "habilidades_base": [
+        "Autoconfiança (Soma Car na Defesa)",
+        "Orgulho (Bônus em testes por PM)",
+        "Espólio (Dinheiro extra)"
+      ]
+    },
+    {
+      "nome": "Paladino",
+      "pv_inicial": 20,
+      "pv_nivel": 5,
+      "pm_nivel": 3,
+      "atributo_chave": "Carisma",
+      "pericias_treinadas": [
+        "Luta",
+        "Vontade"
+      ],
+      "habilidades_base": [
+        "Golpe Divino (+dano e +atq por PM)",
+        "Cura pelas Mãos"
+      ]
+    },
+    {
+      "nome": "Druida",
+      "pv_inicial": 16,
+      "pv_nivel": 4,
+      "pm_nivel": 4,
+      "atributo_chave": "Sabedoria",
+      "pericias_treinadas": [
+        "Sobrevivência",
+        "Vontade"
+      ],
+      "habilidades_base": [
+        "Devoto Fiel",
+        "Empatia Selvagem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "conjurar---elemental",
+  "name": "Conjurar   Elemental",
+  "circle": 4,
+  "type": "Arcana",
+  "school": "Convocação",
+  "execution": "completa;",
+  "range": "médio;",
+  "duration": "sustentada",
+  "description": "Esta magia transforma uma porção de  um elemento inerte em uma criatura  elemental Grande do tipo do elemento alvo. Por exemplo, lançar esta magia numa fogueira ou tocha cria um  elemental do fogo. Você pode criar elementais do ar, água, fogo e terra com  essa magia. O elemental obedece a todos os seus comandos e pode funcionar como um parceiro do tipo destruidor (cuja habilidade custa apenas 2 PM  para ser usada) e mais um tipo entre os  indicados na lista abaixo, ambos mestres. O"
+}

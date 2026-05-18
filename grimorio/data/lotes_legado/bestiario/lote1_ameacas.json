@@ -1,0 +1,420 @@
+[
+    {
+        "nome": "Alma Acorrentada",
+        "nd": "7",
+        "tipo": "Morto-vivo Médio",
+        "papel": "Lacaio",
+        "pv": 56,
+        "pm": 0,
+        "defesa": 26,
+        "fort": 14,
+        "ref": 19,
+        "von": 8,
+        "atributos": {
+            "for": null,
+            "des": 7,
+            "con": 2,
+            "int": 1,
+            "sab": 0,
+            "car": -2
+        },
+        "habilidades": [
+            "Incorpóreo",
+            "Agarrar Oportunista",
+            "Aura Cáustica",
+            "Invisibilidade Rubra"
+        ]
+    },
+    {
+        "nome": "Bruxo da Tormenta",
+        "nd": "6",
+        "tipo": "Humanoide (humano) Médio",
+        "papel": "Especial",
+        "pv": 142,
+        "pm": 41,
+        "defesa": 27,
+        "fort": 6,
+        "ref": 12,
+        "von": 18,
+        "atributos": {
+            "for": -1,
+            "des": 0,
+            "con": 2,
+            "int": 5,
+            "sab": 1,
+            "car": -2
+        },
+        "magias": [
+            "Névoa",
+            "Raio do Enfraquecimento",
+            "Sussurros Insanos",
+            "Velocidade"
+        ]
+    },
+    {
+        "nome": "Arquibruxo da Tormenta",
+        "nd": "14",
+        "tipo": "Monstro (lefou) Médio",
+        "papel": "Especial",
+        "pv": 486,
+        "pm": 105,
+        "defesa": 45,
+        "fort": 14,
+        "ref": 22,
+        "von": 28,
+        "atributos": {
+            "for": -1,
+            "des": 2,
+            "con": 5,
+            "int": 7,
+            "sab": 0,
+            "car": -2
+        },
+        "habilidades": [
+            "Abominar a Realidade",
+            "Arcano de Batalha",
+            "Insanidade da Tormenta",
+            "Magia Acelerada"
+        ]
+    },
+    {
+        "nome": "Enxame Infernal",
+        "nd": "8",
+        "tipo": "Monstro (lefeu) Grande",
+        "papel": "Lacaio",
+        "pv": 350,
+        "pm": 0,
+        "defesa": 33,
+        "habilidades": [
+            "Enxame",
+            "Drenar Existência",
+            "Zumbido Repugnante"
+        ]
+    },
+    {
+        "nome": "Esmagador Coletivo",
+        "nd": "15",
+        "tipo": "Construto Enorme",
+        "papel": "Solo",
+        "pv": 800,
+        "pm": 0,
+        "defesa": 46,
+        "rd": 15,
+        "habilidades": [
+            "Absorver",
+            "Arremessar Corpos",
+            "Forma Horrenda",
+            "Pancada Estonteante"
+        ]
+    },
+    {
+        "nome": "Infecto",
+        "nd": "3",
+        "tipo": "Morto-vivo Médio",
+        "papel": "Lacaio",
+        "pv": 30,
+        "pm": 0,
+        "defesa": 20,
+        "rd": "5/corte",
+        "habilidades": [
+            "Doença (Infecção Escarlate)",
+            "Parasitas Famintos"
+        ]
+    },
+    {
+        "nome": "Turba de Infectos",
+        "nd": "7",
+        "tipo": "Morto-vivo Grande",
+        "papel": "Lacaio/Bando",
+        "pv": 80,
+        "pm": 0,
+        "defesa": 30,
+        "habilidades": [
+            "Bando",
+            "Doença",
+            "Parasitas Famintos"
+        ]
+    },
+    {
+        "nome": "Lefeu, Veridak",
+        "nd": "8",
+        "tipo": "Monstro (lefeu) Grande",
+        "papel": "Lacaio",
+        "pv": 64,
+        "defesa": 34,
+        "habilidades": [
+            "Relâmpago Rubro",
+            "Agarrar Aprimorado"
+        ]
+    },
+    {
+        "nome": "Lefeu, Hurobakk",
+        "nd": "9",
+        "tipo": "Monstro (lefeu) Grande",
+        "papel": "Lacaio",
+        "pv": 380,
+        "defesa": 35,
+        "habilidades": [
+            "Investida Rubra",
+            "Passar por Cima",
+            "Pinças Destruidoras"
+        ]
+    },
+    {
+        "nome": "Lefeu, Burodron (ND 9)",
+        "nd": "9",
+        "tipo": "Monstro (lefeu) Grande",
+        "pv": 380,
+        "defesa": 35,
+        "habilidades": [
+            "Emboscada",
+            "Sentido Sísmico"
+        ]
+    },
+    {
+        "nome": "Lefeu, Burodron (ND 11)",
+        "nd": "11",
+        "tipo": "Monstro (lefeu) Enorme",
+        "pv": 550,
+        "defesa": 42,
+        "habilidades": [
+            "Dilacerar",
+            "Morte que Vem da Terra"
+        ]
+    },
+    {
+        "nome": "Lefeu, Morgadrel",
+        "nd": "13",
+        "tipo": "Monstro (lefeu) Enorme",
+        "pv": 670,
+        "defesa": 47,
+        "habilidades": [
+            "Disparar Espinhos",
+            "Jato de Ácido",
+            "Investida Surpresa"
+        ]
+    },
+    {
+        "nome": "Lefeu, Ezzayn",
+        "nd": "17",
+        "tipo": "Monstro (lefeu) Enorme",
+        "papel": "Bando/Especial",
+        "pv": 650,
+        "defesa": 46,
+        "habilidades": [
+            "Anarquia Lacerante",
+            "Distorção Temporal",
+            "Subjugar"
+        ]
+    },
+    {
+        "nome": "Gatzvalith, Lorde da Tormenta",
+        "nd": "S+",
+        "tipo": "Monstro (lekael) Grande",
+        "pv": 3700,
+        "pm": "2d20",
+        "defesa": 69,
+        "rd": 25,
+        "cura_acelerada": 50,
+        "habilidades": [
+            "Rompedor da Realidade",
+            "Reescrever a Realidade",
+            "Sedução",
+            "Varrer"
+        ]
+    },
+    {
+        "nome": "Meio-Orc Bandoleiro",
+        "nd": "1",
+        "tipo": "Humanoide (meio-orc) Médio",
+        "papel": "Lacaio",
+        "pv": 15,
+        "defesa": 15,
+        "habilidades": [
+            "Ataque Furtivo"
+        ]
+    },
+    {
+        "nome": "Meio-Orc Capanga",
+        "nd": "1",
+        "tipo": "Humanoide (meio-orc) Médio",
+        "papel": "Lacaio",
+        "pv": 12,
+        "defesa": 16,
+        "habilidades": [
+            "Ímpeto Agressor"
+        ]
+    },
+    {
+        "nome": "Meio-Orc Chefe",
+        "nd": "5",
+        "tipo": "Humanoide (meio-orc) Médio",
+        "papel": "Especial",
+        "pv": 190,
+        "defesa": 24,
+        "habilidades": [
+            "Ordens",
+            "Urro Selvagem"
+        ]
+    },
+    {
+        "nome": "Orc Combatente",
+        "nd": "1/2",
+        "tipo": "Humanoide (orc) Médio",
+        "pv": 8,
+        "defesa": 14
+    },
+    {
+        "nome": "Orc Veterano",
+        "nd": "1",
+        "tipo": "Humanoide (orc) Médio",
+        "pv": 14,
+        "defesa": 16
+    },
+    {
+        "nome": "Orc Chefe",
+        "nd": "2",
+        "tipo": "Humanoide (orc) Médio",
+        "pv": 66,
+        "defesa": 19,
+        "habilidades": [
+            "Urro Selvagem"
+        ]
+    },
+    {
+        "nome": "Orc Rei",
+        "nd": "5",
+        "tipo": "Humanoide (orc) Médio",
+        "pv": 210,
+        "defesa": 25,
+        "habilidades": [
+            "Aura de Fúria",
+            "Estocada Atroz"
+        ]
+    },
+    {
+        "nome": "Orc Mutante",
+        "nd": "5",
+        "tipo": "Humanoide (orc) Médio",
+        "pv": 55,
+        "defesa": 22,
+        "habilidades": [
+            "Terceiro Braço"
+        ]
+    },
+    {
+        "nome": "Orc Mutante Superior",
+        "nd": "10",
+        "tipo": "Humanoide (orc) Médio",
+        "pv": 372,
+        "defesa": 34,
+        "habilidades": [
+            "3 Mutações Aleatórias"
+        ]
+    },
+    {
+        "nome": "Orc Xamã",
+        "nd": "7",
+        "tipo": "Humanoide (orc) Médio",
+        "pv": 196,
+        "pm": 41,
+        "defesa": 29,
+        "habilidades": [
+            "Urro Divino"
+        ],
+        "magias": [
+            "Arma Espiritual",
+            "Despedaçar",
+            "Físico Divino",
+            "Soco de Arsenal"
+        ]
+    },
+    {
+        "nome": "Trog Combatente",
+        "nd": "1",
+        "tipo": "Monstro (trog) Médio",
+        "pv": 11,
+        "defesa": 16,
+        "habilidades": [
+            "Mau Cheiro"
+        ]
+    },
+    {
+        "nome": "Trog Caçador",
+        "nd": "2",
+        "tipo": "Monstro (trog) Médio",
+        "pv": 14,
+        "defesa": 18,
+        "habilidades": [
+            "Marca da Presa",
+            "Mau Cheiro"
+        ]
+    },
+    {
+        "nome": "Trog Rei dos Túneis",
+        "nd": "5",
+        "tipo": "Monstro (trog) Grande",
+        "pv": 226,
+        "defesa": 25,
+        "habilidades": [
+            "Dilacerar",
+            "Gosto por Tripas",
+            "Terror dos Túneis"
+        ]
+    },
+    {
+        "nome": "Trog Anão Bruto",
+        "nd": "1",
+        "tipo": "Monstro (trog) Médio",
+        "pv": 35,
+        "defesa": 19,
+        "habilidades": [
+            "Sobrevivente",
+            "Quase Anão"
+        ]
+    },
+    {
+        "nome": "Trog Anão Eremita",
+        "nd": "8",
+        "tipo": "Monstro (trog) Médio",
+        "pv": 330,
+        "defesa": 33,
+        "habilidades": [
+            "Armadura Fúngica",
+            "Sobrevivente"
+        ]
+    },
+    {
+        "nome": "Ogro",
+        "nd": "4",
+        "tipo": "Humanoide (gigante) Grande",
+        "pv": 130,
+        "defesa": 23,
+        "habilidades": [
+            "Burro Demais",
+            "Para Morrer! (Resistência a dano)"
+        ]
+    },
+    {
+        "nome": "Ogro Caçador",
+        "nd": "7",
+        "tipo": "Humanoide (gigante) Grande",
+        "pv": 265,
+        "defesa": 29,
+        "habilidades": [
+            "Grande Demais",
+            "Para se Importar!"
+        ]
+    },
+    {
+        "nome": "Ogro Capanga",
+        "nd": "11",
+        "tipo": "Humanoide (gigante) Grande",
+        "pv": 111,
+        "defesa": 36,
+        "habilidades": [
+            "Cruel Demais",
+            "Para Sentir!"
+        ]
+    }
+]

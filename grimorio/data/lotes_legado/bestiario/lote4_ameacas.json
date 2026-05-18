@@ -1,0 +1,345 @@
+[
+    {
+        "nome": "Aquin'ne",
+        "nd": "2",
+        "tipo": "Espírito (elemental) Pequeno",
+        "pv": 21,
+        "defesa": 18,
+        "habilidades": [
+            "Afogar",
+            "Agarrar Aprimorado",
+            "Redemoinho de Maresia",
+            "Familiar (Respirar d'água)"
+        ]
+    },
+    {
+        "nome": "Corgann",
+        "nd": "8",
+        "tipo": "Espírito (elemental) Médio",
+        "pv": 61,
+        "defesa": 30,
+        "habilidades": [
+            "Jato Pressurizado (30m)",
+            "Navegar em Terra Firme",
+            "Salto Aquático"
+        ]
+    },
+    {
+        "nome": "Namasqall",
+        "nd": "14",
+        "tipo": "Espírito (elemental) Colossal",
+        "pv": 700,
+        "defesa": 42,
+        "habilidades": [
+            "Constrição",
+            "Corpo Torrencial",
+            "Maremoto",
+            "Olho da Tempestade"
+        ]
+    },
+    {
+        "nome": "T'Peel",
+        "nd": "1",
+        "tipo": "Espírito (elemental) Minúsculo",
+        "pv": 12,
+        "defesa": 10,
+        "habilidades": [
+            "Corpo Eólico",
+            "...E o Vento Levou (Desarmar)",
+            "Familiar (Queda Suave)"
+        ]
+    },
+    {
+        "nome": "Rarvnaak",
+        "nd": "7",
+        "tipo": "Espírito (elemental) Médio",
+        "pv": 280,
+        "defesa": 29,
+        "habilidades": [
+            "Caçada Implacável",
+            "Corpo Eólico",
+            "Invisibilidade Natural"
+        ]
+    },
+    {
+        "nome": "Hallus'tir",
+        "nd": "15",
+        "tipo": "Espírito (elemental) Colossal",
+        "pv": 718,
+        "defesa": 49,
+        "habilidades": [
+            "Relâmpago Selvagem",
+            "Tornado Vivo",
+            "Turbilhão de Escombros",
+            "Ventos da Matança"
+        ]
+    },
+    {
+        "nome": "Pakk",
+        "nd": "1",
+        "tipo": "Espírito (elemental) Minúsculo",
+        "pv": 9,
+        "defesa": 15,
+        "habilidades": [
+            "Arco de Chamas",
+            "Labareda Viva",
+            "Familiar (Explosão de Chamas)"
+        ]
+    },
+    {
+        "nome": "Ber-baram",
+        "nd": "8",
+        "tipo": "Espírito (elemental) Grande",
+        "pv": 320,
+        "defesa": 30,
+        "habilidades": [
+            "Baforada Flamejante",
+            "Marrada Explosiva",
+            "Sangue de Lava"
+        ]
+    },
+    {
+        "nome": "Serpentaar",
+        "nd": "14",
+        "tipo": "Espírito (elemental) Enorme",
+        "pv": 700,
+        "defesa": 47,
+        "habilidades": [
+            "Aura de Calor",
+            "Corpo Ígneo",
+            "Irromper",
+            "Resfriamento Forçado"
+        ]
+    },
+    {
+        "nome": "Terrier",
+        "nd": "1",
+        "tipo": "Espírito (elemental) Pequeno",
+        "pv": 35,
+        "defesa": 16,
+        "habilidades": [
+            "Pedra-Punho",
+            "Pedregoso (Disfarce)",
+            "Familiar (RD 2/impacto)"
+        ]
+    },
+    {
+        "nome": "Pamgra",
+        "nd": "7",
+        "tipo": "Espírito (elemental) Médio",
+        "pv": 280,
+        "defesa": 31,
+        "habilidades": [
+            "Cristalário (Sangramento)",
+            "Golpe Avassalador"
+        ]
+    },
+    {
+        "nome": "Bando de Pamgras",
+        "nd": "11",
+        "tipo": "Espírito (elemental) Grande",
+        "pv": 550,
+        "defesa": 41,
+        "habilidades": [
+            "Bando",
+            "Abalo Sísmico",
+            "Cristalário",
+            "Golpe Avassalador"
+        ]
+    },
+    {
+        "nome": "Tanaloom",
+        "nd": "13",
+        "tipo": "Espírito (elemental) Enorme",
+        "pv": 650,
+        "defesa": 44,
+        "habilidades": [
+            "Golpe Esmagador",
+            "Metamorfismo Rochoso",
+            "Monólito",
+            "Rolo Compressor"
+        ]
+    },
+    {
+        "nome": "Elemental Corrompido",
+        "nd": "16",
+        "tipo": "Espírito (elemental) Colossal",
+        "pv": 800,
+        "defesa": 53,
+        "habilidades": [
+            "Corpo Volátil (Nuvem Ácida)",
+            "Engolfar",
+            "Reabastecer (Cura na água)",
+            "Torrente Cáustica"
+        ]
+    },
+    {
+        "nome": "Bulette",
+        "nd": "7",
+        "tipo": "Monstro Grande",
+        "pv": 310,
+        "defesa": 32,
+        "habilidades": [
+            "Aura Cáustica",
+            "Engolir",
+            "Espreitador das Dunas",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Carrasco de Lena",
+        "nd": "6",
+        "tipo": "Monstro Grande",
+        "pv": 180,
+        "defesa": 27,
+        "habilidades": [
+            "Açoite Circular",
+            "Inversão de Dano (Dano cura)",
+            "Vulnerabilidade a Cura (Cura fere)"
+        ]
+    },
+    {
+        "nome": "Centauro Chefe",
+        "nd": "8",
+        "tipo": "Humanoide (centauro) Grande",
+        "pv": 320,
+        "defesa": 33,
+        "habilidades": [
+            "Coice Oportuno",
+            "Investida Galopante",
+            "Medo de Altura"
+        ]
+    },
+    {
+        "nome": "Centauro Xamã de Megalokk",
+        "nd": "10",
+        "tipo": "Humanoide (centauro) Grande",
+        "pv": 260,
+        "pm": 70,
+        "defesa": 31,
+        "habilidades": [
+            "Ira Coletiva",
+            "Voz dos Monstros",
+            "Magias de Megalokk"
+        ]
+    },
+    {
+        "nome": "Ente",
+        "nd": "8",
+        "tipo": "Monstro Enorme",
+        "pv": 310,
+        "defesa": 34,
+        "habilidades": [
+            "Árvore Ancestral (Carvalho/Jasmim/etc)",
+            "Atropelamento",
+            "Pastor de Árvores"
+        ]
+    },
+    {
+        "nome": "Estirge",
+        "nd": "1",
+        "tipo": "Monstro Minúsculo",
+        "pv": 9,
+        "defesa": 16,
+        "habilidades": [
+            "Chupar Sangue",
+            "Sangrar",
+            "Familiar"
+        ]
+    },
+    {
+        "nome": "Enxame Estirge",
+        "nd": "5",
+        "tipo": "Monstro Médio",
+        "papel": "Enxame",
+        "pv": 40,
+        "defesa": 23,
+        "habilidades": [
+            "Enxame (1d6 perfuração + 1d6 PV)",
+            "Chupar Sangue",
+            "Sangrar"
+        ]
+    },
+    {
+        "nome": "Nuvem de Estirges",
+        "nd": "16",
+        "tipo": "Monstro Enorme",
+        "papel": "Enxame",
+        "pv": 180,
+        "defesa": 51,
+        "habilidades": [
+            "Enxame (10d6 perfuração)",
+            "Zumbido Atordoante"
+        ]
+    },
+    {
+        "nome": "Fera-Vassalo (Cacto)",
+        "nd": "3",
+        "tipo": "Monstro Médio",
+        "pv": 22,
+        "defesa": 21,
+        "habilidades": [
+            "Corpo Espinhoso",
+            "Drenar Sangue"
+        ]
+    },
+    {
+        "nome": "Fera-Líder (Cacto)",
+        "nd": "5",
+        "tipo": "Monstro Médio",
+        "pv": 195,
+        "defesa": 25,
+        "habilidades": [
+            "Corpo Espinhoso",
+            "Drenar Sangue"
+        ]
+    },
+    {
+        "nome": "Fera-Mãe (Cacto)",
+        "nd": "13",
+        "tipo": "Monstro Enorme",
+        "pv": 685,
+        "defesa": 45,
+        "habilidades": [
+            "Corpo Espinhoso",
+            "Saraivada de Espinhos",
+            "Veneno Potente"
+        ]
+    },
+    {
+        "nome": "Lagarto Perseguidor",
+        "nd": "2",
+        "tipo": "Animal Médio",
+        "pv": 16,
+        "defesa": 18,
+        "habilidades": [
+            "Mordida Infecciosa",
+            "Mordida Surpresa"
+        ]
+    },
+    {
+        "nome": "Tendrículo",
+        "nd": "6",
+        "tipo": "Monstro Grande",
+        "pv": 210,
+        "defesa": 25,
+        "habilidades": [
+            "Engolir (Ganha Cura Acelerada 20)",
+            "Veneno: Essência de Sombra"
+        ]
+    },
+    {
+        "nome": "Rhandomm",
+        "nd": "20",
+        "tipo": "Espírito Colossal",
+        "pv": 1300,
+        "defesa": 63,
+        "habilidades": [
+            "Aura Caótica",
+            "Punhos Caóticos",
+            "Salto Prodigioso",
+            "Fraqueza Variável",
+            "Montanha Viva"
+        ]
+    }
+]

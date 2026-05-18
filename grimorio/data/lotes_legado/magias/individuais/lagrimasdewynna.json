@@ -1,0 +1,12 @@
+{
+  "id": "lágrimas-de-wynna",
+  "name": "Lágrimas de Wynna",
+  "circle": 5,
+  "type": "Divina",
+  "school": "abjuração",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "instantânea",
+  "description": "Se falhar no teste de resistência, o alvo  perde a habilidade de lançar magias arcanas até o fim da cena. Se passar, perde a habilidade por uma rodada. +2 PM: muda a área para esfera com  6m de raio e o alvo para criaturas escolhidas. +5 PM: muda a execução para um  dia e adiciona custo adicional (sacrifício de 1 PM). O alvo da magia precisa ser mantido em alcance curto do  conjurador durante toda a execução.  Ao término, faz um teste de Vontade.  Se falhar, perde a habilidade de lan-çar magias arcanas.",
+  "resistance": "Vontade parcial"
+}

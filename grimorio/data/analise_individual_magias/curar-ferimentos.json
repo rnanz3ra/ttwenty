@@ -1,0 +1,11 @@
+{
+  "id": "curar-ferimentos",
+  "name": "Curar Ferimentos",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "instantânea",
+  "description": "Você canaliza luz que recupera 2d8+2  pontos de vida na criatura tocada.  Curar Ferimentos anula Infligir Ferimentos. Truque: muda o alvo para 1 morto- -vivo. Em vez do normal, causa 1d8  pontos de dano de luz (Vontade reduz  à metade). +1 PM: aumenta a cura em +1d8+1. +2 PM: também remove uma condição de  cansaço do alvo. +2 PM: muda o alcance para curto. +5 PM: muda o alcance para curto e o  alvo para criaturas escolhidas."
+}

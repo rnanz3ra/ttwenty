@@ -1,0 +1,11 @@
+{
+  "id": "purificação",
+  "name": "Purificação",
+  "circle": 2,
+  "type": "Divina",
+  "school": "evocação",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "instantânea",
+  "description": "Você purifica a criatura tocada, removendo uma condição dela entre abalado, apavorado, alquebrado, atordoado,  cego, confuso, debilitado, enjoado, envenenado, esmorecido, exausto, fascinado, fatigado, fraco, frustrado, lento,  ofuscado, paralisado, pasmo ou surdo. +2 PM: também recupera todos os PV  perdidos por veneno.  +2 PM: em vez de uma, remove todas  as condições listadas. +3 PM: também permite que o alvo  solte qualquer item amaldiçoado que  esteja segurando (mas não remove a  maldição de uma arma maldita."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aparência-perfeita",
+  "name": "Aparência Perfeita",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Ilusão",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Esta magia lhe concede um rosto idealizado, porte físico garboso, voz melodiosa e olhar sedutor. Caso seu Carisma seja 5 ou mais, você recebe +2  neste atributo. Do contrário, ele se torna 5 (isso conta como um bônus). Além  disso, você recebe +5 em Diplomacia e Enganação. Quando a magia acaba, quaisquer observadores percebem a  mudança e tendem a suspeitar de você.  Da mesma maneira, pessoas que o viram sob o efeito da magia sentirão que  “algo está errado” ao vê-lo em condições de luz precárias."
+}

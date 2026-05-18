@@ -1,0 +1,11 @@
+{
+  "id": "comunhão--com-a-natureza",
+  "name": "Comunhão  com a Natureza",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Adivinhação",
+  "execution": "completa;",
+  "range": "pessoal;",
+  "duration": "1 dia",
+  "description": "Após uma breve união com a natureza  local, você obtém informações e intuições sobre a região em que está, numa  distância equivalente a um dia de viagem. Você recebe 6d4 dados de auxílio.  Enquanto a magia durar, sempre que for  realizar um teste de perícia em áreas naturais, você pode gastar 2d4 (mais 2d4  para cada círculo de magias acima do 3º  que puder lançar) e adicionar o resultado rolado como bônus no teste. A magia  termina se você ficar sem dados. +1 PM: muda a execução para 1"
+}

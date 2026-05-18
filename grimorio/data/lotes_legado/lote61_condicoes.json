@@ -1,0 +1,26 @@
+{
+    "tomo": "Regras de Jogo",
+    "secao": "Condições",
+    "lista": [
+        {
+            "nome": "Abalado",
+            "efeito": "O alvo sofre –2 em testes de perícia. Se ficar abalado novamente, fica apavorado."
+        },
+        {
+            "nome": "Cego",
+            "efeito": "O alvo sofre –10 em testes de perícia de percepção visual e testes de ataque. Todos os alvos têm camuflagem total contra ele."
+        },
+        {
+            "nome": "Caído",
+            "efeito": "Sofre –5 em testes de ataque corpo a corpo e seu deslocamento é reduzido a 1,5m. Recebe +5 na Defesa contra ataques à distância, mas –5 contra ataques corpo a corpo."
+        },
+        {
+            "nome": "Enjoado",
+            "efeito": "O alvo só pode realizar uma ação de movimento ou uma ação padrão por turno (não ambas)."
+        },
+        {
+            "nome": "Fatigado",
+            "efeito": "Sofre –2 em Força, Destreza e Constituição. Se ficar fatigado novamente, fica exausto."
+        }
+    ]
+}

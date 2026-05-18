@@ -1,0 +1,11 @@
+{
+  "id": "capítulo-quatro-profanar",
+  "name": "Capítulo Quatro Profanar",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: longo;  Área: esfera com 9m de raio; Duração: 1 dia.  Você enche a área com energia negativa. Dano de trevas é maximizado dentro da área. Isso também afeta  PV curados em mortos-vivos por esses  efeitos. Esta magia não pode ser lançada em uma área contendo um símbolo  visível dedicado a uma divindade que  não a sua. Profanar anula Consagrar. +1 PM: além do normal, mortos-vivos  na área recebem +2 na Defesa e +2 em  todos os testes. +2 PM: aumenta os bônus para+4."
+}

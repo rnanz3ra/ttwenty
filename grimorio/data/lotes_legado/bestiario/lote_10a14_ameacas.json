@@ -1,0 +1,1144 @@
+[
+    {
+        "nome": "Bogum",
+        "nd": "1/2",
+        "tipo": "Construto Minúsculo",
+        "pv": 5,
+        "defesa": 11,
+        "habilidades": [
+            "Cuspe Venenoso",
+            "Veneno Urticante",
+            "Parceiro (Druida)"
+        ]
+    },
+    {
+        "nome": "Escudeiro",
+        "nd": "1/2",
+        "tipo": "Animal Pequeno",
+        "pv": 14,
+        "defesa": 15,
+        "habilidades": [
+            "Escudo Vivo",
+            "Lança Curta",
+            "Parceiro (Fortão)"
+        ]
+    },
+    {
+        "nome": "Fofo",
+        "nd": "1/2",
+        "tipo": "Monstro Minúsculo",
+        "pv": 8,
+        "defesa": 10,
+        "rd": 10,
+        "habilidades": [
+            "Mudar Forma",
+            "Parceiro (Guardião)"
+        ]
+    },
+    {
+        "nome": "Gambá",
+        "nd": "1/2",
+        "tipo": "Animal Minúsculo",
+        "pv": 8,
+        "defesa": 10,
+        "habilidades": [
+            "Almíscar Fedorento",
+            "Parceiro (Vigilante)"
+        ]
+    },
+    {
+        "nome": "Homúnculo",
+        "nd": "1",
+        "tipo": "Construto Minúsculo",
+        "pv": 11,
+        "defesa": 14,
+        "habilidades": [
+            "Peçonha Comum",
+            "Familiar (Transmutação/Veneno)",
+            "Parceiro (Ajudante)"
+        ]
+    },
+    {
+        "nome": "Kill’bone",
+        "nd": "1/2",
+        "tipo": "Animal Médio",
+        "pv": 8,
+        "defesa": 14,
+        "habilidades": [
+            "Rolamento Ofensivo",
+            "Parceiro (Perseguidor - Anti-Troll)"
+        ]
+    },
+    {
+        "nome": "Tentacute",
+        "nd": "1/2",
+        "tipo": "Animal Minúsculo",
+        "pv": 8,
+        "defesa": 14,
+        "habilidades": [
+            "Curiosidade Larápia",
+            "Familiar (Saque/Guardar)"
+        ]
+    },
+    {
+        "nome": "Tropa de Tentacutes",
+        "nd": "2",
+        "tipo": "Animal Médio (Bando)",
+        "pv": 17,
+        "defesa": 19,
+        "habilidades": [
+            "Bando",
+            "Cacofonia",
+            "Mãozinhas Marotas (Punga)"
+        ]
+    },
+    {
+        "nome": "Verilêmur",
+        "nd": "1/2",
+        "tipo": "Animal Minúsculo",
+        "pv": 12,
+        "defesa": 13,
+        "habilidades": [
+            "Aura de Ordem",
+            "Parceiro (Vigilante - Khalmyr)"
+        ]
+    },
+    {
+        "nome": "Malafex",
+        "nd": "1/2",
+        "tipo": "Animal Minúsculo",
+        "pv": 13,
+        "defesa": 13,
+        "habilidades": [
+            "Inverter Sorte",
+            "Parceiro (Ajudante - Nimb)"
+        ]
+    },
+    {
+        "nome": "Asa-Assassina",
+        "nd": "1",
+        "tipo": "Animal Minúsculo",
+        "pv": 10,
+        "defesa": 15,
+        "habilidades": [
+            "Asas Mortais (Decapitar)",
+            "Familiar (Sangramento)"
+        ]
+    },
+    {
+        "nome": "Cocatriz",
+        "nd": "3",
+        "tipo": "Monstro Pequeno",
+        "pv": 98,
+        "defesa": 22,
+        "habilidades": [
+            "Bicada Petrificante",
+            "Voo de Galinha",
+            "Parceiro (Adepto)"
+        ]
+    },
+    {
+        "nome": "Cocatriz-Real",
+        "nd": "7",
+        "tipo": "Monstro Grande",
+        "pv": 250,
+        "defesa": 32,
+        "habilidades": [
+            "Bicada Petrificante",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Harpia Saqueadora",
+        "nd": "4",
+        "tipo": "Monstro (harpia) Médio",
+        "pv": 32,
+        "defesa": 18,
+        "habilidades": [
+            "Grito Aterrorizante",
+            "Rasante"
+        ]
+    },
+    {
+        "nome": "Glop",
+        "nd": "1/4",
+        "tipo": "Monstro Pequeno",
+        "pv": 10,
+        "defesa": 10,
+        "habilidades": [
+            "Ácido",
+            "Percepção às Cegas"
+        ]
+    },
+    {
+        "nome": "Glooop",
+        "nd": "2",
+        "tipo": "Monstro Grande",
+        "pv": 68,
+        "defesa": 19,
+        "habilidades": [
+            "Engolir",
+            "Imunidade a Ácido"
+        ]
+    },
+    {
+        "nome": "Mamãe Glop",
+        "nd": "2",
+        "tipo": "Monstro Grande",
+        "pv": 70,
+        "defesa": 17,
+        "habilidades": [
+            "Glops Filhinhos",
+            "Meiose Glópica"
+        ]
+    },
+    {
+        "nome": "Mantor",
+        "nd": "5",
+        "tipo": "Monstro Grande",
+        "pv": 200,
+        "defesa": 24,
+        "habilidades": [
+            "Emantar (Agarrar)",
+            "Manto de Tenebra (Camuflagem Total)"
+        ]
+    },
+    {
+        "nome": "Mímico",
+        "nd": "6",
+        "tipo": "Monstro Médio",
+        "pv": 220,
+        "defesa": 26,
+        "habilidades": [
+            "Abocanhar",
+            "Cuspe Material",
+            "Imobilidade (Disfarce de Baú)"
+        ]
+    },
+    {
+        "nome": "Quimera",
+        "nd": "8",
+        "tipo": "Monstro Grande",
+        "pv": 333,
+        "defesa": 33,
+        "habilidades": [
+            "Mente Tripla (Rola 3 dados)",
+            "Três Cabeças (Habilidades Variáveis)"
+        ]
+    },
+    {
+        "nome": "Slark",
+        "nd": "1",
+        "tipo": "Humanoide Médio",
+        "pv": 15,
+        "defesa": 12,
+        "habilidades": [
+            "Queda Livre",
+            "Saliva (Cega)"
+        ]
+    },
+    {
+        "nome": "Tigre-de-Hyninn",
+        "nd": "5",
+        "tipo": "Monstro Grande",
+        "pv": 165,
+        "defesa": 25,
+        "habilidades": [
+            "Borrão",
+            "Entre Planos",
+            "Profusão de Partes"
+        ]
+    },
+    {
+        "nome": "Tigre-de-Hyninn Primordial",
+        "nd": "11",
+        "tipo": "Monstro Grande",
+        "pv": 480,
+        "defesa": 42,
+        "habilidades": [
+            "Teleporte",
+            "Sopro de Energia Caótica"
+        ]
+    },
+    {
+        "nome": "Brawar (Golem Anão)",
+        "nd": "14",
+        "tipo": "Construto Enorme",
+        "pv": 700,
+        "defesa": 46,
+        "rd": 25,
+        "habilidades": [
+            "Fale Amigo e Passe",
+            "Picareta Destruidora",
+            "Pisotear",
+            "Imunidade Adamante"
+        ]
+    },
+    {
+        "nome": "Baleote",
+        "nd": "3",
+        "tipo": "Animal Grande",
+        "pv": 110,
+        "defesa": 21,
+        "habilidades": [
+            "Voo 15m",
+            "Descarga Elétrica",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Capivara",
+        "nd": "1",
+        "tipo": "Animal Médio",
+        "pv": 35,
+        "defesa": 16,
+        "habilidades": [
+            "Aparência Inofensiva",
+            "Fedorentina",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Cavalo de Carga",
+        "nd": "1/2",
+        "tipo": "Animal Grande",
+        "pv": 27,
+        "defesa": 12
+    },
+    {
+        "nome": "Cavalo de Montaria",
+        "nd": "1/2",
+        "tipo": "Animal Grande",
+        "pv": 25,
+        "defesa": 13
+    },
+    {
+        "nome": "Cavalo de Guerra",
+        "nd": "1",
+        "tipo": "Animal Grande",
+        "pv": 33,
+        "defesa": 14
+    },
+    {
+        "nome": "Cavalo de Namalkah",
+        "nd": "2",
+        "tipo": "Animal Grande",
+        "pv": 60,
+        "defesa": 18,
+        "habilidades": [
+            "Parceiro (Montaria Veloz)"
+        ]
+    },
+    {
+        "nome": "Cavalo Glacial",
+        "nd": "2",
+        "tipo": "Animal Grande",
+        "pv": 60,
+        "defesa": 19,
+        "habilidades": [
+            "Esguicho de Gelo",
+            "Natação 12m",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Corcel do Deserto",
+        "nd": "2",
+        "tipo": "Monstro Grande",
+        "pv": 55,
+        "defesa": 21,
+        "habilidades": [
+            "Substância Urticante",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Dromedário",
+        "nd": "1",
+        "tipo": "Animal Grande",
+        "pv": 36,
+        "defesa": 15,
+        "habilidades": [
+            "Cusparada",
+            "Patas do Deserto"
+        ]
+    },
+    {
+        "nome": "Elefante",
+        "nd": "7",
+        "tipo": "Animal Enorme",
+        "pv": 260,
+        "defesa": 32,
+        "habilidades": [
+            "Arremessar",
+            "Atropelamento",
+            "Pisotear",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Gorlogg",
+        "nd": "1",
+        "tipo": "Animal Grande",
+        "pv": 36,
+        "defesa": 16,
+        "habilidades": [
+            "Agarrar Aprimorado",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Gorlogg Alfa",
+        "nd": "5",
+        "tipo": "Animal Grande",
+        "pv": 206,
+        "defesa": 24,
+        "habilidades": [
+            "Mordida Dilaceradora"
+        ]
+    },
+    {
+        "nome": "Leão",
+        "nd": "2",
+        "tipo": "Animal Grande",
+        "pv": 68,
+        "defesa": 17,
+        "habilidades": [
+            "Bote",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Pantera",
+        "nd": "2",
+        "tipo": "Animal Médio",
+        "pv": 55,
+        "defesa": 16,
+        "habilidades": [
+            "Sufocar",
+            "Parceiro (Assassino)"
+        ]
+    },
+    {
+        "nome": "Tigre",
+        "nd": "3",
+        "tipo": "Animal Grande",
+        "pv": 95,
+        "defesa": 18,
+        "habilidades": [
+            "Rugido Paralisante",
+            "Ímpeto Destrutivo",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Rinoceronte",
+        "nd": "4",
+        "tipo": "Animal Grande",
+        "pv": 130,
+        "defesa": 23,
+        "habilidades": [
+            "Investida Avassaladora",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Tatu-Montanha",
+        "nd": "4",
+        "tipo": "Monstro Enorme",
+        "pv": 125,
+        "defesa": 25,
+        "habilidades": [
+            "Retrair",
+            "Varrer Ameaças",
+            "Imunidade a Ácido"
+        ]
+    },
+    {
+        "nome": "Trobo",
+        "nd": "1",
+        "tipo": "Animal Grande",
+        "pv": 15,
+        "defesa": 14,
+        "habilidades": [
+            "Parceiro (Besta de Carga)"
+        ]
+    },
+    {
+        "nome": "Tumarkhân",
+        "nd": "4",
+        "tipo": "Animal Enorme",
+        "pv": 130,
+        "defesa": 25,
+        "habilidades": [
+            "Atropelamento",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Urso Panda",
+        "nd": "1",
+        "tipo": "Animal Médio",
+        "pv": 28,
+        "defesa": 15,
+        "habilidades": [
+            "Rolamento Defensivo",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Urso Pardo",
+        "nd": "3",
+        "tipo": "Animal Grande",
+        "pv": 95,
+        "defesa": 19,
+        "habilidades": [
+            "Agarrar Aprimorado",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Urso das Cavernas",
+        "nd": "8",
+        "tipo": "Animal Enorme",
+        "pv": 300,
+        "defesa": 31,
+        "habilidades": [
+            "Abraço de Urso",
+            "Garras Destruidoras"
+        ]
+    },
+    {
+        "nome": "Warg",
+        "nd": "3",
+        "tipo": "Monstro Grande",
+        "pv": 110,
+        "defesa": 21,
+        "habilidades": [
+            "Ataque Furtivo",
+            "Predador Oculto",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Unicórnio",
+        "nd": "4",
+        "tipo": "Espírito Grande",
+        "pv": 99,
+        "defesa": 21,
+        "habilidades": [
+            "Chifre Mágico (Curar/Reviver)",
+            "Paz Encarnada",
+            "Sumir (Teleporte)",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Carniçal",
+        "nd": "1",
+        "tipo": "Morto-vivo Médio",
+        "pv": 33,
+        "defesa": 15,
+        "habilidades": [
+            "Febre do Carniçal",
+            "Paralisia"
+        ]
+    },
+    {
+        "nome": "Lacedon",
+        "nd": "2",
+        "tipo": "Morto-vivo Médio",
+        "pv": 65,
+        "defesa": 18,
+        "habilidades": [
+            "Lamento dos Afogados",
+            "Natação 9m"
+        ]
+    },
+    {
+        "nome": "Cavalo Esqueleto",
+        "nd": "1",
+        "tipo": "Morto-vivo Grande",
+        "pv": 30,
+        "defesa": 16,
+        "habilidades": [
+            "Pavor Equestre",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Ogro Esqueleto",
+        "nd": "3",
+        "tipo": "Morto-vivo Grande",
+        "pv": 99,
+        "defesa": 19,
+        "habilidades": [
+            "Morto Demais (Usa osso como arma)"
+        ]
+    },
+    {
+        "nome": "Urso Pardo Esqueleto",
+        "nd": "4",
+        "tipo": "Morto-vivo Grande",
+        "pv": 180,
+        "defesa": 20,
+        "habilidades": [
+            "Ossos Pontiagudos",
+            "Garras Destruidoras"
+        ]
+    },
+    {
+        "nome": "Gigante Esqueleto",
+        "nd": "5",
+        "tipo": "Morto-vivo Enorme",
+        "pv": 210,
+        "defesa": 24,
+        "habilidades": [
+            "Arremessar Rochas",
+            "Monte de Ossos"
+        ]
+    },
+    {
+        "nome": "Mamute Esqueleto",
+        "nd": "8",
+        "tipo": "Morto-vivo Enorme",
+        "pv": 340,
+        "defesa": 33,
+        "habilidades": [
+            "Atropelamento",
+            "Monte de Ossos"
+        ]
+    },
+    {
+        "nome": "Hidra Esqueleto",
+        "nd": "11",
+        "tipo": "Morto-vivo Enorme",
+        "pv": 550,
+        "defesa": 39,
+        "habilidades": [
+            "Quebra-Ossos",
+            "Múltiplas Cabeças",
+            "Cura Acelerada 100"
+        ]
+    },
+    {
+        "nome": "Rei-Tirano Esqueleto",
+        "nd": "12",
+        "tipo": "Morto-vivo Enorme",
+        "pv": 625,
+        "defesa": 43,
+        "habilidades": [
+            "Cauda Avassaladora",
+            "Engolir",
+            "Visão Baseada em Movimento"
+        ]
+    },
+    {
+        "nome": "Fantasma",
+        "nd": "7",
+        "tipo": "Morto-vivo Médio",
+        "pv": 190,
+        "defesa": 29,
+        "habilidades": [
+            "Incorpóreo",
+            "Assustar",
+            "Drenar Vida",
+            "Memento"
+        ]
+    },
+    {
+        "nome": "Fantasma Ancestral",
+        "nd": "14",
+        "tipo": "Morto-vivo Médio",
+        "pv": 410,
+        "defesa": 40,
+        "habilidades": [
+            "Lamento dos Mortos",
+            "Face Sombria da Morte",
+            "Toque Drenante x2"
+        ]
+    },
+    {
+        "nome": "Garra-Zumbi",
+        "nd": "1/4",
+        "tipo": "Morto-vivo Minúsculo",
+        "pv": 5,
+        "defesa": 10,
+        "habilidades": [
+            "Estrangular",
+            "Voo 9m"
+        ]
+    },
+    {
+        "nome": "Garra-Zumbi Ogro",
+        "nd": "2",
+        "tipo": "Morto-vivo Médio",
+        "pv": 35,
+        "defesa": 16,
+        "habilidades": [
+            "Forte Demais",
+            "RD 5"
+        ]
+    },
+    {
+        "nome": "Garra-Zumbi Enxame",
+        "nd": "3",
+        "tipo": "Morto-vivo Grande",
+        "papel": "Enxame",
+        "pv": 40,
+        "defesa": 19,
+        "habilidades": [
+            "Maré Estranguladora"
+        ]
+    },
+    {
+        "nome": "Garra-Zumbi Gigante",
+        "nd": "5",
+        "tipo": "Morto-vivo Grande",
+        "pv": 200,
+        "defesa": 25,
+        "habilidades": [
+            "Mestre de Manobras"
+        ]
+    },
+    {
+        "nome": "Lívido",
+        "nd": "3",
+        "tipo": "Morto-vivo Médio",
+        "pv": 70,
+        "defesa": 19,
+        "habilidades": [
+            "Odor Pungente",
+            "Trapaceiro do Além",
+            "Vulnerabilidade a Luz"
+        ]
+    },
+    {
+        "nome": "Mortalha",
+        "nd": "11",
+        "tipo": "Morto-vivo Médio",
+        "pv": 475,
+        "defesa": 38,
+        "habilidades": [
+            "Cria Tumular",
+            "Drenar Vitalidade",
+            "Maldição Mortuária",
+            "Fraqueza Solar"
+        ]
+    },
+    {
+        "nome": "Múmia",
+        "nd": "5",
+        "tipo": "Morto-vivo Médio",
+        "pv": 192,
+        "defesa": 22,
+        "habilidades": [
+            "Desespero",
+            "Podridão da Múmia"
+        ]
+    },
+    {
+        "nome": "Senhor das Múmias",
+        "nd": "15",
+        "tipo": "Morto-vivo Médio",
+        "pv": 532,
+        "pm": 95,
+        "defesa": 48,
+        "habilidades": [
+            "Disfarce Ilusório",
+            "Maldição da Múmia",
+            "Enxame de Pestes"
+        ]
+    },
+    {
+        "nome": "Necrodraco Esqueleto",
+        "nd": "12",
+        "tipo": "Morto-vivo Enorme",
+        "pv": 610,
+        "defesa": 44,
+        "habilidades": [
+            "Sopro de Trevas",
+            "Varrer"
+        ]
+    },
+    {
+        "nome": "Necrodraco Zumbi",
+        "nd": "14",
+        "tipo": "Morto-vivo Enorme",
+        "pv": 720,
+        "defesa": 47,
+        "habilidades": [
+            "Aura de Podridão",
+            "Fraqueza Zumbi"
+        ]
+    },
+    {
+        "nome": "Necrodraco Lich (Dracolich)",
+        "nd": "20",
+        "tipo": "Morto-vivo Colossal",
+        "pv": 1400,
+        "pm": 133,
+        "defesa": 63,
+        "habilidades": [
+            "Filactério",
+            "Sopro Tenebroso",
+            "Couro Necromântico",
+            "Magias 20º Nível"
+        ]
+    },
+    {
+        "nome": "Tarso, Dragão-Rei dos Mortos",
+        "nd": "S+",
+        "tipo": "Morto-vivo Colossal",
+        "pv": 3800,
+        "pm": "Infinito",
+        "defesa": 70,
+        "habilidades": [
+            "Necromante Ancestral",
+            "Protegido Indefeso",
+            "Sopro Tenebroso (30d12)",
+            "Trevas Profundas (Ignora RD)"
+        ]
+    },
+    {
+        "nome": "Árvore-Matilha",
+        "nd": "13",
+        "tipo": "Construto Enorme",
+        "pv": 700,
+        "defesa": 44,
+        "habilidades": [
+            "Descarregar Raiva",
+            "Uivo Aterrador",
+            "Natureza Vegetal"
+        ]
+    },
+    {
+        "nome": "Burafonte",
+        "nd": "4",
+        "tipo": "Animal Enorme",
+        "pv": 120,
+        "defesa": 25,
+        "habilidades": [
+            "Cauda Espinhosa (Sangramento)"
+        ]
+    },
+    {
+        "nome": "Armento de Burafontes",
+        "nd": "8",
+        "tipo": "Animal Colossal (Bando)",
+        "pv": 310,
+        "defesa": 35,
+        "habilidades": [
+            "Bando",
+            "Postura Protetora"
+        ]
+    },
+    {
+        "nome": "Deinonico",
+        "nd": "4",
+        "tipo": "Animal Médio",
+        "pv": 140,
+        "defesa": 23,
+        "habilidades": [
+            "Investida Terrível",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Bando de Deinonicos",
+        "nd": "8",
+        "tipo": "Animal Enorme (Bando)",
+        "pv": 700,
+        "defesa": 23,
+        "habilidades": [
+            "Bando",
+            "Caçada Primal"
+        ]
+    },
+    {
+        "nome": "Espada-da-Floresta",
+        "nd": "3",
+        "tipo": "Construto Médio",
+        "pv": 108,
+        "defesa": 22,
+        "habilidades": [
+            "Riposte Natural",
+            "Dínamo Vegetal",
+            "Adaptado ao Ambiente"
+        ]
+    },
+    {
+        "nome": "Galhada Macho",
+        "nd": "2",
+        "tipo": "Construto Grande",
+        "pv": 17,
+        "defesa": 19,
+        "habilidades": [
+            "Galhada de Allihanna (Dano x2 contra Mortos-Vivos)",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Galhada Fêmea",
+        "nd": "2",
+        "tipo": "Construto Grande",
+        "pv": 17,
+        "defesa": 19,
+        "habilidades": [
+            "Seiva-Galhada (Cura)",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Gali-Gali",
+        "nd": "1/4",
+        "tipo": "Animal Minúsculo",
+        "pv": 4,
+        "defesa": 11
+    },
+    {
+        "nome": "Enxame de Gali-Gali",
+        "nd": "1",
+        "tipo": "Animal Médio (Enxame)",
+        "pv": 30,
+        "defesa": 15,
+        "habilidades": [
+            "Grudar nas Costas"
+        ]
+    },
+    {
+        "nome": "Grande Battham",
+        "nd": "12",
+        "tipo": "Animal Colossal",
+        "pv": 800,
+        "defesa": 38,
+        "habilidades": [
+            "Quase Titânico",
+            "Pisão 4d12+45"
+        ]
+    },
+    {
+        "nome": "Raagoran",
+        "nd": "8",
+        "tipo": "Animal Grande",
+        "pv": 320,
+        "defesa": 33,
+        "habilidades": [
+            "Carapaça de Lodo (RD 10)",
+            "Engolir"
+        ]
+    },
+    {
+        "nome": "Tuntram",
+        "nd": "10",
+        "tipo": "Animal Enorme",
+        "pv": 450,
+        "defesa": 36,
+        "habilidades": [
+            "Amontoar",
+            "Investida Pesada",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Rei-Tirano",
+        "nd": "14",
+        "tipo": "Animal Enorme",
+        "pv": 725,
+        "defesa": 46,
+        "habilidades": [
+            "Cauda Avassaladora",
+            "Engolir",
+            "Visão Baseada em Movimento"
+        ]
+    },
+    {
+        "nome": "Afogado",
+        "nd": "7",
+        "tipo": "Morto-vivo Médio",
+        "pv": 60,
+        "defesa": 29,
+        "habilidades": [
+            "Aura de Afogamento"
+        ]
+    },
+    {
+        "nome": "Capitão Afogado",
+        "nd": "10",
+        "tipo": "Morto-vivo Médio",
+        "pv": 380,
+        "defesa": 35,
+        "habilidades": [
+            "Recrutas Sufocados"
+        ]
+    },
+    {
+        "nome": "Armeiro de Tenebra Devoto",
+        "nd": "6",
+        "tipo": "Humanoide (anão) Médio",
+        "pv": 220,
+        "defesa": 26,
+        "habilidades": [
+            "Disparo Preciso",
+            "Usa Mosquete de Trevas"
+        ]
+    },
+    {
+        "nome": "Demônio da Pólvora",
+        "nd": "12",
+        "tipo": "Espírito Médio",
+        "pv": 580,
+        "defesa": 42,
+        "habilidades": [
+            "Mestre da Pólvora",
+            "Munição Explosiva"
+        ]
+    },
+    {
+        "nome": "Goblin de Sombreiro",
+        "nd": "2",
+        "tipo": "Humanoide Pequeno",
+        "pv": 16,
+        "defesa": 18,
+        "habilidades": [
+            "Sombreiro (Desprevenido)",
+            "Valentão"
+        ]
+    },
+    {
+        "nome": "Homem-Piranha",
+        "nd": "2",
+        "tipo": "Humanoide Médio",
+        "pv": 68,
+        "defesa": 17,
+        "habilidades": [
+            "Dentes Afiados"
+        ]
+    },
+    {
+        "nome": "Homem-Piranha Capitão",
+        "nd": "7",
+        "tipo": "Monstro (lefou) Médio",
+        "pv": 290,
+        "defesa": 29,
+        "habilidades": [
+            "Sequência do Rio",
+            "Fortificação 50%"
+        ]
+    },
+    {
+        "nome": "Chapéu-Preto",
+        "nd": "12",
+        "tipo": "Humanoide (meio-orc) Médio",
+        "pv": 480,
+        "defesa": 42,
+        "habilidades": [
+            "Bala nas Costas",
+            "Mão Firme",
+            "Tiro à Traição"
+        ]
+    },
+    {
+        "nome": "Lobo do Mar",
+        "nd": "16",
+        "tipo": "Humanoide Médio",
+        "pv": 690,
+        "defesa": 54,
+        "habilidades": [
+            "Bloqueio Resistente",
+            "Truque do Convés",
+            "Lenda dos Mares"
+        ]
+    },
+    {
+        "nome": "Arcano de Guerra Adepto",
+        "nd": "4",
+        "tipo": "Humanoide Médio",
+        "pv": 82,
+        "pm": 36,
+        "defesa": 22,
+        "magias": [
+            "Sopro das Uivantes",
+            "Salto Dimensional"
+        ]
+    },
+    {
+        "nome": "Caçador de Impuros",
+        "nd": "8",
+        "tipo": "Humanoide Médio",
+        "pv": 290,
+        "defesa": 34,
+        "habilidades": [
+            "Espião Infiltrado",
+            "Espreitador Astuto",
+            "Inimigo de Todos"
+        ]
+    },
+    {
+        "nome": "Corcel de Comando",
+        "nd": "3",
+        "tipo": "Construto Grande",
+        "pv": 82,
+        "defesa": 19,
+        "habilidades": [
+            "Cúpula de Proteção",
+            "Evacuação de Emergência",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Carruagem de Comando",
+        "nd": "5",
+        "tipo": "Construto Enorme",
+        "pv": 190,
+        "defesa": 22,
+        "habilidades": [
+            "Pernas Mecânicas",
+            "Piloto Arcano"
+        ]
+    },
+    {
+        "nome": "Dançarino de Guerra",
+        "nd": "4",
+        "tipo": "Humanoide Médio",
+        "pv": 110,
+        "defesa": 24,
+        "habilidades": [
+            "Matar é Viver",
+            "Viver é Lutar (Acrobacia para evitar dano)"
+        ]
+    },
+    {
+        "nome": "Purificado",
+        "nd": "2",
+        "tipo": "Humanoide (hynne) Pequeno",
+        "pv": 9,
+        "defesa": 10,
+        "habilidades": [
+            "Gema da Purificação (Explosão de Essência)"
+        ]
+    },
+    {
+        "nome": "Soldado Blindado",
+        "nd": "5",
+        "tipo": "Humanoide Médio",
+        "pv": 135,
+        "defesa": 32,
+        "habilidades": [
+            "Empurrão",
+            "Prontidão"
+        ]
+    },
+    {
+        "nome": "Soldado Superior",
+        "nd": "17",
+        "tipo": "Humanoide Médio",
+        "pv": 1080,
+        "defesa": 50,
+        "habilidades": [
+            "Golpes Penetrantes",
+            "Super Soldado (Frenesi)",
+            "Mestre de Manobras"
+        ]
+    }
+]

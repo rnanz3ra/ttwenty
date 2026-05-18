@@ -1,0 +1,12 @@
+{
+  "id": "roubar-a-alma",
+  "name": "Roubar a Alma",
+  "circle": 5,
+  "type": "Universal",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "permanente",
+  "description": "Você rouba a alma da vítima, armazenando-a em um objeto. Se o alvo  passar no teste de resistência, sente o  impacto de sua alma ser puxada para  fora do corpo e fica abalado por 1 rodada. Se falhar, seu corpo fica caído, inconsciente e inerte, enquanto sua alma  é transportada para dentro do objeto. O corpo não envelhece nem se decompõe, permanecendo em estase. Ele  pode ser atacado e destruído normalmente. O objeto escolhido deve custar  T$ 1.000 por nível ou ND da criatura e não seu nível.",
+  "resistance": "Vontade parcial"
+}

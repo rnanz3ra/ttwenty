@@ -1,0 +1,11 @@
+{
+  "id": "invulnerabilidade",
+  "name": "Invulnerabilidade",
+  "circle": 5,
+  "type": "Universal",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Esta magia cria uma barreira mágica  impenetrável que protege você contra  efeitos nocivos mentais ou físicos, a  sua escolha. Proteção mental: você fica imune às condições abalado, alquebrado, apavorado, atordoado, confuso, esmorecido,  195 Capítulo Quatro fascinado, frustrado e pasmo, além de  efeitos de encantamento e ilusão. Proteção física: você fica imune às condições atordoado, cego, debilitado, enjoado, envenenado, exausto, fatigado, fraco, lento, ofuscado e paralisado,  além de atordoado."
+}

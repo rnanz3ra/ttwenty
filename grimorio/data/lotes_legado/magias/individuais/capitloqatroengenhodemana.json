@@ -1,0 +1,11 @@
+{
+  "id": "capítulo-quatro-engenho-de-mana",
+  "name": "Capítulo Quatro Engenho de Mana",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "sustentada",
+  "description": "Você cria um disco de energia que lembra uma roda de engenho e flutua no  ponto em que foi conjurado. O disco é  imune a dano, não pode ser movido e  faz uma contramágica automática contra qualquer magia lançada em alcance médio dele (exceto as suas), usando seu teste de Misticismo. Caso vença  o teste, o engenho não só anula a magia como absorve os PM usados para  lançá-la, acumulando PM temporários.  No seu turno, se estiver ao alcance do  disco, você pode gastar PM nele para  lançar magias como se fosse seu."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "infligir-ferimentos",
+  "name": "Infligir Ferimentos",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "instantânea",
+  "description": "Você canaliza energia negativa contra  um alvo, causando 2d8+2 pontos de  dano de trevas (ou curando 2d8+2 PV,  se for um morto-vivo). Infligir Ferimentos  anula Curar Ferimentos. +1 PM: além do normal , o alvo fica fraco pela cena (passar no teste de resistência evita). +2 PM: aumenta o dano em +1d8+1. +2 PM: muda a resistência para nenhum. Como parte da execução da magia, você pode fazer um ataque corpo a  corpo contra o alvo. Se acertar, causa o  dano do ataque e o efeito da magia. +5 PM: aumenta o dano em +2d8.",
+  "resistance": "Fortitude reduz à metade"
+}

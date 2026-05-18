@@ -1,0 +1,12 @@
+{
+  "id": "capítulo-quatro-aura-divina",
+  "name": "Capítulo Quatro Aura Divina",
+  "circle": 5,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "cena",
+  "description": "Você se torna um conduíte da energia  de sua divindade, emanando uma aura  brilhante. Você e aliados devotos da  mesma divindade ficam imunes a encantamento e recebem +10 na Defesa  e em testes de resistência. Aliados não  devotos da mesma divindade recebem  +5 na Defesa e em testes de resistência. Além disso, inimigos que entrem  na área devem fazer um teste de Vontade; em caso de falha, recebem uma condição a sua escolha entre esmorecido,  debilitado ou lento até o fim da cena.  O teste de Vontade falha.",
+  "resistance": "Vontade parcial"
+}

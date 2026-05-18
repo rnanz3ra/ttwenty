@@ -1,0 +1,12 @@
+{
+  "id": "disfarce-ilusório",
+  "name": "Disfarce Ilusório",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Ilusão",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Você muda a aparência do alvo, incluindo seu equipamento. Isso inclui  altura, peso, tom de pele, cor de cabelo, timbre de voz etc. O alvo recebe +10 em testes de Enganação para  disfarce. O alvo não recebe novas habilidades (você pode ficar parecido com  outra raça, mas não ganhará as habilidades dela), nem modifica o equipamento (uma espada longa disfarçada  de bordão continua funcionando e causando dano como uma espada). Truque: muda o alcance para toque,  o alvo para 1 criatura e muda a duração para 1 dia.",
+  "resistance": "Vontade desacredita"
+}

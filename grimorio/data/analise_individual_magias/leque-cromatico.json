@@ -1,0 +1,11 @@
+{
+  "id": "leque-cromático",
+  "name": "Leque Cromático",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Ilusão",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "instantânea",
+  "description": "Resistência: Vontade parcial.  Um cone de luzes brilhantes surge  das suas mãos, deixando os animais  e humanoides na área atordoados por  1 rodada (apenas uma vez por cena,  Vontade anula) e ofuscados pela cena.  Esta magia não afeta criaturas cegas. +2 PM: além do normal, as criaturas  afetadas ficam vulneráveis pela cena. +2 PM: também afeta espíritos e  monstros na área. Requer 2º círculo.  +5 PM: também afeta construtos, espíritos, monstros e mortos-vivos na  área. Requer 3º círculo."
+}

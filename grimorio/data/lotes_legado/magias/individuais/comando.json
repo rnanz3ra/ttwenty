@@ -1,0 +1,12 @@
+{
+  "id": "comando",
+  "name": "Comando",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "1 rodada",
+  "description": "Você dá uma ordem irresistível, que o  alvo deve ser capaz de ouvir (mas não  precisa entender). Se falhar na resistência, ele deve obedecer ao comando  em seu próprio turno da melhor maneira possível. Escolha um dos efeitos. Fuja: o alvo gasta seu turno se afastando  de você (usando todas as suas ações). Largue: o alvo solta quaisquer itens que  esteja segurando e não pode pegá-los  novamente até o início de seu próximo  turno. Como esta é uma ação livre, ele  ainda pode executar outras ações.",
+  "resistance": "Vontade anula"
+}

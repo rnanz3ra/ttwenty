@@ -1,0 +1,74 @@
+[
+    {
+        "nome": "Espada Bastarda",
+        "tipo": "Arma Marcial Corpo a Corpo",
+        "estilo": "pergaminho",
+        "lore": "Uma lâmina pesada e versátil, forjada para heróis que transitam entre a elegância da esgrima e a brutalidade do combate de força. Em mãos habilidosas, é uma extensão da alma do guerreiro.",
+        "regras": {
+            "Preço": "T$ 35",
+            "Dano": "1d10 / 1d12 (Duas mãos)",
+            "Crítico": "19",
+            "Tipo": "Corte",
+            "Espaço": "1 espaço",
+            "Alcance": "Adjacente"
+        },
+        "efeito": "Uma arma exótica. Se usada com uma mão, exige o poder Proficiência. Pode ser usada com duas mãos como uma arma marcial.",
+        "categoria": "Arma"
+    },
+    {
+        "nome": "Pistola",
+        "tipo": "Arma Fogo Distância",
+        "estilo": "pergaminho",
+        "lore": "A pólvora é uma arte perigosa e ruidosa. Vinda das forjas de Zakharov ou dos becos de Smokestone, a pistola oferece uma morte rápida àqueles que subestimam o poder da tecnologia.",
+        "regras": {
+            "Preço": "T$ 250",
+            "Dano": "2d6",
+            "Crítico": "19/x3",
+            "Alcance": "Curto",
+            "Tipo": "Perfuração",
+            "Espaço": "1 espaço"
+        },
+        "efeito": "Exige munição (balas). A recarga é uma ação padrão.",
+        "categoria": "Arma"
+    },
+    {
+        "nome": "Bálsamo Restaurador",
+        "tipo": "Item Alquímico",
+        "estilo": "pergaminho",
+        "lore": "Um unguento espesso e aromático, destilado de ervas raras das Uivantes. Um frasco deste preparado pode ser a diferença entre a vida e a morte em uma masmorra profunda.",
+        "regras": {
+            "Preço": "T$ 10",
+            "Espaço": "0.5",
+            "Uso": "Ação Padrão"
+        },
+        "efeito": "Ao ser aplicado ou ingerido, recupera 2d4 pontos de vida instantaneamente.",
+        "categoria": "Consumível"
+    },
+    {
+        "nome": "Armadura de Couro Batido",
+        "tipo": "Armadura Leve",
+        "estilo": "pergaminho",
+        "lore": "Múltiplas camadas de couro fervido reforçadas com rebites metálicos. Oferece boa proteção mantendo a mobilidade.",
+        "regras": {
+            "Preço": "T$ 25",
+            "Defesa": "+3",
+            "Penalidade": "0",
+            "Espaço": "2 espaços"
+        },
+        "efeito": "Proteção básica para aventureiros ágeis.",
+        "categoria": "Armadura"
+    },
+    {
+        "nome": "Poção de Curar Ferimentos",
+        "tipo": "Poção",
+        "estilo": "pergaminho",
+        "lore": "Líquido carmesim brilhante com gosto de cerejas e ferro. É a magia divina engarrafada, pronta para salvar aventureiros descuidados.",
+        "regras": {
+            "Preço": "T$ 50",
+            "Espaço": "0.5",
+            "Uso": "Ação Padrão"
+        },
+        "efeito": "Recupera 2d8+2 pontos de vida.",
+        "categoria": "Consumível"
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "orientação",
+  "name": "Orientação",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Adivinhação",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "1 rodada",
+  "description": "Em seu próximo teste de perícia, o  alvo pode rolar dois dados e ficar com  o melhor resultado. +2 PM: muda a duração para cena.  Em vez do normal, escolha um atributo. Sempre que o alvo fizer um teste de perícia baseado no atributo escolhido, pode rolar dois dados e ficar  com o melhor resultado. Não se aplica a testes de ataque ou resistência.  Requer 2º círculo. +5 PM: como acima, mas, em vez de  um atributo, escolha entre atributos  físicos (Força, Destreza e Constituição) ou mental."
+}

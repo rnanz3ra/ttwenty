@@ -1,0 +1,348 @@
+{
+  "racas": [
+    {
+      "nome": "Meio-Orc",
+      "mods_atributo": {
+        "for": 2,
+        "escolha_um": 1,
+        "restricao": "exceto carisma"
+      },
+      "habilidades": [
+        "Adaptável (+2 Intimidação + 1 Perícia)",
+        "Criatura das Profundezas",
+        "Sangue Orc"
+      ]
+    },
+    {
+      "nome": "Orc",
+      "mods_atributo": {
+        "for": 2,
+        "con": 1,
+        "int": -1
+      },
+      "habilidades": [
+        "Feroz (+2 dano, +4 se ferido)",
+        "Habitante das Cavernas",
+        "Vigor Brutal (+2 Fort, soma For no PV)"
+      ]
+    },
+    {
+      "nome": "Tabrachi (Povo Sapo)",
+      "mods_atributo": {
+        "con": 2,
+        "for": 1,
+        "car": -1
+      },
+      "habilidades": [
+        "Batráquio (Natação)",
+        "Linguarudo (Arma natural alcance 3m)",
+        "Saltador (+10 Atletismo)"
+      ]
+    },
+    {
+      "nome": "Trog Anão (Variante)",
+      "mods_atributo": {
+        "for": 3,
+        "con": 4,
+        "des": -1,
+        "int": -2
+      },
+      "habilidades": [
+        "Quase Anão (+1 PV/nível, mov 6m não reduzido)",
+        "Mau Cheiro",
+        "Sangue Frio"
+      ]
+    },
+    {
+      "nome": "Ogro",
+      "mods_atributo": {
+        "for": 3,
+        "con": 2,
+        "int": -1,
+        "car": -1
+      },
+      "habilidades": [
+        "Tamanho Grande (Visão Penumbra)",
+        "Maior a Porrada (Gasta 1 PM para +1d8 dano)",
+        "Camada de Ingenuidade (-5 Intuição/Vontade)"
+      ]
+    },
+    {
+      "nome": "Minauro",
+      "mods_atributo": {
+        "for": 1,
+        "escolha_dois": 1
+      },
+      "habilidades": [
+        "Faro",
+        "Mente Aberta (+2 Diplomacia/Investigação)",
+        "Plurivalente (1 Poder Geral)"
+      ]
+    },
+    {
+      "nome": "Harpia",
+      "mods_atributo": {
+        "des": 2,
+        "car": 1,
+        "int": -1
+      },
+      "habilidades": [
+        "Asas de Abutre (Voo 12m)",
+        "Cria de Masmorra (+2 Intimidação/Sobrevivência)",
+        "Grito Aterrorizante",
+        "Pés Rapinantes"
+      ]
+    },
+    {
+      "nome": "Ceratops (Povo-Trovão)",
+      "mods_atributo": {
+        "con": 2,
+        "for": 1,
+        "des": -1,
+        "int": -1
+      },
+      "habilidades": [
+        "Chifres (1d8)",
+        "Paquidérmico (Tamanho Grande, +1 Defesa)",
+        "Papel Tribal",
+        "Medo de Altura"
+      ]
+    },
+    {
+      "nome": "Pteros (Povo-Trovão)",
+      "mods_atributo": {
+        "sab": 2,
+        "des": 1,
+        "int": -1
+      },
+      "habilidades": [
+        "Ligação Natural",
+        "Mãos Rudimentares (Penalidade em itens)",
+        "Pés Rapinantes",
+        "Senhor dos Céus (Voo 12m)",
+        "Sentidos Rapinantes"
+      ]
+    },
+    {
+      "nome": "Velocis (Povo-Trovão)",
+      "mods_atributo": {
+        "des": 2,
+        "sab": 1,
+        "int": -1
+      },
+      "habilidades": [
+        "Através de Espinheiros (RD 2 corte/perfuração)",
+        "Sentidos Selvagens (+2 Sobrevivência/Faro/Penumbra)",
+        "Velocista da Planície (Deslocamento 12m, Rola 2 dados em Atletismo)"
+      ]
+    },
+    {
+      "nome": "Voracis (Povo-Trovão)",
+      "mods_atributo": {
+        "des": 2,
+        "con": 1,
+        "int": -1
+      },
+      "habilidades": [
+        "Garras (1d6)",
+        "Rainha da Selva (Escalada 9m)",
+        "Sentidos Selvagens"
+      ]
+    },
+    {
+      "nome": "Moreau (12 Heranças)",
+      "atributos": "Varia por herança",
+      "habilidades": [
+        "Herança Animal (Voo, Mordida, Faro, etc.)",
+        "Considerado Humano"
+      ]
+    },
+    {
+      "nome": "Yidishan (Meio-Golem)",
+      "mods_atributo": {
+        "escolha_tres": 1,
+        "car": -2
+      },
+      "habilidades": [
+        "Híbrido Mecânico (Imunidades de Construto)",
+        "Natureza Orgânica (Poder Geral)",
+        "Peças Metálicas (+2 Defesa, -2 Armadura)"
+      ]
+    },
+    {
+      "nome": "Nagah",
+      "mods_atributo": {
+        "macho": "For/Des/Con +1",
+        "femea": "Int/Sab/Car +1"
+      },
+      "habilidades": [
+        "Arma Natural: Cauda",
+        "Inocência Dissimulada (Usa Enganação)",
+        "Fraqueza Ofídica (Frio)"
+      ]
+    },
+    {
+      "nome": "Soterrado (Variante Osteon)",
+      "habilidades": [
+        "Abraço Gélido (+2 Agarrar, +2 dano frio)",
+        "Esquife de Gelo (RD 5, Redução Frio 10, Fraqueza Fogo)"
+      ]
+    },
+    {
+      "tipo_objeto": "raca_moreau",
+      "habilidade_base": "Herança: Escolha uma das 12 heranças. Você é considerado Humano.",
+      "herancas": [
+        {
+          "nome": "Coruja",
+          "mods": {
+            "sab": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Visão no Escuro",
+            "+2 Percepção/Vontade",
+            "Garras",
+            "Magia de Adivinhação"
+          ]
+        },
+        {
+          "nome": "Hiena",
+          "mods": {
+            "sab": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Destemor (+2 resist. contra maiores)",
+            "Faro",
+            "Mordida 1d6"
+          ]
+        },
+        {
+          "nome": "Búfalo",
+          "mods": {
+            "for": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Chifres 1d6",
+            "Faro",
+            "Marrada Impressionante (Usa Força em Intimidação)"
+          ]
+        },
+        {
+          "nome": "Coelho",
+          "mods": {
+            "des": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Deslocamento 12m",
+            "Pé de Coelho (1 PM p/ rolar 2 dados em perícia)",
+            "Visão Penumbra",
+            "+2 Percepção/Reflexos"
+          ]
+        },
+        {
+          "nome": "Crocodilo",
+          "mods": {
+            "con": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Mordida 1d6 (+2 agarrar)",
+            "Natação 6m",
+            "Surto Reptiliano (1 PM ação mov extra)"
+          ]
+        },
+        {
+          "nome": "Urso",
+          "mods": {
+            "con": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Tamanho Grande",
+            "Usa Con para Intimidação",
+            "Faro",
+            "Mordida 1d8"
+          ]
+        },
+        {
+          "nome": "Gato",
+          "mods": {
+            "des": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Acrobata Nato (Ignora queda)",
+            "Visão no Escuro",
+            "Garras 1d4",
+            "+2 Furtividade"
+          ]
+        },
+        {
+          "nome": "Leão",
+          "mods": {
+            "for": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Rugido Majestoso (Intimidação)",
+            "Garras 1d6",
+            "Bote"
+          ]
+        },
+        {
+          "nome": "Lobo",
+          "mods": {
+            "sab": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Faro",
+            "Tática de Matilha (+1 ataque flanqueando)",
+            "Mordida 1d6"
+          ]
+        },
+        {
+          "nome": "Morcego",
+          "mods": {
+            "des": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Percepção às Cegas (Som)",
+            "Voo Limitado (Planar)",
+            "Sentidos Aguçados"
+          ]
+        },
+        {
+          "nome": "Raposa",
+          "mods": {
+            "int": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Mente Engenhosa (+2 Enganação/Intuição)",
+            "Mordida 1d4",
+            "Faro Excepcional"
+          ]
+        },
+        {
+          "nome": "Serpente",
+          "mods": {
+            "des": 1,
+            "outros": 1
+          },
+          "habilidades": [
+            "Corpo Flexível (+2 Acrobacia/Agarrar)",
+            "Mordida Venenosa (Dano persistente)",
+            "Natação Sensorial"
+          ]
+        }
+      ]
+    }
+  ],
+  "variantes": [],
+  "poderes": []
+}

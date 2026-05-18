@@ -1,0 +1,12 @@
+{
+  "id": "possessão",
+  "name": "Possessão",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "longo;",
+  "duration": "1 dia",
+  "description": "Você projeta sua consciência no corpo  do alvo. Enquanto possuir uma criatura, você assume o controle total do corpo dela. O seu próprio corpo fica inconsciente e a consciência do alvo fica  inerte. Em termos de jogo, você continua usando a sua ficha, mas com os  atributos físicos e deslocamento da  criatura. Se o alvo passar no teste de  resistência, sabe que você tentou possuí-lo e fica imune a esta magia por um  dia. Caso o corpo da criatura morra enquanto você a possui, a criaturra possessa recebe +4 na Força e Constituição.",
+  "resistance": "Vontade anula"
+}

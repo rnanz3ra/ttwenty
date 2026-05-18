@@ -1,0 +1,12 @@
+{
+  "id": "marionete",
+  "name": "Marionete",
+  "circle": 4,
+  "type": "Arcana",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "sustentada",
+  "description": "Esta magia manipula o sistema nervoso do alvo. Ao sofrer a magia, e no  início de cada um de seus turnos, a  vítima faz um teste de Fortitude. Se  passar, a magia é anulada. Se falhar,  todas as suas ações físicas naquele  turno estarão sob controle do conjurador. A vítima ainda tem consciência  de tudo que acontece à sua volta, podendo ver, ouvir e até falar com certo  esforço (mas não para lançar magias).  Contudo, seu corpo realiza apenas os  movimentos que o conjurador deseja. A vítima pode fazer um teste de Vontade ao final do seu turno para anular.",
+  "resistance": "Fortitude anula"
+}

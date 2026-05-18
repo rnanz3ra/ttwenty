@@ -1,0 +1,441 @@
+[
+    {
+        "nome": "Alzeras",
+        "nd": "11",
+        "tipo": "Morto-vivo Médio",
+        "pv": 385,
+        "pm": 130,
+        "defesa": 29,
+        "habilidades": [
+            "Contramágica Aprimorada",
+            "Conjuração Odiosa",
+            "Marionete",
+            "Amarras Etéreas"
+        ]
+    },
+    {
+        "nome": "Cemitério Vivo",
+        "nd": "17",
+        "tipo": "Morto-vivo Colossal",
+        "pv": 1125,
+        "defesa": 54,
+        "habilidades": [
+            "Aura de Profanação",
+            "Tumba Viva (Absorve alvos)",
+            "Herança Profana",
+            "Gera Falanges ao morrer"
+        ]
+    },
+    {
+        "nome": "Chacal-Zumbi",
+        "nd": "2",
+        "tipo": "Morto-vivo Médio",
+        "pv": 35,
+        "defesa": 19,
+        "habilidades": [
+            "Febre Necrótica",
+            "Matilha Zumbi",
+            "Fraqueza Zumbi (Cérebro)"
+        ]
+    },
+    {
+        "nome": "Mercenário de Aslothia",
+        "nd": "3",
+        "tipo": "Monstro (lefou) Médio",
+        "pv": 21,
+        "defesa": 20,
+        "habilidades": [
+            "Inescrupuloso (+dano contra flanqueados)"
+        ]
+    },
+    {
+        "nome": "Líder Mercenário de Aslothia",
+        "nd": "5",
+        "tipo": "Humanoide Médio",
+        "pv": 200,
+        "defesa": 24,
+        "habilidades": [
+            "Capangas Descartáveis (Usa aliado como escudo)"
+        ]
+    },
+    {
+        "nome": "Morgue’raz",
+        "nd": "9",
+        "tipo": "Morto-vivo Grande",
+        "pv": 378,
+        "defesa": 34,
+        "habilidades": [
+            "Aura de Fedor",
+            "Criar Lacaios (Carniçais)",
+            "Devorar por Dentro"
+        ]
+    },
+    {
+        "nome": "Wisphago",
+        "nd": "8",
+        "tipo": "Morto-vivo Grande",
+        "pv": 344,
+        "defesa": 33,
+        "habilidades": [
+            "Devorar Magia (Recupera PV)",
+            "Faro para Magos",
+            "Fome de Mana",
+            "Vomitar Magia"
+        ]
+    },
+    {
+        "nome": "Lich",
+        "nd": "15",
+        "tipo": "Morto-vivo Médio",
+        "pv": 560,
+        "pm": 170,
+        "defesa": 48,
+        "habilidades": [
+            "Filactério",
+            "Drenar Vida",
+            "Sacrificar Servo",
+            "Magias 17º Nível"
+        ]
+    },
+    {
+        "nome": "Lich de Aslothia",
+        "nd": "18",
+        "tipo": "Morto-vivo Médio",
+        "pv": 800,
+        "pm": 180,
+        "defesa": 52,
+        "habilidades": [
+            "Contramágica Superior",
+            "Magia Discreta",
+            "Legião",
+            "Magias 18º Nível"
+        ]
+    },
+    {
+        "nome": "Ferren Asloth (Arquilich)",
+        "nd": "S",
+        "tipo": "Morto-vivo Médio",
+        "pv": 2418,
+        "pm": 255,
+        "defesa": 66,
+        "habilidades": [
+            "Conhecimento Sequestrado",
+            "Regente Sombrio (Controla clima)",
+            "Despertar os Mortos (ND 19)",
+            "Magias 20º Nível",
+            "Toque Vampírico 36d6"
+        ]
+    },
+    {
+        "nome": "Búfalo-de-Guerra",
+        "nd": "2",
+        "tipo": "Animal Grande",
+        "pv": 80,
+        "defesa": 18,
+        "habilidades": [
+            "Atropelamento",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Hippossauro",
+        "nd": "3",
+        "tipo": "Animal Grande",
+        "pv": 100,
+        "defesa": 20,
+        "habilidades": [
+            "Salto Mortal",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Mantícora",
+        "nd": "6",
+        "tipo": "Monstro Grande",
+        "pv": 240,
+        "defesa": 26,
+        "habilidades": [
+            "Espinhos de Cauda",
+            "Voo 15m"
+        ]
+    },
+    {
+        "nome": "Mantícora Primal",
+        "nd": "14",
+        "tipo": "Monstro Enorme",
+        "pv": 655,
+        "defesa": 44,
+        "habilidades": [
+            "Crueldade (Ataques extras)",
+            "Ressentimento (Dano Psíquico)"
+        ]
+    },
+    {
+        "nome": "Otyugh",
+        "nd": "5",
+        "tipo": "Monstro Grande",
+        "pv": 213,
+        "defesa": 24,
+        "habilidades": [
+            "Infecção do Esgoto",
+            "Constrição",
+            "Agarrar Aprimorado"
+        ]
+    },
+    {
+        "nome": "Horda de Otyughs",
+        "nd": "16",
+        "tipo": "Monstro Colossal",
+        "pv": 800,
+        "defesa": 53,
+        "habilidades": [
+            "Chuva de Tentáculos",
+            "Mar de Tentáculos (Enreda)"
+        ]
+    },
+    {
+        "nome": "Cerianthar",
+        "nd": "4",
+        "tipo": "Monstro Médio",
+        "pv": 140,
+        "defesa": 22,
+        "habilidades": [
+            "Imobilidade",
+            "Muitos Tentáculos (Oito)",
+            "Constrição"
+        ]
+    },
+    {
+        "nome": "Grande Tachygloss",
+        "nd": "16",
+        "tipo": "Monstro Grande",
+        "pv": 800,
+        "defesa": 53,
+        "habilidades": [
+            "Acúleos (Ignora RD)",
+            "Armadura de Espinhos (Dano ao atacante)"
+        ]
+    },
+    {
+        "nome": "Oxxdon (Monstro da Ferrugem)",
+        "nd": "2",
+        "tipo": "Monstro Médio",
+        "pv": 72,
+        "defesa": 20,
+        "habilidades": [
+            "Ferrugem (Destrói metal)",
+            "Faro"
+        ]
+    },
+    {
+        "nome": "Razza’Kham",
+        "nd": "17",
+        "tipo": "Monstro Enorme",
+        "pv": 1010,
+        "defesa": 54,
+        "habilidades": [
+            "Brutalidade Incontida (Dados extras)",
+            "Dilacerar",
+            "Varrer"
+        ]
+    },
+    {
+        "nome": "Serpe Anciã",
+        "nd": "8",
+        "tipo": "Monstro Enorme",
+        "pv": 320,
+        "defesa": 33,
+        "habilidades": [
+            "Jato de Podridão",
+            "Peçonha Anciã (Ignora Imunidade)"
+        ]
+    },
+    {
+        "nome": "Uraghian Adulto",
+        "nd": "8",
+        "tipo": "Monstro Enorme",
+        "pv": 330,
+        "defesa": 33,
+        "habilidades": [
+            "Couraça Cáustica (Dano de Fogo)",
+            "Rajada Flamejante"
+        ]
+    },
+    {
+        "nome": "Kaiju (Ameaça Suprema)",
+        "nd": "20",
+        "tipo": "Monstro Colossal",
+        "pv": 1500,
+        "defesa": 62,
+        "habilidades": [
+            "Arsenal Titânico (Arremessar Montanha/Sopro Corrosivo)",
+            "Maior que a Vida",
+            "Cura Acelerada 50",
+            "Regeneração Eterna"
+        ]
+    },
+    {
+        "nome": "Iniciada de Sszzaas",
+        "nd": "3",
+        "tipo": "Monstro (medusa) Médio",
+        "pv": 69,
+        "pm": 19,
+        "defesa": 19,
+        "habilidades": [
+            "Falso Amigo",
+            "Magias de Sszzaas"
+        ]
+    },
+    {
+        "nome": "Elemental do Veneno (Grande)",
+        "nd": "12",
+        "tipo": "Espírito Grande",
+        "pv": 550,
+        "defesa": 43,
+        "habilidades": [
+            "Morte Gasosa (Dano automático)",
+            "Pústula Explosiva",
+            "Ignora Imunidade a Veneno"
+        ]
+    },
+    {
+        "nome": "Górgona Matriarca",
+        "nd": "14",
+        "tipo": "Monstro (medusa) Médio",
+        "pv": 498,
+        "pm": 89,
+        "defesa": 43,
+        "habilidades": [
+            "Olhar Petrificante (CD 38)",
+            "Magia Acelerada",
+            "Visão da Verdade"
+        ]
+    },
+    {
+        "nome": "Nagah Encantadora",
+        "nd": "7",
+        "tipo": "Humanoide Médio",
+        "pv": 197,
+        "pm": 59,
+        "defesa": 29,
+        "habilidades": [
+            "Linhagem Feérica (+2 CD)",
+            "Invisibilidade",
+            "Ilusão Lacerante"
+        ]
+    },
+    {
+        "nome": "Nagah Retalhador",
+        "nd": "12",
+        "tipo": "Humanoide Médio",
+        "pv": 600,
+        "defesa": 43,
+        "habilidades": [
+            "Quatro Braços (Barreira de Lâminas)",
+            "Retalhar",
+            "Peçonha Potente"
+        ]
+    },
+    {
+        "nome": "Nagah Sacerdotisa",
+        "nd": "5",
+        "tipo": "Humanoide Médio",
+        "pv": 140,
+        "pm": 38,
+        "defesa": 23,
+        "habilidades": [
+            "Devoção Dissimulada",
+            "Ligação Sombria"
+        ]
+    },
+    {
+        "nome": "Rival Espelho",
+        "nd": "Varia",
+        "tipo": "Mágico",
+        "pv": "Cópia",
+        "habilidades": [
+            "Transferir Dor (Dano volta para o original)"
+        ]
+    },
+    {
+        "nome": "Nastarrath",
+        "nd": "18",
+        "tipo": "Morto-vivo Colossal",
+        "pv": 1150,
+        "defesa": 56,
+        "habilidades": [
+            "Mastigar (Dano extra por turno)",
+            "Engolir (Dano Ácido)",
+            "Veneno 6d12"
+        ]
+    },
+    {
+        "nome": "Lyuba (Mamute Zumbi)",
+        "nd": "14",
+        "tipo": "Morto-vivo Enorme",
+        "pv": 715,
+        "defesa": 45,
+        "habilidades": [
+            "Caçador de Caçadores",
+            "Presas Espectrais (Drena vida)",
+            "Definhamento"
+        ]
+    },
+    {
+        "nome": "Minotauro Chefe da Manada",
+        "nd": "6",
+        "tipo": "Humanoide Médio",
+        "pv": 232,
+        "defesa": 26,
+        "habilidades": [
+            "Liderança Brutal",
+            "Marca da Presa"
+        ]
+    },
+    {
+        "nome": "Ogro Furioso",
+        "nd": "5",
+        "tipo": "Humanoide Grande",
+        "pv": 222,
+        "defesa": 24,
+        "habilidades": [
+            "Fúria Imparável (Não cai com 0 PV)",
+            "Raiva Inflamável"
+        ]
+    },
+    {
+        "nome": "Keylor (Ogro Titã)",
+        "nd": "9",
+        "tipo": "Humanoide Grande",
+        "pv": 360,
+        "defesa": 34,
+        "habilidades": [
+            "Aura de Frio",
+            "Arremessar Rochas",
+            "Varrer"
+        ]
+    },
+    {
+        "nome": "Soterrado Vagante",
+        "nd": "2",
+        "tipo": "Morto-vivo Médio",
+        "pv": 21,
+        "defesa": 20,
+        "habilidades": [
+            "Constrição Congelante",
+            "Agarrar Aprimorado"
+        ]
+    },
+    {
+        "nome": "Verme do Gelo Adulto",
+        "nd": "18",
+        "tipo": "Monstro Colossal",
+        "pv": 1100,
+        "defesa": 56,
+        "habilidades": [
+            "Espasmo Mortal (Explosão de gelo)",
+            "Frio Extremo (Aura anti-fogo)",
+            "Engolir (6d6+30)"
+        ]
+    }
+]

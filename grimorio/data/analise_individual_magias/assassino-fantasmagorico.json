@@ -1,0 +1,12 @@
+{
+  "id": "assassino--fantasmagórico",
+  "name": "Assassino  Fantasmagórico",
+  "circle": 4,
+  "type": "Arcana",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "longo;",
+  "duration": "cena, até  ser descarregada",
+  "description": "Usando os medos subconscientes do  alvo, você cria uma imagem daquilo  que ele mais teme. Apenas a própria  vítima pode ver o Assassino Fantasmagórico com nitidez; outras criaturas presentes (incluindo o conjurador) enxergam apenas um espectro sombrio.  Quando você lança a magia, o espectro surge adjacente a você e a vítima  faz um teste de Vontade. Se ela passar,  percebe que o espectro é uma ilusão e  a magia é dissipada. Se falhar, acredita na existência do espectro, que então  flut",
+  "resistance": "Vontade anula, Fortitude parcial"
+}

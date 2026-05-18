@@ -1,0 +1,12 @@
+{
+  "id": "soco-de-arsenal",
+  "name": "Soco de Arsenal",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Convocação",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "instantânea",
+  "description": "Ninguém sabe se Mestre Arsenal foi  realmente o criador desta magia —  mas ele foi o primeiro a utilizá-la.  Você fecha o punho e gesticula como  se estivesse golpeando o alvo, causando dano de impacto igual a 4d6 + sua  Força. A vítima é empurrada 3m na  direção oposta à sua. Passar no teste  de resistência reduz o dano à metade  e evita o empurrão. +1 PM: muda o alcance para pessoal,  o alvo para você, a duração para cena  206 Magia   e a resistência para nenhuma. Em vez  do normal, seus ataques causam +1d8 de dano de essência.",
+  "resistance": "Fortitude parcial"
+}

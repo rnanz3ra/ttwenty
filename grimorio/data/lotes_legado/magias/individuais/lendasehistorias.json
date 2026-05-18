@@ -1,0 +1,11 @@
+{
+  "id": "lendas-e-histórias",
+  "name": "Lendas e Histórias",
+  "circle": 3,
+  "type": "Universal",
+  "school": "Adivinhação",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "Instantânea",
+  "description": "Alvo: 1 criatura, objeto ou local; Duração: sustentada.  Você descobre informações sobre uma  criatura, objeto ou local que esteja tocando. O que exatamente você descobre depende do mestre: talvez você não  descubra tudo que há para saber, mas  ganhe pistas para continuar a investigação. A cada rodada que mantiver a  magia, você descobre: •\t Todas as informações sobre o alvo,  como se tivesse passado em todos os  testes de Conhecimento para tal. •\t Todas as habilidades do alvo. Se for  um item mágico, você descobre suas propriedades."
+}

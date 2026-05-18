@@ -1,0 +1,12 @@
+{
+  "id": "crânio-voador--de-vladislav",
+  "name": "Crânio Voador  de Vladislav",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "instantânea",
+  "description": "Esta magia cria um crânio envolto em  energia negativa. Quando atinge o  alvo, ele causa 4d8+4 pontos de dano  de trevas e se desfaz emitindo um som  horrendo, deixando abalado o alvo e  todos os inimigos num raio de 3m dele  (criaturas já abaladas ficam apavoradas  por 1d4 rodadas). Passar no teste de  resistência diminui o dano à metade e  evita a condição (as demais criaturas  na área também tem direito ao teste  de resistência, para evitar a condição). +2 PM: aumenta o dano em +1d8+1. +2 PM:",
+  "resistance": "Fortitude parcial"
+}

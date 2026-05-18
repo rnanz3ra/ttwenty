@@ -1,0 +1,11 @@
+{
+  "id": "arma-mágica",
+  "name": "Arma Mágica",
+  "circle": 1,
+  "type": "Universal",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "A arma é considerada mágica e fornece  +1 nos testes de ataque e rolagens de  dano (isso conta como um bônus de encanto). Caso você esteja empunhando a  arma, pode usar seu atributo-chave de  magias em vez do atributo original nos  testes de ataque (não cumulativo com  efeitos que somam este atributo). +2 PM: aumenta o bônus em +1  (bônus máximo limitado pelo círculo  máximo de magia que você pode lançar). +2 PM: a arma causa +1d6 de dano de  ácido, eletricidade, fogo ou frio, escolhido quando a magia é lançada."
+}

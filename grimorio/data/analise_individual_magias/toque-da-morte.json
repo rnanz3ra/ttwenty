@@ -1,0 +1,12 @@
+{
+  "id": "toque-da-morte",
+  "name": "Toque da Morte",
+  "circle": 5,
+  "type": "Universal",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "instantânea",
+  "description": "Sua mão exala energias letais. A criatura sofre 10d8+10 pontos de dano de  trevas. Se estiver com menos da metade de seus PV, em vez disso deve fazer  um teste de Fortitude. Se passar, sofre  o dano normal. Se falhar, seus PV são  reduzidos a –10. +2 PM: muda o alcance para curto.  Em vez de tocar no alvo, você dispara  um raio púrpura da ponta de seu dedo  indicador. +10 PM: muda o alcance para curto  e o alvo para inimigos no alcance. Em  vez de tocar no alvo, você dispara raios  púrpuras (Reflexos reduz à metade).",
+  "resistance": "veja texto"
+}

@@ -1,0 +1,261 @@
+// Tormenta20 APP — Prisma Schema
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+// ============================================================
+// RAÇAS
+// ============================================================
+
+model Race {
+  id        String        @id @default(cuid())
+  slug      String        @unique
+  name      String
+  bonusFor  Int           @default(0)
+  bonusDes  Int           @default(0)
+  bonusCon  Int           @default(0)
+  bonusInt  Int           @default(0)
+  bonusSab  Int           @default(0)
+  bonusCar  Int           @default(0)
+  abilities RaceAbility[]
+}
+
+model RaceAbility {
+  id          String @id @default(cuid())
+  name        String
+  description String
+  race        Race   @relation(fields: [raceId], references: [id], onDelete: Cascade)
+  raceId      String
+}
+
+// ============================================================
+// CLASSES
+// ============================================================
+
+model T20Class {
+  id            String         @id @default(cuid())
+  slug          String         @unique
+  name          String
+  pvInicial     Int
+  pvNivel       Int
+  pmNivel       Int
+  atributoChave String
+  abilities     ClassAbility[]
+  spells        ClassSpell[]
+}
+
+model ClassAbility {
+  id          String   @id @default(cuid())
+  name        String
+  description String
+  level       Int      @default(1)
+  class       T20Class @relation(fields: [classId], references: [id], onDelete: Cascade)
+  classId     String
+}
+
+model ClassSpell {
+  class   T20Class @relation(fields: [classId], references: [id], onDelete: Cascade)
+  classId String
+  spell   Spell    @relation(fields: [spellId], references: [id], onDelete: Cascade)
+  spellId String
+
+  @@id([classId, spellId])
+}
+
+// ============================================================
+// MAGIAS
+// ============================================================
+
+model Spell {
+  id          String       @id @default(cuid())
+  slug        String       @unique
+  name        String
+  circle      Int
+  type        String       // Arcana, Divina, Universal
+  school      String
+  execution   String
+  range       String
+  duration    String
+  target      String?
+  description  String
+  resistance   String?
+  area         String?
+  enhancements Json?        // Array of { cost, effect, requirement }
+  classes      ClassSpell[]
+}
+
+// ============================================================
+// PODERES
+// ============================================================
+
+model Power {
+  id           String  @id @default(cuid())
+  name         String
+  type         String  // Combate, Magia, Destino, Tormenta...
+  group        String? // Grupo/categoria do poder
+  prerequisites String?
+  description  String
+
+  @@unique([name, type])
+}
+
+// ============================================================
+// PERÍCIAS
+// ============================================================
+
+model Skill {
+  id                String  @id @default(cuid())
+  slug              String  @unique
+  name              String
+  attribute         String  // FOR, DES, CON, INT, SAB, CAR
+  trainedOnly       Boolean @default(false)
+  armorPenalty      Boolean @default(false)
+  description       String?
+}
+
+// ============================================================
+// ORIGENS
+// ============================================================
+
+model Origin {
+  id          String          @id @default(cuid())
+  slug        String          @unique
+  name        String
+  description String?
+  abilities   OriginAbility[]
+}
+
+model OriginAbility {
+  id          String @id @default(cuid())
+  name        String
+  description String
+  origin      Origin @relation(fields: [originId], references: [id], onDelete: Cascade)
+  originId    String
+}
+
+// ============================================================
+// DIVINDADES
+// ============================================================
+
+model Divinity {
+  id           String  @id @default(cuid())
+  slug         String  @unique
+  name         String
+  portfolio    String?
+  symbol       String?
+  alignment    String?
+  grantedPower String?
+  description  String?
+}
+
+// ============================================================
+// AMEAÇAS / MONSTROS
+// ============================================================
+
+model Threat {
+  id          String           @id @default(cuid())
+  slug        String           @unique
+  name        String
+  nd          String
+  type        String
+  size        String
+  role        String?
+  perception  Int?
+  initiative  Int?
+  defense     Int?
+  fortitude   Int?
+  reflexes    Int?
+  will        Int?
+  hp          Int?
+  mp          String?
+  speed       String?
+  rd          String?
+  fastHealing Int?
+  skills      String?
+  book        String?
+
+  attributes  ThreatAttribute?
+  attacks     ThreatAttack[]
+  abilities   ThreatAbility[]
+  immunities  ThreatImmunity[]
+}
+
+model ThreatAttribute {
+  id       String  @id @default(cuid())
+  for      Int?
+  des      Int?
+  con      Int?
+  int      Int?
+  sab      Int?
+  car      Int?
+  threat   Threat  @relation(fields: [threatId], references: [id], onDelete: Cascade)
+  threatId String  @unique
+}
+
+model ThreatAttack {
+  id       String  @id @default(cuid())
+  name     String
+  bonus    Int?
+  damage   String?
+  type     String?
+  threat   Threat  @relation(fields: [threatId], references: [id], onDelete: Cascade)
+  threatId String
+}
+
+model ThreatAbility {
+  id          String  @id @default(cuid())
+  name        String
+  description String?
+  type        String?
+  threat      Threat  @relation(fields: [threatId], references: [id], onDelete: Cascade)
+  threatId    String
+}
+
+model ThreatImmunity {
+  id       String @id @default(cuid())
+  value    String
+  threat   Threat @relation(fields: [threatId], references: [id], onDelete: Cascade)
+  threatId String
+}
+
+// ============================================================
+// EQUIPAMENTOS
+// ============================================================
+
+model Equipment {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  name        String
+  category    String  // Arma, Armadura, Item Geral
+  type        String?
+  description String?
+  price       Float?
+  weight      Float?
+  damage      String?
+  damageType  String?
+  critical    String?
+  range       String?
+  defense     Int?
+  penalty     Int?
+}
+
+// ============================================================
+// CONDIÇÕES
+// ============================================================
+
+model Condition {
+  id           String  @id @default(cuid())
+  slug         String  @unique
+  name         String
+  category     String
+  effect       String
+  stackingRule String?
+}
+

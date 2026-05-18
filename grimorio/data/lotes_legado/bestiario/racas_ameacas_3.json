@@ -1,0 +1,44 @@
+{
+    "tipo_objeto": "raca_jogador",
+    "lista_racas": [
+        {
+            "nome": "Moreau (12 Heranças)",
+            "atributos": "Varia por herança",
+            "habilidades": [
+                "Herança Animal (Voo, Mordida, Faro, etc.)",
+                "Considerado Humano"
+            ]
+        },
+        {
+            "nome": "Yidishan (Meio-Golem)",
+            "mods_atributo": {
+                "escolha_tres": 1,
+                "car": -2
+            },
+            "habilidades": [
+                "Híbrido Mecânico (Imunidades de Construto)",
+                "Natureza Orgânica (Poder Geral)",
+                "Peças Metálicas (+2 Defesa, -2 Armadura)"
+            ]
+        },
+        {
+            "nome": "Nagah",
+            "mods_atributo": {
+                "macho": "For/Des/Con +1",
+                "femea": "Int/Sab/Car +1"
+            },
+            "habilidades": [
+                "Arma Natural: Cauda",
+                "Inocência Dissimulada (Usa Enganação)",
+                "Fraqueza Ofídica (Frio)"
+            ]
+        },
+        {
+            "nome": "Soterrado (Variante Osteon)",
+            "habilidades": [
+                "Abraço Gélido (+2 Agarrar, +2 dano frio)",
+                "Esquife de Gelo (RD 5, Redução Frio 10, Fraqueza Fogo)"
+            ]
+        }
+    ]
+}

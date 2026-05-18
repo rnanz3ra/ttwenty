@@ -1,0 +1,12 @@
+{
+  "id": "dragão",
+  "name": "Dragão",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Evocação",
+  "execution": "duas rodadas;",
+  "range": "Curto",
+  "duration": "instantânea",
+  "description": "Esta é uma das mais poderosas magias de destruição existentes. Após  entoar longos cânticos, o conjurador  dispara uma carga de energia que varre uma enorme área à sua frente, causando 20d12 pontos de dano de essência em todas as criaturas, construções  e objetos livres atingidos. Sempre que  rola um resultado 12 em um dado de  dano, a magia causa +1d12 pontos de  dano. Apesar de seu poder destrutivo,  esta magia é lenta, tornando seu uso  difícil em combate. +1 PM: aumenta o dano em +1d",
+  "resistance": "Reflexos reduz à metade"
+}

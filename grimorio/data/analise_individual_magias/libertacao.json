@@ -1,0 +1,11 @@
+{
+  "id": "libertação",
+  "name": "Libertação",
+  "circle": 4,
+  "type": "Universal",
+  "school": "abjuração",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "cena",
+  "description": "O alvo fica imune a efeitos de movimento e ignora qualquer efeito que  impeça ou restrinja seu deslocamento. Por fim, pode usar habilidades  que exigem liberdade de movimentos mesmo se estiver usando armadura ou escudo. +2 PM: além do normal, o alvo pode  caminhar sobre a água ou outros líquidos com seu deslocamento normal. Entretanto, isso não protege contra qualquer efeito que o líquido possa  causar (o alvo pode andar sobre lava,  mas ainda vai sofrer dano). +2 PM: além do normal, você dissipa efeitos que restrinjam o movimento."
+}

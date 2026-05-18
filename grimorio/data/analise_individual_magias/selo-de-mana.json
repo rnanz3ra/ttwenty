@@ -1,0 +1,12 @@
+{
+  "id": "selo-de-mana",
+  "name": "Selo de Mana",
+  "circle": 3,
+  "type": "Universal",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "Seu toque manifesta um selo mágico  na pele do alvo, que atrapalha o fluxo  de mana. Pela duração da magia, sempre que o alvo realizar qualquer ação  que gaste PM, deve fazer um teste de  Vontade; se passar, faz a ação normalmente. Se falhar, a ação não tem efeito  (mas os PM são gastos mesmo assim). +4 PM: muda o alcance para curto e  o alvo para criaturas escolhidas dentro  do alcance. Requer 4º círculo.",
+  "resistance": "Vontade parcial"
+}

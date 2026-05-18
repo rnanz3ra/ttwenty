@@ -1,0 +1,52 @@
+{
+    "sistema": {
+        "atributos_base": {
+            "Força": "Potência física, Atletismo, Luta, Dano corpo-a-corpo e Carga.",
+            "Destreza": "Agilidade, Defesa, Iniciativa, Reflexos, Pontaria e perícias de destreza.",
+            "Constituição": "Saúde, Pontos de Vida e Fortitude.",
+            "Inteligência": "Raciocínio, Perícias Treinadas e Misticismo.",
+            "Sabedoria": "Percepção, Vontade e Intuição.",
+            "Carisma": "Influência, Diplomacia e habilidades sociais."
+        },
+        "tabela_custo_atributos": [
+            {
+                "valor": -2,
+                "custo": null
+            },
+            {
+                "valor": -1,
+                "custo": -1
+            },
+            {
+                "valor": 0,
+                "custo": 0
+            },
+            {
+                "valor": 1,
+                "custo": 1
+            },
+            {
+                "valor": 2,
+                "custo": 2
+            },
+            {
+                "valor": 3,
+                "custo": 4
+            },
+            {
+                "valor": 4,
+                "custo": 7
+            }
+        ],
+        "atributos_minimos": {
+            "For_Des": "Menor que -5: Paralisado",
+            "Con": "Menor que -5: Morre",
+            "Int_Sab": "Menor que -5: Inconsciente",
+            "Car": "Menor que -5: Torna-se NPC"
+        },
+        "progressao_nivel": {
+            "bonus_pericia": "Metade do Nível (Nivel/2)",
+            "treinamento": "Nível 1-6: +2 | Nível 7-14: +4 | Nível 15-20: +6"
+        }
+    }
+}

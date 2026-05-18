@@ -1,0 +1,32 @@
+{
+    "regras_inventario": {
+        "moedas": {
+            "T$": "Tibar de Prata (Padrão)",
+            "TC": "Tibar de Cobre (0,1 T$)",
+            "TO": "Tibar de Ouro (10 T$)",
+            "peso_moeda": "1.000 moedas ocupam 1 espaço"
+        },
+        "carga": {
+            "capacidade_base": "10 espaços + 2 por ponto de Força",
+            "forca_negativa": "Reduz 1 espaço por ponto negativo",
+            "sobrecarga": {
+                "condicao": "Exceder a carga máxima",
+                "penalidades": {
+                    "deslocamento": "-3",
+                    "pericias": -5
+                }
+            },
+            "limite_maximo": "Dobro da carga máxima"
+        },
+        "limite_uso": {
+            "empunhados": "Máximo 2 (um em cada mão)",
+            "vestidos": "Máximo 4 com benefícios mecânicos"
+        },
+        "tabela_espacos_excecao": {
+            "itens_alquimicos_pocoes_pergaminhos": 0.5,
+            "armas_duas_maos_armadura_leve_escudo_pesado": 2,
+            "armadura_pesada_criatura_pequena_baul": 5,
+            "criatura_media": 10
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "regras_parceiros": {
+        "limites": "Iniciante: 1 parceiro | Veterano: 2 parceiros | Lenda: 3 parceiros.",
+        "tipos": [
+            {
+                "tipo": "Adepto",
+                "beneficio": "Redução de mana em magias (-1 PM Iniciante/-2 PM Veterano)."
+            },
+            {
+                "tipo": "Assassino",
+                "beneficio": "Dano extra de Ataque Furtivo (+1d6 a +2d6)."
+            },
+            {
+                "tipo": "Combatente",
+                "beneficio": "Bônus em testes de ataque (+2 a +4)."
+            },
+            {
+                "tipo": "Guardião",
+                "beneficio": "Bônus na Defesa (+2 a +4) e resistências."
+            }
+        ],
+        "montaria_regras": {
+            "teste": "Cavalgar CD 10 por turno para guiar (automático se treinado).",
+            "falha": "Cai da montaria e sofre 1d6 de dano."
+        }
+    }
+}

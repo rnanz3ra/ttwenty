@@ -1,0 +1,348 @@
+[
+    {
+        "nome": "Bandido Comum",
+        "nd": "1/4",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 6,
+        "defesa": 13,
+        "habilidades": [
+            "Furtividade +5"
+        ]
+    },
+    {
+        "nome": "Bandido Ligeiro",
+        "nd": "1/2",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 9,
+        "defesa": 15,
+        "habilidades": [
+            "Funda +9"
+        ]
+    },
+    {
+        "nome": "Bandido Selvagem",
+        "nd": "1",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 12,
+        "defesa": 16,
+        "habilidades": [
+            "Arremesso de Emboscada"
+        ]
+    },
+    {
+        "nome": "Capanga",
+        "nd": "1/2",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 7,
+        "defesa": 13,
+        "habilidades": [
+            "Ímpeto Agressor (+1d10 no primeiro ataque)"
+        ]
+    },
+    {
+        "nome": "Jagunço",
+        "nd": "2",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 21,
+        "defesa": 18,
+        "habilidades": [
+            "Imunidade a medo",
+            "Saque Rápido",
+            "Usa Pistola"
+        ]
+    },
+    {
+        "nome": "Capanga Minotauro",
+        "nd": "3",
+        "tipo": "Humanoide (minotauro) Médio",
+        "pv": 35,
+        "defesa": 22,
+        "habilidades": [
+            "Faro",
+            "Medo de Altura"
+        ]
+    },
+    {
+        "nome": "Chefe Bandido",
+        "nd": "1",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 30,
+        "defesa": 16,
+        "habilidades": [
+            "Ataque Furtivo +2d6"
+        ]
+    },
+    {
+        "nome": "Chefe de Gangue",
+        "nd": "2",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 63,
+        "defesa": 19,
+        "habilidades": [
+            "Ordens (+2 perícia para aliados)",
+            "Resistência a medo +5"
+        ]
+    },
+    {
+        "nome": "Chefe de Quadrilha",
+        "nd": "4",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 120,
+        "defesa": 22,
+        "habilidades": [
+            "Tropas Dispensáveis (Passa dano para aliado)",
+            "Ataque Furtivo +3d6"
+        ]
+    },
+    {
+        "nome": "Sacerdote de Hyninn",
+        "nd": "2",
+        "tipo": "Humanoide (goblin) Pequeno",
+        "pv": 49,
+        "pm": 28,
+        "defesa": 17,
+        "habilidades": [
+            "Bênção do Gatuno",
+            "Forma de Macaco",
+            "Malandragem Divina"
+        ],
+        "magias": [
+            "Arma Espiritual",
+            "Curar Ferimentos",
+            "Despedaçar"
+        ]
+    },
+    {
+        "nome": "Alto Sacerdote de Hyninn",
+        "nd": "8",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 175,
+        "pm": 60,
+        "defesa": 30,
+        "habilidades": [
+            "Fé na Sorte (RD metade)",
+            "Enxame de Pestes"
+        ],
+        "magias": [
+            "Círculo da Justiça",
+            "Dissipar Magia",
+            "Velocidade"
+        ]
+    },
+    {
+        "nome": "Devoto de Hyninn Manhoso",
+        "nd": "1/2",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 12,
+        "defesa": 13,
+        "habilidades": [
+            "No Bolso Dói Mais (Rouba Tibares)",
+            "Truque de Espelhos"
+        ]
+    },
+    {
+        "nome": "Devoto de Hyninn Simão",
+        "nd": "1",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 26,
+        "defesa": 15,
+        "habilidades": [
+            "No Bolso Dói Mais",
+            "Truque de Espelhos"
+        ]
+    },
+    {
+        "nome": "Devoto de Hyninn Velhaco",
+        "nd": "4",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 88,
+        "defesa": 22,
+        "habilidades": [
+            "Malandríssimo (Inimigo perde 3 PM)",
+            "No Bolso Dói Mais"
+        ]
+    },
+    {
+        "nome": "Gatuno",
+        "nd": "1",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 25,
+        "defesa": 14,
+        "habilidades": [
+            "Pancada na Cabeça",
+            "Sombra (Sem penalidade de movimento)"
+        ]
+    },
+    {
+        "nome": "Gatuno Mestre",
+        "nd": "3",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 68,
+        "defesa": 19,
+        "habilidades": [
+            "Bomba de Fumaça",
+            "Evasão",
+            "Pancada na Cabeça"
+        ]
+    },
+    {
+        "nome": "Duplo (Doppelganger)",
+        "nd": "4",
+        "tipo": "Humanoide (duplo) Médio",
+        "pv": 143,
+        "defesa": 21,
+        "habilidades": [
+            "Detectar Pensamentos",
+            "Mudar Forma (Metamorfose Física)",
+            "Cura Acelerada 5"
+        ]
+    },
+    {
+        "nome": "Iniciado da Agonia (Aharadak)",
+        "nd": "3",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 28,
+        "pm": 28,
+        "defesa": 20,
+        "habilidades": [
+            "Júbilo na Dor (RD cumulativa ao sofrer dano)"
+        ],
+        "magias": [
+            "Infligir Ferimentos",
+            "Perdição"
+        ]
+    },
+    {
+        "nome": "Sacerdote da Agonia",
+        "nd": "9",
+        "tipo": "Humanoide (humano) Médio",
+        "pv": 192,
+        "pm": 61,
+        "defesa": 32,
+        "habilidades": [
+            "Apetite por Destruição (Suga vida em área)",
+            "Júbilo na Dor"
+        ],
+        "magias": [
+            "Enxame Rubro de Ichabod",
+            "Miasma Mefítico"
+        ]
+    },
+    {
+        "nome": "Aspecto de Aharadak",
+        "nd": "10",
+        "tipo": "Monstro (lefeu) Grande",
+        "pv": 472,
+        "defesa": 38,
+        "habilidades": [
+            "Cuspir Enxame",
+            "Engolir",
+            "Sangue Ácido",
+            "Insanidade da Tormenta"
+        ]
+    },
+    {
+        "nome": "Fanático Lefou",
+        "nd": "5",
+        "tipo": "Monstro (lefou) Médio",
+        "pv": 55,
+        "defesa": 23,
+        "habilidades": [
+            "Frenesi Insano",
+            "Mente Aberrante",
+            "Sangue Ácido"
+        ]
+    },
+    {
+        "nome": "Líder Fanático Lefou",
+        "nd": "8",
+        "tipo": "Monstro (lefou) Médio",
+        "pv": 90,
+        "defesa": 33,
+        "habilidades": [
+            "Voo 21m",
+            "Frenesi Insano",
+            "Mente Aberrante"
+        ]
+    },
+    {
+        "nome": "Reishid",
+        "nd": "8",
+        "tipo": "Monstro (lefeu) Médio",
+        "pv": 295,
+        "defesa": 37,
+        "habilidades": [
+            "Ataque em Movimento",
+            "Ataque Reflexo",
+            "Sombra Rubra (Rola 2 dados)",
+            "Veneno Paralisante"
+        ]
+    },
+    {
+        "nome": "Reishid Líder de Culto",
+        "nd": "12",
+        "tipo": "Monstro (lefeu) Médio",
+        "pv": 483,
+        "pm": 66,
+        "defesa": 47,
+        "habilidades": [
+            "Magia Acelerada",
+            "Veneno",
+            "Sombra Rubra"
+        ],
+        "magias": [
+            "Anular a Luz",
+            "Comando",
+            "Marca da Obediência"
+        ]
+    },
+    {
+        "nome": "Senhor do Gigante Rubro (Inicial)",
+        "nd": "9",
+        "tipo": "Monstro Grande",
+        "pv": 340,
+        "defesa": 34,
+        "habilidades": [
+            "Carapaça Espinhosa",
+            "Desembarcar (Piloto sai da armadura)",
+            "Zunido Enlouquecedor"
+        ]
+    },
+    {
+        "nome": "Senhor do Gigante Rubro (Final)",
+        "nd": "16",
+        "tipo": "Monstro (lefeu) Grande",
+        "pv": 850,
+        "defesa": 55,
+        "habilidades": [
+            "Armamento Rubro",
+            "Dilacerar",
+            "Morte dos Céus",
+            "Teia Corrosiva"
+        ]
+    },
+    {
+        "nome": "Zyrrinaz",
+        "nd": "5",
+        "tipo": "Monstro (lefeu) Médio",
+        "pv": 41,
+        "defesa": 24,
+        "habilidades": [
+            "Flechas da Anticriação (Ignora RD e Cobertura)",
+            "Insanidade da Tormenta"
+        ]
+    },
+    {
+        "nome": "Avatar de Aharadak",
+        "nd": "S",
+        "tipo": "Monstro (lefeu) Colossal",
+        "pv": 2804,
+        "defesa": 70,
+        "habilidades": [
+            "Presença da Tormenta",
+            "Definhamento",
+            "Tempestade Elétrica",
+            "Pesadelos Reais"
+        ]
+    }
+]

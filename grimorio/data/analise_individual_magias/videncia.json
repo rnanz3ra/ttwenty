@@ -1,0 +1,12 @@
+{
+  "id": "vidência",
+  "name": "Vidência",
+  "circle": 3,
+  "type": "Universal",
+  "school": "Adivinhação",
+  "execution": "completa;",
+  "range": "ilimitado;",
+  "duration": "sustentada",
+  "description": "Através de uma superfície reflexiva (bacia de água benta para clérigos,  lago para druidas, bola de cristal para  magos, espelho para feiticeiros etc.)  você pode ver e ouvir uma criatura escolhida e seus arredores (cerca de 6m  em qualquer direção), mesmo que ela  se mova. O alvo pode estar a qualquer  distância, mas se passar em um teste  de Vontade, a magia falha. A vítima recebe bônus ou penalidades em seu teste de resistência, dependendo do conhecimento que você tiver dela. • Nãoode ser usada se a área for escura.",
+  "resistance": "Vontade anula"
+}

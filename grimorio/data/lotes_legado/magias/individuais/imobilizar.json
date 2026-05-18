@@ -1,0 +1,11 @@
+{
+  "id": "imobilizar",
+  "name": "Imobilizar",
+  "circle": 3,
+  "type": "Universal",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "Instantânea",
+  "description": "Alvo: 1 humanoide ou animal; Duração: cena; Resistência: Vontade parcial. O alvo fica paralisado; se passar na resistência, em vez disso fica lento. A  cada rodada, pode gastar uma ação  completa para fazer um novo teste de  Vontade. Se passar, se liberta do efeito.  +1 PM: muda o alvo para 1 espírito. +2 PM: aumenta o número de alvos  em +1.  +3 PM: muda o alvo para 1 criatura.  Requer 4º círculo."
+}

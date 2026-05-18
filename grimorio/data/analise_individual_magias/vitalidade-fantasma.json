@@ -1,0 +1,11 @@
+{
+  "id": "vitalidade-fantasma",
+  "name": "Vitalidade Fantasma",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "instantânea",
+  "description": "Você suga energia vital da terra, recebendo 2d10 pontos de vida temporários. Os PV temporários desaparecem  ao final da cena. +2 PM: aumenta os PV temporários  recebidos em +1d10. Caso a magia  cause dano, em vez disso aumenta o  dano causado em +1d10. +5 PM: muda o alvo para área: esfera com 6m de raio centrada em você  e a resistência para Fortitude reduz  à metade. Em vez do normal, você  suga energia das criaturas vivas na  área, causando 1d10 pontos de dano  de trevas e recebendo PV temporários iguais à metade do dano causado."
+}

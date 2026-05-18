@@ -1,0 +1,958 @@
+{
+  "_meta": {
+    "versao": "1.0.0",
+    "fonte": "Tormenta 20 — Edição Jogo do Ano"
+  },
+  "weapons": [
+    {
+      "id": "adaga",
+      "nome": "Adaga",
+      "categoria": "simples",
+      "dano": "1d4",
+      "critico": "19/x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 2,
+      "tags": [
+        "leve",
+        "arremesso"
+      ]
+    },
+    {
+      "id": "clava",
+      "nome": "Clava",
+      "categoria": "simples",
+      "dano": "1d6",
+      "critico": "x2",
+      "tipo_dano": "impacto",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 1,
+      "tags": []
+    },
+    {
+      "id": "faca",
+      "nome": "Faca",
+      "categoria": "simples",
+      "dano": "1d3",
+      "critico": "19/x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 1,
+      "tags": [
+        "leve",
+        "arremesso"
+      ]
+    },
+    {
+      "id": "foice",
+      "nome": "Foice",
+      "categoria": "simples",
+      "dano": "1d6",
+      "critico": "x3",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 2,
+      "tags": []
+    },
+    {
+      "id": "maça",
+      "nome": "Maça",
+      "categoria": "simples",
+      "dano": "1d8",
+      "critico": "x2",
+      "tipo_dano": "impacto",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 12,
+      "tags": []
+    },
+    {
+      "id": "machadinha",
+      "nome": "Machadinha",
+      "categoria": "simples",
+      "dano": "1d6",
+      "critico": "x3",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 6,
+      "tags": [
+        "arremesso"
+      ]
+    },
+    {
+      "id": "bordao",
+      "nome": "Bordão",
+      "categoria": "simples",
+      "dano": "1d6",
+      "critico": "x2",
+      "tipo_dano": "impacto",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 1,
+      "tags": [
+        "duas-maos"
+      ]
+    },
+    {
+      "id": "lanca",
+      "nome": "Lança",
+      "categoria": "simples",
+      "dano": "1d6",
+      "critico": "x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 3,
+      "tags": [
+        "arremesso"
+      ]
+    },
+    {
+      "id": "azagaia",
+      "nome": "Azagaia",
+      "categoria": "simples",
+      "dano": "1d6",
+      "critico": "x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "curto",
+      "espacos": 1,
+      "preco_to": 1,
+      "tags": [
+        "arremesso"
+      ]
+    },
+    {
+      "id": "besta-leve",
+      "nome": "Besta Leve",
+      "categoria": "simples",
+      "dano": "1d8",
+      "critico": "19/x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "medio",
+      "espacos": 2,
+      "preco_to": 35,
+      "tags": [
+        "distancia"
+      ]
+    },
+    {
+      "id": "funda",
+      "nome": "Funda",
+      "categoria": "simples",
+      "dano": "1d6",
+      "critico": "x2",
+      "tipo_dano": "impacto",
+      "alcance": "medio",
+      "espacos": 1,
+      "preco_to": 1,
+      "tags": [
+        "distancia"
+      ]
+    },
+    {
+      "id": "arco-curto",
+      "nome": "Arco Curto",
+      "categoria": "simples",
+      "dano": "1d6",
+      "critico": "x3",
+      "tipo_dano": "perfuracao",
+      "alcance": "medio",
+      "espacos": 2,
+      "preco_to": 30,
+      "tags": [
+        "distancia",
+        "duas-maos"
+      ]
+    },
+    {
+      "id": "espada-curta",
+      "nome": "Espada Curta",
+      "categoria": "marcial",
+      "dano": "1d6",
+      "critico": "19/x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 10,
+      "tags": [
+        "leve",
+        "agil"
+      ]
+    },
+    {
+      "id": "espada-longa",
+      "nome": "Espada Longa",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "19/x2",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 30,
+      "tags": []
+    },
+    {
+      "id": "espada-bastarda",
+      "nome": "Espada Bastarda",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "19/x2",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 35,
+      "tags": [
+        "duas-maos-opcional"
+      ]
+    },
+    {
+      "id": "montante",
+      "nome": "Montante",
+      "categoria": "marcial",
+      "dano": "2d6",
+      "critico": "19/x2",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 50,
+      "tags": [
+        "duas-maos"
+      ]
+    },
+    {
+      "id": "machado",
+      "nome": "Machado de Batalha",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "x3",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 10,
+      "tags": []
+    },
+    {
+      "id": "machado-grande",
+      "nome": "Machado Grande",
+      "categoria": "marcial",
+      "dano": "1d12",
+      "critico": "x3",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 20,
+      "tags": [
+        "duas-maos"
+      ]
+    },
+    {
+      "id": "martelo-guerra",
+      "nome": "Martelo de Guerra",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "x3",
+      "tipo_dano": "impacto",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 12,
+      "tags": []
+    },
+    {
+      "id": "marreta",
+      "nome": "Marreta",
+      "categoria": "marcial",
+      "dano": "2d6",
+      "critico": "x3",
+      "tipo_dano": "impacto",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 10,
+      "tags": [
+        "duas-maos"
+      ]
+    },
+    {
+      "id": "mangual",
+      "nome": "Mangual",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "19/x2",
+      "tipo_dano": "impacto",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 15,
+      "tags": []
+    },
+    {
+      "id": "picareta",
+      "nome": "Picareta",
+      "categoria": "marcial",
+      "dano": "1d6",
+      "critico": "x4",
+      "tipo_dano": "perfuracao",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 8,
+      "tags": []
+    },
+    {
+      "id": "tridente",
+      "nome": "Tridente",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 15,
+      "tags": [
+        "arremesso"
+      ]
+    },
+    {
+      "id": "lanca-longa",
+      "nome": "Lança Longa",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "x3",
+      "tipo_dano": "perfuracao",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 10,
+      "tags": [
+        "duas-maos",
+        "alcance"
+      ]
+    },
+    {
+      "id": "glaive",
+      "nome": "Glaive",
+      "categoria": "marcial",
+      "dano": "1d10",
+      "critico": "x3",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 20,
+      "tags": [
+        "duas-maos",
+        "alcance"
+      ]
+    },
+    {
+      "id": "alabarda",
+      "nome": "Alabarda",
+      "categoria": "marcial",
+      "dano": "1d10",
+      "critico": "x3",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 10,
+      "tags": [
+        "duas-maos",
+        "alcance"
+      ]
+    },
+    {
+      "id": "corrente-espinhos",
+      "nome": "Corrente de Espinhos",
+      "categoria": "marcial",
+      "dano": "2d4",
+      "critico": "x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "corpo-a-corpo",
+      "espacos": 1,
+      "preco_to": 25,
+      "tags": [
+        "especial"
+      ]
+    },
+    {
+      "id": "katana",
+      "nome": "Katana",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "18/x2",
+      "tipo_dano": "corte",
+      "alcance": "corpo-a-corpo",
+      "espacos": 2,
+      "preco_to": 40,
+      "tags": [
+        "agil",
+        "duas-maos-opcional"
+      ]
+    },
+    {
+      "id": "arco-longo",
+      "nome": "Arco Longo",
+      "categoria": "marcial",
+      "dano": "1d8",
+      "critico": "x3",
+      "tipo_dano": "perfuracao",
+      "alcance": "longo",
+      "espacos": 2,
+      "preco_to": 75,
+      "tags": [
+        "distancia",
+        "duas-maos"
+      ]
+    },
+    {
+      "id": "besta-pesada",
+      "nome": "Besta Pesada",
+      "categoria": "marcial",
+      "dano": "1d10",
+      "critico": "19/x2",
+      "tipo_dano": "perfuracao",
+      "alcance": "longo",
+      "espacos": 2,
+      "preco_to": 50,
+      "tags": [
+        "distancia",
+        "duas-maos"
+      ]
+    },
+    {
+      "id": "pistola",
+      "nome": "Pistola",
+      "categoria": "arma-de-fogo",
+      "dano": "1d8",
+      "critico": "x3",
+      "tipo_dano": "perfuracao",
+      "alcance": "curto",
+      "espacos": 1,
+      "preco_to": 500,
+      "tags": [
+        "distancia",
+        "barulhenta"
+      ]
+    },
+    {
+      "id": "rifle",
+      "nome": "Rifle",
+      "categoria": "arma-de-fogo",
+      "dano": "2d8",
+      "critico": "x3",
+      "tipo_dano": "perfuracao",
+      "alcance": "longo",
+      "espacos": 2,
+      "preco_to": 2000,
+      "tags": [
+        "distancia",
+        "barulhenta",
+        "duas-maos"
+      ]
+    },
+    {
+      "id": "rede",
+      "nome": "Rede",
+      "categoria": "marcial",
+      "dano": "—",
+      "critico": "—",
+      "tipo_dano": "especial",
+      "alcance": "curto",
+      "espacos": 1,
+      "preco_to": 20,
+      "tags": [
+        "distancia",
+        "enredar"
+      ]
+    }
+  ],
+  "armors": [
+    {
+      "id": "couro",
+      "nome": "Couro",
+      "tipo": "leve",
+      "bonus_ca": 2,
+      "penalidade": 0,
+      "des_max": null,
+      "preco_to": 10,
+      "espacos": 2
+    },
+    {
+      "id": "couro-batido",
+      "nome": "Couro Batido",
+      "tipo": "leve",
+      "bonus_ca": 3,
+      "penalidade": -1,
+      "des_max": null,
+      "preco_to": 25,
+      "espacos": 2
+    },
+    {
+      "id": "cota-malha",
+      "nome": "Cota de Malha",
+      "tipo": "pesada",
+      "bonus_ca": 4,
+      "penalidade": -2,
+      "des_max": 2,
+      "preco_to": 150,
+      "espacos": 3
+    },
+    {
+      "id": "placas",
+      "nome": "Armadura de Placas",
+      "tipo": "pesada",
+      "bonus_ca": 6,
+      "penalidade": -4,
+      "des_max": 1,
+      "preco_to": 600,
+      "espacos": 4
+    },
+    {
+      "id": "placas-completa",
+      "nome": "Placas Completas",
+      "tipo": "pesada",
+      "bonus_ca": 8,
+      "penalidade": -6,
+      "des_max": 0,
+      "preco_to": 1500,
+      "espacos": 4
+    },
+    {
+      "id": "escamas",
+      "nome": "Armadura de Escamas",
+      "tipo": "pesada",
+      "bonus_ca": 5,
+      "penalidade": -3,
+      "des_max": 2,
+      "preco_to": 200,
+      "espacos": 3
+    },
+    {
+      "id": "brigantina",
+      "nome": "Brigantina",
+      "tipo": "pesada",
+      "bonus_ca": 4,
+      "penalidade": -2,
+      "des_max": 2,
+      "preco_to": 100,
+      "espacos": 3
+    }
+  ],
+  "shields": [
+    {
+      "id": "escudo-leve",
+      "nome": "Escudo Leve",
+      "bonus_ca": 1,
+      "penalidade": 0,
+      "preco_to": 5,
+      "espacos": 1
+    },
+    {
+      "id": "escudo-pesado",
+      "nome": "Escudo Pesado",
+      "bonus_ca": 2,
+      "penalidade": -1,
+      "preco_to": 20,
+      "espacos": 1
+    },
+    {
+      "id": "escudo-torre",
+      "nome": "Escudo Torre",
+      "bonus_ca": 4,
+      "penalidade": -4,
+      "preco_to": 30,
+      "espacos": 2,
+      "notas": "Penalidade dupla em ataques. Cobertura total ao agachar."
+    }
+  ],
+  "general_items": [
+    {
+      "id": "corda-15m",
+      "nome": "Corda (15m)",
+      "preco_to": 1,
+      "espacos": 1,
+      "descricao": "Corda resistente de fibra. Suporta até 250kg."
+    },
+    {
+      "id": "tocha",
+      "nome": "Tocha",
+      "preco_to": 1,
+      "espacos": 0,
+      "descricao": "Ilumina 9m por 1 hora."
+    },
+    {
+      "id": "lanterna",
+      "nome": "Lanterna",
+      "preco_to": 10,
+      "espacos": 1,
+      "descricao": "Ilumina 9m por 6 horas com 1 frasco de óleo."
+    },
+    {
+      "id": "oleo",
+      "nome": "Óleo (frasco)",
+      "preco_to": 1,
+      "espacos": 1,
+      "descricao": "Combustível para lanterna. Também pode ser usado como arma de fogo."
+    },
+    {
+      "id": "racao",
+      "nome": "Ração de Viagem (7 dias)",
+      "preco_to": 5,
+      "espacos": 1,
+      "descricao": "Alimento seco suficiente para uma pessoa por 7 dias."
+    },
+    {
+      "id": "algemas",
+      "nome": "Algemas",
+      "preco_to": 15,
+      "espacos": 1,
+      "descricao": "Resistência a dano 10. CD 25 de Força para quebrar."
+    },
+    {
+      "id": "kit-cura",
+      "nome": "Kit de Cura",
+      "preco_to": 10,
+      "espacos": 1,
+      "descricao": "Permite usar Cura para primeiros socorros. 10 usos."
+    },
+    {
+      "id": "grimorio",
+      "nome": "Grimório",
+      "preco_to": 25,
+      "espacos": 1,
+      "descricao": "Livro de magias para arcanistas."
+    },
+    {
+      "id": "simbolo-sagrado",
+      "nome": "Símbolo Sagrado",
+      "preco_to": 5,
+      "espacos": 1,
+      "descricao": "Necessário para feiticeiros divinos canalizarem magia."
+    },
+    {
+      "id": "foco-arcano",
+      "nome": "Foco Arcano",
+      "preco_to": 20,
+      "espacos": 1,
+      "descricao": "Substitui componentes materiais em magias arcanas."
+    },
+    {
+      "id": "escada-3m",
+      "nome": "Escada (3m)",
+      "preco_to": 2,
+      "espacos": 4,
+      "descricao": "Escada portátil de madeira."
+    },
+    {
+      "id": "pe-de-cabra",
+      "nome": "Pé de Cabra",
+      "preco_to": 2,
+      "espacos": 1,
+      "descricao": "+2 em testes de Atletismo para forçar objetos."
+    },
+    {
+      "id": "kit-ferramentas",
+      "nome": "Kit de Ferramentas",
+      "preco_to": 25,
+      "espacos": 2,
+      "descricao": "Ferramentas para um Ofício específico (escolha qual)."
+    },
+    {
+      "id": "kit-ladinagem",
+      "nome": "Kit de Ladinagem",
+      "preco_to": 30,
+      "espacos": 1,
+      "descricao": "Necessário para usar Ladinagem. 10 usos."
+    },
+    {
+      "id": "luneta",
+      "nome": "Luneta",
+      "preco_to": 500,
+      "espacos": 1,
+      "descricao": "Dobra o alcance visual. +2 em Percepção a longa distância."
+    },
+    {
+      "id": "espelho",
+      "nome": "Espelho de Bolso",
+      "preco_to": 10,
+      "espacos": 0,
+      "descricao": "Pequeno espelho de metal polido."
+    },
+    {
+      "id": "tenda",
+      "nome": "Tenda (2 pessoas)",
+      "preco_to": 10,
+      "espacos": 2,
+      "descricao": "Abrigo portátil para 2 pessoas."
+    },
+    {
+      "id": "saco-dormir",
+      "nome": "Saco de Dormir",
+      "preco_to": 1,
+      "espacos": 1,
+      "descricao": "Proteção contra o frio durante o descanso."
+    },
+    {
+      "id": "sinete",
+      "nome": "Sinete",
+      "preco_to": 5,
+      "espacos": 0,
+      "descricao": "Anel com brasão para selar cartas oficiais."
+    },
+    {
+      "id": "vela",
+      "nome": "Vela",
+      "preco_to": 1,
+      "espacos": 0,
+      "descricao": "Ilumina 1,5m por 1 hora."
+    }
+  ],
+  "alchemical_items": [
+    {
+      "id": "agua-benta",
+      "nome": "Água Benta",
+      "preco_to": 25,
+      "espacos": 1,
+      "efeito": "Causa 2d6 de dano de luz em mortos-vivos e elfos das trevas. Arremesso, alcance curto."
+    },
+    {
+      "id": "oleo-ardente",
+      "nome": "Óleo Ardente",
+      "preco_to": 10,
+      "espacos": 1,
+      "efeito": "Arremesso. Alvo em alcance curto sofre 1d6 de dano de fogo imediato e 1d6 na próxima rodada."
+    },
+    {
+      "id": "bomba-fumaraca",
+      "nome": "Bomba de Fumaraça",
+      "preco_to": 25,
+      "espacos": 1,
+      "efeito": "Cria nuvem de fumaça em raio de 3m por 1 minuto. Criaturas na área ficam camufladas."
+    },
+    {
+      "id": "po-sono",
+      "nome": "Pó de Sono",
+      "preco_to": 50,
+      "espacos": 1,
+      "efeito": "Cone de 3m. Criaturas afetadas devem passar em Fortitude (CD 15) ou dormir por 1 minuto."
+    },
+    {
+      "id": "antidoto",
+      "nome": "Antídoto",
+      "preco_to": 50,
+      "espacos": 1,
+      "efeito": "+5 em testes de Fortitude contra venenos por 1 hora. Também cura uma condição de veneno ativo."
+    },
+    {
+      "id": "elixir-cura-menor",
+      "nome": "Elixir de Cura Menor",
+      "preco_to": 25,
+      "espacos": 1,
+      "efeito": "Cura 2d6+2 PV como ação de movimento."
+    },
+    {
+      "id": "elixir-cura-moderado",
+      "nome": "Elixir de Cura Moderado",
+      "preco_to": 100,
+      "espacos": 1,
+      "efeito": "Cura 4d6+4 PV como ação de movimento."
+    },
+    {
+      "id": "elixir-cura-maior",
+      "nome": "Elixir de Cura Maior",
+      "preco_to": 500,
+      "espacos": 1,
+      "efeito": "Cura 8d6+8 PV como ação de movimento."
+    },
+    {
+      "id": "veneno-basilisco",
+      "nome": "Veneno de Basilisco",
+      "preco_to": 300,
+      "espacos": 1,
+      "efeito": "Aplicado na arma. Alvo atingido deve passar em Fortitude (CD 20) ou fica petrificado por 1 rodada."
+    },
+    {
+      "id": "veneno-sono",
+      "nome": "Veneno de Sono",
+      "preco_to": 100,
+      "espacos": 1,
+      "efeito": "Aplicado na arma. Alvo atingido deve passar em Fortitude (CD 18) ou dorme por 1d4 minutos."
+    },
+    {
+      "id": "veneno-fraqueza",
+      "nome": "Veneno da Fraqueza",
+      "preco_to": 75,
+      "espacos": 1,
+      "efeito": "Aplicado na arma. Fortitude (CD 16) ou –2 em testes de Força por 1 hora."
+    },
+    {
+      "id": "po-itching",
+      "nome": "Pó da Coceira",
+      "preco_to": 30,
+      "espacos": 1,
+      "efeito": "Arremesso. Alvo em alcance curto deve passar em Fortitude (CD 13) ou fica fatigado por 1d4 rodadas."
+    },
+    {
+      "id": "granada-raio",
+      "nome": "Granada de Raio",
+      "preco_to": 150,
+      "espacos": 1,
+      "efeito": "Arremesso. Explode em raio 3m. Todos sofrem 3d6 de dano de eletricidade (Reflexos CD 15, metade)."
+    },
+    {
+      "id": "bomba-acida",
+      "nome": "Bomba Ácida",
+      "preco_to": 75,
+      "espacos": 1,
+      "efeito": "Arremesso. Alvo sofre 2d6 de dano ácido imediato e 1d6 ácido por mais 2 rodadas."
+    },
+    {
+      "id": "po-cegante",
+      "nome": "Pó Cegante",
+      "preco_to": 40,
+      "espacos": 1,
+      "efeito": "Arremesso. Fortitude (CD 14) ou fica cego por 1d4 rodadas."
+    }
+  ],
+  "superior_modifications": [
+    {
+      "id": "acurada",
+      "nome": "Acurada",
+      "custo_base_to": 500,
+      "fator_multiplicador": 2,
+      "efeito": "Aumenta a margem de ameaça da arma em 1 (ex: 20 passa a 19–20)."
+    },
+    {
+      "id": "agil",
+      "nome": "Ágil",
+      "custo_base_to": 300,
+      "fator_multiplicador": 2,
+      "efeito": "A arma passa a ter a tag Ágil (usa DES em vez de FOR para ataque e dano)."
+    },
+    {
+      "id": "balistica",
+      "nome": "Balística",
+      "custo_base_to": 500,
+      "fator_multiplicador": 2,
+      "efeito": "Aumenta o alcance da arma em uma categoria."
+    },
+    {
+      "id": "brutal",
+      "nome": "Brutal",
+      "custo_base_to": 400,
+      "fator_multiplicador": 2,
+      "efeito": "Aumenta o multiplicador de crítico em 1."
+    },
+    {
+      "id": "corrosiva",
+      "nome": "Corrosiva",
+      "custo_base_to": 1000,
+      "fator_multiplicador": 3,
+      "efeito": "A arma causa +1d6 de dano ácido."
+    },
+    {
+      "id": "flamejante",
+      "nome": "Flamejante",
+      "custo_base_to": 1000,
+      "fator_multiplicador": 3,
+      "efeito": "A arma causa +1d6 de dano de fogo."
+    },
+    {
+      "id": "gélida",
+      "nome": "Gélida",
+      "custo_base_to": 1000,
+      "fator_multiplicador": 3,
+      "efeito": "A arma causa +1d6 de dano de frio."
+    },
+    {
+      "id": "elétrica",
+      "nome": "Elétrica",
+      "custo_base_to": 1000,
+      "fator_multiplicador": 3,
+      "efeito": "A arma causa +1d6 de dano de eletricidade."
+    },
+    {
+      "id": "ultrassônica",
+      "nome": "Ultrassônica",
+      "custo_base_to": 1000,
+      "fator_multiplicador": 3,
+      "efeito": "A arma causa +1d6 de dano de trovão."
+    },
+    {
+      "id": "leve",
+      "nome": "Leve",
+      "custo_base_to": 200,
+      "fator_multiplicador": 2,
+      "efeito": "A arma passa a ter a tag Leve."
+    },
+    {
+      "id": "resistente",
+      "nome": "Resistente",
+      "custo_base_to": 500,
+      "fator_multiplicador": 2,
+      "efeito": "Armadura: reduz a penalidade de armadura em 1."
+    },
+    {
+      "id": "levissima",
+      "nome": "Levíssima",
+      "custo_base_to": 800,
+      "fator_multiplicador": 2,
+      "efeito": "Armadura: reduz a penalidade de armadura em 2 e aumenta a DES máxima em 1."
+    },
+    {
+      "id": "adamante",
+      "nome": "Material: Adamante",
+      "custo_base_to": 4000,
+      "fator_multiplicador": 4,
+      "efeito": "Arma: aumenta o dano em um passo. Armadura: RD 3 contra dano físico."
+    },
+    {
+      "id": "mitral",
+      "nome": "Material: Mitral",
+      "custo_base_to": 2000,
+      "fator_multiplicador": 3,
+      "efeito": "Armadura pesada: trata-se como leve para fins de proficiência e penalidade (–2 à penalidade e +2 à DES máxima). Arma: –1 espaço."
+    },
+    {
+      "id": "alcance",
+      "nome": "Alcance",
+      "custo_base_to": 700,
+      "fator_multiplicador": 2,
+      "efeito": "A arma corpo a corpo passa a ter a tag Alcance."
+    },
+    {
+      "id": "arremesso",
+      "nome": "Arremesso",
+      "custo_base_to": 500,
+      "fator_multiplicador": 2,
+      "efeito": "A arma corpo a corpo passa a ter a tag Arremesso (alcance curto)."
+    },
+    {
+      "id": "defensiva",
+      "nome": "Defensiva",
+      "custo_base_to": 600,
+      "fator_multiplicador": 2,
+      "efeito": "Escudo: aumenta o bônus de CA em +1."
+    },
+    {
+      "id": "mira-telescópica",
+      "nome": "Mira Telescópica",
+      "custo_base_to": 1500,
+      "fator_multiplicador": 2,
+      "efeito": "Arma de fogo/distância: aumenta o alcance em uma categoria e +1 no teste de ataque."
+    },
+    {
+      "id": "silenciosa",
+      "nome": "Silenciosa",
+      "custo_base_to": 800,
+      "fator_multiplicador": 2,
+      "efeito": "Remove a tag Barulhenta de armas de fogo."
+    },
+    {
+      "id": "perfurante",
+      "nome": "Perfurante",
+      "custo_base_to": 600,
+      "fator_multiplicador": 2,
+      "efeito": "Ignora até 5 pontos de RD do alvo."
+    }
+  ]
+}

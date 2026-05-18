@@ -1,0 +1,11 @@
+{
+  "id": "controlar--a-gravidade",
+  "name": "Controlar  a Gravidade",
+  "circle": 4,
+  "type": "Arcana",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "médio;  Área: cubo de 12m de lado; Duração:  sustentada. Você controla os efeitos da gravidade  dentro da área. Ao lançar a magia, escolha um dos efeitos abaixo. Enquanto a magia durar, você pode gastar uma  ação padrão para mudar o efeito.",
+  "duration": "sustentada",
+  "description": "Você controla os efeitos da gravidade  dentro da área. Ao lançar a magia, escolha um dos efeitos abaixo. Enquanto a magia durar, você pode gastar uma  ação padrão para mudar o efeito. Aumentar: no início de seus turnos,  cada criatura na área deve fazer um  teste de Atletismo. Se passar, fica fatigada. Se falhar, fica fatigada e caída. Inverter: inverte a gravidade da área,  fazendo com que criaturas e objetos  “caiam” para cima, atingindo o topo  (12m) em uma rodada. Se um obstáculo (co"
+}

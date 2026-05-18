@@ -1,0 +1,28 @@
+{
+    "tomo": "Ferramentas do Mestre",
+    "secao": "NPCs",
+    "atitudes": {
+        "Prestativo": "+5 em testes de Diplomacia. Ajuda mesmo correndo risco.",
+        "Amistoso": "Ajuda, mas não se arrisca.",
+        "Indiferente": "Atitude padrão. Trata como socialmente esperado.",
+        "Inamistoso": "–5 em testes de Diplomacia. Pode criar intrigas.",
+        "Hostil": "Falha automática em Diplomacia. Pode atacar ou roubar."
+    },
+    "estatisticas_npc_rapida": [
+        {
+            "patamar": "Iniciante",
+            "pericia_forte": "+5",
+            "pericia_fraca": "+0"
+        },
+        {
+            "patamar": "Veterano",
+            "pericia_forte": "+10",
+            "pericia_fraca": "+3"
+        },
+        {
+            "patamar": "Campeão",
+            "pericia_forte": "+15",
+            "pericia_fraca": "+6"
+        }
+    ]
+}

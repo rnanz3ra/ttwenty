@@ -1,0 +1,11 @@
+{
+  "id": "poeira-da-podridão",
+  "name": "Poeira da Podridão",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: médio;  Área: nuvem com 6m de raio; Duração: cena; Resistência: Fortitude (veja  texto). Você manifesta uma nuvem de poeira carregada de energia negativa, que  apodrece lentamente as criaturas na  área. Ao lançar a magia, e no início de  seus turnos, criaturas na área sofrem  2d8+8 pontos de dano de trevas (Fortitude reduz à metade). Alvos que falharem no teste não podem recuperar  PV por uma rodada. +2 PM: aumenta o dano em +1d8+4."
+}

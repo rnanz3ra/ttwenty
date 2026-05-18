@@ -1,0 +1,328 @@
+[
+    {
+        "nome": "Humano",
+        "mods": {
+            "escolha_tres": 1
+        },
+        "habilidades": [
+            {
+                "nome": "Versátil",
+                "desc": "Você se torna treinado em duas perícias a sua escolha (não precisam ser da classe) ou uma perícia e um poder geral."
+            }
+        ]
+    },
+    {
+        "nome": "Anão",
+        "mods": {
+            "con": 2,
+            "sab": 1,
+            "des": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Conhecimento das Rochas",
+                "desc": "Visão no escuro e +2 em Percepção e Sobrevivência em subterrâneos."
+            },
+            {
+                "nome": "Devagar e Sempre",
+                "desc": "Deslocamento 6m (em vez de 9m), mas não é reduzido por carga ou armadura."
+            },
+            {
+                "nome": "Duro como Pedra",
+                "desc": "+3 PV no 1º nível e +1 por nível seguinte."
+            },
+            {
+                "nome": "Tradição de Heredrimm",
+                "desc": "Machados, martelos, marretas e picaretas são armas simples. +2 em ataques com elas."
+            }
+        ]
+    },
+    {
+        "nome": "Dahllan",
+        "mods": {
+            "sab": 2,
+            "des": 1,
+            "int": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Amiga das Plantas",
+                "desc": "Pode lançar Controlar Plantas (Sab)."
+            },
+            {
+                "nome": "Armadura de Allihanna",
+                "desc": "Gasta 1 PM para transformar pele em casca (+2 Defesa) até o fim da cena."
+            },
+            {
+                "nome": "Empatia Selvagem",
+                "desc": "Comunica-se com animais e usa Adestramento para Diplomacia."
+            }
+        ]
+    },
+    {
+        "nome": "Elfo",
+        "mods": {
+            "int": 2,
+            "des": 1,
+            "con": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Graça de Glórienn",
+                "desc": "Deslocamento 12m (em vez de 9m)."
+            },
+            {
+                "nome": "Sangue Mágico",
+                "desc": "+1 PM por nível."
+            },
+            {
+                "nome": "Sentidos Élficos",
+                "desc": "Visão na penumbra e +2 em Misticismo e Percepção."
+            }
+        ]
+    },
+    {
+        "nome": "Goblin",
+        "mods": {
+            "des": 2,
+            "int": 1,
+            "car": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Engenhoso",
+                "desc": "Sem penalidade por falta de ferramenta. Se usar ferramenta, ganha +2 no teste."
+            },
+            {
+                "nome": "Espelunqueiro",
+                "desc": "Visão no escuro e deslocamento de escalada igual ao terrestre."
+            },
+            {
+                "nome": "Peste Esguia",
+                "desc": "Tamanho Pequeno, mas deslocamento 9m."
+            },
+            {
+                "nome": "Rato das Ruas",
+                "desc": "+2 Fortitude e recuperação de PV/PM nunca menor que o seu nível."
+            }
+        ]
+    },
+    {
+        "nome": "Lefou",
+        "mods": {
+            "escolha_tres_exceto_car": 1,
+            "car": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Cria da Tormenta",
+                "desc": "Tipo Monstro, +5 em resistência contra Lefeu e Tormenta."
+            },
+            {
+                "nome": "Deformidade",
+                "desc": "Ganha +2 em duas perícias (cada bônus conta como poder da Tormenta). Pode trocar um bônus por 1 Poder da Tormenta."
+            }
+        ]
+    },
+    {
+        "nome": "Minotauro",
+        "mods": {
+            "for": 2,
+            "con": 1,
+            "sab": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Chifres",
+                "desc": "Arma natural 1d6 (perfuração). Pode gastar 1 PM para ataque extra com chifres."
+            },
+            {
+                "nome": "Couro Rígido",
+                "desc": "+1 na Defesa."
+            },
+            {
+                "nome": "Faro",
+                "desc": "Olfato apurado. Inimigos em alcance curto não dão desprevenido e camuflagem total só dá 20% de falha."
+            },
+            {
+                "nome": "Medo de Altura",
+                "desc": "Abalado se adjacente a queda de 3m ou mais."
+            }
+        ]
+    },
+    {
+        "nome": "Qareen",
+        "mods": {
+            "car": 2,
+            "int": 1,
+            "sab": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Desejos",
+                "desc": "Se lançar magia pedida por outro, custo diminui em -1 PM."
+            },
+            {
+                "nome": "Resistência Elemental",
+                "desc": "RD 10 a um tipo de dano escolhido (Frio, Elétrico, Fogo, Ácido, Luz ou Trevas)."
+            },
+            {
+                "nome": "Tatuagem Mística",
+                "desc": "Lança uma magia de 1º círculo (Car)."
+            }
+        ]
+    },
+    {
+        "nome": "Golem",
+        "mods": {
+            "for": 2,
+            "con": 1,
+            "car": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Chassi",
+                "desc": "+2 Defesa, mas penalidade de armadura -2. Armadura é acoplada."
+            },
+            {
+                "nome": "Criatura Artificial",
+                "desc": "Tipo Construto. Visão no escuro, imune a cansaço, metabolismo e veneno. Não dorme/come. Ofício (Artesão) substitui Cura."
+            },
+            {
+                "nome": "Fonte Elemental",
+                "desc": "Imune a um elemento (Frio, Elétrico, Fogo ou Ácido). Se sofrer dano mágico deste tipo, cura metade."
+            },
+            {
+                "nome": "Propósito de Criação",
+                "desc": "Ganha um Poder Geral à escolha."
+            }
+        ]
+    },
+    {
+        "nome": "Osteon",
+        "mods": {
+            "escolha_tres_exceto_con": 1,
+            "con": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Armadura Óssea",
+                "desc": "RD 5 a corte, frio e perfuração."
+            },
+            {
+                "nome": "Memória Póstuma",
+                "desc": "Ganha treinamento em 1 perícia ou 1 poder geral. Pode ser de outra raça e ganhar 1 habilidade dela."
+            },
+            {
+                "nome": "Natureza Esquelética",
+                "desc": "Tipo Morto-vivo. Visão no escuro, imune a cansaço, metabolismo, trevas e veneno. Luz causa dano, Trevas cura."
+            },
+            {
+                "nome": "Preço da Não Vida",
+                "desc": "Recupera PV/PM apenas sob luz de estrelas ou subterrâneo (8h)."
+            }
+        ]
+    },
+    {
+        "nome": "Sereia/Tritão",
+        "mods": {
+            "escolha_tres": 1
+        },
+        "habilidades": [
+            {
+                "nome": "Canção dos Mares",
+                "desc": "Lança duas magias (Car) entre: Amedrontar, Comando, Despedaçar, Enfeitiçar, Hipnotismo ou Sono."
+            },
+            {
+                "nome": "Mestre do Tridente",
+                "desc": "Tridente é arma simples. +2 em dano com azagaia, lança e tridente."
+            },
+            {
+                "nome": "Transformação Anfíbia",
+                "desc": "Respirar d'água, natação 12m. Em terra cauda vira pernas (deslocamento 9m)."
+            }
+        ]
+    },
+    {
+        "nome": "Sílfide",
+        "mods": {
+            "car": 2,
+            "des": 1,
+            "for": -2
+        },
+        "habilidades": [
+            {
+                "nome": "Asas de Borboleta",
+                "desc": "Tamanho Minúsculo. Paira a 1,5m. Voo 12m (gasta 1 PM/rodada)."
+            },
+            {
+                "nome": "Espírito da Natureza",
+                "desc": "Tipo Espírito. Visão na penumbra e fala com animais."
+            },
+            {
+                "nome": "Magia das Fadas",
+                "desc": "Lança duas magias (Car): Criar Ilusão, Enfeitiçar, Luz ou Sono."
+            }
+        ]
+    },
+    {
+        "nome": "Suraggel (Aggelus)",
+        "mods": {
+            "sab": 2,
+            "car": 1
+        },
+        "habilidades": [
+            {
+                "nome": "Herança Divina",
+                "desc": "Tipo Espírito. Visão no escuro."
+            },
+            {
+                "nome": "Luz Sagrada",
+                "desc": "Lança a magia Luz (Car)."
+            }
+        ]
+    },
+    {
+        "nome": "Suraggel (Sulfure)",
+        "mods": {
+            "des": 2,
+            "int": 1
+        },
+        "habilidades": [
+            {
+                "nome": "Herança Divina",
+                "desc": "Tipo Espírito. Visão no escuro."
+            },
+            {
+                "nome": "Sombras Profanas",
+                "desc": "Lança a magia Escuridão (Int)."
+            }
+        ]
+    },
+    {
+        "nome": "Trog",
+        "mods": {
+            "con": 2,
+            "for": 1,
+            "int": -1
+        },
+        "habilidades": [
+            {
+                "nome": "Mau Cheiro",
+                "desc": "2 PM: exala gás fétido. Criaturas em alcance curto ficam enjoadas (Fort CD Con evita)."
+            },
+            {
+                "nome": "Mordida",
+                "desc": "Arma natural 1d6 (perfuração). +1 PM para ataque extra."
+            },
+            {
+                "nome": "Reptiliano",
+                "desc": "Visão no escuro, +1 Defesa e +5 Furtividade (se sem armadura pesada)."
+            },
+            {
+                "nome": "Sangue Frio",
+                "desc": "+1 de dano por dado de frio sofrido."
+            }
+        ]
+    }
+]

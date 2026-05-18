@@ -1,0 +1,45 @@
+{
+    "perigos_complexos": [
+        {
+            "nome": "Avalanche",
+            "nd": 4,
+            "objetivo": "Escapar em 5 rodadas",
+            "efeito": "Sucessos em Atletismo definem zona: <2 (16d6 dano + soterrado), 3-4 (8d6 dano), 5+ (ileso).",
+            "acoes": [
+                {
+                    "nome": "Correr",
+                    "pericia": "Atletismo",
+                    "cd": 20
+                },
+                {
+                    "nome": "Carregar Outro",
+                    "pericia": "Atletismo",
+                    "cd": 25
+                },
+                {
+                    "nome": "Procurar Caminho",
+                    "pericia": "Percepção",
+                    "cd": 20
+                }
+            ]
+        },
+        {
+            "nome": "Tempestade em Alto Mar",
+            "nd": 6,
+            "objetivo": "Sobreviver por 1d6+6 rodadas",
+            "efeito": "Teste Reflexos (CD 20+1d6) evita 4d6 dano. Falhar por 10+ = cai no mar.",
+            "acoes": [
+                {
+                    "nome": "Navegar",
+                    "pericia": "Pilotagem",
+                    "cd": 25
+                },
+                {
+                    "nome": "Voltar para o Navio",
+                    "pericia": "Atletismo",
+                    "cd": 25
+                }
+            ]
+        }
+    ]
+}

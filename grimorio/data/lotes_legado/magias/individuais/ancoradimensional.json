@@ -1,0 +1,11 @@
+{
+  "id": "âncora-dimensional",
+  "name": "Âncora Dimensional",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "cena",
+  "description": "O alvo é envolvido por um campo de  força cor de esmeralda que impede  qualquer movimento planar. Isso inclui magias de convocação (como Salto Dimensional e Teletransporte), viagens  astrais e a habilidade incorpóreo. +2 PM: muda o alcance para médio,  a área para esfera com 3m de raio e o  alvo para criaturas escolhidas. +2 PM: muda o efeito para criar um  fio de energia cor de esmeralda que  prende o alvo a um ponto no espaço  dentro do alcance. O ponto precisa ser  fixo, mas não precisa de teste de resistência."
+}

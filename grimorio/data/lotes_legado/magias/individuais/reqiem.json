@@ -1,0 +1,12 @@
+{
+  "id": "réquiem",
+  "name": "Réquiem",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Ilusão",
+  "execution": "completa;",
+  "range": "curto;",
+  "duration": "sustentada",
+  "description": "Esta magia cria uma ilusão particular  para cada uma das criaturas que atingir. Enquanto a magia durar, no início  de cada um de seus turnos, cada criatura afetada deve fazer um teste de Vontade; se falhar, acha que não tomou as  ações que realmente fez no turno anterior e é obrigada a repetir as mesmas  ações neste turno, com uma penalidade cumulativa de –5 em todos os testes  para cada vez que se repetir (a penalidade não se aplica ao teste de Vontade contra esta magia). Por exemplo, causar dano em área não quebra a magia.",
+  "resistance": "Vontade anula"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "transmutar---objetos",
+  "name": "Transmutar   Objetos",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "A magia transforma matéria bruta para moldar um novo objeto. Você  pode usar matéria-prima mundana  para criar um objeto de tamanho Pequeno ou menor e preço máximo de  T$ 25, como um balde ou uma espada. O objeto reverte à matéria-prima  no final da cena, ou se for tocado por  um objeto feito de chumbo. Esta magia não pode ser usada para criar objetos consumíveis, como alimentos  ou itens alquímicos, nem objetos com  mecanismos complexos, como bestas  ou armas de fogo. Transmutar Objet"
+}

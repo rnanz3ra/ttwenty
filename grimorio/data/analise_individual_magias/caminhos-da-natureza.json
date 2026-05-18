@@ -1,0 +1,11 @@
+{
+  "id": "caminhos--da-natureza",
+  "name": "Caminhos  da Natureza",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Convocação",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "1 dia",
+  "description": "Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As  criaturas afetadas recebem deslocamento +3m e ignoram penalidades por terreno difícil em terrenos naturais. Truque: muda o alcance para pessoal  e o alvo para você. Em vez do normal,  você recebe +5 em testes de Sobrevivência para se orientar. +1 PM: além do normal, a CD para  rastrear os alvos em terreno natural  aumenta em +10.  +2 PM: aumenta o bônus de deslocamento em +3m."
+}

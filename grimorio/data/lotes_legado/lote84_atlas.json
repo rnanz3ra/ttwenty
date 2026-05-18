@@ -1,0 +1,59 @@
+[
+    {
+        "nome": "Deheon",
+        "titulo": "O Reino Capital",
+        "lore": "O coração do Reinado, uma terra de colinas verdejantes protegida pela estátua colossal de Valkaria. É o centro político e cultural de Arton, onde todas as raças convivem em relativa harmonia, reconstruindo o que a Guerra Purista tentou destruir.",
+        "detalhes": {
+            "capital": "Valkaria",
+            "regente": "Rainha-Imperatriz Shivara Sharpblade",
+            "clima": "Temperado",
+            "locais_notaveis": [
+                "Palácio Imperial",
+                "Estátua da Deusa",
+                "Academia Arcana"
+            ]
+        }
+    },
+    {
+        "nome": "Bielefeld",
+        "titulo": "O Reino dos Cavaleiros",
+        "lore": "Lar da Ordem da Luz, Bielefeld é o bastião da cavalaria e da honra. Seus campos de batalha são sagrados e seus cavaleiros são conhecidos como os mais valentes defensores do bem em toda Arton.",
+        "detalhes": {
+            "capital": "Norm",
+            "regente": "Grão-Mestre da Ordem da Luz",
+            "clima": "Frio e Úmido",
+            "locais_notaveis": [
+                "Castelo da Luz",
+                "Fronteira da Conflagração do Aço"
+            ]
+        }
+    },
+    {
+        "nome": "Zakharov",
+        "titulo": "O Reino das Armas",
+        "lore": "Onde o aço é lei. Zakharov é famosa por suas forjas e pela perícia de seus armeiros. No passado influenciada pelos anões, a nação hoje respira militarismo e orgulho por suas lâminas lendárias.",
+        "detalhes": {
+            "capital": "Zakharov",
+            "divindade_local": "Rhond (Deus Menor das Armas)",
+            "clima": "Ameno",
+            "locais_notaveis": [
+                "Cidade de Rhond",
+                "Grandes Forjas"
+            ]
+        }
+    },
+    {
+        "nome": "Tamu-ra",
+        "titulo": "O Império de Jade",
+        "lore": "A ilha da honra que renasceu das cinzas da Tormenta. Após anos sob a corrupção lefeu, os tamuranianos recuperaram seu lar e hoje vivem a 'Era Hikari' de reconstrução e culto aos ancestrais.",
+        "detalhes": {
+            "capital": "Shinkyo",
+            "regente": "Imperador Tekametsu (ressuscitado)",
+            "clima": "Insular/Variado",
+            "locais_notaveis": [
+                "Nitamu-ra",
+                "Palácio de Cristal"
+            ]
+        }
+    }
+]

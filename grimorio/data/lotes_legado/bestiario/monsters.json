@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "glop",
+    "name": "Glop",
+    "level": "1/4",
+    "type": "Monstro",
+    "size": "Pequeno",
+    "role": "Lacaio",
+    "hp": 10,
+    "defense": 10,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Pequenas gosmas esverdeadas com formato \nde gota que perambulam pelos corredores de mas-\nmorras. Irracionais, seu único propósito parece ser \nalimentar-se, o que fazem saltando sobre matéria \norgânica e dissolvendo-a com seus corpos ácidos.\nMonstro Pequeno \nIniciativa +0, Percepção +0, percepção às cegas\nDefesa 10, Fort +0, Ref +2, Von –5, imunidade a ácido\nPontos de Vida 10\nDeslocamento 9m (6q)\nCorpo a Corpo Pancada +7 (1d4 mais 1d4 ácido).\nFor 0, Des 0, Con 0, Int —, Sab –5, Car –5\nTesouro Nenhum."
+  },
+  {
+    "id": "rato-gigante",
+    "name": "Rato Gigante",
+    "level": "1/4",
+    "type": "Animal",
+    "size": "Pequeno",
+    "role": "Lacaio",
+    "hp": 3,
+    "defense": 12,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Esse roedor de pelagem grossa, olhos verme-\nlhos e presas amareladas atinge até um metro de \ncomprimento. Ratos gigantes vivem em bandos e \npodem ser encontrados em quase qualquer lugar — \npântanos ermos, esgotos de metrópoles e porões de \ntavernas não muito recomendadas...\nAnimal Pequeno \nIniciativa +5, Percepção +4, faro, visão na penumbra\nDefesa 12, Fort +0, Ref +3, Von –2\nPontos de Vida 3\nDeslocamento 12m (8q), escalar 6m (4q)\nCorpo a Corpo Mordida +7 (1d4+3 mais doença).\nDoença Uma criatura mordida por um rato gigante é ex-\nposta a doença infecção do esgoto (veja a página 318).\nFor 0, Des 2, Con 1, Int –4, Sab 1, Car –3\nTesouro Nenhum.\nOrcs\nEstes humanoides monstruosos podem ser en-\ncontrados em muitos pontos de Arton, em pequenos \nbandos ou vastas tribos. Selvagens e violentos, lutam \ncom brutalidade e sem estratégia, obedecendo a seus \nlíderes apenas pela força. Seu maior ponto fraco é a \nsensibilidade a luz, levando-os a infestar masmorras \ne outros lugares subterrâneos, de ond"
+  },
+  {
+    "id": "orc-combatente",
+    "name": "Orc combatente",
+    "level": "1/2",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 8,
+    "defense": 14,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (orc) Médio \nIniciativa +4, Percepção +1, visão no escuro\nDefesa 14, Fort +5, Ref +3, Von +0\nPontos de Vida 8\nDeslocamento 9m (6q)\nCorpo a Corpo Maça +9 (1d8+7).\nSensibilidade a Luz Quando exposto a luz do sol ou simi-\nlar, o orc fica ofuscado.\nFor 4, Des 1, Con 2, Int –1, Sab –1, Car –1\nEquipamento Couro batido, maça. Tesouro Metade."
+  },
+  {
+    "id": "orc-chefe",
+    "name": "Orc Chefe",
+    "level": "2",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 66,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (orc) Médio \nIniciativa +5, Percepção +3, visão no escuro\nDefesa 19, Fort +13, Ref +7, Von +2\nPontos de Vida 66\nDeslocamento 9m (6q)\nCorpo a Corpo Machado de batalha +11 (1d8+12, x3).\nUrro Selvagem (Movimento) O orc chefe recebe +2 em \ntestes de ataque e rolagens de dano corpo a corpo até \no final da cena, mas não pode fazer nenhuma ação que \nexija calma e concentração.\nSensibilidade a Luz Quando exposto a luz do sol ou simi-\nlar, o orc fica ofuscado.\nFor 5, Des 2, Con 4, Int 0, Sab 0, Car 0\nPerícias Intimidação +4, Sobrevivência +5 (+7 em subter-\nrâneos).\nEquipamento Gibão de peles, machado de batalha. \nTesouro Padrão."
+  },
+  {
+    "id": "orc-mutante",
+    "name": "Orc mutante",
+    "level": "5",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 55,
+    "defense": 22,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (orc) Médio \nIniciativa +8, Percepção +5, visão no escuro\nDefesa 22, Fort +15, Ref +11, Von +7\nPontos de Vida 55\nDeslocamento 9m (6q)\nCorpo a Corpo Machado de guerra +20 (1d12+18, x3) e mor-\ndida +20 (1d6+18).\nTerceiro Braço (Livre) Se o orc mutante acerta o ataque \nde machado de guerra e o ataque de mordida em uma \nmesma criatura na mesma rodada, ele rasga a vítima \ncom seu terceiro braço degenerado, causando mais \n1d6+9 pontos de dano de corte.\nSensibilidade a Luz Quando exposto a luz do sol ou simi-\nlar, o orc fica ofuscado.\nFor 6, Des 2, Con 4, Int –2, Sab –2, Car –2\nEquipamento Machado de guerra. Tesouro Padrão.\nMasmorras\n286\n \nAmeaças"
+  },
+  {
+    "id": "aranha-gigante",
+    "name": "Aranha Gigante",
+    "level": "2",
+    "type": "Monstro",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 77,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Grandes como cavalos, estas aranhas capturam \nsuas vítimas com teia, disparando-a ou tecendo uma \narmadilha em alguma passagem, para então paralisá-\n-las com a picada venenosa.\nMonstro Grande \nIniciativa +7, Percepção +3, visão no escuro\nDefesa 19, Fort +8, Ref +11, Von +3\nPontos de Vida 77\nDeslocamento 12m (8q), escalar 12m (8q)\nCorpo a Corpo Mordida +12 (2d6+8 mais veneno).\nTeia (padrão) A aranha gigante dispara teia em um qua-\ndrado de 3m de lado em alcance curto. Criaturas na \nárea ficam enredadas (Ref CD 18 evita). Uma criatura \nenredada pode se soltar com uma ação completa e um \nteste de Força ou Acrobacia (CD 20) ou cortando a teia \n(cada espaço de 1,5m de teia tem 5 PV e RD 5). Fogo \nqueima a teia em duas rodadas (e liberta as criaturas), \nmas causa 1d6 pontos de dano de fogo por rodada a \ntodas as criaturas nela. A aranha gigante também \npode usar a teia para cobrir uma área quadrada com \n6m de lado. Por sua semitransparência, a teia é difícil \nde ver (Percepção CD 20) até ser"
+  },
+  {
+    "id": "gárgula",
+    "name": "Gárgula",
+    "level": "2",
+    "type": "Construto",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 65,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Esses predadores furtivos se mantêm imóveis no \nalto de ruínas, castelos, catedrais e outros prédios, \nfingindo ser estátuas. Quando surge uma oportuni-\ndade de atacar, mergulham com suas garras.\nConstruto Médio \nIniciativa +3, Percepção +3, visão no escuro\nDefesa 19, Fort +13, Ref +7, Von +2, imunidade a condição \npetrificado, redução de dano 5\nPontos de Vida 65\nDeslocamento 12m (8q), voo 18m (12q)\nCorpo a Corpo duas garras +12 (1d6+6).\nImobilidade Uma gárgula pode permanecer completa-\nmente imóvel. Se ela estiver assim, um personagem \ndeve passar num teste de Percepção (CD 35) para \nperceber que ela é uma criatura e não uma estátua.\nFor 6, Des 2, Con 4, Int –2, Sab 1, Car –2\nTesouro Padrão.\nGuerreiro"
+  },
+  {
+    "id": "de-chifres",
+    "name": "de Chifres",
+    "level": "3",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 100,
+    "defense": 21,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Numerosas entidades malignas invadem Arton \npara corromper, torturar ou destruir os mortais. De \ncorpo humanoide e cabeça de bode, guerreiros de chi-\nfres estão entre os demônios mais fracos, mas ainda \nassim são inimigos perigosos. Podem ser encontrados \nvagando em masmorras, sozinhos ou em pequenos \nbandos — às vezes sob comando de um arcanista, \nresponsável por sua convocação a este mundo.\nEspírito (abissal) Médio \nIniciativa +6, Percepção +3, faro, visão no escuro\nDefesa 21, Fort +13, Ref +11, Von +9,  imunidade a ácido \ne venenos, redução de dano 5, redução de fogo e frio 10\nPontos de Vida 100\nDeslocamento 9m (6q)\nCorpo a Corpo Machado de guerra +14 (1d12+16, x3) ou \nchifres +14 (2d6+10 impacto).\nMarrada (Completa) O guerreiro de chifres faz uma inves-\ntida e ataca com seu machado de guerra e seus chifres. \nOs dois ataques recebem o bônus de +2 da investida, \nmas devem ser feitos contra o mesmo alvo.\nFor 5, Des 3, Con 4, Int –2, Sab 1, Car –1\nPerícias Atletismo +8, Intimidação +4."
+  },
+  {
+    "id": "mantícora",
+    "name": "Mantícora",
+    "level": "6",
+    "type": "Monstro",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 240,
+    "defense": 26,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Monstro com corpo de leão, asas de dragão e rosto \nhumano envelhecido, a mantícora está entre as criatu-\nras mais perigosas em uma masmorra — muitas vezes \nadotando tais lugares como seu covil, ou encarregadas \nde sua proteção por um mestre ainda mais poderoso.\nMonstro Grande \nIniciativa +7, Percepção +8, faro, visão no escuro\nDefesa 26, Fort +18, Ref +7, Von +12\nPontos de Vida 240\nDeslocamento 9m (6q), voo 15m (10q)\nCorpo a Corpo Mordida +18 (1d10+12) e duas garras +18 \n(1d8+12).\nEspinhos (Movimento) A mantícora dispara 1d4 espinhos \nde sua cauda. Cada espinho atinge uma criatura em al-\ncance médio, causando 1d8+7 pontos de dano de perfu-\nração (Ref CD 22 reduz à metade). Recarga (movimento).\nFor 7, Des 2, Con 5, Int –2, Sab 1, Car –1\nTesouro Padrão mais espinhos (CD 21 para extrair). Os \nespinhos contam como T$ 150 em matéria-prima para \nfabricar flechas superiores."
+  },
+  {
+    "id": "centopeia-dragão",
+    "name": "Centopeia-dragão",
+    "level": "7",
+    "type": "Monstro",
+    "size": "Enorme",
+    "role": "Lacaio",
+    "hp": 275,
+    "defense": 27,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Com dez metros de comprimento, estes monstros \nincandescentes avançam devorando tudo que encon-\ntram. Embora também sejam encontrados em áreas \n287\nCapítulo Sete\nabertas, são mais perigosos em masmorras, onde \npreenchem túneis estreitos com a bocarra imensa.\nMonstro Enorme \nIniciativa +10, Percepção +8, visão no escuro\nDefesa 27, Fort +20, Ref +14, Von +9, imunidade a condi-\nção caído, redução de fogo 10\nPontos de Vida 275\nDeslocamento 15m (10q), escavar 6m (4q)\nCorpo a Corpo Mordida +24 (2d8+18 mais 2d6 fogo).\nAgarrar Aprimorado (Livre) Quando a centopeia-dra-\ngão acerta um ataque de mordida, pode usar a mano-\nbra agarrar (teste +29).\nAura de Calor Quando enfurecida, esta criatura emana \num calor intenso. No início de cada turno da centopeia-\n-dragão, todas as criaturas em um raio de 9m sofrem \n4d6+9 pontos de dano de fogo.\nEngolir (Padrão) Se a centopeia-dragão começar seu \nturno agarrando uma criatura Média ou menor, poderá \nfazer um teste de agarrar contra ela. Se vencer, engole \na"
+  },
+  {
+    "id": "golem-de-ferro",
+    "name": "Golem de Ferro",
+    "level": "10",
+    "type": "Construto",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 400,
+    "defense": 36,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Ainda que existam golens inteligentes, também \nexistem numerosos construtos antigos e sem inte-\nligência real — deixados em ruínas ancestrais para \nproteger as propriedades de seus mestres, talvez há \nmuito falecidos. Ao perseguir um tesouro antigo, um \ngrupo de aventureiros pode acabar despertando um \nimenso e quase invulnerável golem de ferro, um dos \noponentes mais perigosos de uma masmorra.\nConstruto Grande \nIniciativa +4, Percepção +9, visão no escuro\nDefesa 36, Fort +24, Ref +14, Von +11, redução de dano 10\nPontos de Vida 400\nDeslocamento 9m (6q)\nCorpo a Corpo Duas pancadas +30 (2d10+25).\nImunidade a Magia O golem de ferro é imune a efeitos \nmágicos, com as seguintes exceções. Efeitos mágicos de \neletricidade deixam o golem de ferro lento por 1d6 roda-\ndas. Efeitos mágicos de fogo removem a condição lento \ne curam 1 PV para cada 3 pontos de dano que causariam.\nSopro (Movimento) O golem de ferro expele uma nuvem de \ngás venenoso que preenche um cubo de 3m de lado. Cria-\nturas dent"
+  },
+  {
+    "id": "bandido",
+    "name": "Bandido",
+    "level": "1/4",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 6,
+    "defense": 13,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (humano) Médio \nIniciativa +4, Percepção +1\nDefesa 13, Fort +1, Ref +3, Von –1\nPontos de Vida 6\nDeslocamento 9m (6q)\nCorpo a Corpo Clava +7 (1d6+3)\nFor 1, Des 2, Con 1, Int 0 Sab –1, Car 0\nPerícias Furtividade +5.\nEquipamento Clava. Tesouro Metade."
+  },
+  {
+    "id": "chefe-bandido",
+    "name": "Chefe Bandido",
+    "level": "1",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 30,
+    "defense": 16,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (humano) Médio \nIniciativa +4, Percepção +2\nDefesa 16, Fort +5, Ref +8, Von +3\nPontos de Vida 30\nDeslocamento 9m\nCorpo a Corpo Espada curta +9 (1d6+5, 19).\nÀ Distância Adaga +7 (1d4+3, 19).\nAtaque Furtivo Uma vez por rodada, o chefe bandido \ncausa +2d6 pontos de dano com ataques corpo a corpo, \nou à distância em alcance curto, contra alvos despreve-\nnidos ou que esteja flanqueando.\nFor 3, Des 2, Con 2, Int 0, Sab 0, Car 1\nPerícias Furtividade +7, Intimidação +6.\nEquipamento Adaga, espada curta. Tesouro Padrão.\nGuardas\nOnde há ordem e civilização, há algum tipo de \nguarda ou milícia. Embora guardas sejam mais co-\nmuns nas ruas de cidades e vilas, também podem ser \nencontrados patrulhando estradas ou guarnecendo \npostos de fronteira. Como aventureiros às vezes ope-\nram fora da lei, podem ter problemas com guardas."
+  },
+  {
+    "id": "guarda-de-cidade",
+    "name": "Guarda de Cidade",
+    "level": "1/2",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 8,
+    "defense": 15,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (humano) Médio \nIniciativa +4, Percepção +3\nDefesa 15, Fort +5, Ref +2, Von +1\nPontos de Vida 8\nDeslocamento 9m (6q)\nCorpo a Corpo Maça +7 (1d8+5).\nFor 2, Des 1, Con 2, Int 0, Sab 0, Car 0\nPerícias Atletismo +5.\nEquipamento Apito, couro batido, maça. Tesouro \nNenhum."
+  },
+  {
+    "id": "sargento-da-guarda",
+    "name": "Sargento da Guarda",
+    "level": "1",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 28,
+    "defense": 17,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (humano) Médio \nIniciativa +5, Percepção +4\nDefesa 17, Fort +9, Ref +4, Von +3\nPontos de Vida 28\nDeslocamento 6m (4q)\nCorpo a Corpo Maça +10 (1d8+10).\nÀ Distância Besta leve +9 (1d8+5, 19).\nOrdens (Movimento) O sargento grita ordens para seus \naliados em alcance médio. Eles recebem +2 em testes de \nperícia até o fim da cena.\nFor 3, Des 1, Con 2, Int 0, Sab 0, Car 1\nPerícias Atletismo +7, Intuição +4.\nEquipamento Apito, besta leve, cota de malha, maça, virotes \nx20. Tesouro Metade.\nErmos\n289\nCapítulo Sete"
+  },
+  {
+    "id": "lobo",
+    "name": "Lobo",
+    "level": "1/2",
+    "type": "Animal",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 14,
+    "defense": 14,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Predadores primordiais, lobos vivem em alca-\nteias lideradas pelo macho mais forte — o alfa, que \nconduz o bando nas caçadas. Podem ser encontrados \nem quase qualquer ambiente, especialmente planí-\ncies, florestas e regiões montanhosas.\nLobos atacam mordendo as pernas da vítima \npara derrubá-la. Sua tática favorita é enviar alguns \nindivíduos para atacar pela frente, enquanto o resto \ncircula e ataca por trás.\nAnimal Médio \nIniciativa +5, Percepção +6, faro, visão na penumbra\nDefesa 14, Fort +6, Ref +3, Von +1\nPontos de Vida 14\nDeslocamento 15m (10q)\nCorpo a Corpo Mordida +7 (1d6+5).\nDerrubar (livre) Se o lobo acerta um ataque de mordida, \npode fazer a manobra derrubar (teste +7).\nTáticas de Alcateia Quando flanqueia um inimigo, o lobo \nrecebe +2 no teste de ataque e na rolagem de dano \n(além do bônus normal por flanquear, para um total de \n+4 no ataque e +2 no dano).\nFor 3, Des 3, Con 3, Int –4, Sab 2, Car –2\nPerícias Sobrevivência +6.\nTesouro Nenhum.\nCentauros\nEste povo equino é recl"
+  },
+  {
+    "id": "centauro-combatente",
+    "name": "Centauro combatente",
+    "level": "1",
+    "type": "Humanoide",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 35,
+    "defense": 16,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (centauro) Grande \nIniciativa +3, Percepção +3\nDefesa 16, Fort +9, Ref +2, Von +5\nPontos de Vida 35\nDeslocamento 12m (8q)\nCorpo a Corpo Tacape +9 (1d12+5) e cascos +9 (1d8+5).\nÀ Distância Arco longo +7 (1d10+5, x3).\nInvestida Poderosa Quando faz uma investida com seu \ntacape, o centauro causa +1d12 pontos de dano.\nMedo de Altura Se estiver adjacente a uma queda de 3m \nou mais de altura, o centauro fica abalado.\nFor 5, Des 2, Con 3, Int –2, Sab 1, Car –2\nPerícias Sobrevivência +5\nEquipamento Arco longo aumentado, flechas x20, tacape \naumentado. Tesouro Metade."
+  },
+  {
+    "id": "centauro-xamã",
+    "name": "Centauro Xamã",
+    "level": "3",
+    "type": "Humanoide",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 35,
+    "defense": 21,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (centauro) Grande \nIniciativa +4, Percepção +8\nDefesa 21, Fort +9, Ref +4, Von +15\nPontos de Vida 35\nDeslocamento 12m (8q)\nPontos de Mana 20\nCorpo a Corpo Bordão +11 (1d8+4) e cascos +11 (1d8+4).\nMagias O centauro xamã lança magias como um clérigo de \nAllihanna de 3º nível (CD 17).\n•\t Armamento da Natureza (Movimento, 3 PM) Uma das \narmas do xamã se torna mágica e seu dano aumenta em \num passo (de 1d8 para 1d10).\n•\t Controlar Plantas (Padrão, 2 PM) Uma área quadrada de \n9m de lado de vegetação em alcance curto se torna ter-\nreno difícil. Criaturas na área quando a magia é lançada \nou no início de seus próprios turnos ficam enredadas e \nimóveis (Fortitude evita). Uma vítima pode se libertar \ncom uma ação padrão e um teste de Acrobacia ou \nAtletismo.\n•\t Curar Ferimentos (Padrão, 3 PM) Uma criatura adjacente \ncura 4d8+4 PV.\nMedo de Altura Se estiver adjacente a uma queda de 3m \nou mais de altura, o centauro fica abalado.\nVoz da Natureza O centauro está sempre sob efeito da \nmagi"
+  },
+  {
+    "id": "gnoll-saqueador",
+    "name": "Gnoll saqueador",
+    "level": "1",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 15,
+    "defense": 15,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (gnoll) Médio \nIniciativa +5, Percepção +4, faro\nDefesa 15, Fort +7, Ref +7, Von +1\nPontos de Vida 15\nDeslocamento 9m (6q)\nCorpo a Corpo Lança +10 (1d6+4) e mordida +10 (1d6+4).\nÀ Distância Arco curto +9 (1d6+3, x3).\nFor 3, Des 2, Con 3, Int –2, Sab 1, Car –1\nEquipamento Arco curto, flechas x20, lança. Tesouro \nMetade.\n290\n \nAmeaças"
+  },
+  {
+    "id": "gnoll-filibusteiro",
+    "name": "Gnoll Filibusteiro",
+    "level": "2",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 60,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (gnoll) Médio \nIniciativa +9, Percepção +4, faro\nDefesa 19, Fort +7, Ref +11, Von +4\nPontos de Vida 60\nDeslocamento 9m (6q)\nCorpo a Corpo Espada curta +11 (1d6+4, 19) e mordida \n+11 (1d6+4).\nÀ Distância Mosquete +12 (2d8+9, 19/x3).\nRecarga Rápida O gnoll filibusteiro pode recarregar seu \nmosquete como uma ação de movimento.\nFor 3, Des 4, Con 3, Int –1, Sab 2, Car –1\nEquipamento Balas x20, espada curta, mosquete. Tesouro \nPadrão."
+  },
+  {
+    "id": "gorlogg",
+    "name": "Gorlogg",
+    "level": "1",
+    "type": "Animal",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 36,
+    "defense": 16,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Estas feras primitivas lembram uma combinação \nde lobo e crocodilo, com mandíbulas capazes de \ndestroçar ossos. Gorlogg existiam apenas no mundo \nperdido de Galrasia, até que começaram a ser cap-\nturados e trazidos para o Reinado, como temíveis \nbestas de guerra. Fugindo e retornando à vida sel-\nvagem, passaram a se reproduzir, formando bandos \ne ameaçando comunidades. Apesar da dificuldade \npara domá-los, são cobiçados como montarias por \naventureiros valorosos (ou sem amor à vida).\nAnimal Grande \nIniciativa +4, Percepção +3, visão na penumbra\nDefesa 16, Fort +8, Ref +5, Von +3\nPontos de Vida 36\nDeslocamento 12m (8q)\nCorpo a Corpo Mordida +9 (2d6+8, x3).\nAgarrar Aprimorado (livre) Se o gorlogg acerta um \nataque de mordida, pode usar a manobra agarrar (teste \n+13).\nFor 5, Des 2, Con 5, Int –4, Sab 1, Car –2\nPerícias Atletismo +9.\nTesouro Nenhum."
+  },
+  {
+    "id": "trog",
+    "name": "Trog",
+    "level": "1",
+    "type": "Humanoide",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 11,
+    "defense": 16,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Quando um destes homens-lagarto decide inte-\ngrar um grupo de aventureiros, isso é exceção, não \nregra. Trogs são predadores cruéis, cheios de ódio \npor todos os outros seres, especialmente anões. Pre-\nferem atacar em bandos e agir na escuridão, à noite \nou nos subterrâneos. Sua tática padrão é aguardar \npor vítimas em emboscadas, mantendo-se escondi-\ndos com seu poder camaleônico — então atacam à \ndistância com azagaias antes de enfrentar os inimi-\ngos restantes corpo a corpo, enfraquecendo-os com \nseu gás fétido. São atraídos por armas e outros itens \nfeitos de metal, que eles próprios não sabem forjar.\nEstradas, bosques, vilas. Em Arton, o perigo \nEstradas, bosques, vilas. Em Arton, o perigo \nespreita em qualquer lugar\nespreita em qualquer lugar\n291\nCapítulo Sete\nHumanoide (trog) Médio \nIniciativa +3, Percepção +0, visão no escuro\nDefesa 16, Fort +10, Ref +5, Von +1\nPontos de Vida 11\nDeslocamento 9m (6q)\nCorpo a Corpo Lança +11 (1d6+5) e mordida +11 (1d6+5).\nÀ Distância Azagaia +9 ("
+  },
+  {
+    "id": "cão-do-inferno",
+    "name": "Cão do Inferno",
+    "level": "3",
+    "type": "Espírito",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 95,
+    "defense": 21,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Estas feras agressivas são enormes, fortes e \nmusculosas, com pelagem castanho-avermelhada \ncomo ferrugem, presas, garras e língua negras como \ncarvão, e olhos de um vermelho ameaçador. Cães do \ninferno são oriundos de planos divinos e trazidos com \nfrequência para Arton por conjuradores malignos.\nEspírito Grande \nIniciativa +6, Percepção +4, faro, visão no escuro\nDefesa 21, Fort +11, Ref +9, Von +7, imunidade a fogo, \nredução de dano 10/mágico, vulnerabilidade a frio\nPontos de Vida 95\nDeslocamento 12m (8q)\nCorpo a Corpo Mordida +14 (2d6+6 mais 2d6 fogo).\nSopro (padrão) O cão do inferno cospe fogo em um cone \nde 6m. Criaturas na área sofrem 4d6+4 pontos de dano de \nfogo (Ref CD 17 reduz à metade). Recarga (movimento).\nFor 6, Des 3, Con 4, Int –2, Sab 1, Car –2\nPerícias Atletismo +9.\nTesouro 1d4 doses de essência abissal (CD 18 para extrair)."
+  },
+  {
+    "id": "grifo",
+    "name": "Grifo",
+    "level": "3",
+    "type": "Monstro",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 110,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Grifos têm corpo e patas traseiras de leão, mas \npatas dianteiras, asas e cabeça de águia. Com 2,5 m \nde comprimento e envergadura de 7,5m, estão entre \nas criaturas mais majestosas de Arton. Também \nsão alguns dos voadores mais rápidos que existem, \nsuperando até mesmo alguns dragões.\nComo as águias, habitam lugares altos, de onde \nmergulham guinchando para atacar suas presas. \nEm seu habitat natural, grifos vivem em bandos de \num macho mais seu harém de 1d6 fêmeas. Quando \ncriados desde filhotes, os grifos podem ser domesti-\ncados, servindo de montaria. Muitas tribos bárbaras \ndas Montanhas Sanguinárias criam e cavalgam \ngrifos. Um grifo domesticado será sempre fiel a seu \ntratador. Entretanto, eles adoram carne de cavalo, o \nque pode ser um problema quando são misturados \ncom essas montarias mais comuns.\nMonstro Grande \nIniciativa +9, Percepção +7, visão no escuro\nDefesa 19, Fort +9, Ref +15, Von +4, imunidade a medo\nPontos de Vida 110\nDeslocamento 12m, voo 24m\nCorpo a Corpo Mordida"
+  },
+  {
+    "id": "basilisco",
+    "name": "Basilisco",
+    "level": "4",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 145,
+    "defense": 23,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Lagartos venenosos com dois metros de com-\nprimento, basiliscos possuem o terrível poder de \ntransformar seres vivos em pedra com o olhar. Cria-\nturas solitárias, vivem tanto em terra firme quanto \nna água. \nMonstro Médio \nIniciativa +6, Percepção +5, visão no escuro\nDefesa 23, Fort +10, Ref +9, Von +9, redução de dano 5\nPontos de Vida 145\nDeslocamento 9m (6q), natação 9m (6q)\nCorpo a Corpo Mordida +16 (2d8+12 mais veneno).\nOlhar Petrificante No início de seu turno, cada persona-\ngem em alcance curto do basilisco deve fazer um teste \nde Reflexos (CD 18). Se passar, desvia o olhar. Se falhar, \nfica lento. Se já estiver lento, fica petrificado permanente-\nmente. Um personagem pode fechar os olhos como uma \nreação para ficar imune a esta habilidade, mas sofrerá os \nefeitos de estar cego por uma rodada. Efeitos que remo-\nvem paralisia revertem a petrificação. Metamorfose.\nVeneno Peçonha concentrada (perde 1d12 pontos de vida \npor rodada durante 3 rodadas, Fort CD 18 reduz a dura-\nção para "
+  },
+  {
+    "id": "ogro",
+    "name": "Ogro",
+    "level": "4",
+    "type": "Humanoide",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 130,
+    "defense": 23,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Estes gigantes primitivos são solitários e mal-\n-humorados, quase nunca encontrados em bandos. \nNo entanto, por sua estupidez, são frequentemente \nconvencidos a acompanhar bandidos e gnolls, em \ntroca de diversão ou guloseimas. Também é comum \nencontrá-los servindo a bruxos ou cultistas. Enga-\nnar um ogro não é tarefa difícil, sendo muito mais \nrecomendado que tentar vencê-lo pela força bruta. \nMesmo quando enfurecidos, podem cair em provo-\ncações e ser levados a cometer erros.\nHumanoide (gigante) Grande \nIniciativa +3, Percepção +1, visão na penumbra\nDefesa 23, Fort +16, Ref +10, Von +0\nPontos de Vida 130\nDeslocamento 9m (6q)\nCorpo a Corpo Tacape +16 (1d12+18).\nBurro Demais... O ogro sofre –5 em testes de Intuição e \nVontade (já contabilizados na ficha).\n...Para Morrer! Todo o dano de corte, impacto e perfura-\nção que o ogro sofre é reduzido à metade.\nFor 7, Des 0, Con 4, Int –3, Sab –2, Car –2\nPerícias Atletismo +12, Intuição –5.\nEquipamento Tacape aumentado. Tesouro Padrão."
+  },
+  {
+    "id": "urso-coruja",
+    "name": "Urso-Coruja",
+    "level": "4",
+    "type": "Monstro",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 145,
+    "defense": 23,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Este estranho ser lembra um grande urso, mas \ncoberto de penas e com a cabeça de uma enorme \ncoruja. A cor varia do castanho ao marrom, com bico \nem tom marfim fosco. A teoria mais aceita entre os \nestudiosos do Reinado diz que foram criados por um \nmago insano. Após matar seu criador, teriam fugido \nda torre dele e se espalhado pelos ermos.\nUrsos-coruja habitam os ermos de Arton, fazen-\ndo de florestas e cavernas seus covis. São criaturas \nagressivas, atacando qualquer coisa que se mova. \nRasgam e bicam, tentando agarrar a vítima e fazê-la \nem pedaços, para então devorá-la. Quem sobrevive \na encontros com a fera pode atestar a selvageria em \nseus olhos vermelhos.\nMonstro Grande \nIniciativa +7, Percepção +5, faro, visão no escuro\nDefesa 23, Fort +16, Ref +10, Von +5\nPontos de Vida 145\nDeslocamento 12m (8q)\nCorpo a Corpo Mordida +16 (1d8+5) e duas garras +15 \n(1d6+5).\nAgarrar Aprimorado (Livre) Se o urso-coruja acerta \num ataque de garra, pode fazer a manobra agarrar \n(teste +18).\nFor 7"
+  },
+  {
+    "id": "serpe",
+    "name": "Serpe",
+    "level": "5",
+    "type": "Monstro",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 200,
+    "defense": 24,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Muitas vezes confundidos com dragões, estes \nmonstros reptilianos alados são apenas feras com \npouca inteligência e sem poderes mágicos. Ao con-\ntrário de dragões, não possuem braços — apenas as \npatas traseiras e asas, como pássaros. Ainda assim, \nsão muito perigosos e agressivos, uma ameaça cons-\ntante aos viajantes do Reinado e além. A ponta da \nlonga cauda esconde um ferrão, contendo um dos \nvenenos mais poderosos de que se tem notícia.\nMonstro Grande \nIniciativa +5, Percepção +7, faro, visão no escuro\nDefesa 24, Fort +10, Ref +16, Von +5, imunidade a paralisia\nPontos de Vida 200\nDeslocamento 9m (6q), voo 18m (12q)\nCorpo a Corpo Mordida +17 (2d6+12) e ferrão +17 (1d8+12 \nmais veneno).\nAgarrar Aprimorado (Livre) Se a serpe acerta um ataque \nde mordida, pode fazer a manobra agarrar (teste +19).\nVeneno Peçonha concentrada (perde 1d12 pontos de vida \npor rodada durante 3 rodadas, Fort CD 20 reduz a dura-\nção para uma rodada).\nFor 6, Des 1, Con 6, Int –2, Sab 1, Car –1\nTesouro 1d4 doses"
+  },
+  {
+    "id": "recruta-purista",
+    "name": "Recruta Purista",
+    "level": "1/2",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 10,
+    "defense": 16,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "A ralé do exército purista. São recrutados entre \nfilhos de camponeses — ou entre órfãos, criminosos \ne outros “indesejados”. Recebem treinamento militar \ne equipamento abaixo dos padrões da Supremacia, \nmas ainda superior ao da maior parte do Reinado. \nSão usados em missões menos importantes, como \natacar aldeias com poucas defesas, proteger lugares \nnão estratégicos e patrulhar estradas secundárias.\nHumanoide (humano) Médio \nIniciativa +3, Percepção +0\nDefesa 16, Fort +6, Ref +2, Von +0\nPontos de Vida 10\nDeslocamento 6m (4q)\nAtaque Corpo a Corpo Alabarda +8 (1d10+5, x3).\nLutar em Formação Se o recruta estiver adjacente a um \naliado que também possua este poder, recebe +2 em \ntestes de ataque e Defesa.\nFor 2, Des 1, Con 2, Int –1, Sab –1, Car 0\nEquipamento Alabarda, cota de malha. Tesouro Nenhum."
+  },
+  {
+    "id": "soldado-purista",
+    "name": "Soldado Purista",
+    "level": "1",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 20,
+    "defense": 20,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "A base dos batalhões puristas. São recrutados en-\ntre crianças da Supremacia (normalmente entre 10 a \n12 anos) e enviados a um dos vários campos militares \ndo reino. Lá aprendem a seguir ordens, a usar o equi-\npamento dos batalhões e a seguir a doutrina purista. \nÉ um treino brutal e eficaz. Muitos morrem. Os que \nsobrevivem se tornam jovens fortes e enrijecidos, \nrepletos de cicatrizes no corpo e na alma.\nQuando estão chegando à maioridade (15 a 17 \nanos), são enviados à cidade militar de Warton (ou \na outro quartel) para concluir seu treinamento e \nserem alocados a um batalhão. A etapa final de sua \nformação é na verdade uma lavagem cerebral que \ntransforma os futuros soldados em máquinas de \nmatar, sem qualquer traço de compaixão ou remorso.\nOs soldados puristas, tragicamente, possuem \npouco de sua tão aclamada humanidade.\nHumanoide (humano) Médio \nIniciativa +4, Percepção +1\nDefesa 20, Fort +10, Ref +4, Von +1\nPontos de Vida 20\nDeslocamento 6m (4q)\nCorpo a Corpo Espada bastarda +9 "
+  },
+  {
+    "id": "sargento-mor",
+    "name": "Sargento-mor",
+    "level": "3",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 105,
+    "defense": 24,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Sargentos da Supremacia são soldados vetera-\nnos e embrutecidos. Por já terem provado seu valor \nem batalha, recebem o comando de um batalhão, \nformado por cem soldados. Apesar da promoção, \nainda são mais guerreiros do que comandantes e \nlideram pelo exemplo, avançando à frente de suas \ntropas (para um oficial estrategista, veja Capitão-\n-Baluarte, a seguir). Seja enfrentando tropas inimi-\ngas, seja enfrentando heróis aventureiros, sargentos \nnunca se abalam; confiam em seu treinamento, em \nsua experiência e em sua força bruta.\nHumanoide (humano) Médio \nIniciativa +4, Percepção +3\nDefesa 24, Fort +14, Ref +9, Von +5\nPontos de Vida 105\nDeslocamento 6m (4q)\nCorpo a Corpo Espada bastarda +14 (1d12+15, 19).\nÀ Distância Besta pesada +12 (1d12+10, 19).\nLutar em Formação Se o sargento-mor estiver adjacente \na um aliado que também possua este poder, recebe +2 \nem testes de ataque e Defesa.\nVarrer (Livre) Uma vez por rodada, quando o sargento-\n-mor faz um ataque corpo a corpo e reduz os pontos"
+  },
+  {
+    "id": "capitão-baluarte",
+    "name": "capitão-Baluarte",
+    "level": "5",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 115,
+    "defense": 33,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Esses oficiais de baixo escalão são escolhidos \nentre a jovem nobreza da Supremacia e treinados \ndesde a infância para liderar. São combatentes \nhábeis, mas seu verdadeiro talento está em liderar \nas investidas de seus subordinados, não em atacar \npessoalmente.\nHumanoide (humano) Médio \nIniciativa +4, Percepção +5\nDefesa 33, Fort +15, Ref +5, Von +13\nPontos de Vida 115\nDeslocamento 6m (4q)\nCorpo a Corpo Espada longa +17 (1d8+8, 19).\nComandar (Padrão) Os aliados em alcance médio do \ncapitão-baluarte recebem +4 em testes de ataque e \nrolagens de dano até o fim da rodada. \nFormação Invencível Os aliados em alcance curto do \ncapitão-baluarte recebem +2 na Defesa.\nFor 3, Des 0, Con 4, Int 3, Sab 1, Car 4\nPerícias Cavalgar +4, Guerra +7, Nobreza +7.\nEquipamento Armadura completa reforçada, escudo pe-\nsado reforçado, espada longa certeira. Tesouro Dobro.\nCavaleiro do Leopardo"
+  },
+  {
+    "id": "sangrento",
+    "name": "Sangrento",
+    "level": "9",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 270,
+    "defense": 36,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Considerados “puristas entre os puristas”, os \ncavaleiros da Ordem do Leopardo Sangrento são \nos mais fanáticos combatentes da Supremacia. A \nsinistra capa com o símbolo da ordem significa que \npassaram pelo terrível rito de iniciação — sacrificar \num não humano com as próprias mãos. Além de \natuar como guarda-costas para líderes puristas, os \nLeopardos também executam missões estratégicas \nde sabotagem e assassinato.\nHumanoide (humano) Médio \nIniciativa +17, Percepção +15\nDefesa 36, Fort +21, Ref +11, Von +17, imunidade a medo\nPontos de Vida 270\nDeslocamento 9m (6q)\nPontos de Mana 58\nCorpo a Corpo Espada bastarda +28 (3d6+15, 19).\nCavaleiro Místico O cavaleiro lança magias como um \nmago de 9º nível (CD 28). Ele pode lançar magias arcanas \nde armadura sem precisar de testes de Misticismo. Uma \nvez por rodada, quando usa a ação agredir para fazer \nataques corpo a corpo, pode lançar uma magia como \nação livre (pagando seu custo normal em PM).\n•\t Concentração de Combate (Padrão, 3 PM) Até"
+  },
+  {
+    "id": "colosso-supremo",
+    "name": "Colosso Supremo",
+    "level": "14",
+    "type": "Construto",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 675,
+    "defense": 46,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Grandes como moinhos de vento, feitos de pe-\ndra e metal, estes engenhos infernais são forjados \ncom técnicas que combinam magia e tecnologia \ngoblin. Plataformas em seus ombros abrigam \nsoldados operando balistas, bem como oficiais que \nsupervisionam e comandam as tropas no solo. Em \nseu interior, escravos goblins são responsáveis pela \noperação e reparos em tempo real. Além de sua \nespada titânica e canhões que disparam jatos de \nchamas, o colosso possui chaminés que expelem \numa fumaça escura e venenosa; os tripulantes \nhumanos usam máscaras protetoras, enquanto os \ngoblins são resistentes ao veneno (e também fáceis \nde substituir).\nConstruto Colossal \nIniciativa +8, Percepção +9, visão no escuro\nDefesa 46, Fort +31, Ref +19, Von +20, cura acelerada 20, \nredução de dano 10, resistência a magia +5\nPontos de Vida 675\nDeslocamento 12m (8q)\nCorpo a Corpo Espada titânica +39 (4d12+30, 19).\nBalistas (Livre) O colosso possui duas balistas, uma em \ncada ombro. Cada balista é tripulada por s"
+  },
+  {
+    "id": "zumbi",
+    "name": "Zumbi",
+    "level": "1/4",
+    "type": "Morto-Vivo",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 20,
+    "defense": 11,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Morto-vivo Médio \nIniciativa –1, Percepção –1, visão no escuro\nDefesa 11, Fort +3, Ref –1, Von –1\nPontos de Vida 20\nDeslocamento 6m (4q)\nCorpo a Corpo Mordida +7 (1d6+6).\nFraqueza Zumbi O zumbi sofre o dobro de dano de \nacertos críticos ou de ataques feitos contra seu cérebro \n(Defesa 21).\nFor 3, Des –1, Con 2, Int —, Sab –1, Car 0\nTesouro Nenhum."
+  },
+  {
+    "id": "turba-zumbi",
+    "name": "Turba Zumbi",
+    "level": "2",
+    "type": "Morto-Vivo",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 100,
+    "defense": 11,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Morto-vivo (bando) Grande \nIniciativa +1, Percepção +1, visão no escuro\nDefesa 11, Fort +5, Ref +1, Von +1\nPontos de Vida 100\nDeslocamento 6m (4q)\nCorpo a Corpo [Bando] Mordida +17 (2d6+12).\nBando A turba é formada por um grupo de zumbis. Se um \nataque da turba exceder a Defesa do inimigo por 10 ou \nmais, ele causa o dobro do dano. Se um ataque da turba \nerrar, ele ainda assim causa metade do dano. A turba \né imune a manobras de combate e efeitos que afetam \napenas uma criatura e não causam dano, mas sofre 50% \na mais de dano de efeitos de área, como Bola de Fogo. \nUm personagem com o poder Trespassar que acerte a \nturba pode usá-lo para fazer um ataque adicional contra \nela (mas apenas uma vez por turno).\nFraqueza Zumbi A turba zumbi sofre o dobro de dano de acer-\ntos críticos ou de ataques feitos contra seus cérebros \n(Defesa 21).\nFor 3, Des –1, Con 3, Int —, Sab –1, Car 0\nTesouro Nenhum.\nEsqueletos\nBasta um olhar atento para diferenciar um \nosteon destes mortos-vivos sem mente. Esqu"
+  },
+  {
+    "id": "esqueleto",
+    "name": "Esqueleto",
+    "level": "2",
+    "type": "Morto-Vivo",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 14,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Morto-vivo Médio \nIniciativa +7, Percepção +3, visão no escuro\nDefesa 19, Fort +3, Ref +7, Von +12, redução de corte, \nfrio e perfuração 5\nPontos de Vida 14\nDeslocamento 9m (6q)\nCorpo a Corpo Espada longa +14 (2d8+12, 19).\nFor 5, Des 3, Con 0, Int —, Sab 0, Car –5.\nEquipamento Escudo pesado, espada longa. Tesouro \nNenhum."
+  },
+  {
+    "id": "esqueleto-de-elite",
+    "name": "Esqueleto de elite",
+    "level": "4",
+    "type": "Morto-Vivo",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 60,
+    "defense": 25,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Morto-vivo Médio \nIniciativa +10, Percepção +4, visão no escuro\nDefesa 25, Fort +4, Ref +10, Von +16, redução de corte, frio e \nperfuração 5\nReino dos Mortos\n297\nCapítulo Sete\nPontos de Vida 60\nDeslocamento 6m (4q)\nCorpo a Corpo Espada longa +18 (2d8+15, 19, mais 2d8 \ntrevas).\nFor 6, Des 4, Con 2, Int —, Sab 0, Car –5\nEquipamento Escudo pesado, espada longa, meia arma-\ndura. Tesouro Nenhum."
+  },
+  {
+    "id": "falange",
+    "name": "Falange",
+    "level": "8",
+    "type": "Morto-Vivo",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 300,
+    "defense": 25,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Morto-vivo (bando) Grande \nIniciativa +12, Percepção +6, visão no escuro\nDefesa 25, Fort +6, Ref +12, Von +18, redução de corte, \nfrio e perfuração 5\nPontos de Vida 300\nDeslocamento 6m\nCorpo a Corpo [Bando] Espada longa +28 (4d8+30, 19, \nmais 4d8 trevas).\nBando A falange é formada por um grupo de esqueletos. Se \num ataque da falange exceder a Defesa do inimigo por \n10 ou mais, ele causa o dobro do dano. Se um ataque \nda falange errar, ele ainda assim causa metade do dano. \nA falange é imune a manobras de combate e efeitos \nque afetam apenas uma criatura e não causam dano, \nmas sofre 50% a mais de dano de efeitos de área, como \nBola de Fogo. Um personagem com o poder Trespassar \nque acerte a falange pode usá-lo para fazer um ataque \nadicional contra ela (mas apenas uma vez por turno).\nFor 6, Des 4, Con 2, Int —, Sab 0, Car –5\nEquipamento. Escudo pesado, espada longa, meia armadura \n(1d8 cada). Tesouro Nenhum."
+  },
+  {
+    "id": "aparição",
+    "name": "Aparição",
+    "level": "5",
+    "type": "Morto-Vivo",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 110,
+    "defense": 23,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Vistas à distância, estas criaturas feitas de pura \nsombra lembram vultos usando mantos esvoaçantes. \nDizem que são sombras separadas de seus antigos \n“donos”, agora odiando os vivos e a própria luz. Ape-\nsar de sua extrema furtividade na escuridão, podem \nser detectadas por animais e crianças. Em combate, \nusam o toque sombrio para drenar a vida de seus \noponentes, concentrando-se em uma vítima por vez.\nMorto-vivo Médio \nIniciativa +10, Percepção +6, visão no escuro\nDefesa 23, Fort +5, Ref +17, Von +11, incorpóreo\nPontos de Vida 110\nDeslocamento Voo 18m (12q)\nCorpo a Corpo Toque drenante +18 (3d8+6 trevas). Uma \ncriatura viva atingida deve fazer um teste de Fortitude \n(CD 21). Se falhar, fica fraca e a aparição recebe 20 PV \ntemporários cumulativos.\nVulnerabilidade à Luz do Dia Uma aparição exposta a \nluz solar natural fica debilitada.\nFor —, Des 6, Con 0, Int 0, Sab 2, Car 2\nPerícias Furtividade +15.\nTesouro Nenhum."
+  },
+  {
+    "id": "necromante",
+    "name": "Necromante",
+    "level": "7",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 180,
+    "defense": 23,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Estes arcanistas especializados em magias de \ntrevas e na conjuração de mortos-vivos nem sempre \nsão vilões. Alguns, bem-intencionados, acreditam \nfirmemente que os mortos são uma força de trabalho \nvaliosa, deixando os vivos livres para se dedicar a \ndisciplinas mentais. Outros, no entanto, utilizam \nesqueletos e zumbis apenas como recursos para \natingir objetivos perversos. Muitos são figuras de \nautoridade em Aslothia.\nUm necromante raramente comete a imprudên-\ncia de ser encontrado sozinho — quase sempre estará \nacompanhado por esqueletos. Em combate, tentará \nse manter protegido por seus servos, enquanto usa \nmagias para fortificá-los e incapacitar oponentes.\nHumanoide (elfo) Médio \nIniciativa +9, Percepção +9, visão na penumbra\nDefesa 23, Fort +7, Ref +14, Von +20\nPontos de Vida 180\nDeslocamento 12m (8q)\nPontos de Mana 55\nCorpo a Corpo Adaga +22 (1d4, 19, mais 1d8 trevas).\nErgam-se! (Completa, 5 PM) O necromante conjura seis \nmortos-vivos em espaços desocupados em alcance \ncurto."
+  },
+  {
+    "id": "vampiro",
+    "name": "Vampiro",
+    "level": "12",
+    "type": "Morto-Vivo",
+    "size": "Minúsculo",
+    "role": "Lacaio",
+    "hp": 550,
+    "defense": 45,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Tornar-se vampiro costuma ser o objetivo de \nmuitos necromantes em busca de mais poder ou \nclérigos de Tenebra que querem melhor servir à \ndeusa. Essa “dádiva” pode ser alcançada através de \npactos, rituais ou maldições. Cada vampiro é único, \nmas todos partilham duas fraquezas principais: são \nvulneráveis à luz do sol e dependentes de sangue.\nAinda que sejam temidos em todo o Reinado e \nalém, muitos vampiros compõem a alta sociedade de \nAslothia, onde são membros da nobreza (e cometem \natrocidades impunemente).\nMorto-vivo Médio \nIniciativa +15, Percepção +13, visão no escuro\nPontos de Vida 550\nDefesa 45, Fort +12, Ref +26, Von +20, cura acelerada 10, \nredução de dano 10/luz.\nDeslocamento 18m (12q), escalar 18m (12q)\nCorpo a Corpo Espada longa x2 +36 (2d8+25, 17, mais \n2d10 trevas) e garra +36 (2d6+25 mais 2d10 trevas).\nDominação Vampírica (Padrão) O vampiro sussurra \npalavras de controle para um humanoide em alcance \ncurto. A vítima fica confusa, enfeitiçada ou fascinada até \no final "
+  },
+  {
+    "id": "salteador",
+    "name": "Salteador",
+    "level": "1/4",
+    "type": "Humanoide",
+    "size": "Pequeno",
+    "role": "Lacaio",
+    "hp": 4,
+    "defense": 13,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Quase sempre subestimados e considerados \n“fracos”, estes goblins possuem uma ferocidade \ncaótica, sendo máquinas insanas de esfaquear e \nestripar. Um pequeno bando pode chacinar um po-\nvoado humano ou sobrepujar aventureiros novatos; \nem grandes números, atacando por todos os lados, \nconseguem derrubar até mesmo heróis experientes.\nHumanoide (goblin) Pequeno \nIniciativa +5, Percepção +1, visão no escuro\nDefesa 13, Fort +2, Ref +3, Von –1\nPontos de Vida 4\nDeslocamento 9m (6q), escalada 9m (6q)\nCorpo a Corpo Duas adagas +7 (1d4, 19).\nFrenesi O goblin salteador recebe +2 em testes de ataque \ne rolagens de dano para cada outro goblin salteador \nadjacente ao seu alvo.\nFor 0, Des 3, Con 0, Int 0, Sab –1, Car –1\nEquipamento Adagas x2. Tesouro Padrão.\nHobgoblin"
+  },
+  {
+    "id": "soldado",
+    "name": "Soldado",
+    "level": "2",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 18,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "De estatura similar a humanos robustos, hob-\ngoblins são os mais militaristas entre os duyshida-\nkk. Contrariando o que se espera de “humanoides \nmonstruosos”, suas armas e armaduras são de \nextrema qualidade, assim como suas estratégias de \ncombate. Lutam de forma inteligente e organizada, \ndividindo suas forças entre infantaria na linha de \nfrente (lutadores corpo a corpo em armaduras pe-\nsadas) e artilharia com arcos, bestas ou armas de \npólvora dando apoio na retaguarda.\nHumanoide (hobgoblin) Médio \nIniciativa +4, Percepção +1, visão no escuro\nDefesa 19, Fort +12, Ref +7, Von +3\nPontos de Vida 18\nDeslocamento 6m (4q)\nCorpo a Corpo Espada longa +15 (1d8+15, 19).\nÀ Distância Arco longo +11 (1d8+6, x3).\nFor 4, Des 2, Con 1, Int 0, Sab 0, Car –1\nPerícias Ofício (armeiro) +2.\nEquipamento Arco longo, cota de malha, escudo pesado, \nespada longa, flechas x20. Tesouro Padrão.\nGoblin"
+  },
+  {
+    "id": "engenhoqueiro",
+    "name": "Engenhoqueiro",
+    "level": "3",
+    "type": "Humanoide",
+    "size": "Pequeno",
+    "role": "Lacaio",
+    "hp": 74,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Tidos por muitos como pragas inúteis, os goblins \ncultivam uma longa “tradição” de transformar sucata \nem mecanismos e engenhocas de certa utilidade. \nAinda que imprevisíveis, estes aparatos se tornaram \na marca registrada da raça e encontraram um espaço \nentre as lanças e escudos das hordas goblinoides.\nHumanoide (goblin) Pequeno \nIniciativa +5, Percepção +2, visão no escuro\nDefesa 19, Fort +3, Ref +15, Von +9\nPontos de Vida 74\nDeslocamento 9m (6q), escalada 9m (6q)\nCorpo a Corpo Adaga +8 (1d4+3, 19).\nÀ Distância Besta leve +9 (1d8+3, 19).\nOs Duyshidakk\n300\n \nAmeaças\n \nEngenhocas (Padrão) O goblin engenhoqueiro faz um \nteste de Ofício (engenhoqueiro) contra CD 15 para ativar \numa de suas engenhocas. Para cada engenhoca, a CD \naumenta em +5 a cada nova ativação no mesmo dia. \nSe passar no teste, a engenhoca é ativada. Se falhar, ela \nenguiça e não pode mais ser usada nesta cena.\n•\t Asa de Bambu. O engenhoqueiro recebe deslocamento \nde voo 12m até o fim da cena.\n•\t Cospe-chamas. Produz "
+  },
+  {
+    "id": "arauto-de-thwor",
+    "name": "Arauto de Thwor",
+    "level": "4",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 135,
+    "defense": 23,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Após conhecer a história de sofrimento e opres-\nsão dos duyshidakk, não é espantoso que outros \npovos experimentem afinidade com sua causa. Hoje \nThwor não é servido apenas por goblinoides, mas \ntambém por humanos e outras raças! Aceitos como \nirmãos pelos duyshidakk e abraçando suas tradições, \nestes clérigos assumem a missão sagrada de criar \nO Mundo Como Deve Ser e transformar Arton na \nutopia selvagem pregada por seu deus.\nHumanoide (humano) Médio \nIniciativa +5, Percepção +8\nDefesa 23, Fort +10, Ref +4, Von +16\nPontos de Vida 135\nDeslocamento 6m (4q)\nPontos de Mana 26\nCorpo a Corpo Machado de guerra +16 (3d6+12, x3).\nO Mundo como Ele É (Reação) Quando erra um ataque, \no arauto de Thwor pode repetir o teste de ataque. \nEle pode usar esta habilidade uma vez contra cada \noponente a cada cena.\nMagias O arauto lança magias como um clérigo de Thwor de \n4º nível (CD 18).\n•\t Amedrontar (Padrão, 3 PM) Um animal ou humanoide \nem alcance curto fica apavorado por 1d4+1 rodadas e \ndepois abala"
+  },
+  {
+    "id": "mago-de-batalha",
+    "name": "Mago de Batalha",
+    "level": "5",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 120,
+    "defense": 17,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "No passado remoto, durante a Infinita Guerra \ncontra os elfos, todos os hobgoblins odiavam e \ndesprezavam magia — justamente por ser “coisa \nde elfo”. Mais tarde, no entanto, integrar a Aliança \nNegra e derrotar Lenórienn trouxe uma atitude mais \npragmática. Após pilharem os tomos arcanos élficos, \nmuitos hobgoblins passariam a dominar conjurações \ncom efeitos destrutivos. \nHumanoide (hobgoblin) Médio \nIniciativa +5, Percepção +4, visão no escuro\nDefesa 17, Fort +11, Ref +5, Von +17\nPontos de Vida 120\nDeslocamento 9m (6q)\nPontos de Mana 35\nCorpo a Corpo Espada longa +14 (1d8+3, 19).\nArcano de Batalha O hobgoblin mago de batalha soma \nsua Inteligência (+4) nas rolagens de dano com magias.\nMagias O hobgoblin lança magias como um mago de 5º nível \n(CD 22).\n•\t Amedrontar (Padrão, 3 PM) Um animal ou humanoide \nem alcance curto fica apavorado por 1d4+1 rodadas e \ndepois abalado (Vontade reduz para abalado apenas).\n•\t Armadura Arcana (Padrão, 5 PM) O hobgoblin recebe +6 \nna Defesa por um dia."
+  },
+  {
+    "id": "guerra-goblin",
+    "name": "Guerra Goblin",
+    "level": "6",
+    "type": "Construto",
+    "size": "Enorme",
+    "role": "Lacaio",
+    "hp": 246,
+    "defense": 25,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Elevando a capacidade mecânica e inventiva dos \ngoblins a novos patamares, o engenho de guerra go-\nblin é uma geringonça de terror e imprevisibilidade. \nPolias, roldanas, engrenagens, fumaça e uma pitada \nde magia se misturam sob as mãos questionavelmen-\nte hábeis de engenhoqueiros goblins para produzir \numa máquina de guerra capaz de mudar os rumos de \numa batalha. Ou explodir tentando...\n301\nCapítulo Sete\nUm engenho de guerra parece uma enorme carro-\nça de madeira e ferro sem cavalos, com três pares de \ngrandes rodas. Uma cúpula de metal na parte superior \ndo veículo abriga o artilheiro que opera sua arma \nprincipal, um poderoso canhão de raios. Outras armas \nmenores se projetam de suas laterais, operadas frene-\nticamente pela tripulação goblin, que se reveza entre \npilotar o aparelho e efetuar reparos. Um engenho de \nguerra pode ser um trunfo no campo de batalha ou \napenas uma grande fonte de barulho e fumaça.\nConstruto Enorme \nIniciativa +3, Percepção +5, visão no escuro\nDefesa 25,"
+  },
+  {
+    "id": "de-medos",
+    "name": "de Medos",
+    "level": "8",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 325,
+    "defense": 31,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Bugbears são crueldade e violência em forma de \ncarne. Para estas criaturas, o maior prazer é aterro-\nrizar e o segundo maior é matar (após aterrorizar). \nEntre estes seres assustadores, os mestres absolutos \ndo pavor são os devoradores de medos.\nDevoradores de medos podem literalmente \nfarejar o medo, algo tão intoxicante para eles quanto \no álcool é para humanos. Isso os leva a acuar vítimas \napavoradas, até o momento em que decidem desferir \no golpe mortal. Não há prazer em golpear o guarda \nde milícia pelas costas, antes que ele perceba qual-\nquer perigo; o devorador de medos prefere abalar a \ncoragem da vítima aos poucos, rosnando ameaças \nnas sombras, fazendo-a procurar inutilmente em \nvolta, até fugir em pânico. Então ele ataca. E mata.\nHumanoide (bugbear) Médio \nIniciativa +11, Percepção +9, faro, visão no escuro\nDefesa 31, Fort +21, Ref +15, Von +8, imunidade a medo\nPontos de Vida 325\nDeslocamento 9m (6q)\nCorpo a Corpo Machado de guerra x2 +26 (1d12+20, x3).\nApavorar (Moviment"
+  },
+  {
+    "id": "cascavel",
+    "name": "Cascavel",
+    "level": "1/4",
+    "type": "Animal",
+    "size": "Minúsculo",
+    "role": "Lacaio",
+    "hp": 2,
+    "defense": 13,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Animal Minúsculo \nIniciativa +5, Percepção +3, faro, visão na penumbra\nDefesa 13, Fort +2, Ref +5, Von –1\nPontos de Vida 2\nDeslocamento 6m (4q), escalar 6m (4q), natação 9m (6q)\nCorpo a Corpo Mordida +7 (1d4 mais veneno).\nVeneno Perde 1d12 pontos de vida (Fort CD 16 evita).\nFor –2, Des 3, Con 0, Int –5, Sab 0, Car –4\nPerícias Furtividade +12.\nTesouro 1 dose de peçonha comum (CD 15 para extrair)."
+  },
+  {
+    "id": "jiboia",
+    "name": "Jiboia",
+    "level": "1/2",
+    "type": "Animal",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 14,
+    "defense": 14,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Animal Médio \nIniciativa +5, Percepção +3, faro, visão na penumbra\nDefesa 14, Fort +3, Ref +5, Von +0\nPontos de Vida 14\nDeslocamento 6m (4q), escalar 6m (4q), natação 9m (6q)\nCorpo a Corpo Mordida +9 (1d6+4).\nAgarrar Aprimorado (Livre) Se a jiboia acerta um ataque \nde mordida, pode fazer a manobra agarrar (teste +9).\nConstrição (Livre) No início de cada um de seus turnos, \na jiboia causa 2d6+4 pontos de dano de impacto na \ncriatura que estiver agarrando.\nFor 2, Des 3, Con 1, Int –5, Sab 1, Car –4\nPerícias Furtividade +7.\nTesouro Nenhum."
+  },
+  {
+    "id": "naja",
+    "name": "Naja",
+    "level": "1",
+    "type": "Animal",
+    "size": "Pequeno",
+    "role": "Lacaio",
+    "hp": 13,
+    "defense": 17,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Animal Pequeno \nIniciativa +8, Percepção +3, faro, visão na penumbra\nDefesa 17, Fort +5, Ref +10, Von +1\nPontos de Vida 13\nDeslocamento 6m (4q), escalar 6m (4q), natação 6m (4q)\nCorpo a Corpo Mordida +12 (1d4 mais veneno).\nVeneno Perde 1d12 pontos de vida durante 3 rodadas \n(Fort CD 18 reduz para uma rodada).\nFor –1, Des 4, Con 1, Int –5, Sab 0, Car –4\nPerícias Furtividade +10.\nTesouro 1 dose de peçonha concentrada (CD 16 para \nextrair)."
+  },
+  {
+    "id": "sucuri",
+    "name": "Sucuri",
+    "level": "3",
+    "type": "Animal",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 88,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Animal Grande \nIniciativa +5, Percepção +4, faro, visão na penumbra\nDefesa 19, Fort +9, Ref +15, Von +3\nPontos de Vida 88\nDeslocamento 6m (4q), escalar 9m (6q), natação 9m (6q)\nCorpo a Corpo Mordida +18 (2d6+14).\nAgarrar Aprimorado (Livre) Se a sucuri acerta um \nataque de mordida, pode fazer a manobra agarrar \n(teste +20).\nConstrição (Livre) No início de cada um de seus turnos, \na sucuri causa 4d6+14 pontos de dano de impacto na \ncriatura que estiver agarrando.\nFor 6, Des 2, Con 4, Int –5, Sab 1, Car –4\nPerícias Furtividade +8.\nTesouro Nenhum.\nOs Sszzaazitas\n304\n \nAmeaças\n \nNagah\nEstes seres de torso humanoide e corpo de serpen-\nte foram outrora considerados uma raça de devotos \nde Allihanna. Infelizmente, tudo não passou de um \nelaborado e duradouro disfarce, mantido enquanto \nSszzaas estava afastado, tramando seu retorno. Hoje, \nquase todos os grupos sszzaazitas incluem algumas \nnagahs. Em sua sociedade, os machos quase sempre \nsão guerreiros, enquanto as fêmeas são clérigas ou \narca"
+  },
+  {
+    "id": "nagah-guardião",
+    "name": "Nagah Guardião",
+    "level": "3",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 45,
+    "defense": 21,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (nagah) Médio \nIniciativa +6, Percepção +3, visão na penumbra\nDefesa 21, Fort +6, Ref +11, Von +9, resistência a veneno +5\nPontos de Vida 45\nDeslocamento 9m (6q)\nCorpo a Corpo Duas cimitarras +14 (1d6+6, 18) e cauda \n+14 (1d6+6).\nFraquezas Ofídias O nagah guardião sofre 1 ponto de \ndano adicional para cada dado de dano de frio e –5 em \ntestes de resistência contra Músicas de Bardo.\nFor 4, Des 3, Con 2, Int 0, Sab 0, Car 0\nPerícias Enganação +4, Furtividade +6.\nEquipamento Cimitarras x2. Tesouro Padrão."
+  },
+  {
+    "id": "nagah-mística",
+    "name": "Nagah Mística",
+    "level": "6",
+    "type": "Humanoide",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 160,
+    "defense": 20,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Humanoide (nagah) Médio \nIniciativa +8, Percepção +6, visão na penumbra\nDefesa 20, Fort +6, Ref +12, Von +18, resistência a veneno +5\nPontos de Vida 160\nDeslocamento 9m (6q)\nPontos de Mana 35\nCorpo a Corpo Adaga +18 (1d6+6, 19) e cauda +18 (1d6+6).\nMagia Acelerada (Livre, 4 PM) Uma vez por rodada, quan-\ndo lança uma magia com execução de ação completa ou \nmenor, a nagah mística muda a execução dela para livre.\nMagias A nagah lança magias como uma maga de 8º nível \n(CD 24).\n•\t Imagem Espelhada (Padrão, 5 PM) Cinco cópias ilusórias \nda nagah surgem ao seu redor, concedendo a ela +10 na \nDefesa. Cada vez que um ataque erra a nagah, uma das \ncópias desaparece e o bônus na Defesa diminui em 2.\n•\t Relâmpago (Padrão, 5 PM) A nagah causa 8d6 pontos de \ndano de eletricidade em todas as criaturas em uma linha \ncom alcance médio (Reflexos reduz à metade).\n•\t Velocidade (Padrão, 3 PM, sustentada) A nagah pode \nexecutar uma ação padrão adicional por turno, que não \npode ser usada para lançar magias"
+  },
+  {
+    "id": "hidra",
+    "name": "Hidra",
+    "level": "11",
+    "type": "Monstro",
+    "size": "Enorme",
+    "role": "Lacaio",
+    "hp": 550,
+    "defense": 35,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Esta monstruosidade reptiliana tem a aparência \nde um lagarto imenso e obeso, coberto de escamas \nverdes ou marrons, com cinco cabeças encimando \npescoços longos e flexíveis como serpentes. Hidras \nsão criaturas solitárias e normalmente habitam \npântanos, onde se escondem imersas em água ou \nlama, esperando por uma presa. Porém, às vezes \nsão capturadas por sszzaazitas, sendo usadas como \nguardiãs de lugares importantes ou armas de guerra. \nSeja como for, a hidra é um monstro voraz, agressivo \ne difícil de matar; quando uma de suas cabeças é \ncortada, outras duas nascem no lugar!\nMonstro Enorme \nIniciativa +9, Percepção +9, faro, visão no escuro\nDefesa 35, Fort +24, Ref +18, Von +9, cura acelerada 100\nPontos de Vida 550\nDeslocamento 9m (6q), natação 9m (6q)\nCorpo a Corpo Cinco mordidas +34 (3d6+16).\nCortar Cabeças As cabeças da hidra são seu ponto fraco \ne é possível atacá-las diretamente. Atacar uma cabeça \nimpõe uma penalidade de –2 no teste de ataque. Se o \nataque acertar e causar p"
+  },
+  {
+    "id": "lagash",
+    "name": "Lagash",
+    "level": "13",
+    "type": "Monstro",
+    "size": "Enorme",
+    "role": "Lacaio",
+    "hp": 660,
+    "defense": 41,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Esta serpente gigantesca é considerada sagrada pe-\nlos sszzaazitas — embora isso não impeça cultistas do \nDeus da Traição de usarem-na para proteger tesouros \nvaliosos. O corpo de um lagash é coberto de escamas \nnegras, seus olhos brilham amarelos e a bocarra verte \nveneno... e cobras! Lagash são pouco conhecidos no \nReinado — além de habitar apenas selvas profundas \ne subterrâneos, quem encontra um desses monstros \nnormalmente não sobrevive para contar a história.\nMonstro Enorme \nIniciativa +19, Percepção +11, faro, visão no escuro\nDefesa 41, Fort +26, Ref +20, Von +13, imunidade a efeitos \nde movimento e veneno\nPontos de Vida 660\nDeslocamento 12m (8q), escalar 12m (8q), natação 12m (8q)\nCorpo a Corpo Mordida +37 (4d12+28 mais veneno).\nAgarrar Aprimorado (Livre) Se o lagash acerta um ataque \nde mordida, pode fazer a manobra agarrar (teste +42).\nConstrição (Livre) No início de cada um de seus turnos, \no lagash causa 6d12+28 pontos de dano de impacto na \ncriatura que estiver agarrando.\n"
+  },
+  {
+    "id": "finntroll-caçador",
+    "name": "Finntroll Caçador",
+    "level": "2",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 65,
+    "defense": 19,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Monstro (finntroll) Médio \nIniciativa +7, Percepção +7, visão no escuro\nDefesa 19, Fort +6, Ref +12, Von +4, imunidade a atordoa-\nmento e metamorfose, resistência a magia +2\nPontos de Vida 65\nDeslocamento 9m (6q)\nCorpo a Corpo Duas cimitarras +12 (1d6+5, 18).\nÀ Distância Besta pesada +12 (1d12+4, 19) ou rede +12 \n(agarrar).\nMarca da Presa (Movimento) O finntroll analisa uma \ncriatura em alcance curto. Até o final da cena, recebe \n+1d8 em rolagens de dano contra essa criatura (ou \n+2d8, se a criatura for um anão, elfo ou humano).\nNatureza Vegetal O finntroll é afetado por habilidades e \nmagias que afetam plantas.\nRegeneração Vegetal (Movimento) O finntroll recupera \n5 PV. Esta habilidade não cura dano de ácido e fogo e \nnão pode ser usada quando o finntroll está exposto à \nluz do sol ou similar.\nSensibilidade a Luz Quando exposto à luz do sol ou simi-\nlar, o finntroll fica ofuscado.\nFor 2, Des 3, Con 3, Int 2, Sab 2, Car –1\nPerícias Furtividade +8, Sobrevivência +7.\nEquipamento Besta pe"
+  },
+  {
+    "id": "finntroll-feitor",
+    "name": "Finntroll Feitor",
+    "level": "6",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 155,
+    "defense": 20,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Monstro (finntroll) Médio \nIniciativa +9, Percepção +5, visão no escuro\nDefesa 20, Fort +8, Ref +12, Von +16, imunidade a ator-\ndoamento e metamorfose, resistência a magia +2\nPontos de Vida 155\nDeslocamento 9m (6q)\nPontos de Mana 35\nCorpo a Corpo Chicote +18 (1d3+10, 19).\nAçoitar (Padrão) O finntroll usa de coerção e dor para \nmotivar seus subalternos. No próximo turno de cada \naliado do finntroll em alcance médio, esse aliado recebe \numa ação de movimento extra e +2 em testes de ataque \ne rolagens de dano.\nMagias O finntroll feitor lança magias como um mago de \n7º nível (CD 26, 28 para encantamento*). 1º — Adaga \nMental*, Armadura Arcana, Enfeitiçar*; 2º — Desespero \nEsmagador*, Marca da Obediência*, Relâmpago.\nNatureza Vegetal O finntroll é afetado por habilidades e \nmagias que afetam plantas.\nRegeneração Vegetal (Movimento) O finntroll recupera \n5 PV. Esta habilidade não cura dano de ácido e fogo e \nnão pode ser usada quando o finntroll está exposto à \nluz do sol ou similar.\nSensibi"
+  },
+  {
+    "id": "ganchador",
+    "name": "Ganchador",
+    "level": "5",
+    "type": "Humanoide",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 210,
+    "defense": 26,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Esta criatura parece um besouro humanoide \ncom quase três metros de altura. A cabeça lembra a \nde um urubu com um bico grande e é a única parte \nda criatura não coberta por um exoesqueleto duro \ne repleto de pontas afiadas. Mas são os braços que \ndão nome à criatura, pois terminam em ganchos \npontudos de aparência cruel. Ganchadores vivem \nnos subterrâneos de Arton e estão entre as criaturas \nescravizadas pelos finntroll.\nMonstro Grande \nIniciativa +7, Percepção +5, percepção às cegas\nDefesa 26, Fort +15, Ref +11, Von +7\nPontos de Vida 210\nDeslocamento 9m (6q), escalar 9m (6q)\nCorpo a Corpo Mordida +17 (2d6+8) e duas garras +17 \n(1d8+8, 19/x3).\nDilacerar Se o ganchador acerta os dois ataques de garra \nem uma mesma criatura na mesma rodada, causa mais \n2d8+8 pontos de dano.\nQuebrar Tudo! O ganchador recebe +2 em testes de ata-\nque para quebrar (teste total +21) e causa +1d8 pontos \nde dano contra objetos.\nSensibilidade a Luz Quando exposto à luz do sol ou simi-\nlar, o ganchador fica ofu"
+  },
+  {
+    "id": "troll",
+    "name": "Troll",
+    "level": "5",
+    "type": "Monstro",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 165,
+    "defense": 23,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Um troll é um monstro feito de matéria vegetal. \nAlto e magro como uma árvore, possui pele verde e \nverruguenta e braços longos que terminam em garras \nafiadas. Estes monstros vorazes não apenas servem \naos finntroll como guardas e soldados, mas também \nsão encontrados em diversos pontos de Arton, uma \nameaça constante a viajantes e aventureiros. Alguns \ndizem que são uma versão primitiva dos finntroll, \nenquanto outros presumem que foram criados pelos \ntrolls nobres através de experimentos perversos que \nenvolvem transformar criaturas indefesas.\nUm troll pode regenerar quase qualquer feri-\nmento, até mesmo membros decepados. Essa ca-\npacidade exige quantidades fantásticas de comida, \nfazendo com que o monstro esteja sempre faminto \n— um troll vai tentar devorar qualquer coisa que \nse mova. Apenas dano causado por fogo ou ácido \nimpede sua regeneração.\nAs estatísticas a seguir representam a espécie de \ntroll mais comum, que habita pântanos e charcos, \nmas existem outras (veja o quadro "
+  },
+  {
+    "id": "das-cavernas",
+    "name": "das Cavernas",
+    "level": "9",
+    "type": "Monstro",
+    "size": "Enorme",
+    "role": "Lacaio",
+    "hp": 345,
+    "defense": 29,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Maiores e mais poderosos que trolls comuns, \nsão empregados pelos finntrolls como armas pesa-\ndas. Possuem ombros imensos, braços largos como \ntroncos de árvore e cabeça redonda e abrutalhada. \nSuas pernas poderosas terminam em pés sem dedos \ne sua pele cinzenta é tão áspera — e dura — quanto \na rocha. Um grupo destas gigantescas criaturas pode \ndesafiar até os mais poderosos heróis do Reinado!\nMonstro Enorme \nIniciativa +7, Percepção +14, faro, visão no escuro\nDefesa 29, Fort +21, Ref +15, Von +9, cura acelerada 20/\nácido ou fogo\nPontos de Vida 345\nDeslocamento 12m (8q), escalar 9m (6q)\nCorpo a Corpo Tacape +26 (3d6+27) e mordida +26 \n(2d6+27).\nGolpe Avassalador (Livre) Quando acerta um ataque de \ntacape, o troll das cavernas arremessa a vítima 1d6 x \n1,5m em uma direção à escolha dele (Fort CD 28 evita). \nA vítima fica caída e, se atingir algum obstáculo, sofre \n1d6 pontos de dano de impacto para cada 1,5m que foi \narremessada.\nVarrer (Livre) Uma vez por rodada, quando o troll das ca"
+  },
+  {
+    "id": "dragão-filhote",
+    "name": "Dragão Filhote",
+    "level": "3",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 140,
+    "defense": 22,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Monstro (dragão) Médio \nIniciativa +8, Percepção +5, percepção às cegas, visão no escuro\nDefesa 22, Fort +15, Ref +3, Von +9, imunidade a fogo, resis-\ntência a magia +1, vulnerabilidade a frio\nPontos de Vida 140\nDeslocamento 12m (8q), voo 18m (12q)\nCorpo a Corpo Mordida +15 (2d6+5) e duas garras +15 \n(1d6+5).\nSopro (Padrão) Todas as criaturas em um cone de 6m \nsofrem 2d12 pontos de dano de fogo e ficam em chamas \n(Ref CD 18 reduz o dano à metade e evita a condição). \nRecarga (movimento).\nFor 4, Des 3, Con 3, Int 0, Sab 0, Car 0\nTesouro Padrão."
+  },
+  {
+    "id": "dragão-jovem",
+    "name": "Dragão Jovem",
+    "level": "7",
+    "type": "Monstro",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 320,
+    "defense": 32,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Monstro (dragão) Grande \nIniciativa +11, Percepção +11, percepção às cegas, visão \nno escuro\nDefesa 32, Fort +20, Ref +9, Von +12, imunidade a fogo, \nredução de dano 5, resistência a magia +2, vulnerabili-\ndade a frio\nPontos de Vida 320\nDeslocamento 12m (8q), voo 18m (12q)\nOs Dragões\n310\n \nAmeaças\n \nPontos de Mana 15\nCorpo a Corpo Mordida +25 (2d6+14, 19) e duas garras \n+25 (1d8+14, 19).\nSopro (Padrão) Todas as criaturas em um cone de 9m \nsofrem 6d12 pontos de dano de fogo e ficam em chamas \n(Ref CD 25 reduz o dano à metade e evita a condição). \nRecarga (movimento).\nVarrer (Livre) Uma vez por rodada, quando o dragão faz \num ataque corpo a corpo e reduz os pontos de vida do \nalvo para 0 ou menos, pode realizar um ataque adicional \ncontra outra criatura dentro do seu alcance.\nFor 7, Des 2, Con 6, Int 2, Sab 2, Car 2\nPerícias Intimidação +11.\nTesouro Dobro e 2 peças de couro de dragão (CD 22 para \nextrair, veja o quadro na página 312)."
+  },
+  {
+    "id": "dragão-adulto",
+    "name": "Dragão Adulto",
+    "level": "11",
+    "type": "Monstro",
+    "size": "Enorme",
+    "role": "Lacaio",
+    "hp": 600,
+    "defense": 42,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Monstro (dragão) Enorme \nIniciativa +12, Percepção +15, percepção às cegas, visão \nno escuro\nDefesa 42, Fort +24, Ref +11, Von +18, imunidade a fogo, \nredução de dano 10, resistência a magia +3, vulnerabili-\ndade a frio\nPontos de Vida 600\nDeslocamento 12m (8q), voo 24m (16q)\nPontos de Mana 70\nCorpo a Corpo Mordida +35 (4d10+25, 18) e duas garras \n+35 (3d10+25, 18).\nAura Aterradora Vontade CD 31 evita (veja quadro ao lado).\nMagia O dragão adulto lança magias como um conjurador \narcano de 11º nível (CD 32).\n•\t Campo de Força (Reação, 4 PM) Quando sofre dano, o \ndragão recebe redução de dano 30 contra este dano.\n•\t Curar Ferimentos (Padrão, 11 PM) Uma criatura adjacente \ncura 12d8+12 PV.\n•\t Dissipar Magia (Padrão, 3 PM) O dragão escolhe uma cria-\ntura, objeto ou esfera de 3m em alcance médio e faz um \nteste de Misticismo. Todas as magias no alvo escolhido \ncom CD menor que o resultado do teste são dissipadas.\n•\t Enfeitiçar (Padrão, 1 PM) Um humanoide em alcance \ncurto fica enfeitiçado até"
+  },
+  {
+    "id": "dragão-venerável",
+    "name": "Dragão Venerável",
+    "level": "15",
+    "type": "Monstro",
+    "size": "Enorme",
+    "role": "Lacaio",
+    "hp": 800,
+    "defense": 52,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Monstro (dragão) Enorme \nIniciativa +16, Percepção +22, percepção às cegas, visão \nno escuro\nDefesa 52, Fort +28, Ref +15, Von +22, imunidade a fogo, \nredução de dano 15, resistência a magia +4, vulnerabili-\ndade a frio\nPontos de Vida 800\nDeslocamento 12m (8q), voo 24m (16q)\nPontos de Mana 97\nCorpo a Corpo Mordida +44 (4d12+40, 17) e duas garras \n+44 (3d12+40, 17).\nHabilidades Dracônicas\nTodos os dragões partilham as seguintes \nhabilidades.\nAura Aterradora. A simples visão de \num dragão adulto ou mais velho amedronta \no mais valente dos aventureiros. Uma \ncriatura que comece seu turno em um raio \nde 90m do dragão fica apavorada (se tiver \n4 níveis ou menos) ou abalada (se tiver 5 \nníveis ou mais) até o fim da cena (Vontade \nevita). Uma criatura que passe no teste de \nresistência fica imune a esta habilidade por \num dia.\nImunidades. Dragões são imunes a \nefeitos de atordoamento, cansaço, dano do \ntipo de seu sopro, metamorfose e paralisia.\nMagia Dracônica. Dragões adultos \nou mais velho"
+  },
+  {
+    "id": "dragão-rei",
+    "name": "Dragão-Rei",
+    "level": "20",
+    "type": "Monstro",
+    "size": "Colossal",
+    "role": "Lacaio",
+    "hp": 1400,
+    "defense": 62,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Monstro (dragão) Colossal \nIniciativa +19, Percepção +27, percepção às cegas, visão \nno escuro\nDefesa 62, Fort +34, Ref +20, Von +28, imunidade a fogo, \nredução de dano 20, resistência a magia +5, vulnerabili-\ndade a frio\nPontos de Vida 1400\nDeslocamento 12m (8q), voo 36m (24q)\nPontos de Mana 128\nCorpo a Corpo Mordida +55 (6d20+50, 16) e duas garras \n+50 (6d20+50, 16).\nAura Aterradora Vontade CD 50 evita (veja o quadro na \npágina 311).\nEscamas Supremas O Dragão-Rei sofre apenas metade do \ndano de fontes mundanas.\nFluxo de Mana O Dragão-Rei pode manter duas magias sus-\ntentadas simultaneamente com apenas uma ação livre \n(mas pagando o custo de cada uma).\nMagia Acelerada (livre, 4 PM) Uma vez por rodada, \nquando lança uma magia com execução de ação com-\npleta ou menor, o Dragão-Rei muda a execução dela \npara livre.\nMagia O Dragão-Rei lança magias como um conjurador \narcano de 20º nível (CD 50).\n•\t Campo de Força (Reação, 7 PM) Quando sofre dano, o \ndragão recebe redução de dano 50 contra"
+  },
+  {
+    "id": "maníaco-lefou",
+    "name": "Maníaco Lefou",
+    "level": "2",
+    "type": "Humanoide",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 25,
+    "defense": 18,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Poucos meios-demônios da Tormenta têm a \nsorte de integrar um grupo de aventureiros. Temidos \ne hostilizados por todas as outras raças, quase todos \nabraçam a violência e a loucura. Tornam-se selvagens \nensandecidos, solitários ou em pequenos grupos, \natacando tudo que encontram. Mais de uma aldeia foi \nchacinada por maníacos lefou, buscando apenas um \nfim para o pesadelo sangrento que é sua existência.\nHumanoide (lefou) Médio \nIniciativa +4, Percepção +2\nDefesa 18, Fort +12, Ref +7, Von +3\nPontos de Vida 25\nDeslocamento 9m (6q)\nCorpo a Corpo Machado de guerra +16 (1d12+15, x3).\nFrenesi Insano Sempre que causa ou sofre dano, o manía-\nco lefou recebe um bônus cumulativo de +2 em testes de \nataque e rolagens de dano até o fim da cena.\nFor 5, Des 1, Con 1, Int –1, Sab –1, Car –2\nEquipamento Machado de guerra. Tesouro Metade.\nLefeu\nA seguir estão quatro demônios da Tormenta."
+  },
+  {
+    "id": "uktril",
+    "name": "Uktril",
+    "level": "3",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 45,
+    "defense": 22,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Mesmo o lefeu mais comum e mais fraco é uma \nabominação perversa, uma combinação impossível \nde humano e formiga, com garras cruéis que gotejam \nmuco. Estes monstros rondam as fronteiras das \náreas de Tormenta em pequenos grupos, não raras \nvezes infestando masmorras e regiões vizinhas. Tam-\nbém podem ser conjurados por magias profanas ou \noferecidos por Aharadak como servos para cultistas.\nMonstro (lefeu) Médio \nIniciativa +9, Percepção +10, visão no escuro\nDefesa 22, Fort +12, Ref +11, Von +6, redução de dano 10\nPontos de Vida 45\nDeslocamento 9m (6q)\nCorpo a Corpo Pinça +16 (2d6+6, 19) e garra +16 (1d6+6).\nInsanidade da Tormenta 1d6 PM (Von CD 17 evita).\nFor 5, Des 4, Con 2, Int –1, Sab 2, Car –4\nTesouro Nenhum."
+  },
+  {
+    "id": "geraktril",
+    "name": "Geraktril",
+    "level": "6",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 240,
+    "defense": 30,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Versão maior e mais avançada dos uktril, são abo-\nminações de três braços com pinças capazes de cortar \nhomens ao meio. Podem ser encontrados liderando \nbandos uktril ou em pequenos grupos próprios. São \ntambém emissários sagrados de Aharadak, às vezes \nmanifestando-se em cerimônias profanas para abater \nvítimas oferecidas em sacrifício.\nMonstro (lefeu) Médio \nIniciativa +13, Percepção +16, visão no escuro\nDefesa 30, Fort +18, Ref +15, Von +6, redução de dano 10\nPontos de Vida 240\nDeslocamento 9m (6q)\nCorpo a Corpo Duas pinças +23 (3d6+10, 19) e garra +23 \n(1d8+10).\nInsanidade da Tormenta 2d4 PM (Von CD 22 evita).\nFor 7, Des 5, Con 3, Int 1, Sab 3, Car –1\nTesouro Nenhum."
+  },
+  {
+    "id": "reishid",
+    "name": "Reishid",
+    "level": "8",
+    "type": "Monstro",
+    "size": "Enorme",
+    "role": "Lacaio",
+    "hp": 0,
+    "defense": 0,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Mestres da espionagem e assassinato, estes \nlefeu estão entre os mais perigosos encontrados \nlonge das áreas de Tormenta. Dobrando suas asas de \nbarata como capuzes e mantos, conseguem passar \nA Tormenta\n314\n \nAmeaças\n \ncom uma ação de movimento e um teste de Percepção \n(CD 25). Um personagem que encontre um ponto fraco \npode atacar a criatura com –5 no teste de ataque, mas, \nse acertar, ignora as proteções da carapaça.\nInsanidade da Tormenta 2d12 PM (Von CD 42 evita).\nJato de Ácido (Movimento) O thuwarokk dispara um jato \ncorrosivo que atinge um cone de 30m. Criaturas na área \nsofrem 10d8+20 pontos de dano de ácido (Ref CD 42 \nreduz à metade). Recarga (movimento).\nPassar por Cima (Completa) O thuwarokk percorre até \no dobro do seu deslocamento, passando por qualquer \ncriatura Enorme ou menor. Uma criatura atropelada so-\nfre 10d12+50 pontos de dano (Ref CD 42 reduz à metade).\nFor 17, Des –1, Con 10, Int –3, Sab 0, Car –4\nTesouro Nenhum."
+  },
+  {
+    "id": "otyugh",
+    "name": "Otyugh",
+    "level": "5",
+    "type": "Monstro",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 213,
+    "defense": 24,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Este monstro disforme e repugnante surge em \nlugares maculados pela Tormenta — especialmente \npântanos, esgotos e masmorras — sendo fruto da \ncorrupção aberrante. O corpo pustulento de um \notyugh possui três patas, bocarra descomunal e \ntentáculos espinhosos. Até onde se sabe, seu único \npropósito é devorar tudo em seu caminho.\nMonstro Grande \nIniciativa +3, Percepção +10, visão no escuro\nDefesa 24, Fort +17, Ref +11, Von +5, imunidade a \ndoenças e venenos, redução de dano 5\nPontos de Vida 213\nDeslocamento 6m (4q)\nCorpo a Corpo Dois tentáculos +17 (1d8+9, alcance 4,5m) \ne mordida +17 (1d6+9 mais doença).\ndespercebidos mesmo em grandes cidades. Nestes \ntempos de culto a Aharadak, muitas vezes também \nse tornam mestres de cerimônia em rituais profanos.\nMonstro (lefeu) Médio \nIniciativa +17, Percepção +19, visão no escuro\nDefesa 37, Fort +19, Ref +21, Von +10, redução de dano 10\nPontos de Vida 295\nDeslocamento 9m (6q), escalar 9m (6q), voo 15m (10q)\nCorpo a Corpo Adaga da Tormenta +30 (1d"
+  },
+  {
+    "id": "de-aharadak",
+    "name": "de Aharadak",
+    "level": "10",
+    "type": "Humanoide",
+    "size": "Grande",
+    "role": "Lacaio",
+    "hp": 315,
+    "defense": 38,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Esses macabros devotos do Deus da Tormenta \npromovem a insanidade, a devassidão e a deturpa-\nção de tudo que é vivo. Desistindo da humanidade, \nesperando ser recompensados com poderes ainda \nmaiores, cultistas perpetram os crimes mais horren-\ndos para agradar seu patrono.\nHumanoide (humano) Médio \nIniciativa +17, Percepção +15\nDefesa 38, Fort +16, Ref +10, Von +22, imunidade a \nconfusão, redução de ácido, eletricidade, fogo, frio, luz \ne trevas 10, resistência a magia divina +5\nPontos de Vida 315\nDeslocamento 9m (6q), voo 15m (10q)\nPontos de Mana 56\nCorpo a Corpo Duas correntes de espinhos aberrantes +30 \n(4d6+12 mais 1d6 ácido) e mordida +30 (1d6+12).\nMagia Acelerada (Livre, 4 PM) Uma vez por rodada, \nquando lança uma magia com execução de ação \ncompleta ou menor, o sacerdote de Aharadak muda a \nexecução dela para livre.\nMagias O sacerdote lança magias como um clérigo de \nAharadak de 10º nível (CD 30).\n•\t Curar Ferimentos (Padrão, 10 PM) Uma criatura adjacente \ncura 11d8+11 PV.\n•\t Per"
+  },
+  {
+    "id": "avalanche",
+    "name": "Avalanche",
+    "level": "4",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 0,
+    "defense": 0,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Viajando pelas Uivantes (ou outra região monta-\nnhosa), o grupo é vítima de uma avalanche.\nObjetivo Escapar da avalanche.\nEfeito O grupo tem cinco rodadas para se afastar dos \nescombros. No fim da quinta rodada, a posição de \ncada personagem é definida pelo número de sucessos \nacumulados nas ações correr ou carregar outro. Um per-\nsonagem com dois sucessos ou menos fica na zona de \nsoterramento (o caminho direto dos escombros): sofre \n16d6 pontos de dano de impacto e fica soterrado. Um \npersonagem com três ou quatro sucessos fica na zona \nde deslizamento (o caminho pelo qual os escombros se \nespalham): sofre 8d6 pontos de dano de impacto. Um \npersonagem com cinco sucessos ou mais escapa ileso.\nOs personagens têm direito a um teste de Sobrevivência (CD \n20) para perceber a avalanche iniciando. Quem passar \npode realizar uma ação adicional em sua primeira rodada.\nPersonagens soterrados ficam imóveis e sofrem 1d6 pontos \nde dano de impacto no início de cada um de seus turnos. \nSoltar-se ("
+  },
+  {
+    "id": "jornada-pelos-ermos",
+    "name": "Jornada pelos ermos",
+    "level": "2",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 0,
+    "defense": 0,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "O grupo viaja por território selvagem.\nObjetivo Chegar ao destino.\nEfeito Para chegar ao destino, o grupo deverá fazer certa \nquantidade de testes, definida pelo tamanho da jornada.\nUma viagem pode ser curta (até outro reino na mesma \nregião, 3 testes exigidos); média (até outra região, como \ndo Reinado até as Repúblicas Livres, 5 testes), ou longa \n(até outra região longínqua ou continente, como do \nReinado até o Deserto da Perdição ou Lamnor, 7 testes \nexigidos).\nPara cada falha, os personagens perdem 2d6 pontos de \nvida. Essa perda de vida representa cansaço e desgaste \ne só pode ser curada a partir de um dia após o fim da \njornada. Se o grupo acumular três falhas, os pontos de \nmana máximos dos personagens diminuem em 1 por \nnível na próxima aventura. Isso representa um abalo \ncausado pelas dificuldades da travessia.\nAvançar (Sobrevivência ou Outras, CD varia) Os \npersonagens se alternam fazendo testes até atingir a \nquantidade de sucessos exigida pela jornada (ou até \natingir três"
+  },
+  {
+    "id": "sala-esmagadora",
+    "name": "Sala Esmagadora",
+    "level": "9",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 0,
+    "defense": 0,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Explorando uma masmorra, os personagens caem \nem uma armadilha terrível!\nObjetivo Abrir a porta e sair da sala ou desabilitar o meca-\nnismo que move as paredes.\nEfeito Quando o grupo entra na sala, a porta se fecha e \nas paredes começam a se mover para esmagá-los. Os \npersonagens têm três rodadas para agir. Na quarta, co-\nmeçam a ser esmagados e sofrem 10d6 pontos de dano \nde impacto. Na quinta rodada, a sala se fecha completa-\nmente. Qualquer personagem que ainda estiver dentro \ndela é morto.\nA sala esmagadora é protegida por uma Âncora Dimensional \nque impede qualquer movimento planar.\nDerrubar Porta (Força CD 30) O jeito mais simples \nde escapar da sala esmagadora é abrir a porta e sair. \nInfelizmente, como a porta não tem fechadura por \ndentro, a única opção é derrubá-la. Mais infelizmente \nainda, ela é feita de aço maciço! Derrubar a porta exige \nacumular três sucessos em Força. No máximo dois \npersonagens podem fazer esta ação por rodada (cada \npersonagem pode fazer seu próprio t"
+  },
+  {
+    "id": "tempestade-em-alto-mar",
+    "name": "Tempestade em Alto Mar",
+    "level": "6",
+    "type": "Monstro",
+    "size": "Médio",
+    "role": "Lacaio",
+    "hp": 0,
+    "defense": 0,
+    "attributes": {
+      "for": 0,
+      "des": 0,
+      "con": 0,
+      "int": 0,
+      "sab": 0,
+      "car": 0
+    },
+    "attacks": [],
+    "description": "Navegando num dos mares de Arton, o grupo se \nvê em meio a uma tempestade.\nObjetivo Sobreviver à fúria do mar. A tempestade dura \n1d6+6 rodadas. Após esse período, a chuva pode con-\ntinuar, mas sem os perigos abaixo.\nEfeito No início de seu turno, cada personagem deve fazer \num teste de Reflexos para evitar ondas gigantes. Se fa-\nlhar, sofre 4d6 pontos de dano de impacto. Se falhar por \n10 ou mais, sofre o dano e cai no mar. A CD é 20+1d6 (role \numa vez no início de cada rodada e aplique a mesma CD \npara todos os personagens). Um personagem no mar \nfalha automaticamente no teste para evitar as ondas.\nOs personagens têm direito a um teste de Sobrevivência \n(CD 20) para perceber a tempestade iniciando. Quem \npassar pode realizar uma ação adicional em sua pri-\nmeira rodada.\nNavegar (Pilotagem CD 25) O personagem conduz a em-\nbarcação para fora da tempestade. Cada sucesso reduz \na duração da tempestade em uma rodada (na prática, é \no navio que está se afastando). Apenas um personagem \npode"
+  }
+]

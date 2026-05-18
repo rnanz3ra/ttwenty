@@ -1,0 +1,38 @@
+{
+    "tomo": "Atlas de Arton",
+    "secao": "Cronologia",
+    "eras": [
+        {
+            "ano": "7 bi AE",
+            "evento": "O Nada e o Vazio geram Arton e os 20 Deuses."
+        },
+        {
+            "ano": "160 mil AE",
+            "evento": "Valkaria cria a raça humana."
+        },
+        {
+            "ano": "0",
+            "evento": "Elfos chegam a Lamnor. Início da Infinita Guerra."
+        },
+        {
+            "ano": "632",
+            "evento": "Revolta dos Três: Tilliann, Valkaria e Kallyadranoch criam a Tormenta."
+        },
+        {
+            "ano": "1385",
+            "evento": "Queda de Lenórienn. Thwor Ironfist vence os elfos."
+        },
+        {
+            "ano": "1400",
+            "evento": "Batalha de Amarid. Descoberta dos Lordes da Tormenta."
+        },
+        {
+            "ano": "1415",
+            "evento": "A Flecha de Fogo cai em Arton. Thwor ascende como Deus."
+        },
+        {
+            "ano": "1420",
+            "evento": "Época atual (Cenário do Jogo)."
+        }
+    ]
+}

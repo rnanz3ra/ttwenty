@@ -1,0 +1,11 @@
+{
+  "id": "controlar-fogo",
+  "name": "Controlar Fogo",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "cena",
+  "description": "Você pode criar, moldar, mover ou extinguir chamas e emanações de calor. Ao  lançar a magia, escolha um dos efeitos. Chamejar: o alvo é armas escolhidas.  Elas causam +1d6 de dano de fogo.  Também afeta armas naturais e ataques desarmados. Esquentar: o alvo é 1 objeto, que começa a esquentar. Ele sofre 1d6 pontos de  dano de fogo por rodada e causa o mesmo dano a qualquer criatura que o esteja segurando ou vestindo. A critério  do mestre, o objeto ou a criatura vestindo-o também pode dissipá-lo (ação padrão)."
+}

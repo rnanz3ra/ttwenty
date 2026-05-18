@@ -1,0 +1,11 @@
+{
+  "id": "premonição",
+  "name": "Premonição",
+  "circle": 4,
+  "type": "Divina",
+  "school": "Adivinhação",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Vislumbres do futuro permitem que  você reavalie suas ações. Uma vez por  rodada, você pode rolar novamente um  teste recém realizado, mas deve aceitar  o resultado da nova rolagem. +3 PM: muda a execução para reação,  o alcance para curto, o alvo para 1 criatura e a duração para instantânea. Esta  magia só pode ser usada em uma criatura que tenha acabado de fazer um teste.  Obriga a criatura a fazer uma nova rolagem de dados e aceitar o novo resultado, seja ele um sucesso ou falha. Criaturas que te atacarem rolam 2 dados e ficam com o pior."
+}

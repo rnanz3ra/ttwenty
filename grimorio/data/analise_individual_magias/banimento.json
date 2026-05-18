@@ -1,0 +1,12 @@
+{
+  "id": "banimento",
+  "name": "Banimento",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "1d3+1 rodadas;",
+  "range": "curto;",
+  "duration": "instantânea",
+  "description": "Você expulsa uma criatura não nativa de Arton. Um alvo nativo de outro  mundo (como muitos espíritos), é teletransportado de volta para um lugar  aleatório de seu mundo de origem. Já  um alvo morto-vivo tem sua conexão  com as energias negativas rompidas,  sendo reduzido a 0 PV. Se passar na resistência, em vez dos efeitos acima, o  alvo fica enjoado por 1d4 rodadas. Se você tiver um ou mais itens que se  oponham ao alvo de alguma maneira, a  CD do teste de resistência aumenta em  +2 por intervalo de círculos).",
+  "resistance": "Vontade parcial"
+}

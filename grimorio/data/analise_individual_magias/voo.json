@@ -1,0 +1,11 @@
+{
+  "id": "voo",
+  "name": "Voo",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Você recebe deslocamento de voo 12m.  Voar por meio desta magia é simples  como andar — você pode atacar e lançar magias normalmente enquanto  voa. Quando a magia termina, você  desce lentamente até o chão, como se  estivesse sob efeito de Queda Suave. +1 PM: muda o alcance para toque e o  alvo para 1 criatura. +4 PM: muda a duração para um dia.  Requer 4º círculo. +4 PM: muda o alcance para curto e  o alvo para até 10 criaturas. Requer 4°  círculo."
+}

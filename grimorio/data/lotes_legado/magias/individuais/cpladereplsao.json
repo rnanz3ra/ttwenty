@@ -1,0 +1,12 @@
+{
+  "id": "cúpula-de-repulsão",
+  "name": "Cúpula de Repulsão",
+  "circle": 4,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "sustentada",
+  "description": "Uma cúpula de energia invisível o cerca, impedindo a aproximação de certas criaturas. Escolha um tipo de criatura (animais, espíritos, monstros...)  ou uma raça de humanoides (elfos, goblins, minotauros..). Criaturas do grupo escolhido que tentem se aproximar  a menos de 3m de você (ou seja, que  tentem ficar adjacentes a você) devem  fazer um teste de Vontade. Se falharem, não conseguem, gastam a ação e  só podem tentar novamente na rodada  seguinte. Isso impede ataques corpo a  corpo, a magia oferece cobertura e +4 na Defesa.",
+  "resistance": "Vontade anula"
+}

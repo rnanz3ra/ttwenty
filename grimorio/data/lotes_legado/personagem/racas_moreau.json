@@ -1,0 +1,154 @@
+{
+    "tipo_objeto": "raca_moreau",
+    "habilidade_base": "Herança: Escolha uma das 12 heranças. Você é considerado Humano.",
+    "herancas": [
+        {
+            "nome": "Coruja",
+            "mods": {
+                "sab": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Visão no Escuro",
+                "+2 Percepção/Vontade",
+                "Garras",
+                "Magia de Adivinhação"
+            ]
+        },
+        {
+            "nome": "Hiena",
+            "mods": {
+                "sab": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Destemor (+2 resist. contra maiores)",
+                "Faro",
+                "Mordida 1d6"
+            ]
+        },
+        {
+            "nome": "Búfalo",
+            "mods": {
+                "for": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Chifres 1d6",
+                "Faro",
+                "Marrada Impressionante (Usa Força em Intimidação)"
+            ]
+        },
+        {
+            "nome": "Coelho",
+            "mods": {
+                "des": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Deslocamento 12m",
+                "Pé de Coelho (1 PM p/ rolar 2 dados em perícia)",
+                "Visão Penumbra",
+                "+2 Percepção/Reflexos"
+            ]
+        },
+        {
+            "nome": "Crocodilo",
+            "mods": {
+                "con": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Mordida 1d6 (+2 agarrar)",
+                "Natação 6m",
+                "Surto Reptiliano (1 PM ação mov extra)"
+            ]
+        },
+        {
+            "nome": "Urso",
+            "mods": {
+                "con": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Tamanho Grande",
+                "Usa Con para Intimidação",
+                "Faro",
+                "Mordida 1d8"
+            ]
+        },
+        {
+            "nome": "Gato",
+            "mods": {
+                "des": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Acrobata Nato (Ignora queda)",
+                "Visão no Escuro",
+                "Garras 1d4",
+                "+2 Furtividade"
+            ]
+        },
+        {
+            "nome": "Leão",
+            "mods": {
+                "for": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Rugido Majestoso (Intimidação)",
+                "Garras 1d6",
+                "Bote"
+            ]
+        },
+        {
+            "nome": "Lobo",
+            "mods": {
+                "sab": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Faro",
+                "Tática de Matilha (+1 ataque flanqueando)",
+                "Mordida 1d6"
+            ]
+        },
+        {
+            "nome": "Morcego",
+            "mods": {
+                "des": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Percepção às Cegas (Som)",
+                "Voo Limitado (Planar)",
+                "Sentidos Aguçados"
+            ]
+        },
+        {
+            "nome": "Raposa",
+            "mods": {
+                "int": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Mente Engenhosa (+2 Enganação/Intuição)",
+                "Mordida 1d4",
+                "Faro Excepcional"
+            ]
+        },
+        {
+            "nome": "Serpente",
+            "mods": {
+                "des": 1,
+                "outros": 1
+            },
+            "habilidades": [
+                "Corpo Flexível (+2 Acrobacia/Agarrar)",
+                "Mordida Venenosa (Dano persistente)",
+                "Natação Sensorial"
+            ]
+        }
+    ]
+}

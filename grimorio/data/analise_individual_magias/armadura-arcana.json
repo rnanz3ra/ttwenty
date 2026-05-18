@@ -1,0 +1,11 @@
+{
+  "id": "armadura-arcana",
+  "name": "Armadura Arcana",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Esta magia cria uma película protetora invisível, mas tangível, fornecendo  +5 na Defesa. Esse bônus é cumulativo com outras magias, mas não com  bônus fornecido por armaduras. +1 PM: muda a execução para reação.  Em vez do normal, quando sofre um  ataque, você cria um escudo mágico que  fornece +5 na Defesa contra esse ataque (cumulativo com o bônus do efeito básico desta magia e de armaduras). +2 PM: aumenta o bônus na Defesa  em +1.  +2 PM: muda a duração para um dia."
+}

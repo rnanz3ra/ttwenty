@@ -1,0 +1,75 @@
+{
+    "tipo_objeto": "raca_jogador",
+    "lista_racas": [
+        {
+            "nome": "Harpia",
+            "mods_atributo": {
+                "des": 2,
+                "car": 1,
+                "int": -1
+            },
+            "habilidades": [
+                "Asas de Abutre (Voo 12m)",
+                "Cria de Masmorra (+2 Intimidação/Sobrevivência)",
+                "Grito Aterrorizante",
+                "Pés Rapinantes"
+            ]
+        },
+        {
+            "nome": "Ceratops (Povo-Trovão)",
+            "mods_atributo": {
+                "con": 2,
+                "for": 1,
+                "des": -1,
+                "int": -1
+            },
+            "habilidades": [
+                "Chifres (1d8)",
+                "Paquidérmico (Tamanho Grande, +1 Defesa)",
+                "Papel Tribal",
+                "Medo de Altura"
+            ]
+        },
+        {
+            "nome": "Pteros (Povo-Trovão)",
+            "mods_atributo": {
+                "sab": 2,
+                "des": 1,
+                "int": -1
+            },
+            "habilidades": [
+                "Ligação Natural",
+                "Mãos Rudimentares (Penalidade em itens)",
+                "Pés Rapinantes",
+                "Senhor dos Céus (Voo 12m)",
+                "Sentidos Rapinantes"
+            ]
+        },
+        {
+            "nome": "Velocis (Povo-Trovão)",
+            "mods_atributo": {
+                "des": 2,
+                "sab": 1,
+                "int": -1
+            },
+            "habilidades": [
+                "Através de Espinheiros (RD 2 corte/perfuração)",
+                "Sentidos Selvagens (+2 Sobrevivência/Faro/Penumbra)",
+                "Velocista da Planície (Deslocamento 12m, Rola 2 dados em Atletismo)"
+            ]
+        },
+        {
+            "nome": "Voracis (Povo-Trovão)",
+            "mods_atributo": {
+                "des": 2,
+                "con": 1,
+                "int": -1
+            },
+            "habilidades": [
+                "Garras (1d6)",
+                "Rainha da Selva (Escalada 9m)",
+                "Sentidos Selvagens"
+            ]
+        }
+    ]
+}

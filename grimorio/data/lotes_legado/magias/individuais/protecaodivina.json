@@ -1,0 +1,11 @@
+{
+  "id": "proteção-divina",
+  "name": "Proteção Divina",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "Esta magia cria uma barreira mística  invisível que fornece ao alvo +2 em  testes de resistência. +2 PM: aumenta o bônus concedido  em +1. +2 PM: muda a execução para reação,  o alcance para curto e a duração para 1  rodada. Em vez do normal, o alvo recebe +5 no próximo teste de resistência  que fizer (cumulativo com o efeito básico desta magia). +2 PM: muda o alvo para área de esfera com 3m de raio. Todos os aliados  dentro do círculo recebem o bônus da  magia. Requer 2º círculo. +5 PM: torna a criatura imune ao tipo de energia."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "consagrar",
+  "name": "Consagrar",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: longo;  Área: esfera com 9m de raio; Duração: 1 dia.  Você enche a área com energia positiva. Pontos de vida curados por efeitos de luz são maximizados dentro da  área. Isso também afeta dano causado em mortos-vivos por esses efeitos.  Por exemplo, Curar Ferimentos cura automaticamente 18 PV. Esta magia não  pode ser lançada em uma área contendo um símbolo visível dedicado a  uma divindade que não a sua. Consagrar anula Profanar. +1 PM: além do normal, modifica a área para abençoada."
+}

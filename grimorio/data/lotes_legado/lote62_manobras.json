@@ -1,0 +1,26 @@
+{
+    "tomo": "Regras de Jogo",
+    "secao": "Manobras",
+    "lista": [
+        {
+            "nome": "Agarrar",
+            "teste": "Luta vs Luta",
+            "efeito": "O alvo fica desprevenido e imóvel. Você também fica desprevenido e só pode atacar o alvo com armas leves."
+        },
+        {
+            "nome": "Derrubar",
+            "teste": "Luta vs Luta ou Reflexos",
+            "efeito": "O alvo cai no chão (fica com a condição Caído)."
+        },
+        {
+            "nome": "Desarmar",
+            "teste": "Luta vs Luta",
+            "efeito": "O alvo deixa cair um item que esteja segurando."
+        },
+        {
+            "nome": "Empurrar",
+            "teste": "Luta vs Luta",
+            "efeito": "Você afasta o alvo 1,5m para cada 5 pontos de diferença no teste."
+        }
+    ]
+}

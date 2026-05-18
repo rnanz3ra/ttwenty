@@ -1,0 +1,4994 @@
+[
+  {
+    "nome": "Alma Acorrentada",
+    "nd": "7",
+    "tipo": "Morto-vivo Médio",
+    "pv": 56,
+    "pm": 0,
+    "defesa": 26,
+    "atributos": {
+      "for": null,
+      "des": 7,
+      "con": 2,
+      "int": 1,
+      "sab": 0,
+      "car": -2
+    },
+    "habilidades": [
+      "Incorpóreo",
+      "Agarrar Oportunista",
+      "Aura Cáustica",
+      "Invisibilidade Rubra"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Lacaio",
+    "fort": 14,
+    "ref": 19,
+    "von": 8
+  },
+  {
+    "nome": "Bruxo da Tormenta",
+    "nd": "6",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 142,
+    "pm": 41,
+    "defesa": 27,
+    "atributos": {
+      "for": -1,
+      "des": 0,
+      "con": 2,
+      "int": 5,
+      "sab": 1,
+      "car": -2
+    },
+    "habilidades": [],
+    "fonte": "Ameaças de Arton",
+    "papel": "Especial",
+    "fort": 6,
+    "ref": 12,
+    "von": 18,
+    "magias": [
+      "Névoa",
+      "Raio do Enfraquecimento",
+      "Sussurros Insanos",
+      "Velocidade"
+    ]
+  },
+  {
+    "nome": "Arquibruxo da Tormenta",
+    "nd": "14",
+    "tipo": "Monstro (lefou) Médio",
+    "pv": 486,
+    "pm": 105,
+    "defesa": 45,
+    "atributos": {
+      "for": -1,
+      "des": 2,
+      "con": 5,
+      "int": 7,
+      "sab": 0,
+      "car": -2
+    },
+    "habilidades": [
+      "Abominar a Realidade",
+      "Arcano de Batalha",
+      "Insanidade da Tormenta",
+      "Magia Acelerada"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Especial",
+    "fort": 14,
+    "ref": 22,
+    "von": 28
+  },
+  {
+    "nome": "Enxame Infernal",
+    "nd": "8",
+    "tipo": "Monstro (lefeu) Grande",
+    "pv": 350,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Enxame",
+      "Drenar Existência",
+      "Zumbido Repugnante"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Lacaio"
+  },
+  {
+    "nome": "Esmagador Coletivo",
+    "nd": "15",
+    "tipo": "Construto Enorme",
+    "pv": 800,
+    "pm": 0,
+    "defesa": 46,
+    "atributos": {},
+    "habilidades": [
+      "Absorver",
+      "Arremessar Corpos",
+      "Forma Horrenda",
+      "Pancada Estonteante"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Solo",
+    "rd": 15
+  },
+  {
+    "nome": "Infecto",
+    "nd": "3",
+    "tipo": "Morto-vivo Médio",
+    "pv": 30,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Doença (Infecção Escarlate)",
+      "Parasitas Famintos"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Lacaio",
+    "rd": "5/corte"
+  },
+  {
+    "nome": "Turba de Infectos",
+    "nd": "7",
+    "tipo": "Morto-vivo Grande",
+    "pv": 80,
+    "pm": 0,
+    "defesa": 30,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Doença",
+      "Parasitas Famintos"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Lacaio/Bando"
+  },
+  {
+    "nome": "Lefeu, Veridak",
+    "nd": "8",
+    "tipo": "Monstro (lefeu) Grande",
+    "pv": 64,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "Relâmpago Rubro",
+      "Agarrar Aprimorado"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Lacaio"
+  },
+  {
+    "nome": "Lefeu, Hurobakk",
+    "nd": "9",
+    "tipo": "Monstro (lefeu) Grande",
+    "pv": 380,
+    "pm": 0,
+    "defesa": 35,
+    "atributos": {},
+    "habilidades": [
+      "Investida Rubra",
+      "Passar por Cima",
+      "Pinças Destruidoras"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Lacaio"
+  },
+  {
+    "nome": "Lefeu, Burodron (ND 9)",
+    "nd": "9",
+    "tipo": "Monstro (lefeu) Grande",
+    "pv": 380,
+    "pm": 0,
+    "defesa": 35,
+    "atributos": {},
+    "habilidades": [
+      "Emboscada",
+      "Sentido Sísmico"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lefeu, Burodron (ND 11)",
+    "nd": "11",
+    "tipo": "Monstro (lefeu) Enorme",
+    "pv": 550,
+    "pm": 0,
+    "defesa": 42,
+    "atributos": {},
+    "habilidades": [
+      "Dilacerar",
+      "Morte que Vem da Terra"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lefeu, Morgadrel",
+    "nd": "13",
+    "tipo": "Monstro (lefeu) Enorme",
+    "pv": 670,
+    "pm": 0,
+    "defesa": 47,
+    "atributos": {},
+    "habilidades": [
+      "Disparar Espinhos",
+      "Jato de Ácido",
+      "Investida Surpresa"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lefeu, Ezzayn",
+    "nd": "17",
+    "tipo": "Monstro (lefeu) Enorme",
+    "pv": 650,
+    "pm": 0,
+    "defesa": 46,
+    "atributos": {},
+    "habilidades": [
+      "Anarquia Lacerante",
+      "Distorção Temporal",
+      "Subjugar"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Bando/Especial"
+  },
+  {
+    "nome": "Gatzvalith, Lorde da Tormenta",
+    "nd": "S+",
+    "tipo": "Monstro (lekael) Grande",
+    "pv": 3700,
+    "pm": "2d20",
+    "defesa": 69,
+    "atributos": {},
+    "habilidades": [
+      "Rompedor da Realidade",
+      "Reescrever a Realidade",
+      "Sedução",
+      "Varrer"
+    ],
+    "fonte": "Ameaças de Arton",
+    "rd": 25,
+    "cura_acelerada": 50
+  },
+  {
+    "nome": "Meio-Orc Bandoleiro",
+    "nd": "1",
+    "tipo": "Humanoide (meio-orc) Médio",
+    "pv": 15,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Ataque Furtivo"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Lacaio"
+  },
+  {
+    "nome": "Meio-Orc Capanga",
+    "nd": "1",
+    "tipo": "Humanoide (meio-orc) Médio",
+    "pv": 12,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Ímpeto Agressor"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Lacaio"
+  },
+  {
+    "nome": "Meio-Orc Chefe",
+    "nd": "5",
+    "tipo": "Humanoide (meio-orc) Médio",
+    "pv": 190,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Ordens",
+      "Urro Selvagem"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Especial"
+  },
+  {
+    "nome": "Orc Combatente",
+    "nd": "1/2",
+    "tipo": "Humanoide (orc) Médio",
+    "pv": 8,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Orc Veterano",
+    "nd": "1",
+    "tipo": "Humanoide (orc) Médio",
+    "pv": 14,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Orc Chefe",
+    "nd": "2",
+    "tipo": "Humanoide (orc) Médio",
+    "pv": 66,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Urro Selvagem"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Orc Rei",
+    "nd": "5",
+    "tipo": "Humanoide (orc) Médio",
+    "pv": 210,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Fúria",
+      "Estocada Atroz"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Orc Mutante",
+    "nd": "5",
+    "tipo": "Humanoide (orc) Médio",
+    "pv": 55,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Terceiro Braço"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Orc Mutante Superior",
+    "nd": "10",
+    "tipo": "Humanoide (orc) Médio",
+    "pv": 372,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "3 Mutações Aleatórias"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Orc Xamã",
+    "nd": "7",
+    "tipo": "Humanoide (orc) Médio",
+    "pv": 196,
+    "pm": 41,
+    "defesa": 29,
+    "atributos": {},
+    "habilidades": [
+      "Urro Divino"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Arma Espiritual",
+      "Despedaçar",
+      "Físico Divino",
+      "Soco de Arsenal"
+    ]
+  },
+  {
+    "nome": "Trog Combatente",
+    "nd": "1",
+    "tipo": "Monstro (trog) Médio",
+    "pv": 11,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Mau Cheiro"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Trog Caçador",
+    "nd": "2",
+    "tipo": "Monstro (trog) Médio",
+    "pv": 14,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Marca da Presa",
+      "Mau Cheiro"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Trog Rei dos Túneis",
+    "nd": "5",
+    "tipo": "Monstro (trog) Grande",
+    "pv": 226,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Dilacerar",
+      "Gosto por Tripas",
+      "Terror dos Túneis"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Trog Anão Bruto",
+    "nd": "1",
+    "tipo": "Monstro (trog) Médio",
+    "pv": 35,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Sobrevivente",
+      "Quase Anão"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Trog Anão Eremita",
+    "nd": "8",
+    "tipo": "Monstro (trog) Médio",
+    "pv": 330,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Armadura Fúngica",
+      "Sobrevivente"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ogro",
+    "nd": "4",
+    "tipo": "Humanoide (gigante) Grande",
+    "pv": 130,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Burro Demais",
+      "Para Morrer! (Resistência a dano)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ogro Caçador",
+    "nd": "7",
+    "tipo": "Humanoide (gigante) Grande",
+    "pv": 265,
+    "pm": 0,
+    "defesa": 29,
+    "atributos": {},
+    "habilidades": [
+      "Grande Demais",
+      "Para se Importar!"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ogro Capanga",
+    "nd": "11",
+    "tipo": "Humanoide (gigante) Grande",
+    "pv": 111,
+    "pm": 0,
+    "defesa": 36,
+    "atributos": {},
+    "habilidades": [
+      "Cruel Demais",
+      "Para Sentir!"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Bandido Comum",
+    "nd": "1/4",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 6,
+    "pm": 0,
+    "defesa": 13,
+    "atributos": {},
+    "habilidades": [
+      "Furtividade +5"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Bandido Ligeiro",
+    "nd": "1/2",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 9,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Funda +9"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Bandido Selvagem",
+    "nd": "1",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 12,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Arremesso de Emboscada"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Capanga",
+    "nd": "1/2",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 7,
+    "pm": 0,
+    "defesa": 13,
+    "atributos": {},
+    "habilidades": [
+      "Ímpeto Agressor (+1d10 no primeiro ataque)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Jagunço",
+    "nd": "2",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 21,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Imunidade a medo",
+      "Saque Rápido",
+      "Usa Pistola"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Capanga Minotauro",
+    "nd": "3",
+    "tipo": "Humanoide (minotauro) Médio",
+    "pv": 35,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Faro",
+      "Medo de Altura"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Chefe Bandido",
+    "nd": "1",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 30,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Ataque Furtivo +2d6"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Chefe de Gangue",
+    "nd": "2",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 63,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Ordens (+2 perícia para aliados)",
+      "Resistência a medo +5"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Chefe de Quadrilha",
+    "nd": "4",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 120,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Tropas Dispensáveis (Passa dano para aliado)",
+      "Ataque Furtivo +3d6"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Sacerdote de Hyninn",
+    "nd": "2",
+    "tipo": "Humanoide (goblin) Pequeno",
+    "pv": 49,
+    "pm": 28,
+    "defesa": 17,
+    "atributos": {},
+    "habilidades": [
+      "Bênção do Gatuno",
+      "Forma de Macaco",
+      "Malandragem Divina"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Arma Espiritual",
+      "Curar Ferimentos",
+      "Despedaçar"
+    ]
+  },
+  {
+    "nome": "Alto Sacerdote de Hyninn",
+    "nd": "8",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 175,
+    "pm": 60,
+    "defesa": 30,
+    "atributos": {},
+    "habilidades": [
+      "Fé na Sorte (RD metade)",
+      "Enxame de Pestes"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Círculo da Justiça",
+      "Dissipar Magia",
+      "Velocidade"
+    ]
+  },
+  {
+    "nome": "Devoto de Hyninn Manhoso",
+    "nd": "1/2",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 12,
+    "pm": 0,
+    "defesa": 13,
+    "atributos": {},
+    "habilidades": [
+      "No Bolso Dói Mais (Rouba Tibares)",
+      "Truque de Espelhos"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Devoto de Hyninn Simão",
+    "nd": "1",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 26,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "No Bolso Dói Mais",
+      "Truque de Espelhos"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Devoto de Hyninn Velhaco",
+    "nd": "4",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 88,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Malandríssimo (Inimigo perde 3 PM)",
+      "No Bolso Dói Mais"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gatuno",
+    "nd": "1",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 25,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [
+      "Pancada na Cabeça",
+      "Sombra (Sem penalidade de movimento)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gatuno Mestre",
+    "nd": "3",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 68,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Bomba de Fumaça",
+      "Evasão",
+      "Pancada na Cabeça"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Duplo (Doppelganger)",
+    "nd": "4",
+    "tipo": "Humanoide (duplo) Médio",
+    "pv": 143,
+    "pm": 0,
+    "defesa": 21,
+    "atributos": {},
+    "habilidades": [
+      "Detectar Pensamentos",
+      "Mudar Forma (Metamorfose Física)",
+      "Cura Acelerada 5"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Iniciado da Agonia (Aharadak)",
+    "nd": "3",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 28,
+    "pm": 28,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Júbilo na Dor (RD cumulativa ao sofrer dano)"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Infligir Ferimentos",
+      "Perdição"
+    ]
+  },
+  {
+    "nome": "Sacerdote da Agonia",
+    "nd": "9",
+    "tipo": "Humanoide (humano) Médio",
+    "pv": 192,
+    "pm": 61,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Apetite por Destruição (Suga vida em área)",
+      "Júbilo na Dor"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Enxame Rubro de Ichabod",
+      "Miasma Mefítico"
+    ]
+  },
+  {
+    "nome": "Aspecto de Aharadak",
+    "nd": "10",
+    "tipo": "Monstro (lefeu) Grande",
+    "pv": 472,
+    "pm": 0,
+    "defesa": 38,
+    "atributos": {},
+    "habilidades": [
+      "Cuspir Enxame",
+      "Engolir",
+      "Sangue Ácido",
+      "Insanidade da Tormenta"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Fanático Lefou",
+    "nd": "5",
+    "tipo": "Monstro (lefou) Médio",
+    "pv": 55,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Frenesi Insano",
+      "Mente Aberrante",
+      "Sangue Ácido"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Líder Fanático Lefou",
+    "nd": "8",
+    "tipo": "Monstro (lefou) Médio",
+    "pv": 90,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Voo 21m",
+      "Frenesi Insano",
+      "Mente Aberrante"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Reishid",
+    "nd": "8",
+    "tipo": "Monstro (lefeu) Médio",
+    "pv": 295,
+    "pm": 0,
+    "defesa": 37,
+    "atributos": {},
+    "habilidades": [
+      "Ataque em Movimento",
+      "Ataque Reflexo",
+      "Sombra Rubra (Rola 2 dados)",
+      "Veneno Paralisante"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Reishid Líder de Culto",
+    "nd": "12",
+    "tipo": "Monstro (lefeu) Médio",
+    "pv": 483,
+    "pm": 66,
+    "defesa": 47,
+    "atributos": {},
+    "habilidades": [
+      "Magia Acelerada",
+      "Veneno",
+      "Sombra Rubra"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Anular a Luz",
+      "Comando",
+      "Marca da Obediência"
+    ]
+  },
+  {
+    "nome": "Senhor do Gigante Rubro (Inicial)",
+    "nd": "9",
+    "tipo": "Monstro Grande",
+    "pv": 340,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "Carapaça Espinhosa",
+      "Desembarcar (Piloto sai da armadura)",
+      "Zunido Enlouquecedor"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Senhor do Gigante Rubro (Final)",
+    "nd": "16",
+    "tipo": "Monstro (lefeu) Grande",
+    "pv": 850,
+    "pm": 0,
+    "defesa": 55,
+    "atributos": {},
+    "habilidades": [
+      "Armamento Rubro",
+      "Dilacerar",
+      "Morte dos Céus",
+      "Teia Corrosiva"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Zyrrinaz",
+    "nd": "5",
+    "tipo": "Monstro (lefeu) Médio",
+    "pv": 41,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Flechas da Anticriação (Ignora RD e Cobertura)",
+      "Insanidade da Tormenta"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Avatar de Aharadak",
+    "nd": "S",
+    "tipo": "Monstro (lefeu) Colossal",
+    "pv": 2804,
+    "pm": 0,
+    "defesa": 70,
+    "atributos": {},
+    "habilidades": [
+      "Presença da Tormenta",
+      "Definhamento",
+      "Tempestade Elétrica",
+      "Pesadelos Reais"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Filhote do Bosque",
+    "nd": "3",
+    "tipo": "Monstro (dragão) Médio",
+    "pv": 120,
+    "pm": 0,
+    "defesa": 21,
+    "atributos": {},
+    "habilidades": [
+      "Imunidade a Ácido",
+      "Resistência a Magia +1",
+      "Bote",
+      "Sopro de Ácido (2d12)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Filhote dos Rios",
+    "nd": "3",
+    "tipo": "Monstro (dragão) Grande",
+    "pv": 120,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Imunidade a Eletricidade",
+      "Resistência a Magia +1",
+      "Sopro de Eletricidade (2d12)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ninhada de Dragões Filhotes",
+    "nd": "5",
+    "tipo": "Monstro (dragão) Grande",
+    "pv": 240,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Avalanche de Escamas",
+      "Sopro Duplo (4d12 fogo)"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Bando"
+  },
+  {
+    "nome": "Dragão Jovem da Proteção",
+    "nd": "7",
+    "tipo": "Monstro (dragão) Grande",
+    "pv": 320,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Fortificação 25%",
+      "Imunidade a Eletricidade",
+      "Asas Guardiãs",
+      "Sopro Relâmpago (6d12)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Jovem do Ocaso",
+    "nd": "7",
+    "tipo": "Monstro (dragão) Grande",
+    "pv": 320,
+    "pm": 0,
+    "defesa": 31,
+    "atributos": {},
+    "habilidades": [
+      "Imunidade a Frio",
+      "Mordida Definhante",
+      "Sopro de Gelo (6d12)",
+      "Ver o Fim"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Adulto da Tirania",
+    "nd": "11",
+    "tipo": "Monstro (dragão) Enorme",
+    "pv": 614,
+    "pm": 77,
+    "defesa": 42,
+    "atributos": {},
+    "habilidades": [
+      "Aura Aterradora",
+      "Imposição Avassaladora",
+      "Metamorfose",
+      "Magia Dracônica"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Adulto dos Segredos",
+    "nd": "11",
+    "tipo": "Monstro (dragão) Enorme",
+    "pv": 522,
+    "pm": 90,
+    "defesa": 40,
+    "atributos": {},
+    "habilidades": [
+      "Aura Aterradora",
+      "Enxergar as Farsas",
+      "Esmiuçar a Alma",
+      "Magia Ampliada"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Venerável da Equidade",
+    "nd": "15",
+    "tipo": "Monstro (dragão) Enorme",
+    "pv": 800,
+    "pm": 97,
+    "defesa": 52,
+    "atributos": {},
+    "habilidades": [
+      "Equalizar",
+      "Restabelecer a Igualdade",
+      "Sopro de Luz (16d12)"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Círculo da Justiça",
+      "Missão Divina",
+      "Selo de Mana"
+    ]
+  },
+  {
+    "nome": "Dragão Venerável dos Recifes",
+    "nd": "15",
+    "tipo": "Monstro (dragão) Enorme",
+    "pv": 790,
+    "pm": 97,
+    "defesa": 48,
+    "atributos": {},
+    "habilidades": [
+      "Fluxo de Mana",
+      "Profunda Paixão",
+      "Sopro de Eletricidade (16d12)"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Controlar o Clima",
+      "Globo de Invulnerabilidade",
+      "Suporte Ambiental"
+    ]
+  },
+  {
+    "nome": "Dragão Feral",
+    "nd": "10",
+    "tipo": "Monstro (dragão) Enorme",
+    "pv": 495,
+    "pm": 0,
+    "defesa": 38,
+    "atributos": {},
+    "habilidades": [
+      "Amadurecimento Primitivo",
+      "Dilacerar",
+      "Investida Imparável"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Bicéfalo",
+    "nd": "12",
+    "tipo": "Monstro (dragão) Enorme",
+    "pv": 650,
+    "pm": 0,
+    "defesa": 44,
+    "atributos": {},
+    "habilidades": [
+      "Duas Mentes (2 ações padrão)",
+      "Sopro: Esfera Elétrica ou Nuvem Cáustica"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Sckhar, Dragão-Rei do Fogo",
+    "nd": "S+",
+    "tipo": "Monstro (dragão) Colossal",
+    "pv": 4000,
+    "pm": 287,
+    "defesa": 71,
+    "atributos": {},
+    "habilidades": [
+      "Deus das Chamas",
+      "Ego",
+      "Imposição Real",
+      "Poder Incontestável",
+      "Sopro (30d12)"
+    ],
+    "fonte": "Ameaças de Arton",
+    "rd": 20,
+    "cura_acelerada": 0,
+    "magias": [
+      "Aprisionamento",
+      "Chuva de Meteoros",
+      "Coluna de Chamas",
+      "Segunda Chance"
+    ]
+  },
+  {
+    "nome": "Bugbear Sentinela",
+    "nd": "2",
+    "tipo": "Humanoide (bugbear) Médio",
+    "pv": 18,
+    "pm": 0,
+    "defesa": 17,
+    "atributos": {},
+    "habilidades": [
+      "Êxtase no Medo (RD contra amedrontados)",
+      "Visão no escuro",
+      "Faro"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Bugbear Guarda-Costas",
+    "nd": "6",
+    "tipo": "Humanoide (bugbear) Médio",
+    "pv": 48,
+    "pm": 0,
+    "defesa": 26,
+    "atributos": {},
+    "habilidades": [
+      "Quebrar Armas",
+      "Saborear Pavor",
+      "Empunhadura Poderosa"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Bruxa Goblin",
+    "nd": "11",
+    "tipo": "Humanoide (goblin) Pequeno",
+    "pv": 370,
+    "pm": 98,
+    "defesa": 37,
+    "atributos": {},
+    "habilidades": [
+      "Autofagia",
+      "Raio Conspurcado"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Amedrontar",
+      "Crânio Voador",
+      "Ferver Sangue",
+      "Marionete",
+      "Tentáculos de Trevas"
+    ]
+  },
+  {
+    "nome": "Gangue Goblin",
+    "nd": "5",
+    "tipo": "Humanoide (goblin) Grande",
+    "pv": 171,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Enxame 5d6",
+      "Frenesi Incontrolável",
+      "Cada Um por Si!"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Enxame"
+  },
+  {
+    "nome": "Horda Goblin",
+    "nd": "14",
+    "tipo": "Humanoide (goblin) Colossal",
+    "pv": 666,
+    "pm": 0,
+    "defesa": 42,
+    "atributos": {},
+    "habilidades": [
+      "Enxame 14d6",
+      "Pilhar e Devorar",
+      "Sobrepujar"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Enxame"
+  },
+  {
+    "nome": "Goblin-Bomba",
+    "nd": "3",
+    "tipo": "Humanoide (goblin) Pequeno",
+    "pv": 74,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Granadas a Granel (1d4 efeitos)",
+      "Grand Finale (Explode ao morrer)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Goblin de Ferro",
+    "nd": "5",
+    "tipo": "Humanoide (goblin) Médio",
+    "pv": 150,
+    "pm": 0,
+    "defesa": 28,
+    "atributos": {},
+    "habilidades": [
+      "Armadura Blindada",
+      "Engenhocas de Combate (aleatório)"
+    ],
+    "fonte": "Ameaças de Arton",
+    "rd": 10
+  },
+  {
+    "nome": "Goblin de Ferro Mark II",
+    "nd": "8",
+    "tipo": "Humanoide (goblin) Grande",
+    "pv": 300,
+    "pm": 0,
+    "defesa": 36,
+    "atributos": {},
+    "habilidades": [
+      "Arco Voltaico",
+      "Canhão Congelante",
+      "Foguete Explosivo",
+      "Garra-Gancho"
+    ],
+    "fonte": "Ameaças de Arton",
+    "rd": 20
+  },
+  {
+    "nome": "Hobgoblin Atirador",
+    "nd": "5",
+    "tipo": "Humanoide (hobgoblin) Médio",
+    "pv": 38,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Fuzileiro",
+      "Lança de Fogo",
+      "Mira Apurada"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Hobgoblin Comandante Tático",
+    "nd": "11",
+    "tipo": "Humanoide (hobgoblin) Médio",
+    "pv": 425,
+    "pm": 0,
+    "defesa": 40,
+    "atributos": {},
+    "habilidades": [
+      "Carga Odiosa",
+      "Estandarte de Thwor",
+      "Manobras Evasivas",
+      "Ordens de Ataque"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Hobgoblin Gladiador",
+    "nd": "16",
+    "tipo": "Humanoide (hobgoblin) Médio",
+    "pv": 1000,
+    "pm": 0,
+    "defesa": 46,
+    "atributos": {},
+    "habilidades": [
+      "Agraciado por Thwor",
+      "Campeão Bestial",
+      "Lento Demais!",
+      "Venha Aqui e Lute!"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Sangue do Ayrrak",
+    "nd": "19",
+    "tipo": "Humanoide (bugbear) Médio",
+    "pv": 1364,
+    "pm": 57,
+    "defesa": 59,
+    "atributos": {},
+    "habilidades": [
+      "O Mundo Como Deve Ser",
+      "Roda do Akzath (3 poderes)",
+      "Continuidade",
+      "Início (Reset de turno)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Aquin'ne",
+    "nd": "2",
+    "tipo": "Espírito (elemental) Pequeno",
+    "pv": 21,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Afogar",
+      "Agarrar Aprimorado",
+      "Redemoinho de Maresia",
+      "Familiar (Respirar d'água)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Corgann",
+    "nd": "8",
+    "tipo": "Espírito (elemental) Médio",
+    "pv": 61,
+    "pm": 0,
+    "defesa": 30,
+    "atributos": {},
+    "habilidades": [
+      "Jato Pressurizado (30m)",
+      "Navegar em Terra Firme",
+      "Salto Aquático"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Namasqall",
+    "nd": "14",
+    "tipo": "Espírito (elemental) Colossal",
+    "pv": 700,
+    "pm": 0,
+    "defesa": 42,
+    "atributos": {},
+    "habilidades": [
+      "Constrição",
+      "Corpo Torrencial",
+      "Maremoto",
+      "Olho da Tempestade"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "T'Peel",
+    "nd": "1",
+    "tipo": "Espírito (elemental) Minúsculo",
+    "pv": 12,
+    "pm": 0,
+    "defesa": 10,
+    "atributos": {},
+    "habilidades": [
+      "Corpo Eólico",
+      "...E o Vento Levou (Desarmar)",
+      "Familiar (Queda Suave)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Rarvnaak",
+    "nd": "7",
+    "tipo": "Espírito (elemental) Médio",
+    "pv": 280,
+    "pm": 0,
+    "defesa": 29,
+    "atributos": {},
+    "habilidades": [
+      "Caçada Implacável",
+      "Corpo Eólico",
+      "Invisibilidade Natural"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Hallus'tir",
+    "nd": "15",
+    "tipo": "Espírito (elemental) Colossal",
+    "pv": 718,
+    "pm": 0,
+    "defesa": 49,
+    "atributos": {},
+    "habilidades": [
+      "Relâmpago Selvagem",
+      "Tornado Vivo",
+      "Turbilhão de Escombros",
+      "Ventos da Matança"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Pakk",
+    "nd": "1",
+    "tipo": "Espírito (elemental) Minúsculo",
+    "pv": 9,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Arco de Chamas",
+      "Labareda Viva",
+      "Familiar (Explosão de Chamas)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ber-baram",
+    "nd": "8",
+    "tipo": "Espírito (elemental) Grande",
+    "pv": 320,
+    "pm": 0,
+    "defesa": 30,
+    "atributos": {},
+    "habilidades": [
+      "Baforada Flamejante",
+      "Marrada Explosiva",
+      "Sangue de Lava"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Serpentaar",
+    "nd": "14",
+    "tipo": "Espírito (elemental) Enorme",
+    "pv": 700,
+    "pm": 0,
+    "defesa": 47,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Calor",
+      "Corpo Ígneo",
+      "Irromper",
+      "Resfriamento Forçado"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Terrier",
+    "nd": "1",
+    "tipo": "Espírito (elemental) Pequeno",
+    "pv": 35,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Pedra-Punho",
+      "Pedregoso (Disfarce)",
+      "Familiar (RD 2/impacto)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Pamgra",
+    "nd": "7",
+    "tipo": "Espírito (elemental) Médio",
+    "pv": 280,
+    "pm": 0,
+    "defesa": 31,
+    "atributos": {},
+    "habilidades": [
+      "Cristalário (Sangramento)",
+      "Golpe Avassalador"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Bando de Pamgras",
+    "nd": "11",
+    "tipo": "Espírito (elemental) Grande",
+    "pv": 550,
+    "pm": 0,
+    "defesa": 41,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Abalo Sísmico",
+      "Cristalário",
+      "Golpe Avassalador"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tanaloom",
+    "nd": "13",
+    "tipo": "Espírito (elemental) Enorme",
+    "pv": 650,
+    "pm": 0,
+    "defesa": 44,
+    "atributos": {},
+    "habilidades": [
+      "Golpe Esmagador",
+      "Metamorfismo Rochoso",
+      "Monólito",
+      "Rolo Compressor"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Elemental Corrompido",
+    "nd": "16",
+    "tipo": "Espírito (elemental) Colossal",
+    "pv": 800,
+    "pm": 0,
+    "defesa": 53,
+    "atributos": {},
+    "habilidades": [
+      "Corpo Volátil (Nuvem Ácida)",
+      "Engolfar",
+      "Reabastecer (Cura na água)",
+      "Torrente Cáustica"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Bulette",
+    "nd": "7",
+    "tipo": "Monstro Grande",
+    "pv": 310,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Aura Cáustica",
+      "Engolir",
+      "Espreitador das Dunas",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Carrasco de Lena",
+    "nd": "6",
+    "tipo": "Monstro Grande",
+    "pv": 180,
+    "pm": 0,
+    "defesa": 27,
+    "atributos": {},
+    "habilidades": [
+      "Açoite Circular",
+      "Inversão de Dano (Dano cura)",
+      "Vulnerabilidade a Cura (Cura fere)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Centauro Chefe",
+    "nd": "8",
+    "tipo": "Humanoide (centauro) Grande",
+    "pv": 320,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Coice Oportuno",
+      "Investida Galopante",
+      "Medo de Altura"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Centauro Xamã de Megalokk",
+    "nd": "10",
+    "tipo": "Humanoide (centauro) Grande",
+    "pv": 260,
+    "pm": 70,
+    "defesa": 31,
+    "atributos": {},
+    "habilidades": [
+      "Ira Coletiva",
+      "Voz dos Monstros",
+      "Magias de Megalokk"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ente",
+    "nd": "8",
+    "tipo": "Monstro Enorme",
+    "pv": 310,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "Árvore Ancestral (Carvalho/Jasmim/etc)",
+      "Atropelamento",
+      "Pastor de Árvores"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Estirge",
+    "nd": "1",
+    "tipo": "Monstro Minúsculo",
+    "pv": 9,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Chupar Sangue",
+      "Sangrar",
+      "Familiar"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Enxame Estirge",
+    "nd": "5",
+    "tipo": "Monstro Médio",
+    "pv": 40,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Enxame (1d6 perfuração + 1d6 PV)",
+      "Chupar Sangue",
+      "Sangrar"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Enxame"
+  },
+  {
+    "nome": "Nuvem de Estirges",
+    "nd": "16",
+    "tipo": "Monstro Enorme",
+    "pv": 180,
+    "pm": 0,
+    "defesa": 51,
+    "atributos": {},
+    "habilidades": [
+      "Enxame (10d6 perfuração)",
+      "Zumbido Atordoante"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Enxame"
+  },
+  {
+    "nome": "Fera-Vassalo (Cacto)",
+    "nd": "3",
+    "tipo": "Monstro Médio",
+    "pv": 22,
+    "pm": 0,
+    "defesa": 21,
+    "atributos": {},
+    "habilidades": [
+      "Corpo Espinhoso",
+      "Drenar Sangue"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Fera-Líder (Cacto)",
+    "nd": "5",
+    "tipo": "Monstro Médio",
+    "pv": 195,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Corpo Espinhoso",
+      "Drenar Sangue"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Fera-Mãe (Cacto)",
+    "nd": "13",
+    "tipo": "Monstro Enorme",
+    "pv": 685,
+    "pm": 0,
+    "defesa": 45,
+    "atributos": {},
+    "habilidades": [
+      "Corpo Espinhoso",
+      "Saraivada de Espinhos",
+      "Veneno Potente"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lagarto Perseguidor",
+    "nd": "2",
+    "tipo": "Animal Médio",
+    "pv": 16,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Mordida Infecciosa",
+      "Mordida Surpresa"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tendrículo",
+    "nd": "6",
+    "tipo": "Monstro Grande",
+    "pv": 210,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Engolir (Ganha Cura Acelerada 20)",
+      "Veneno: Essência de Sombra"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Rhandomm",
+    "nd": "20",
+    "tipo": "Espírito Colossal",
+    "pv": 1300,
+    "pm": 0,
+    "defesa": 63,
+    "atributos": {},
+    "habilidades": [
+      "Aura Caótica",
+      "Punhos Caóticos",
+      "Salto Prodigioso",
+      "Fraqueza Variável",
+      "Montanha Viva"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gnoll Caçador de Cabeças",
+    "nd": "8",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 320,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Caminhos Selvagens",
+      "Disparo Preciso",
+      "Emboscar",
+      "Marca da Presa (Bônus contra Humanoides)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gnoll Capanga",
+    "nd": "1/2",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 8,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [
+      "Bote (Ataque + Mordida na Investida)",
+      "Faro"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gnoll Saqueador",
+    "nd": "1",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 15,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Usa Arco Curto",
+      "Faro"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gnoll Filibusteiro",
+    "nd": "2",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 60,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Usa Mosquete",
+      "Recarga Rápida (Ação de Movimento)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gnoll Líder de Alcateia",
+    "nd": "5",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 200,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Líder da Alcateia (Dano extra por aliado)",
+      "Ordens",
+      "Totem Risonho (Regra de área)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gnoll Xamã de Allihanna",
+    "nd": "2",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 50,
+    "pm": 12,
+    "defesa": 17,
+    "atributos": {},
+    "habilidades": [
+      "Medicina Primal",
+      "Caminhos Selvagens"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Armamento da Natureza",
+      "Controlar Plantas",
+      "Curar Ferimentos"
+    ]
+  },
+  {
+    "nome": "Gnoll Xamã de Megalokk",
+    "nd": "5",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 170,
+    "pm": 25,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Urro Divino (Soma Con no dano)",
+      "Voz dos Monstros"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Amedrontar",
+      "Armamento da Natureza",
+      "Físico Divino",
+      "Perdição"
+    ]
+  },
+  {
+    "nome": "Gnoll Xamã de Marah",
+    "nd": "6",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 180,
+    "pm": 34,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Paz (CD 24)",
+      "Símbolo Sagrado Energizado"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Curar Ferimentos",
+      "Dissipar Magia",
+      "Enfeitiçar",
+      "Santuário"
+    ]
+  },
+  {
+    "nome": "Hiena",
+    "nd": "1",
+    "tipo": "Animal Médio",
+    "pv": 17,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [
+      "Derrubar",
+      "Oportunista",
+      "Parceiro (Perseguidor)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Hiena Rainha",
+    "nd": "2",
+    "tipo": "Animal Médio",
+    "pv": 68,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Gargalhada Perturbadora (Abala inimigos)",
+      "Derrubar",
+      "Oportunista"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Hienodonte",
+    "nd": "3",
+    "tipo": "Animal Grande",
+    "pv": 38,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Derrubar",
+      "Oportunista",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Matrona Gnoll",
+    "nd": "11",
+    "tipo": "Humanoide (gnoll) Médio",
+    "pv": 390,
+    "pm": 0,
+    "defesa": 39,
+    "atributos": {},
+    "habilidades": [
+      "Latido Enervante",
+      "Matrona da Alcateia",
+      "Pega!",
+      "Quebra-Pescoço"
+    ],
+    "fonte": "Ameaças de Arton",
+    "rd": 5
+  },
+  {
+    "nome": "Gnoll Vuul'rak",
+    "nd": "16",
+    "tipo": "Humanoide (gnoll) Grande",
+    "pv": 900,
+    "pm": 0,
+    "defesa": 51,
+    "atributos": {},
+    "habilidades": [
+      "Descarregar Raiva (Ataque em área ao perder PV)",
+      "Golpe Avassalador",
+      "Ódio Inexplicável (Bônus contra Elfos)"
+    ],
+    "fonte": "Ameaças de Arton",
+    "rd": 10
+  },
+  {
+    "nome": "Bogum",
+    "nd": "1/2",
+    "tipo": "Construto Minúsculo",
+    "pv": 5,
+    "pm": 0,
+    "defesa": 11,
+    "atributos": {},
+    "habilidades": [
+      "Cuspe Venenoso",
+      "Veneno Urticante",
+      "Parceiro (Druida)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Escudeiro",
+    "nd": "1/2",
+    "tipo": "Animal Pequeno",
+    "pv": 14,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Escudo Vivo",
+      "Lança Curta",
+      "Parceiro (Fortão)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Fofo",
+    "nd": "1/2",
+    "tipo": "Monstro Minúsculo",
+    "pv": 8,
+    "pm": 0,
+    "defesa": 10,
+    "atributos": {},
+    "habilidades": [
+      "Mudar Forma",
+      "Parceiro (Guardião)"
+    ],
+    "fonte": "Ameaças de Arton",
+    "rd": 10
+  },
+  {
+    "nome": "Gambá",
+    "nd": "1/2",
+    "tipo": "Animal Minúsculo",
+    "pv": 8,
+    "pm": 0,
+    "defesa": 10,
+    "atributos": {},
+    "habilidades": [
+      "Almíscar Fedorento",
+      "Parceiro (Vigilante)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Homúnculo",
+    "nd": "1",
+    "tipo": "Construto Minúsculo",
+    "pv": 11,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [
+      "Peçonha Comum",
+      "Familiar (Transmutação/Veneno)",
+      "Parceiro (Ajudante)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kill’bone",
+    "nd": "1/2",
+    "tipo": "Animal Médio",
+    "pv": 8,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [
+      "Rolamento Ofensivo",
+      "Parceiro (Perseguidor - Anti-Troll)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tentacute",
+    "nd": "1/2",
+    "tipo": "Animal Minúsculo",
+    "pv": 8,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [
+      "Curiosidade Larápia",
+      "Familiar (Saque/Guardar)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tropa de Tentacutes",
+    "nd": "2",
+    "tipo": "Animal Médio (Bando)",
+    "pv": 17,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Cacofonia",
+      "Mãozinhas Marotas (Punga)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Verilêmur",
+    "nd": "1/2",
+    "tipo": "Animal Minúsculo",
+    "pv": 12,
+    "pm": 0,
+    "defesa": 13,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Ordem",
+      "Parceiro (Vigilante - Khalmyr)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Malafex",
+    "nd": "1/2",
+    "tipo": "Animal Minúsculo",
+    "pv": 13,
+    "pm": 0,
+    "defesa": 13,
+    "atributos": {},
+    "habilidades": [
+      "Inverter Sorte",
+      "Parceiro (Ajudante - Nimb)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Asa-Assassina",
+    "nd": "1",
+    "tipo": "Animal Minúsculo",
+    "pv": 10,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Asas Mortais (Decapitar)",
+      "Familiar (Sangramento)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cocatriz",
+    "nd": "3",
+    "tipo": "Monstro Pequeno",
+    "pv": 98,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Bicada Petrificante",
+      "Voo de Galinha",
+      "Parceiro (Adepto)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cocatriz-Real",
+    "nd": "7",
+    "tipo": "Monstro Grande",
+    "pv": 250,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Bicada Petrificante",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Harpia Saqueadora",
+    "nd": "4",
+    "tipo": "Monstro (harpia) Médio",
+    "pv": 32,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Grito Aterrorizante",
+      "Rasante"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Glop",
+    "nd": "1/4",
+    "tipo": "Monstro Pequeno",
+    "pv": 10,
+    "pm": 0,
+    "defesa": 10,
+    "atributos": {},
+    "habilidades": [
+      "Ácido",
+      "Percepção às Cegas"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Glooop",
+    "nd": "2",
+    "tipo": "Monstro Grande",
+    "pv": 68,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Engolir",
+      "Imunidade a Ácido"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mamãe Glop",
+    "nd": "2",
+    "tipo": "Monstro Grande",
+    "pv": 70,
+    "pm": 0,
+    "defesa": 17,
+    "atributos": {},
+    "habilidades": [
+      "Glops Filhinhos",
+      "Meiose Glópica"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mantor",
+    "nd": "5",
+    "tipo": "Monstro Grande",
+    "pv": 200,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Emantar (Agarrar)",
+      "Manto de Tenebra (Camuflagem Total)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mímico",
+    "nd": "6",
+    "tipo": "Monstro Médio",
+    "pv": 220,
+    "pm": 0,
+    "defesa": 26,
+    "atributos": {},
+    "habilidades": [
+      "Abocanhar",
+      "Cuspe Material",
+      "Imobilidade (Disfarce de Baú)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Quimera",
+    "nd": "8",
+    "tipo": "Monstro Grande",
+    "pv": 333,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Mente Tripla (Rola 3 dados)",
+      "Três Cabeças (Habilidades Variáveis)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Slark",
+    "nd": "1",
+    "tipo": "Humanoide Médio",
+    "pv": 15,
+    "pm": 0,
+    "defesa": 12,
+    "atributos": {},
+    "habilidades": [
+      "Queda Livre",
+      "Saliva (Cega)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tigre-de-Hyninn",
+    "nd": "5",
+    "tipo": "Monstro Grande",
+    "pv": 165,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Borrão",
+      "Entre Planos",
+      "Profusão de Partes"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tigre-de-Hyninn Primordial",
+    "nd": "11",
+    "tipo": "Monstro Grande",
+    "pv": 480,
+    "pm": 0,
+    "defesa": 42,
+    "atributos": {},
+    "habilidades": [
+      "Teleporte",
+      "Sopro de Energia Caótica"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Brawar (Golem Anão)",
+    "nd": "14",
+    "tipo": "Construto Enorme",
+    "pv": 700,
+    "pm": 0,
+    "defesa": 46,
+    "atributos": {},
+    "habilidades": [
+      "Fale Amigo e Passe",
+      "Picareta Destruidora",
+      "Pisotear",
+      "Imunidade Adamante"
+    ],
+    "fonte": "Ameaças de Arton",
+    "rd": 25
+  },
+  {
+    "nome": "Baleote",
+    "nd": "3",
+    "tipo": "Animal Grande",
+    "pv": 110,
+    "pm": 0,
+    "defesa": 21,
+    "atributos": {},
+    "habilidades": [
+      "Voo 15m",
+      "Descarga Elétrica",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Capivara",
+    "nd": "1",
+    "tipo": "Animal Médio",
+    "pv": 35,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Aparência Inofensiva",
+      "Fedorentina",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cavalo de Carga",
+    "nd": "1/2",
+    "tipo": "Animal Grande",
+    "pv": 27,
+    "pm": 0,
+    "defesa": 12,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cavalo de Montaria",
+    "nd": "1/2",
+    "tipo": "Animal Grande",
+    "pv": 25,
+    "pm": 0,
+    "defesa": 13,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cavalo de Guerra",
+    "nd": "1",
+    "tipo": "Animal Grande",
+    "pv": 33,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cavalo de Namalkah",
+    "nd": "2",
+    "tipo": "Animal Grande",
+    "pv": 60,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Parceiro (Montaria Veloz)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cavalo Glacial",
+    "nd": "2",
+    "tipo": "Animal Grande",
+    "pv": 60,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Esguicho de Gelo",
+      "Natação 12m",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Corcel do Deserto",
+    "nd": "2",
+    "tipo": "Monstro Grande",
+    "pv": 55,
+    "pm": 0,
+    "defesa": 21,
+    "atributos": {},
+    "habilidades": [
+      "Substância Urticante",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dromedário",
+    "nd": "1",
+    "tipo": "Animal Grande",
+    "pv": 36,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Cusparada",
+      "Patas do Deserto"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Elefante",
+    "nd": "7",
+    "tipo": "Animal Enorme",
+    "pv": 260,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Arremessar",
+      "Atropelamento",
+      "Pisotear",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gorlogg",
+    "nd": "1",
+    "tipo": "Animal Grande",
+    "pv": 36,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Agarrar Aprimorado",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gorlogg Alfa",
+    "nd": "5",
+    "tipo": "Animal Grande",
+    "pv": 206,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Mordida Dilaceradora"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Leão",
+    "nd": "2",
+    "tipo": "Animal Grande",
+    "pv": 68,
+    "pm": 0,
+    "defesa": 17,
+    "atributos": {},
+    "habilidades": [
+      "Bote",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Pantera",
+    "nd": "2",
+    "tipo": "Animal Médio",
+    "pv": 55,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Sufocar",
+      "Parceiro (Assassino)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tigre",
+    "nd": "3",
+    "tipo": "Animal Grande",
+    "pv": 95,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Rugido Paralisante",
+      "Ímpeto Destrutivo",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Rinoceronte",
+    "nd": "4",
+    "tipo": "Animal Grande",
+    "pv": 130,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Investida Avassaladora",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tatu-Montanha",
+    "nd": "4",
+    "tipo": "Monstro Enorme",
+    "pv": 125,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Retrair",
+      "Varrer Ameaças",
+      "Imunidade a Ácido"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Trobo",
+    "nd": "1",
+    "tipo": "Animal Grande",
+    "pv": 15,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [
+      "Parceiro (Besta de Carga)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tumarkhân",
+    "nd": "4",
+    "tipo": "Animal Enorme",
+    "pv": 130,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Atropelamento",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Urso Panda",
+    "nd": "1",
+    "tipo": "Animal Médio",
+    "pv": 28,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Rolamento Defensivo",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Urso Pardo",
+    "nd": "3",
+    "tipo": "Animal Grande",
+    "pv": 95,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Agarrar Aprimorado",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Urso das Cavernas",
+    "nd": "8",
+    "tipo": "Animal Enorme",
+    "pv": 300,
+    "pm": 0,
+    "defesa": 31,
+    "atributos": {},
+    "habilidades": [
+      "Abraço de Urso",
+      "Garras Destruidoras"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Warg",
+    "nd": "3",
+    "tipo": "Monstro Grande",
+    "pv": 110,
+    "pm": 0,
+    "defesa": 21,
+    "atributos": {},
+    "habilidades": [
+      "Ataque Furtivo",
+      "Predador Oculto",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Unicórnio",
+    "nd": "4",
+    "tipo": "Espírito Grande",
+    "pv": 99,
+    "pm": 0,
+    "defesa": 21,
+    "atributos": {},
+    "habilidades": [
+      "Chifre Mágico (Curar/Reviver)",
+      "Paz Encarnada",
+      "Sumir (Teleporte)",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Carniçal",
+    "nd": "1",
+    "tipo": "Morto-vivo Médio",
+    "pv": 33,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Febre do Carniçal",
+      "Paralisia"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lacedon",
+    "nd": "2",
+    "tipo": "Morto-vivo Médio",
+    "pv": 65,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Lamento dos Afogados",
+      "Natação 9m"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cavalo Esqueleto",
+    "nd": "1",
+    "tipo": "Morto-vivo Grande",
+    "pv": 30,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Pavor Equestre",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ogro Esqueleto",
+    "nd": "3",
+    "tipo": "Morto-vivo Grande",
+    "pv": 99,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Morto Demais (Usa osso como arma)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Urso Pardo Esqueleto",
+    "nd": "4",
+    "tipo": "Morto-vivo Grande",
+    "pv": 180,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Ossos Pontiagudos",
+      "Garras Destruidoras"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gigante Esqueleto",
+    "nd": "5",
+    "tipo": "Morto-vivo Enorme",
+    "pv": 210,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Arremessar Rochas",
+      "Monte de Ossos"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mamute Esqueleto",
+    "nd": "8",
+    "tipo": "Morto-vivo Enorme",
+    "pv": 340,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Atropelamento",
+      "Monte de Ossos"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Hidra Esqueleto",
+    "nd": "11",
+    "tipo": "Morto-vivo Enorme",
+    "pv": 550,
+    "pm": 0,
+    "defesa": 39,
+    "atributos": {},
+    "habilidades": [
+      "Quebra-Ossos",
+      "Múltiplas Cabeças",
+      "Cura Acelerada 100"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Rei-Tirano Esqueleto",
+    "nd": "12",
+    "tipo": "Morto-vivo Enorme",
+    "pv": 625,
+    "pm": 0,
+    "defesa": 43,
+    "atributos": {},
+    "habilidades": [
+      "Cauda Avassaladora",
+      "Engolir",
+      "Visão Baseada em Movimento"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Fantasma",
+    "nd": "7",
+    "tipo": "Morto-vivo Médio",
+    "pv": 190,
+    "pm": 0,
+    "defesa": 29,
+    "atributos": {},
+    "habilidades": [
+      "Incorpóreo",
+      "Assustar",
+      "Drenar Vida",
+      "Memento"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Fantasma Ancestral",
+    "nd": "14",
+    "tipo": "Morto-vivo Médio",
+    "pv": 410,
+    "pm": 0,
+    "defesa": 40,
+    "atributos": {},
+    "habilidades": [
+      "Lamento dos Mortos",
+      "Face Sombria da Morte",
+      "Toque Drenante x2"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Garra-Zumbi",
+    "nd": "1/4",
+    "tipo": "Morto-vivo Minúsculo",
+    "pv": 5,
+    "pm": 0,
+    "defesa": 10,
+    "atributos": {},
+    "habilidades": [
+      "Estrangular",
+      "Voo 9m"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Garra-Zumbi Ogro",
+    "nd": "2",
+    "tipo": "Morto-vivo Médio",
+    "pv": 35,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Forte Demais",
+      "RD 5"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Garra-Zumbi Enxame",
+    "nd": "3",
+    "tipo": "Morto-vivo Grande",
+    "pv": 40,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Maré Estranguladora"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Enxame"
+  },
+  {
+    "nome": "Garra-Zumbi Gigante",
+    "nd": "5",
+    "tipo": "Morto-vivo Grande",
+    "pv": 200,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Mestre de Manobras"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lívido",
+    "nd": "3",
+    "tipo": "Morto-vivo Médio",
+    "pv": 70,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Odor Pungente",
+      "Trapaceiro do Além",
+      "Vulnerabilidade a Luz"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mortalha",
+    "nd": "11",
+    "tipo": "Morto-vivo Médio",
+    "pv": 475,
+    "pm": 0,
+    "defesa": 38,
+    "atributos": {},
+    "habilidades": [
+      "Cria Tumular",
+      "Drenar Vitalidade",
+      "Maldição Mortuária",
+      "Fraqueza Solar"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Múmia",
+    "nd": "5",
+    "tipo": "Morto-vivo Médio",
+    "pv": 192,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Desespero",
+      "Podridão da Múmia"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Senhor das Múmias",
+    "nd": "15",
+    "tipo": "Morto-vivo Médio",
+    "pv": 532,
+    "pm": 95,
+    "defesa": 48,
+    "atributos": {},
+    "habilidades": [
+      "Disfarce Ilusório",
+      "Maldição da Múmia",
+      "Enxame de Pestes"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Necrodraco Esqueleto",
+    "nd": "12",
+    "tipo": "Morto-vivo Enorme",
+    "pv": 610,
+    "pm": 0,
+    "defesa": 44,
+    "atributos": {},
+    "habilidades": [
+      "Sopro de Trevas",
+      "Varrer"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Necrodraco Zumbi",
+    "nd": "14",
+    "tipo": "Morto-vivo Enorme",
+    "pv": 720,
+    "pm": 0,
+    "defesa": 47,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Podridão",
+      "Fraqueza Zumbi"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Necrodraco Lich (Dracolich)",
+    "nd": "20",
+    "tipo": "Morto-vivo Colossal",
+    "pv": 1400,
+    "pm": 133,
+    "defesa": 63,
+    "atributos": {},
+    "habilidades": [
+      "Filactério",
+      "Sopro Tenebroso",
+      "Couro Necromântico",
+      "Magias 20º Nível"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tarso, Dragão-Rei dos Mortos",
+    "nd": "S+",
+    "tipo": "Morto-vivo Colossal",
+    "pv": 3800,
+    "pm": "Infinito",
+    "defesa": 70,
+    "atributos": {},
+    "habilidades": [
+      "Necromante Ancestral",
+      "Protegido Indefeso",
+      "Sopro Tenebroso (30d12)",
+      "Trevas Profundas (Ignora RD)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Árvore-Matilha",
+    "nd": "13",
+    "tipo": "Construto Enorme",
+    "pv": 700,
+    "pm": 0,
+    "defesa": 44,
+    "atributos": {},
+    "habilidades": [
+      "Descarregar Raiva",
+      "Uivo Aterrador",
+      "Natureza Vegetal"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Burafonte",
+    "nd": "4",
+    "tipo": "Animal Enorme",
+    "pv": 120,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Cauda Espinhosa (Sangramento)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Armento de Burafontes",
+    "nd": "8",
+    "tipo": "Animal Colossal (Bando)",
+    "pv": 310,
+    "pm": 0,
+    "defesa": 35,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Postura Protetora"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Deinonico",
+    "nd": "4",
+    "tipo": "Animal Médio",
+    "pv": 140,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Investida Terrível",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Bando de Deinonicos",
+    "nd": "8",
+    "tipo": "Animal Enorme (Bando)",
+    "pv": 700,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Caçada Primal"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Espada-da-Floresta",
+    "nd": "3",
+    "tipo": "Construto Médio",
+    "pv": 108,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Riposte Natural",
+      "Dínamo Vegetal",
+      "Adaptado ao Ambiente"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Galhada Macho",
+    "nd": "2",
+    "tipo": "Construto Grande",
+    "pv": 17,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Galhada de Allihanna (Dano x2 contra Mortos-Vivos)",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Galhada Fêmea",
+    "nd": "2",
+    "tipo": "Construto Grande",
+    "pv": 17,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Seiva-Galhada (Cura)",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gali-Gali",
+    "nd": "1/4",
+    "tipo": "Animal Minúsculo",
+    "pv": 4,
+    "pm": 0,
+    "defesa": 11,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Enxame de Gali-Gali",
+    "nd": "1",
+    "tipo": "Animal Médio (Enxame)",
+    "pv": 30,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Grudar nas Costas"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Grande Battham",
+    "nd": "12",
+    "tipo": "Animal Colossal",
+    "pv": 800,
+    "pm": 0,
+    "defesa": 38,
+    "atributos": {},
+    "habilidades": [
+      "Quase Titânico",
+      "Pisão 4d12+45"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Raagoran",
+    "nd": "8",
+    "tipo": "Animal Grande",
+    "pv": 320,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Carapaça de Lodo (RD 10)",
+      "Engolir"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tuntram",
+    "nd": "10",
+    "tipo": "Animal Enorme",
+    "pv": 450,
+    "pm": 0,
+    "defesa": 36,
+    "atributos": {},
+    "habilidades": [
+      "Amontoar",
+      "Investida Pesada",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Rei-Tirano",
+    "nd": "14",
+    "tipo": "Animal Enorme",
+    "pv": 725,
+    "pm": 0,
+    "defesa": 46,
+    "atributos": {},
+    "habilidades": [
+      "Cauda Avassaladora",
+      "Engolir",
+      "Visão Baseada em Movimento"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Afogado",
+    "nd": "7",
+    "tipo": "Morto-vivo Médio",
+    "pv": 60,
+    "pm": 0,
+    "defesa": 29,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Afogamento"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Capitão Afogado",
+    "nd": "10",
+    "tipo": "Morto-vivo Médio",
+    "pv": 380,
+    "pm": 0,
+    "defesa": 35,
+    "atributos": {},
+    "habilidades": [
+      "Recrutas Sufocados"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Armeiro de Tenebra Devoto",
+    "nd": "6",
+    "tipo": "Humanoide (anão) Médio",
+    "pv": 220,
+    "pm": 0,
+    "defesa": 26,
+    "atributos": {},
+    "habilidades": [
+      "Disparo Preciso",
+      "Usa Mosquete de Trevas"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Demônio da Pólvora",
+    "nd": "12",
+    "tipo": "Espírito Médio",
+    "pv": 580,
+    "pm": 0,
+    "defesa": 42,
+    "atributos": {},
+    "habilidades": [
+      "Mestre da Pólvora",
+      "Munição Explosiva"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Goblin de Sombreiro",
+    "nd": "2",
+    "tipo": "Humanoide Pequeno",
+    "pv": 16,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Sombreiro (Desprevenido)",
+      "Valentão"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Homem-Piranha",
+    "nd": "2",
+    "tipo": "Humanoide Médio",
+    "pv": 68,
+    "pm": 0,
+    "defesa": 17,
+    "atributos": {},
+    "habilidades": [
+      "Dentes Afiados"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Homem-Piranha Capitão",
+    "nd": "7",
+    "tipo": "Monstro (lefou) Médio",
+    "pv": 290,
+    "pm": 0,
+    "defesa": 29,
+    "atributos": {},
+    "habilidades": [
+      "Sequência do Rio",
+      "Fortificação 50%"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Chapéu-Preto",
+    "nd": "12",
+    "tipo": "Humanoide (meio-orc) Médio",
+    "pv": 480,
+    "pm": 0,
+    "defesa": 42,
+    "atributos": {},
+    "habilidades": [
+      "Bala nas Costas",
+      "Mão Firme",
+      "Tiro à Traição"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lobo do Mar",
+    "nd": "16",
+    "tipo": "Humanoide Médio",
+    "pv": 690,
+    "pm": 0,
+    "defesa": 54,
+    "atributos": {},
+    "habilidades": [
+      "Bloqueio Resistente",
+      "Truque do Convés",
+      "Lenda dos Mares"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Arcano de Guerra Adepto",
+    "nd": "4",
+    "tipo": "Humanoide Médio",
+    "pv": 82,
+    "pm": 36,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Sopro das Uivantes",
+      "Salto Dimensional"
+    ]
+  },
+  {
+    "nome": "Caçador de Impuros",
+    "nd": "8",
+    "tipo": "Humanoide Médio",
+    "pv": 290,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "Espião Infiltrado",
+      "Espreitador Astuto",
+      "Inimigo de Todos"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Corcel de Comando",
+    "nd": "3",
+    "tipo": "Construto Grande",
+    "pv": 82,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Cúpula de Proteção",
+      "Evacuação de Emergência",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Carruagem de Comando",
+    "nd": "5",
+    "tipo": "Construto Enorme",
+    "pv": 190,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Pernas Mecânicas",
+      "Piloto Arcano"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dançarino de Guerra",
+    "nd": "4",
+    "tipo": "Humanoide Médio",
+    "pv": 110,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Matar é Viver",
+      "Viver é Lutar (Acrobacia para evitar dano)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Purificado",
+    "nd": "2",
+    "tipo": "Humanoide (hynne) Pequeno",
+    "pv": 9,
+    "pm": 0,
+    "defesa": 10,
+    "atributos": {},
+    "habilidades": [
+      "Gema da Purificação (Explosão de Essência)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Soldado Blindado",
+    "nd": "5",
+    "tipo": "Humanoide Médio",
+    "pv": 135,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Empurrão",
+      "Prontidão"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Soldado Superior",
+    "nd": "17",
+    "tipo": "Humanoide Médio",
+    "pv": 1080,
+    "pm": 0,
+    "defesa": 50,
+    "atributos": {},
+    "habilidades": [
+      "Golpes Penetrantes",
+      "Super Soldado (Frenesi)",
+      "Mestre de Manobras"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Alzeras",
+    "nd": "11",
+    "tipo": "Morto-vivo Médio",
+    "pv": 385,
+    "pm": 130,
+    "defesa": 29,
+    "atributos": {},
+    "habilidades": [
+      "Contramágica Aprimorada",
+      "Conjuração Odiosa",
+      "Marionete",
+      "Amarras Etéreas"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cemitério Vivo",
+    "nd": "17",
+    "tipo": "Morto-vivo Colossal",
+    "pv": 1125,
+    "pm": 0,
+    "defesa": 54,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Profanação",
+      "Tumba Viva (Absorve alvos)",
+      "Herança Profana",
+      "Gera Falanges ao morrer"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Chacal-Zumbi",
+    "nd": "2",
+    "tipo": "Morto-vivo Médio",
+    "pv": 35,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Febre Necrótica",
+      "Matilha Zumbi",
+      "Fraqueza Zumbi (Cérebro)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mercenário de Aslothia",
+    "nd": "3",
+    "tipo": "Monstro (lefou) Médio",
+    "pv": 21,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Inescrupuloso (+dano contra flanqueados)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Líder Mercenário de Aslothia",
+    "nd": "5",
+    "tipo": "Humanoide Médio",
+    "pv": 200,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Capangas Descartáveis (Usa aliado como escudo)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Morgue’raz",
+    "nd": "9",
+    "tipo": "Morto-vivo Grande",
+    "pv": 378,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Fedor",
+      "Criar Lacaios (Carniçais)",
+      "Devorar por Dentro"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Wisphago",
+    "nd": "8",
+    "tipo": "Morto-vivo Grande",
+    "pv": 344,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Devorar Magia (Recupera PV)",
+      "Faro para Magos",
+      "Fome de Mana",
+      "Vomitar Magia"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lich",
+    "nd": "15",
+    "tipo": "Morto-vivo Médio",
+    "pv": 560,
+    "pm": 170,
+    "defesa": 48,
+    "atributos": {},
+    "habilidades": [
+      "Filactério",
+      "Drenar Vida",
+      "Sacrificar Servo",
+      "Magias 17º Nível"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lich de Aslothia",
+    "nd": "18",
+    "tipo": "Morto-vivo Médio",
+    "pv": 800,
+    "pm": 180,
+    "defesa": 52,
+    "atributos": {},
+    "habilidades": [
+      "Contramágica Superior",
+      "Magia Discreta",
+      "Legião",
+      "Magias 18º Nível"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ferren Asloth (Arquilich)",
+    "nd": "S",
+    "tipo": "Morto-vivo Médio",
+    "pv": 2418,
+    "pm": 255,
+    "defesa": 66,
+    "atributos": {},
+    "habilidades": [
+      "Conhecimento Sequestrado",
+      "Regente Sombrio (Controla clima)",
+      "Despertar os Mortos (ND 19)",
+      "Magias 20º Nível",
+      "Toque Vampírico 36d6"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Búfalo-de-Guerra",
+    "nd": "2",
+    "tipo": "Animal Grande",
+    "pv": 80,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Atropelamento",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Hippossauro",
+    "nd": "3",
+    "tipo": "Animal Grande",
+    "pv": 100,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Salto Mortal",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mantícora",
+    "nd": "6",
+    "tipo": "Monstro Grande",
+    "pv": 240,
+    "pm": 0,
+    "defesa": 26,
+    "atributos": {},
+    "habilidades": [
+      "Espinhos de Cauda",
+      "Voo 15m"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mantícora Primal",
+    "nd": "14",
+    "tipo": "Monstro Enorme",
+    "pv": 655,
+    "pm": 0,
+    "defesa": 44,
+    "atributos": {},
+    "habilidades": [
+      "Crueldade (Ataques extras)",
+      "Ressentimento (Dano Psíquico)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Otyugh",
+    "nd": "5",
+    "tipo": "Monstro Grande",
+    "pv": 213,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Infecção do Esgoto",
+      "Constrição",
+      "Agarrar Aprimorado"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Horda de Otyughs",
+    "nd": "16",
+    "tipo": "Monstro Colossal",
+    "pv": 800,
+    "pm": 0,
+    "defesa": 53,
+    "atributos": {},
+    "habilidades": [
+      "Chuva de Tentáculos",
+      "Mar de Tentáculos (Enreda)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cerianthar",
+    "nd": "4",
+    "tipo": "Monstro Médio",
+    "pv": 140,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Imobilidade",
+      "Muitos Tentáculos (Oito)",
+      "Constrição"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Grande Tachygloss",
+    "nd": "16",
+    "tipo": "Monstro Grande",
+    "pv": 800,
+    "pm": 0,
+    "defesa": 53,
+    "atributos": {},
+    "habilidades": [
+      "Acúleos (Ignora RD)",
+      "Armadura de Espinhos (Dano ao atacante)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Oxxdon (Monstro da Ferrugem)",
+    "nd": "2",
+    "tipo": "Monstro Médio",
+    "pv": 72,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Ferrugem (Destrói metal)",
+      "Faro"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Razza’Kham",
+    "nd": "17",
+    "tipo": "Monstro Enorme",
+    "pv": 1010,
+    "pm": 0,
+    "defesa": 54,
+    "atributos": {},
+    "habilidades": [
+      "Brutalidade Incontida (Dados extras)",
+      "Dilacerar",
+      "Varrer"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Serpe Anciã",
+    "nd": "8",
+    "tipo": "Monstro Enorme",
+    "pv": 320,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Jato de Podridão",
+      "Peçonha Anciã (Ignora Imunidade)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Uraghian Adulto",
+    "nd": "8",
+    "tipo": "Monstro Enorme",
+    "pv": 330,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Couraça Cáustica (Dano de Fogo)",
+      "Rajada Flamejante"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kaiju (Ameaça Suprema)",
+    "nd": "20",
+    "tipo": "Monstro Colossal",
+    "pv": 1500,
+    "pm": 0,
+    "defesa": 62,
+    "atributos": {},
+    "habilidades": [
+      "Arsenal Titânico (Arremessar Montanha/Sopro Corrosivo)",
+      "Maior que a Vida",
+      "Cura Acelerada 50",
+      "Regeneração Eterna"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Iniciada de Sszzaas",
+    "nd": "3",
+    "tipo": "Monstro (medusa) Médio",
+    "pv": 69,
+    "pm": 19,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Falso Amigo",
+      "Magias de Sszzaas"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Elemental do Veneno (Grande)",
+    "nd": "12",
+    "tipo": "Espírito Grande",
+    "pv": 550,
+    "pm": 0,
+    "defesa": 43,
+    "atributos": {},
+    "habilidades": [
+      "Morte Gasosa (Dano automático)",
+      "Pústula Explosiva",
+      "Ignora Imunidade a Veneno"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Górgona Matriarca",
+    "nd": "14",
+    "tipo": "Monstro (medusa) Médio",
+    "pv": 498,
+    "pm": 89,
+    "defesa": 43,
+    "atributos": {},
+    "habilidades": [
+      "Olhar Petrificante (CD 38)",
+      "Magia Acelerada",
+      "Visão da Verdade"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Nagah Encantadora",
+    "nd": "7",
+    "tipo": "Humanoide Médio",
+    "pv": 197,
+    "pm": 59,
+    "defesa": 29,
+    "atributos": {},
+    "habilidades": [
+      "Linhagem Feérica (+2 CD)",
+      "Invisibilidade",
+      "Ilusão Lacerante"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Nagah Retalhador",
+    "nd": "12",
+    "tipo": "Humanoide Médio",
+    "pv": 600,
+    "pm": 0,
+    "defesa": 43,
+    "atributos": {},
+    "habilidades": [
+      "Quatro Braços (Barreira de Lâminas)",
+      "Retalhar",
+      "Peçonha Potente"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Nagah Sacerdotisa",
+    "nd": "5",
+    "tipo": "Humanoide Médio",
+    "pv": 140,
+    "pm": 38,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Devoção Dissimulada",
+      "Ligação Sombria"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Rival Espelho",
+    "nd": "Varia",
+    "tipo": "Mágico",
+    "pv": "Cópia",
+    "pm": 0,
+    "defesa": 0,
+    "atributos": {},
+    "habilidades": [
+      "Transferir Dor (Dano volta para o original)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Nastarrath",
+    "nd": "18",
+    "tipo": "Morto-vivo Colossal",
+    "pv": 1150,
+    "pm": 0,
+    "defesa": 56,
+    "atributos": {},
+    "habilidades": [
+      "Mastigar (Dano extra por turno)",
+      "Engolir (Dano Ácido)",
+      "Veneno 6d12"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Lyuba (Mamute Zumbi)",
+    "nd": "14",
+    "tipo": "Morto-vivo Enorme",
+    "pv": 715,
+    "pm": 0,
+    "defesa": 45,
+    "atributos": {},
+    "habilidades": [
+      "Caçador de Caçadores",
+      "Presas Espectrais (Drena vida)",
+      "Definhamento"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Minotauro Chefe da Manada",
+    "nd": "6",
+    "tipo": "Humanoide Médio",
+    "pv": 232,
+    "pm": 0,
+    "defesa": 26,
+    "atributos": {},
+    "habilidades": [
+      "Liderança Brutal",
+      "Marca da Presa"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ogro Furioso",
+    "nd": "5",
+    "tipo": "Humanoide Grande",
+    "pv": 222,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Fúria Imparável (Não cai com 0 PV)",
+      "Raiva Inflamável"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Keylor (Ogro Titã)",
+    "nd": "9",
+    "tipo": "Humanoide Grande",
+    "pv": 360,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Frio",
+      "Arremessar Rochas",
+      "Varrer"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Soterrado Vagante",
+    "nd": "2",
+    "tipo": "Morto-vivo Médio",
+    "pv": 21,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Constrição Congelante",
+      "Agarrar Aprimorado"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Verme do Gelo Adulto",
+    "nd": "18",
+    "tipo": "Monstro Colossal",
+    "pv": 1100,
+    "pm": 0,
+    "defesa": 56,
+    "atributos": {},
+    "habilidades": [
+      "Espasmo Mortal (Explosão de gelo)",
+      "Frio Extremo (Aura anti-fogo)",
+      "Engolir (6d6+30)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gárgula",
+    "nd": "2",
+    "tipo": "Construto Médio",
+    "pv": 65,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Imobilidade (Disfarce de Estátua)",
+      "Voo 18m"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Gárgula Assassina",
+    "nd": "4",
+    "tipo": "Construto Médio",
+    "pv": 140,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Ataque Furtivo +2d6",
+      "Imobilidade"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Golem de Barro",
+    "nd": "10",
+    "tipo": "Construto Grande",
+    "pv": 400,
+    "pm": 0,
+    "defesa": 36,
+    "atributos": {},
+    "habilidades": [
+      "Corpo Barroso",
+      "Imunidade a Magia",
+      "Lama (Penalidade em perícias)",
+      "Ressecamento"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Golem de Bronze",
+    "nd": "9",
+    "tipo": "Construto Grande",
+    "pv": 350,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "Soar os Sinos (Dano sônico e atordoamento)",
+      "Imunidade a Magia (Cura com Fogo)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Golem de Carne",
+    "nd": "7",
+    "tipo": "Construto Grande",
+    "pv": 300,
+    "pm": 0,
+    "defesa": 31,
+    "atributos": {},
+    "habilidades": [
+      "Fúria Homicida",
+      "Imunidade a Magia (Cura com Eletricidade)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Golem de Espelhos",
+    "nd": "9",
+    "tipo": "Construto Grande",
+    "pv": 350,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Copiar Habilidade",
+      "Refletir Magia",
+      "Vulnerabilidade a Despedaçar"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Golem de Ferro",
+    "nd": "10",
+    "tipo": "Construto Grande",
+    "pv": 400,
+    "pm": 0,
+    "defesa": 36,
+    "atributos": {},
+    "habilidades": [
+      "Sopro de Gás Venenoso",
+      "Imunidade a Magia"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Golem de Ferro Superior",
+    "nd": "15",
+    "tipo": "Construto Grande",
+    "pv": 760,
+    "pm": 0,
+    "defesa": 55,
+    "atributos": {},
+    "habilidades": [
+      "Marcha de Ferro (Atropelamento)",
+      "Sopro de Gás Venenoso"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Golem de Matéria Vermelha",
+    "nd": "18",
+    "tipo": "Construto (lefeu) Enorme",
+    "pv": 900,
+    "pm": 0,
+    "defesa": 50,
+    "atributos": {},
+    "habilidades": [
+      "Abraço Corrosivo",
+      "Sangue Ácido",
+      "Insanidade da Tormenta"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Golem de Pedra",
+    "nd": "12",
+    "tipo": "Construto Grande",
+    "pv": 575,
+    "pm": 0,
+    "defesa": 43,
+    "atributos": {},
+    "habilidades": [
+      "Imobilidade",
+      "Resistência Extrema",
+      "Imunidade a Magia (Exceto Despedaçar)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Instrumento Divino",
+    "nd": "7",
+    "tipo": "Construto Médio",
+    "pv": 266,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Arrependimento (Atordoa atacante)",
+      "Fulgor Divino",
+      "Quebrar Superior"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Soldado Mecânico",
+    "nd": "3",
+    "tipo": "Construto Médio",
+    "pv": 23,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Sopro de Vapor",
+      "Movido a Vapor (Ganha velocidade com fogo)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Coletor de Arsenal",
+    "nd": "10",
+    "tipo": "Humanoide Médio",
+    "pv": 280,
+    "pm": 54,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Chicote de Aço",
+      "Desarmar Superior",
+      "Marca da Oferenda",
+      "Magias de Arsenal"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Forjador Litúrgico",
+    "nd": "9",
+    "tipo": "Humanoide Médio",
+    "pv": 230,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Armamento Sagrado",
+      "Desprezo pelo Ordinário (RD contra armas comuns)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Concílio Forjador",
+    "nd": "13",
+    "tipo": "Humanoide Grande",
+    "pv": 430,
+    "pm": 0,
+    "defesa": 41,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Armamento Sagrado"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Bando"
+  },
+  {
+    "nome": "Guerreiro Perpétuo",
+    "nd": "7",
+    "tipo": "Morto-vivo Médio",
+    "pv": 265,
+    "pm": 0,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Incorpóreo",
+      "Sempre Armado (Arma retorna)",
+      "Casca Vazia"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kishin (Avatar Menor)",
+    "nd": "13",
+    "tipo": "Construto Enorme",
+    "pv": 617,
+    "pm": 0,
+    "defesa": 46,
+    "atributos": {},
+    "habilidades": [
+      "Armamento Adaptativo",
+      "Sobrecarga",
+      "Zona de Perigo"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kishinauros (O Titã)",
+    "nd": "S",
+    "tipo": "Construto Colossal",
+    "pv": 2450,
+    "pm": 0,
+    "defesa": 61,
+    "atributos": {},
+    "habilidades": [
+      "Armamento Adaptativo Colossal",
+      "Balística Avançada",
+      "Protocolos de Emergência",
+      "Fúria do Panteão"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Acólito de Kally",
+    "nd": "3",
+    "tipo": "Humanoide Médio",
+    "pv": 60,
+    "pm": 29,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Medo",
+      "Servos do Dragão (Invoca Kobolds)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cavaleiro de Kally",
+    "nd": "8",
+    "tipo": "Humanoide Médio",
+    "pv": 250,
+    "pm": 0,
+    "defesa": 35,
+    "atributos": {},
+    "habilidades": [
+      "Cavaleiro Dracônico",
+      "Despertar o Poder",
+      "Investida Aérea",
+      "Montado em Corcel de Kally"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Alto Clérigo de Kally",
+    "nd": "13",
+    "tipo": "Monstro (kallyanach) Médio",
+    "pv": 455,
+    "pm": 72,
+    "defesa": 40,
+    "atributos": {},
+    "habilidades": [
+      "Poder Ilimitado",
+      "Manto do Cruzado",
+      "Magias 13º Nível"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Corcel de Kally",
+    "nd": "2",
+    "tipo": "Monstro Grande",
+    "pv": 72,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Sopro de Fogo",
+      "Natureza Dracônica",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dracomante",
+    "nd": "5",
+    "tipo": "Humanoide Médio",
+    "pv": 112,
+    "pm": 40,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Arcano de Batalha",
+      "Dracomancia (RD Elemental)",
+      "Presença Aterradora"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dracomante Superior",
+    "nd": "14",
+    "tipo": "Humanoide (elfo) Médio",
+    "pv": 500,
+    "pm": 112,
+    "defesa": 33,
+    "atributos": {},
+    "habilidades": [
+      "Transformação em Dragão",
+      "Magia Acelerada",
+      "Raio Arcano de Fogo"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kallyanach Bárbaro",
+    "nd": "6",
+    "tipo": "Monstro Médio",
+    "pv": 224,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Fúria Elemental",
+      "Resistência a Fogo"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kallyanach Morte Glacial",
+    "nd": "9",
+    "tipo": "Monstro Médio",
+    "pv": 340,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Ataque Furtivo +4d6",
+      "Sopro de Dragão (Frio)",
+      "Finta Aprimorada"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Avatar de Kallyadranoch",
+    "nd": "S",
+    "tipo": "Monstro (dragão) Colossal",
+    "pv": 2500,
+    "pm": 0,
+    "defesa": 65,
+    "atributos": {},
+    "habilidades": [
+      "Sopro Supremo (48d12)",
+      "Servos de Kally",
+      "Centelha Divina",
+      "Mergulho Mortal"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Chibi-Kabuto",
+    "nd": "1/4",
+    "tipo": "Animal Minúsculo",
+    "pv": 8,
+    "pm": 0,
+    "defesa": 13,
+    "atributos": {},
+    "habilidades": [
+      "Familiar"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Ko-Kabuto",
+    "nd": "1",
+    "tipo": "Animal Pequeno",
+    "pv": 38,
+    "pm": 0,
+    "defesa": 17,
+    "atributos": {},
+    "habilidades": [
+      "Agarralhada",
+      "Parceiro (Guardião)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Horda de Ko-Kabuto",
+    "nd": "3",
+    "tipo": "Animal Médio",
+    "pv": 112,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Formação Defensiva"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Bando"
+  },
+  {
+    "nome": "Dai-Kabuto",
+    "nd": "4",
+    "tipo": "Animal Grande",
+    "pv": 155,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Agarrar Aprimorado",
+      "Parceiro (Montaria)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kaijin Capanga",
+    "nd": "6",
+    "tipo": "Monstro Médio",
+    "pv": 60,
+    "pm": 0,
+    "defesa": 26,
+    "atributos": {},
+    "habilidades": [
+      "Mutação Rubra",
+      "Mente Alienígena",
+      "Sangue Corrosivo"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kaijin Bruto",
+    "nd": "11",
+    "tipo": "Monstro Grande",
+    "pv": 600,
+    "pm": 0,
+    "defesa": 42,
+    "atributos": {},
+    "habilidades": [
+      "3 Mutações Rubras",
+      "Dilacerar",
+      "Agarrar Aprimorado"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kaijin Ninja",
+    "nd": "13",
+    "tipo": "Monstro Médio",
+    "pv": 450,
+    "pm": 48,
+    "defesa": 36,
+    "atributos": {},
+    "habilidades": [
+      "Ataque Furtivo +6d6",
+      "Truques Ninjas (Magias)",
+      "Sombra"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kappa Brigão",
+    "nd": "1",
+    "tipo": "Espírito Médio",
+    "pv": 30,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Cura das Águas",
+      "Tigela D'água (Fraqueza)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kappa Yokozuna",
+    "nd": "3",
+    "tipo": "Espírito Médio",
+    "pv": 105,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Golpe Impactante",
+      "Agarrar Aprimorado",
+      "Derrubada Automática"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mashin Monge",
+    "nd": "3",
+    "tipo": "Construto Médio",
+    "pv": 135,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Ataque de Chi",
+      "Evasão",
+      "Arma Elemental"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Mashin Samurai",
+    "nd": "5",
+    "tipo": "Construto Médio",
+    "pv": 221,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Kiai Divino (Dano Máximo)",
+      "Lâmina em Chamas",
+      "Arma Acoplada"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Nezumi Capanga",
+    "nd": "1",
+    "tipo": "Humanoide Pequeno",
+    "pv": 9,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Roedor (Avaria Armadura)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Nezumi Ninja",
+    "nd": "3",
+    "tipo": "Humanoide Pequeno",
+    "pv": 74,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Bomba de Fumaça",
+      "Ataque Furtivo +2d6",
+      "Roedor"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Nezumi Brutamontes",
+    "nd": "4",
+    "tipo": "Humanoide Pequeno",
+    "pv": 140,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Estocada Invertida",
+      "Roedor"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Oni",
+    "nd": "5",
+    "tipo": "Espírito Médio",
+    "pv": 200,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Avesso à Honra (Dano extra contra heróis)",
+      "Ataque Pesado",
+      "Doença"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Aka Oni",
+    "nd": "9",
+    "tipo": "Espírito (lefeu) Médio",
+    "pv": 360,
+    "pm": 0,
+    "defesa": 35,
+    "atributos": {},
+    "habilidades": [
+      "Insanidade da Tormenta",
+      "Ataque Pesado",
+      "Tetsubo de Matéria Vermelha"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Tengu Bandoleiro",
+    "nd": "6",
+    "tipo": "Espírito Médio",
+    "pv": 51,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Asas Desorientadoras",
+      "Ataque Reflexo",
+      "Imprevisível como o Vento"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Daitengu",
+    "nd": "8",
+    "tipo": "Espírito Médio",
+    "pv": 222,
+    "pm": 64,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "Magias de Bruxo",
+      "Ataque Reflexo",
+      "Imprevisível como o Vento"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Celestial Jovem",
+    "nd": "10",
+    "tipo": "Espírito Grande",
+    "pv": 450,
+    "pm": 75,
+    "defesa": 35,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Lin-Wu 10º Nível"
+    ]
+  },
+  {
+    "nome": "Dragão Celestial Adulto",
+    "nd": "15",
+    "tipo": "Espírito Enorme",
+    "pv": 825,
+    "pm": 108,
+    "defesa": 50,
+    "atributos": {},
+    "habilidades": [
+      "Presença Celestial",
+      "Viagem Planar",
+      "Magias 15º Nível"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Dragão Celestial Venerável",
+    "nd": "20",
+    "tipo": "Espírito Enorme",
+    "pv": 1300,
+    "pm": 143,
+    "defesa": 60,
+    "atributos": {},
+    "habilidades": [
+      "Bombardeio Celestial",
+      "Intervenção Divina",
+      "Katana Celestial"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Arqueiro Escravo",
+    "nd": "5",
+    "tipo": "Humanoide (elfo) Médio",
+    "pv": 36,
+    "pm": 0,
+    "defesa": 24,
+    "atributos": {},
+    "habilidades": [
+      "Flecha Amiga",
+      "Minha Vida Pela Legião",
+      "Disparo Preciso"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Centurião",
+    "nd": "3",
+    "tipo": "Humanoide (minotauro) Médio",
+    "pv": 100,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Coordenar Ataque",
+      "Falange",
+      "Ordens"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Centurião de Elite",
+    "nd": "7",
+    "tipo": "Humanoide (minotauro) Médio",
+    "pv": 250,
+    "pm": 0,
+    "defesa": 32,
+    "atributos": {},
+    "habilidades": [
+      "É Proibido Morrer (Concede RD)",
+      "Coordenar Ataque",
+      "Falange"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Fúria de Tauron",
+    "nd": "4",
+    "tipo": "Morto-vivo Pequeno",
+    "pv": 30,
+    "pm": 0,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Incorpóreo",
+      "Debandada Flamejante",
+      "Chamas Espectrais"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Estouro de Fúrias de Tauron",
+    "nd": "8",
+    "tipo": "Morto-vivo Médio",
+    "pv": 76,
+    "pm": 0,
+    "defesa": 30,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Debandada Flamejante"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Bando"
+  },
+  {
+    "nome": "Gladiador Táurico",
+    "nd": "10",
+    "tipo": "Humanoide (minotauro) Médio",
+    "pv": 390,
+    "pm": 0,
+    "defesa": 34,
+    "atributos": {},
+    "habilidades": [
+      "Agitar a Torcida (Ganha PV Temp)",
+      "Estilo Espetacular",
+      "Sangue e Areia"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Legionário",
+    "nd": "1",
+    "tipo": "Humanoide (minotauro) Médio",
+    "pv": 12,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Falange",
+      "Medo de Altura"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Decúria",
+    "nd": "5",
+    "tipo": "Humanoide (minotauro) Grande",
+    "pv": 60,
+    "pm": 0,
+    "defesa": 22,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Disciplina Militar",
+      "Falange"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Bando"
+  },
+  {
+    "nome": "Legionário Insano",
+    "nd": "8",
+    "tipo": "Humanoide (minotauro) Médio",
+    "pv": 80,
+    "pm": 0,
+    "defesa": 30,
+    "atributos": {},
+    "habilidades": [
+      "Desapego à Vida",
+      "Olhar Desesperador",
+      "Retribuição Ensandecida"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Minauro Arcanista",
+    "nd": "3",
+    "tipo": "Humanoide Médio",
+    "pv": 64,
+    "pm": 34,
+    "defesa": 17,
+    "atributos": {},
+    "habilidades": [],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Mago 5º Nível"
+    ]
+  },
+  {
+    "nome": "Minauro Ladino",
+    "nd": "6",
+    "tipo": "Humanoide Médio",
+    "pv": 147,
+    "pm": 0,
+    "defesa": 25,
+    "atributos": {},
+    "habilidades": [
+      "Bombardeiro Veloz",
+      "Fuga Formidável",
+      "Mãos Leves",
+      "Pirueta Defensiva"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Governador Corrupto",
+    "nd": "6",
+    "tipo": "Humanoide (minotauro) Médio",
+    "pv": 122,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Como Ousa? (Anula ação)",
+      "Deliberação Desnorteante",
+      "Guarda Pessoal",
+      "Proteja-me!"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Cão de Kally",
+    "nd": "2",
+    "tipo": "Monstro Médio",
+    "pv": 21,
+    "pm": 0,
+    "defesa": 18,
+    "atributos": {},
+    "habilidades": [
+      "Sopro de Fogo",
+      "Derrubar",
+      "Parceiro (Fortão)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Enxame Larval",
+    "nd": "1",
+    "tipo": "Monstro (kobold) Médio",
+    "pv": 30,
+    "pm": 0,
+    "defesa": 16,
+    "atributos": {},
+    "habilidades": [
+      "Enxame",
+      "Distração",
+      "Entrar nas Roupas"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Enxame"
+  },
+  {
+    "nome": "Kobold Patrulheiro",
+    "nd": "1/2",
+    "tipo": "Monstro Pequeno",
+    "pv": 6,
+    "pm": 0,
+    "defesa": 14,
+    "atributos": {},
+    "habilidades": [
+      "Peste Oportunista"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kobold Veterano",
+    "nd": "2",
+    "tipo": "Monstro Pequeno",
+    "pv": 13,
+    "pm": 0,
+    "defesa": 19,
+    "atributos": {},
+    "habilidades": [
+      "Muito Já Apanhei (Ignora primeiro dano)",
+      "Peste Oportunista"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Patrulha Kobold",
+    "nd": "4",
+    "tipo": "Monstro Médio",
+    "pv": 30,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Bando",
+      "Peste Oportunista"
+    ],
+    "fonte": "Ameaças de Arton",
+    "papel": "Bando"
+  },
+  {
+    "nome": "Kobold Bruto",
+    "nd": "4",
+    "tipo": "Monstro Grande",
+    "pv": 120,
+    "pm": 0,
+    "defesa": 23,
+    "atributos": {},
+    "habilidades": [
+      "Escamas de Kally (Dano pela metade)",
+      "Peste Oportunista",
+      "Cabecinha (Fraqueza)"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kobold Explosivo",
+    "nd": "1",
+    "tipo": "Monstro Pequeno",
+    "pv": 9,
+    "pm": 0,
+    "defesa": 15,
+    "atributos": {},
+    "habilidades": [
+      "Detonação Final (Explode ao morrer)",
+      "Peste Oportunista"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Kobold Xamã",
+    "nd": "3",
+    "tipo": "Monstro Pequeno",
+    "pv": 69,
+    "pm": 15,
+    "defesa": 20,
+    "atributos": {},
+    "habilidades": [
+      "Aura de Medo",
+      "Símbolo Sagrado Energizado"
+    ],
+    "fonte": "Ameaças de Arton",
+    "magias": [
+      "Kally 3º Nível"
+    ]
+  },
+  {
+    "nome": "Kobold-Mãe",
+    "nd": "12",
+    "tipo": "Monstro Grande",
+    "pv": 550,
+    "pm": 0,
+    "defesa": 41,
+    "atributos": {},
+    "habilidades": [
+      "Canção de Ninar (Dano Psíquico)",
+      "Mãe é Sagrado",
+      "Ovos (Invoca ninhadas)",
+      "Protejam a Mamãe"
+    ],
+    "fonte": "Ameaças de Arton"
+  },
+  {
+    "nome": "Vagalhão Kobold",
+    "nd": "17",
+    "tipo": "Evento/Enxame Colossal",
+    "pv": "Especial",
+    "pm": 0,
+    "defesa": 50,
+    "atributos": {},
+    "habilidades": [
+      "Engolfar (12d12 dano)",
+      "Roubar Itens Mágicos",
+      "Frenesi Selvagem (Dura 1d8+6 rodadas)"
+    ],
+    "fonte": "Ameaças de Arton"
+  }
+]

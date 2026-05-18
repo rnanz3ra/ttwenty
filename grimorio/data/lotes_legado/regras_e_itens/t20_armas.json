@@ -1,0 +1,93 @@
+{
+    "armas": {
+        "passos_dano": [
+            "1",
+            "1d2",
+            "1d3",
+            "1d4",
+            "1d6",
+            "1d8",
+            "1d10",
+            "1d12",
+            "2d6",
+            "2d8",
+            "2d10",
+            "2d12",
+            "4d10",
+            "4d12"
+        ],
+        "lista": [
+            {
+                "nome": "Adaga",
+                "preco": 2,
+                "dano": "1d4",
+                "critico": "19",
+                "alcance": "Curto",
+                "tipo": "P",
+                "espaco": 1,
+                "especial": "Ágil, pode usar Des no ataque"
+            },
+            {
+                "nome": "Arco Curto",
+                "preco": 30,
+                "dano": "1d6",
+                "critico": "x3",
+                "alcance": "Médio",
+                "tipo": "P",
+                "espaco": 2
+            },
+            {
+                "nome": "Espada Longa",
+                "preco": 15,
+                "dano": "1d8",
+                "critico": "19",
+                "tipo": "C",
+                "espaco": 1
+            },
+            {
+                "nome": "Machado de Guerra",
+                "preco": 20,
+                "dano": "1d12",
+                "critico": "x3",
+                "tipo": "C",
+                "espaco": 2
+            },
+            {
+                "nome": "Pistola",
+                "preco": 250,
+                "dano": "2d6",
+                "critico": "19/x3",
+                "alcance": "Curto",
+                "tipo": "P",
+                "espaco": 1,
+                "especial": "Fogo, recarga padrão"
+            },
+            {
+                "nome": "Espada Bastarda",
+                "preco": 35,
+                "dano": "1d10",
+                "critico": "19",
+                "tipo": "C",
+                "espaco": 1,
+                "especial": "Exótica, Adaptável (1d12 se 2 mãos)"
+            }
+        ],
+        "municoes": [
+            {
+                "nome": "Balas (20)",
+                "preco": 20,
+                "espaco": 1
+            },
+            {
+                "nome": "Flechas (20)",
+                "preco": 1,
+                "espaco": 1
+            },
+            {
+                "nome": "Virotes (20)",
+                "preco": 2,
+                "espaco": 1
+            }
+        ]
+    }
+}

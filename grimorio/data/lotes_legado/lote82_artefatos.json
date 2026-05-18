@@ -1,0 +1,39 @@
+{
+    "artefatos": [
+        {
+            "nome": "Baralho do Caos",
+            "mecanica": "Sacar 1 a 4 cartas. Efeitos instantâneos.",
+            "cartas": [
+                {
+                    "nome": "Fogo",
+                    "efeito": "Ressuscita com PV/PM cheios se morrer."
+                },
+                {
+                    "nome": "Martelo",
+                    "efeito": "Destrói todos os itens mágicos do portador."
+                },
+                {
+                    "nome": "Vazio",
+                    "efeito": "Sua alma deixa o corpo (coma)."
+                },
+                {
+                    "nome": "Gema",
+                    "efeito": "Recebe 50.000 T$ em joias."
+                },
+                {
+                    "nome": "Cavaleiro",
+                    "efeito": "Um aliado ND 10 aparece para te servir."
+                }
+            ]
+        },
+        {
+            "nome": "Joia da Alma",
+            "beneficio": "+3 Inteligência. Magias arcanas custam 0 PM (aprimoramentos pagos).",
+            "maldicao": "Teste Vontade diário (CD 25+1/dia) ou vira NPC."
+        },
+        {
+            "nome": "Rubis da Virtude",
+            "beneficio": "Cada rubi concede +1 Nível de Classe, RD 2 e +1 em resistências."
+        }
+    ]
+}

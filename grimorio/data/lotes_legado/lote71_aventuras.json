@@ -1,0 +1,51 @@
+{
+    "tomo": "Ferramentas do Mestre",
+    "secao": "Estrutura de Aventura",
+    "fases": [
+        {
+            "fase": 1,
+            "nome": "Normalidade",
+            "desc": "Introdução à rotina dos heróis sem perigo imediato."
+        },
+        {
+            "fase": 2,
+            "nome": "Motivação",
+            "desc": "O chamado à aventura (lucro, altruísmo ou sobrevivência)."
+        },
+        {
+            "fase": 3,
+            "nome": "Vitória Parcial",
+            "desc": "Primeiro desafio. Heróis vencem e ganham confiança."
+        },
+        {
+            "fase": 4,
+            "nome": "Informação",
+            "desc": "Descoberta de pistas ou ganchos para o vilão principal."
+        },
+        {
+            "fase": 5,
+            "nome": "Derrota Parcial",
+            "desc": "Revés na história. A ameaça é maior que o esperado."
+        },
+        {
+            "fase": 6,
+            "nome": "Condiciones de Vitória",
+            "desc": "Investigação sobre a fraqueza do vilão ou obtenção de recursos."
+        },
+        {
+            "fase": 7,
+            "nome": "Vitória Total",
+            "desc": "O Clímax. Confronto final onde o destino é decidido."
+        },
+        {
+            "fase": 8,
+            "nome": "Resolução",
+            "desc": "Recompensas, ganchos para a próxima aventura e descanso."
+        }
+    ],
+    "tipos_de_cena": {
+        "acao": "Foco em mecânicas, rodadas e perigo físico.",
+        "exploração": "Interação com o ambiente, enigmas e busca por pistas.",
+        "interpretação": "Foco no roleplay, diálogos e desenvolvimento emocional."
+    }
+}

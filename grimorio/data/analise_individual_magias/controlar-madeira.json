@@ -1,0 +1,11 @@
+{
+  "id": "controlar-madeira",
+  "name": "Controlar Madeira",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "cena",
+  "description": "Você molda, retorce, altera ou repele  madeira. Se lançar esta magia num objeto de uma criatura involuntária, ela  tem direito a um teste de Vontade para  anulá-la. Ao lançar a magia, escolha. Fortalecer: deixa o alvo mais resistente.  Armas têm seu dano aumentado em  um passo. Escudos têm seu bônus de  Defesa aumentado em +2 (isso é uma  melhoria no item, portanto é cumulativa com outras magias). Esses e outros itens de madeira recebem +5 na  RD e dobram seus PV.  Modelar: muda a forma do objeto (Vontade anula)."
+}

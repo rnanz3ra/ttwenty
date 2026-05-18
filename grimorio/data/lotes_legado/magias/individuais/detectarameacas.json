@@ -1,0 +1,11 @@
+{
+  "id": "detectar-ameaças",
+  "name": "Detectar Ameaças",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Adivinhação",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: pessoal;  Área: esfera com 18m de raio; Duração: cena, até ser descarregada.  Você recebe uma intuição aguçada sobre perigos ao seu redor. Quando uma  criatura hostil ou armadilha entra na  área do efeito, você faz um teste de  Percepção (CD determinada pelo mestre de acordo com a situação). Se passar, sabe a origem (criatura ou armadilha), direção e distância do perigo. Se  falhar, sabe apenas que o perigo existe. +1 PM: você descobre também a raça  ou espéccie do alvo."
+}

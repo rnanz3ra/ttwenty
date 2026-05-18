@@ -1,0 +1,12 @@
+{
+  "id": "capítulo-quatro-teia",
+  "name": "Capítulo Quatro Teia",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Convocação",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "cena",
+  "description": "Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer  criatura na área que falhar na resistência fica enredada. Uma vítima pode se  libertar com uma ação padrão e um  teste de Acrobacia ou Atletismo. A  área ocupada por Teia é terreno difícil. A Teia é inflamável. Qualquer ataque  que cause dano de fogo destrói as teias  por onde passar, libertando as criaturas  enredadas mas deixando-as em chamas. +1 PM: além do normal, criaturas que  falhem na resistência também ficam enredadas.",
+  "resistance": "Reflexos anula"
+}

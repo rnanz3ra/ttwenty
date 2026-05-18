@@ -1,0 +1,12 @@
+{
+  "id": "controlar-terra",
+  "name": "Controlar Terra",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "longo;  Área: 9 cubos com 1,5m de lado;  Duração: instantânea; Resistência:  veja texto. Você manipula a densidade e a forma de  toda terra, pedra, lama, argila ou areia  na área. Ao lançar a magia, escolha.",
+  "duration": "instantânea",
+  "description": "Você manipula a densidade e a forma de  toda terra, pedra, lama, argila ou areia  na área. Ao lançar a magia, escolha. Amolecer: se afetar o teto, uma coluna  ou suporte, provoca um desabamento que causa 10d6 pontos de dano de  impacto às criaturas na área (Reflexos  reduz à metade). Se afetar um piso de  terra ou pedra, cria terreno difícil de  areia ou argila, respectivamente.  Modelar: pode usar pedra ou argila para  criar um ou mais objetos simples de tamanho Enorme ou menor (sem mecannismos) e de até 10kg.",
+  "resistance": "veja texto"
+}

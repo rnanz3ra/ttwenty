@@ -1,0 +1,11 @@
+{
+  "id": "erupção-glacial",
+  "name": "Erupção Glacial",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: médio;  Área: quadrado de 6m de lado; Duração: instantânea; Resistência: Reflexos parcial. Estacas de gelo irrompem do chão.  Criaturas na área sofrem 4d6 de dano  de corte, 4d6 de dano de frio e ficam  caídas. Passar no teste de Reflexos evita o dano de corte e a queda. As estacas duram pela cena, o que torna a área  afetada terreno difícil, e concedem cobertura leve para criaturas dentro da  área ou atrás dela. As estacas são destruídas caso sofram qualquer dano de fogo."
+}

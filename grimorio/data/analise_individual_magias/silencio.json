@@ -1,0 +1,11 @@
+{
+  "id": "silêncio",
+  "name": "Silêncio",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Ilusão",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: médio;  Área: esfera com 6m de raio; Duração: sustentada.  Um silêncio sepulcral recai sobre a  área e nenhum som é produzido nela.  Enquanto estiverem na área, todas as  criaturas ficam surdas. Além disso,  como lançar magias exige palavras mágicas, normalmente nenhuma magia  pode ser lançada dentro da área. +1 PM: muda a área para alvo de 1 objeto. Em vez do normal, o alvo emana  uma área de silêncio com 3m de raio.  Se lançar a magia num objeto de uma  criaturra involuntária, ela tem direito a um teste de Vontade."
+}

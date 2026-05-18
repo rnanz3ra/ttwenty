@@ -1,0 +1,11 @@
+{
+  "id": "telecinesia",
+  "name": "Telecinesia",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "sustentada  ou instantânea (veja texto)",
+  "description": "Você move objetos ou criaturas se concentrando. Ao lançar a magia, escolha  uma das opções a seguir. Força Contínua: você move uma criatura Média ou menor, ou objeto de até  10 espaços, a até 6m por rodada. Uma  criatura pode anular o efeito sobre ela,  ou sobre um objeto que possua, passando num teste de Vontade. O alvo  pode ser movido em qualquer direção  dentro do alcance. Ele cai no chão se  sair do alcance ou a magia terminar.  Duração: sustentada. Empurrão Violento: nesta versão a estrutura de objetos pode ser quebrada."
+}

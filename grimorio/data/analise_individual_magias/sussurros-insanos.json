@@ -1,0 +1,12 @@
+{
+  "id": "sussurros-insanos",
+  "name": "Sussurros Insanos",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "cena",
+  "description": "Você murmura palavras desconexas  que afetam a mente do alvo. O alvo  fica confuso. +2 PM: aumenta o número de alvos  em +1.  +3 PM: muda o alvo para 1 criatura.  +12 PM: muda o alvo para criaturas  escolhidas. Requer 5º círculo.",
+  "resistance": "Vontade anula"
+}

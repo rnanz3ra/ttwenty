@@ -1,0 +1,270 @@
+{
+  "_meta": {
+    "versao": "1.0.0",
+    "fonte": "Tormenta 20 — Edição Jogo do Ano",
+    "descricao": "Motor do jogo: atributos, níveis, perícias, tamanhos e fórmulas derivadas"
+  },
+
+  "attributes": {
+    "lista": ["Força", "Destreza", "Constituição", "Inteligência", "Sabedoria", "Carisma"],
+    "abreviacoes": { "Força": "FOR", "Destreza": "DES", "Constituição": "CON", "Inteligência": "INT", "Sabedoria": "SAB", "Carisma": "CAR" },
+    "descricoes": {
+      "Força":        "Poder físico, capacidade de carregar peso e realizar trabalho braçal.",
+      "Destreza":     "Agilidade, reflexos, coordenação e equilíbrio.",
+      "Constituição": "Saúde, resistência e força vital.",
+      "Inteligência": "Raciocínio, memória, conhecimento e capacidade de aprendizado.",
+      "Sabedoria":    "Percepção, intuição, discernimento e força de vontade.",
+      "Carisma":      "Força de personalidade, presença, liderança e capacidade de influenciar."
+    },
+    "tabela_modificadores": [
+      { "valor": 1,  "modificador": -5 },
+      { "valor": 2,  "modificador": -4 },
+      { "valor": 3,  "modificador": -4 },
+      { "valor": 4,  "modificador": -3 },
+      { "valor": 5,  "modificador": -3 },
+      { "valor": 6,  "modificador": -2 },
+      { "valor": 7,  "modificador": -2 },
+      { "valor": 8,  "modificador": -1 },
+      { "valor": 9,  "modificador": -1 },
+      { "valor": 10, "modificador":  0 },
+      { "valor": 11, "modificador":  0 },
+      { "valor": 12, "modificador":  1 },
+      { "valor": 13, "modificador":  1 },
+      { "valor": 14, "modificador":  2 },
+      { "valor": 15, "modificador":  2 },
+      { "valor": 16, "modificador":  3 },
+      { "valor": 17, "modificador":  3 },
+      { "valor": 18, "modificador":  4 },
+      { "valor": 19, "modificador":  4 },
+      { "valor": 20, "modificador":  5 },
+      { "valor": 21, "modificador":  5 },
+      { "valor": 22, "modificador":  6 },
+      { "valor": 23, "modificador":  6 },
+      { "valor": 24, "modificador":  7 },
+      { "valor": 25, "modificador":  7 },
+      { "valor": 26, "modificador":  8 },
+      { "valor": 27, "modificador":  8 },
+      { "valor": 28, "modificador":  9 },
+      { "valor": 29, "modificador":  9 },
+      { "valor": 30, "modificador": 10 }
+    ],
+    "custo_de_compra": {
+      "descricao": "Custo em pontos para comprar atributos durante a criação (total de 10 pontos).",
+      "tabela": [
+        { "valor": 8,  "custo": 0 },
+        { "valor": 9,  "custo": 1 },
+        { "valor": 10, "custo": 2 },
+        { "valor": 11, "custo": 3 },
+        { "valor": 12, "custo": 4 },
+        { "valor": 13, "custo": 5 },
+        { "valor": 14, "custo": 6 },
+        { "valor": 15, "custo": 8 }
+      ]
+    }
+  },
+
+  "level_progression": [
+    { "nivel": 1,  "xp_acumulado": 0,     "xp_para_proximo": 1000,  "bonus_pericia": 0 },
+    { "nivel": 2,  "xp_acumulado": 1000,  "xp_para_proximo": 1000,  "bonus_pericia": 0 },
+    { "nivel": 3,  "xp_acumulado": 2000,  "xp_para_proximo": 1500,  "bonus_pericia": 0 },
+    { "nivel": 4,  "xp_acumulado": 3500,  "xp_para_proximo": 2000,  "bonus_pericia": 1 },
+    { "nivel": 5,  "xp_acumulado": 5500,  "xp_para_proximo": 2500,  "bonus_pericia": 1 },
+    { "nivel": 6,  "xp_acumulado": 8000,  "xp_para_proximo": 3000,  "bonus_pericia": 1 },
+    { "nivel": 7,  "xp_acumulado": 11000, "xp_para_proximo": 3500,  "bonus_pericia": 2 },
+    { "nivel": 8,  "xp_acumulado": 14500, "xp_para_proximo": 4000,  "bonus_pericia": 2 },
+    { "nivel": 9,  "xp_acumulado": 18500, "xp_para_proximo": 4500,  "bonus_pericia": 2 },
+    { "nivel": 10, "xp_acumulado": 23000, "xp_para_proximo": 5000,  "bonus_pericia": 3 },
+    { "nivel": 11, "xp_acumulado": 28000, "xp_para_proximo": 5500,  "bonus_pericia": 3 },
+    { "nivel": 12, "xp_acumulado": 33500, "xp_para_proximo": 6000,  "bonus_pericia": 3 },
+    { "nivel": 13, "xp_acumulado": 39500, "xp_para_proximo": 6500,  "bonus_pericia": 4 },
+    { "nivel": 14, "xp_acumulado": 46000, "xp_para_proximo": 7000,  "bonus_pericia": 4 },
+    { "nivel": 15, "xp_acumulado": 53000, "xp_para_proximo": 7500,  "bonus_pericia": 4 },
+    { "nivel": 16, "xp_acumulado": 60500, "xp_para_proximo": 8000,  "bonus_pericia": 5 },
+    { "nivel": 17, "xp_acumulado": 68500, "xp_para_proximo": 8500,  "bonus_pericia": 5 },
+    { "nivel": 18, "xp_acumulado": 77000, "xp_para_proximo": 9000,  "bonus_pericia": 5 },
+    { "nivel": 19, "xp_acumulado": 86000, "xp_para_proximo": 9500,  "bonus_pericia": 6 },
+    { "nivel": 20, "xp_acumulado": 95500, "xp_para_proximo": null,  "bonus_pericia": 6 }
+  ],
+
+  "skills": [
+    { "id": "acrobacia",        "nome": "Acrobacia",        "atributo": "DES", "somente_treinada": false, "penalidade_armadura": true,  "descricao": "Realizar feitos acrobáticos, se equilibrar, cair sem se machucar e se espremer por espaços apertados." },
+    { "id": "adestramento",     "nome": "Adestramento",     "atributo": "CAR", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Acalmar, treinar e controlar animais. Também usada para montar animais exóticos." },
+    { "id": "atletismo",        "nome": "Atletismo",        "atributo": "FOR", "somente_treinada": false, "penalidade_armadura": true,  "descricao": "Escalar, nadar, correr e saltar." },
+    { "id": "atuacao",          "nome": "Atuação",          "atributo": "CAR", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Apresentações artísticas: música, dança, oratória e teatro." },
+    { "id": "cavalgar",         "nome": "Cavalgar",         "atributo": "DES", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Montar e controlar montarias em situações comuns e perigosas." },
+    { "id": "conhecimento",     "nome": "Conhecimento",     "atributo": "INT", "somente_treinada": true,  "penalidade_armadura": false, "descricao": "Recordar informações sobre história, geografia, natureza, religião, nobreza, magia ou o mundo em geral." },
+    { "id": "cura",             "nome": "Cura",             "atributo": "SAB", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Prestar primeiros socorros, tratar ferimentos e aplicar tratamentos médicos." },
+    { "id": "diplomacia",       "nome": "Diplomacia",       "atributo": "CAR", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Negociar, persuadir e melhorar a atitude de criaturas inteligentes." },
+    { "id": "enganacao",        "nome": "Enganação",        "atributo": "CAR", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Mentir, disfarçar-se e fintar em combate." },
+    { "id": "fortitude",        "nome": "Fortitude",        "atributo": "CON", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Resistir a venenos, doenças, fadiga, calor e fome." },
+    { "id": "furtividade",      "nome": "Furtividade",      "atributo": "DES", "somente_treinada": false, "penalidade_armadura": true,  "descricao": "Mover-se silenciosamente e se esconder de observadores." },
+    { "id": "guerra",           "nome": "Guerra",           "atributo": "INT", "somente_treinada": true,  "penalidade_armadura": false, "descricao": "Tática militar, estratégia, reconhecer formações e prever movimentos inimigos." },
+    { "id": "iniciativa",       "nome": "Iniciativa",       "atributo": "DES", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Determinar a ordem de ação em combate." },
+    { "id": "intimidacao",      "nome": "Intimidação",      "atributo": "CAR", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Assustar, intimidar e coagir criaturas por meio de ameaças." },
+    { "id": "intuicao",         "nome": "Intuição",         "atributo": "SAB", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Detectar mentiras, pressentir perigo e avaliar intenções." },
+    { "id": "investigacao",     "nome": "Investigação",     "atributo": "INT", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Encontrar pistas, analisar cenas e deduzir informações ocultas." },
+    { "id": "jogatina",         "nome": "Jogatina",         "atributo": "CAR", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Jogar jogos de azar e manipular dados e cartas." },
+    { "id": "ladinagem",        "nome": "Ladinagem",        "atributo": "DES", "somente_treinada": true,  "penalidade_armadura": false, "descricao": "Destravar fechaduras, desabilitar armadilhas e fazer prestidigitação." },
+    { "id": "luta",             "nome": "Luta",             "atributo": "FOR", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Atacar em combate corpo a corpo." },
+    { "id": "malandragem",      "nome": "Malandragem",      "atributo": "CAR", "somente_treinada": true,  "penalidade_armadura": false, "descricao": "Navegar pelo submundo, contatar criminosos e reconhecer atividades ilícitas." },
+    { "id": "misticismo",       "nome": "Misticismo",       "atributo": "INT", "somente_treinada": true,  "penalidade_armadura": false, "descricao": "Lançar magias arcanas, identificar efeitos mágicos e contramágicas." },
+    { "id": "navegacao",        "nome": "Navegação",        "atributo": "SAB", "somente_treinada": true,  "penalidade_armadura": false, "descricao": "Pilotar embarcações, ler estrelas e traçar rotas marítimas." },
+    { "id": "nobreza",          "nome": "Nobreza",          "atributo": "INT", "somente_treinada": true,  "penalidade_armadura": false, "descricao": "Conhecer etiqueta, genealogia, heráldica e política da aristocracia." },
+    { "id": "oficio",           "nome": "Ofício",           "atributo": "INT", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Praticar uma profissão artesanal ou intelectual (ferreiro, alquimista, cozinheiro, etc.)." },
+    { "id": "percepcao",        "nome": "Percepção",        "atributo": "SAB", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Notar detalhes, ouvir sons distantes e detectar criaturas escondidas." },
+    { "id": "pontaria",         "nome": "Pontaria",         "atributo": "DES", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Atacar à distância com armas de arremesso, arcos ou bestas." },
+    { "id": "reflexos",         "nome": "Reflexos",         "atributo": "DES", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Evitar explosões, armadilhas e efeitos de área. Resistência base contra efeitos de área." },
+    { "id": "religiao",         "nome": "Religião",         "atributo": "SAB", "somente_treinada": true,  "penalidade_armadura": false, "descricao": "Conhecer divindades, rituais sagrados, símbolos e escrituras." },
+    { "id": "sobrevivencia",    "nome": "Sobrevivência",    "atributo": "SAB", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Rastrear, orientar-se, caçar, prever tempo e sobreviver em ambientes hostis." },
+    { "id": "vontade",          "nome": "Vontade",          "atributo": "SAB", "somente_treinada": false, "penalidade_armadura": false, "descricao": "Resistir a efeitos mentais, ilusões, encantamentos e charmes." }
+  ],
+
+  "sizes": [
+    {
+      "id": "minusculo",
+      "nome": "Minúsculo",
+      "espaco_ocupado": "0,5m x 0,5m",
+      "alcance": "0,5m",
+      "mod_furtividade": 8,
+      "mod_manobra": -8,
+      "passos_dano_abaixo": 2,
+      "exemplos": "Rato, sapo, pombos"
+    },
+    {
+      "id": "pequeno",
+      "nome": "Pequeno",
+      "espaco_ocupado": "1,5m x 1,5m",
+      "alcance": "1,5m",
+      "mod_furtividade": 4,
+      "mod_manobra": -4,
+      "passos_dano_abaixo": 1,
+      "exemplos": "Goblin, halfling, gnomo"
+    },
+    {
+      "id": "medio",
+      "nome": "Médio",
+      "espaco_ocupado": "1,5m x 1,5m",
+      "alcance": "1,5m",
+      "mod_furtividade": 0,
+      "mod_manobra": 0,
+      "passos_dano_abaixo": 0,
+      "exemplos": "Humano, elfo, anão"
+    },
+    {
+      "id": "grande",
+      "nome": "Grande",
+      "espaco_ocupado": "3m x 3m",
+      "alcance": "3m",
+      "mod_furtividade": -4,
+      "mod_manobra": 4,
+      "passos_dano_abaixo": -1,
+      "exemplos": "Ogro, centauro, grifo"
+    },
+    {
+      "id": "enorme",
+      "nome": "Enorme",
+      "espaco_ocupado": "4,5m x 4,5m",
+      "alcance": "4,5m",
+      "mod_furtividade": -8,
+      "mod_manobra": 8,
+      "passos_dano_abaixo": -2,
+      "exemplos": "Gigante, baleia, dragão jovem"
+    },
+    {
+      "id": "colossal",
+      "nome": "Colossal",
+      "espaco_ocupado": "6m x 6m ou mais",
+      "alcance": "6m",
+      "mod_furtividade": -12,
+      "mod_manobra": 12,
+      "passos_dano_abaixo": -3,
+      "exemplos": "Dragão ancião, kraken, titã"
+    }
+  ],
+
+  "damage_steps": [
+    "1", "1d2", "1d3", "1d4", "1d6", "1d8", "1d10", "1d12", "2d6", "2d8", "2d10", "2d12", "4d8", "4d10", "4d12", "8d10"
+  ],
+
+  "derived_stats": {
+    "defesa": {
+      "formula": "10 + modificador_DES + bônus_armadura + bônus_escudo + outros_bônus",
+      "notas": "Quando desprevenido, não soma o modificador de DES. Máximo DES determinado pela armadura."
+    },
+    "pontos_de_vida": {
+      "formula_nivel_1": "pv_inicial_da_classe + modificador_CON",
+      "formula_niveis_seguintes": "pv_por_nivel_da_classe + modificador_CON (mínimo 1 por nível)",
+      "notas": "PV mínimo é sempre 1, mesmo com CON negativa."
+    },
+    "pontos_de_mana": {
+      "formula_nivel_1": "pm_por_nivel_da_classe + modificador_atributo_chave",
+      "formula_niveis_seguintes": "pm_por_nivel_da_classe + modificador_atributo_chave por nível",
+      "notas": "Atributo-chave varia por classe. Soma o bônus a cada nível."
+    },
+    "cd_magia": {
+      "formula": "10 + círculo_da_magia + modificador_atributo_chave",
+      "nota": "Atributo-chave: INT para arcanas, SAB para divinas."
+    }
+  },
+
+  "rest_and_recovery": {
+    "descanso_curto": {
+      "tempo": "8 horas de sono",
+      "efeito_pv": "Recupera todos os PV",
+      "efeito_pm": "Recupera todos os PM",
+      "condicoes": "Requer área segura e relativamente confortável"
+    },
+    "descanso_longo": {
+      "tempo": "1 semana",
+      "efeito": "Remove condições permanentes e recuperação total"
+    },
+    "recuperacao_em_cena": {
+      "descricao": "Ao final de uma cena de combate (ou após 10 minutos de descanso), cada personagem recupera PV e PM conforme a tabela de descanso da classe."
+    }
+  },
+
+  "actions": {
+    "padrao": {
+      "nome": "Ação Padrão",
+      "descricao": "A principal ação do turno. Usada para atacar, lançar magias ou usar habilidades.",
+      "exemplos": ["Atacar", "Lançar uma magia", "Usar uma habilidade de classe", "Usar um item"]
+    },
+    "movimento": {
+      "nome": "Ação de Movimento",
+      "descricao": "Uma ação secundária. Usada para se mover ou realizar ações menores.",
+      "exemplos": ["Mover-se até seu deslocamento", "Sacar ou guardar uma arma", "Abrir uma porta", "Usar habilidades de movimento"]
+    },
+    "livre": {
+      "nome": "Ação Livre",
+      "descricao": "Uma ação de custo mínimo. Pode-se realizar várias por turno (a critério do mestre).",
+      "exemplos": ["Falar uma frase", "Soltar um objeto"]
+    },
+    "completa": {
+      "nome": "Ação Completa",
+      "descricao": "Consome a ação padrão e a de movimento do turno.",
+      "exemplos": ["Correr (duplo deslocamento)", "Usar habilidades que requerem concentração total"]
+    },
+    "reacao": {
+      "nome": "Reação",
+      "descricao": "Uma ação especial realizada fora do turno do personagem, em resposta a um gatilho.",
+      "exemplos": ["Ataque de oportunidade", "Usar habilidades específicas como Aparar"]
+    }
+  },
+
+  "combat_maneuvers": [
+    { "id": "agarrar",       "nome": "Agarrar",        "teste": "Luta vs Luta/Acrobacia", "efeito": "Alvo fica agarrado. Manter agarrado custa ação de movimento." },
+    { "id": "derrubar",      "nome": "Derrubar",       "teste": "Luta vs Luta/Acrobacia", "efeito": "Alvo fica caído." },
+    { "id": "desarmar",      "nome": "Desarmar",       "teste": "Luta vs Luta",           "efeito": "Alvo perde a arma." },
+    { "id": "empurrar",      "nome": "Empurrar",       "teste": "Luta vs Luta/Acrobacia", "efeito": "Alvo é empurrado até 1,5m." },
+    { "id": "separar",       "nome": "Separar",        "teste": "Especial",               "efeito": "Ataque focado em um objeto empunhado pelo alvo." },
+    { "id": "fintar",        "nome": "Fintar",         "teste": "Enganação vs Intuição",   "efeito": "Alvo fica desprevenido contra seu próximo ataque." },
+    { "id": "investida",     "nome": "Investida",      "teste": "Especial",               "efeito": "+2 no ataque, -2 na Defesa. Move ao menos 3m em linha reta." }
+  ],
+
+  "critical_hits": {
+    "ameaca": "Resultado natural de 20 (ou margem da arma). Faz-se um segundo ataque; se acertar, é crítico.",
+    "multiplicador_padrao": 2,
+    "nota": "Crítico multiplica o dano base + bônus de força/dex. Dados de bônus (sneak attack, etc.) não são multiplicados.",
+    "fumble": "Resultado natural de 1 — sempre erra, independente de bônus."
+  }
+}

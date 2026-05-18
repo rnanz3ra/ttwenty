@@ -1,0 +1,11 @@
+{
+  "id": "sopro-da-salvação",
+  "name": "Sopro da Salvação",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "instantânea",
+  "description": "Você enche seus pulmões de luz e  energia positiva e sopra um cone de  poeira reluzente. O sopro afeta apenas  seus aliados na área, curando 2d8+4  pontos de vida e removendo uma das  seguintes condições de todos os alvos:  abalado, atordoado, apavorado, alquebrado, cego, confuso, debilitado, enfeitiçado, enjoado, esmorecido, exausto,  fascinado, fatigado, fraco, frustrado,  lento, paralisado, pasmo e surdo. +2 PM: aumenta a cura em +1d8+2. +4 PM: além do normal, se um aliado  estiver com PV a menos de 0, ele estabiliza."
+}

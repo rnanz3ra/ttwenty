@@ -1,0 +1,11 @@
+{
+  "id": "conjurar--monstro",
+  "name": "Conjurar  Monstro",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Convocação",
+  "execution": "completa;",
+  "range": "curto;",
+  "duration": "sustentada",
+  "description": "Você conjura um monstro Pequeno  que ataca seus inimigos. Você escolhe a aparência do monstro e o tipo de  dano que ele pode causar, entre corte, impacto e perfuração. No entanto, ele não é uma criatura real, e sim   uma criatura feita de energia. Se for  destruído, ou quando a magia acaba,  desaparece com um brilho, sem deixar nada para trás. Você só pode ter  um monstro conjurado por esta magia por vez. O monstro surge em um espaço desocupado a sua escolha dentro do alcance e age"
+}

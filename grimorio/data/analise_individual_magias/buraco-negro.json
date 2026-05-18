@@ -1,0 +1,12 @@
+{
+  "id": "buraco-negro",
+  "name": "Buraco Negro",
+  "circle": 5,
+  "type": "Universal",
+  "school": "Convocação",
+  "execution": "completa;",
+  "range": "longo;",
+  "duration": "3 rodadas",
+  "description": "Esta magia cria um vácuo capaz de sugar tudo nas proximidades. Escolha  um espaço desocupado para o buraco  negro. No início de cada um de seus  três turnos seguintes, todas as criaturas a até alcance longo do buraco negro, incluindo você, devem fazer um  182 Magia   teste de Fortitude. Em caso de falha,  ficam caídas e são puxadas 30m na direção do buraco. Objetos soltos também são puxados. Criaturas podem  gastar uma ação de movimento para se  segurar em algum objeto fixo, recebendo 10d6 pontos de dano de esmagamento.",
+  "resistance": "Fortitude parcial"
+}

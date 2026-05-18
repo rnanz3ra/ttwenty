@@ -1,0 +1,127 @@
+@import "tailwindcss";
+
+@theme {
+  /* Arton Official Dark Fantasy Colors */
+  --color-primary: #8B0000; /* Vermelho sangue saturado */
+  --color-accent-gold: #CBA052; /* Ouro envelhecido */
+  --color-background-light: #F3F0EC; 
+  --color-background-dark: #0D0202; /* Vinho profundo quase preto */
+  --color-surface-dark: #1F0505; /* Bordô sólido para barras e painéis */
+  --color-parchment: #E8DCC4; /* Cor de papel envelhecido físico */
+  --color-gold-aged: #A6894A; /* Dourado envelhecido para bordas de luxo */
+  
+  --color-text-main: #F3F0EC;
+  --color-text-muted: #A8A29E; 
+  --color-text-dark: #1A1A1A; /* Texto escuro para uso no pergaminho */
+
+  /* Missing border color required by SearchBar and PowersList */
+  --color-border: rgba(166, 137, 74, 0.25);
+
+  /* Fonts Premium Grimório */
+  --font-display: 'Cinzel', serif;
+  --font-serif: 'Crimson Pro', serif;
+  --font-sans: 'Montserrat', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply antialiased font-sans bg-background-light dark:bg-background-dark text-slate-900 dark:text-text-main selection:bg-primary selection:text-white min-h-screen overflow-x-hidden;
+  }
+}
+
+@layer utilities {
+  /* Desktop Parchment Texture - Agora muito mais sutil para não brigar com o texto */
+  .parchment-texture {
+    background-color: var(--color-background-dark);
+    background-image: radial-gradient(circle at 2px 2px, rgba(185, 28, 28, 0.03) 1px, transparent 0);
+    background-size: 24px 24px;
+    background-attachment: fixed;
+  }
+
+  /* Mobile Parchment Effect - Opacidade reduzida via CSS para conforto */
+  .parchment-effect {
+    position: relative;
+    background-color: var(--color-background-dark);
+  }
+  .parchment-effect::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url(https://lh3.googleusercontent.com/aida-public/AB6AXuC9JsCU4tvWqRUMHExDCeWp4CmgiCKhHuWKRXmgas9C4YclBJReZDynmwoPXdTXQBz_P_lCy32wT1yB2a6imykxpyKoUXU3XpcufFAjJJ7yo0MefiTiKODgLKqyjYrUlpGwOK4j65mCKJiF0LVU34jlNL2aOZDNjj-MrJwRfQqgWpdGAmw_etBzGuAz96mXtmdkuND98dLewIRy539Rqc1Ad4lXW-f2WX4--DLQti095YXagiCeGT-Unu86TNiZuKFMgVOvSegjheE);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    opacity: 0.05; /* Reduz drasticamente o ruído visual */
+    pointer-events: none;
+    z-index: 0;
+  }
+  
+  .gold-border {
+    border: 1px solid rgba(203, 160, 82, 0.25);
+  }
+  
+  .hero-gradient {
+    background: linear-gradient(180deg, rgba(24, 21, 20, 0) 0%, rgba(24, 21, 20, 0.95) 100%);
+  }
+
+  /* Mobile Blood Gradient - Menos agressivo */
+  .blood-gradient {
+    background: linear-gradient(180deg, rgba(185, 28, 28, 0) 0%, rgba(24, 21, 20, 1) 100%);
+  }
+
+  /* Material Symbols Configuration */
+  .material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .material-symbols-outlined.fill {
+    font-variation-settings: 'FILL' 1;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  /* Scrollbar interna do Modal — fina e dourada */
+  .scrollbar-blood {
+    scrollbar-width: thin;
+    scrollbar-color: #A6894A transparent;
+  }
+  .scrollbar-blood::-webkit-scrollbar {
+    width: 4px;
+  }
+  .scrollbar-blood::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scrollbar-blood::-webkit-scrollbar-thumb {
+    background: #A6894A;
+    border-radius: 10px;
+  }
+  .scrollbar-blood::-webkit-scrollbar-thumb:hover {
+    background: #D4AF37;
+  }
+}
+
+/* Custom Scrollbar - Mais sutil */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-background-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-gold-aged);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent-gold);
+}

@@ -1,0 +1,11 @@
+{
+  "id": "miragem",
+  "name": "Miragem",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Ilusão",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: longo;  Área: cubo de até 90m de lado; Duração: 1 dia; Resistência: Vontade  desacredita. Você faz um terreno parecer outro, incluindo sons e cheiros. Uma planície  pode parecer um pântano, uma floresta  pode parecer uma montanha etc. Esta  magia pode ser usada para criar armadilhas: areia movediça pode parecer  terra firme ou um precipício pode parecer um lago. Você pode alterar, incluir  e esconder estruturas dentro da área,  mas não criaturas (embora elas podem não acreditar se passarem num teste de Vontade)."
+}

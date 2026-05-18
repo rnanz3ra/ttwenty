@@ -1,0 +1,408 @@
+{
+    "lote1_tormenta_lefeu": [
+        {
+            "nome": "Alma Acorrentada",
+            "nd": "7",
+            "tipo": "Morto-vivo Médio",
+            "percepcao": 9,
+            "iniciativa": 14,
+            "sentidos": [
+                "visão no escuro"
+            ],
+            "defesa": 26,
+            "fort": 14,
+            "ref": 19,
+            "von": 8,
+            "extras": [
+                "incorpóreo"
+            ],
+            "pv": 56,
+            "pm": 0,
+            "deslocamento": "voo 9m (6q)",
+            "atributos": {
+                "for": null,
+                "des": 7,
+                "con": 2,
+                "int": 1,
+                "sab": 0,
+                "car": -2
+            },
+            "ataques": [
+                {
+                    "nome": "Toque cáustico",
+                    "bonus": 26,
+                    "dano": "2d6+10 ácido"
+                }
+            ],
+            "habilidades": [
+                {
+                    "nome": "Agarrar Oportunista",
+                    "tipo": "Livre",
+                    "descricao": "Ao acertar ataque, usa manobra agarrar (teste +28)."
+                },
+                {
+                    "nome": "Aura Cáustica",
+                    "descricao": "Início do turno, adjacentes sofrem 6d6 ácido."
+                },
+                {
+                    "nome": "Invisibilidade Rubra",
+                    "descricao": "Camuflagem total em área de Tormenta."
+                }
+            ]
+        },
+        {
+            "nome": "Bruxo da Tormenta",
+            "nd": "6",
+            "tipo": "Humanoide (humano) Médio",
+            "percepcao": 6,
+            "iniciativa": 5,
+            "defesa": 27,
+            "fort": 6,
+            "ref": 12,
+            "von": 18,
+            "pv": 142,
+            "pm": 41,
+            "deslocamento": "9m (6q)",
+            "atributos": {
+                "for": -1,
+                "des": 0,
+                "con": 2,
+                "int": 5,
+                "sab": 1,
+                "car": -2
+            },
+            "habilidades": [
+                {
+                    "nome": "Cuspir Enxame",
+                    "custo": "2 PM",
+                    "tipo": "Completa",
+                    "descricao": "Enxame de insetos rubros Médio, 4d6 ácido."
+                },
+                {
+                    "nome": "Mente Aberrante",
+                    "tipo": "Reação",
+                    "descricao": "Causa 5d6 dano psíquico em quem exigir teste de Vontade."
+                }
+            ],
+            "magias": [
+                "Névoa",
+                "Raio do Enfraquecimento",
+                "Sussurros Insanos",
+                "Velocidade"
+            ],
+            "cd_magia": 24
+        },
+        {
+            "nome": "Arquibruxo da Tormenta",
+            "nd": "14",
+            "tipo": "Monstro (lefou) Médio",
+            "pv": 486,
+            "pm": 105,
+            "defesa": 45,
+            "habilidades": [
+                "Abominar a Realidade (50% falha em ataques)",
+                "Insanidade da Tormenta 2d10 PM"
+            ],
+            "magias": [
+                "Desintegrar",
+                "Dissipar Magia",
+                "Momento de Tormenta",
+                "Seta Infalível de Talude"
+            ]
+        },
+        {
+            "nome": "Infecto",
+            "nd": "3",
+            "tipo": "Morto-vivo Médio",
+            "pv": 30,
+            "defesa": 20,
+            "rd": "5/corte",
+            "ataques": [
+                {
+                    "nome": "Mordida",
+                    "bonus": 16,
+                    "dano": "1d8+9 mais doença"
+                }
+            ],
+            "habilidades": [
+                "Doença: Infecção Escarlate",
+                "Parasitas Famintos (Ref CD 17)"
+            ]
+        },
+        {
+            "nome": "Lefeu, Veridak",
+            "nd": "8",
+            "tipo": "Monstro (lefeu) Grande",
+            "pv": 64,
+            "defesa": 34,
+            "deslocamento": "voo 36m",
+            "ataques": [
+                {
+                    "nome": "Duas lâminas",
+                    "bonus": 29,
+                    "dano": "2d6+13, 18/x3"
+                },
+                {
+                    "nome": "Duas garras",
+                    "bonus": 29,
+                    "dano": "1d6+13"
+                }
+            ]
+        },
+        {
+            "nome": "Lefeu, Morgadrel",
+            "nd": "13",
+            "tipo": "Monstro (lefeu) Enorme",
+            "pv": 670,
+            "defesa": 47,
+            "rd": 10,
+            "habilidades": [
+                "Disparar Espinhos (12d8+24 perfuração)",
+                "Jato de Ácido (8d12 ácido)"
+            ]
+        }
+    ],
+    "lote2_brutos_indomaveis": [
+        {
+            "nome": "Meio-Orc Bandoleiro",
+            "nd": "1",
+            "pv": 15,
+            "defesa": 15,
+            "ataques": [
+                {
+                    "nome": "Espada Curta",
+                    "bonus": 11,
+                    "dano": "1d6+13"
+                }
+            ],
+            "habilidades": [
+                "Ataque Furtivo +2d6"
+            ]
+        },
+        {
+            "nome": "Orc Rei",
+            "nd": "5",
+            "pv": 210,
+            "defesa": 25,
+            "habilidades": [
+                "Aura de Fúria (+2 Defesa/Dano para aliados)",
+                "Estocada Atroz (Sangrando)"
+            ],
+            "ataques": [
+                {
+                    "nome": "Lança x2",
+                    "bonus": 18,
+                    "dano": "2d8+12, x3"
+                }
+            ]
+        },
+        {
+            "nome": "Orc Mutante Superior",
+            "nd": "10",
+            "pv": 372,
+            "defesa": 34,
+            "ataques": [
+                {
+                    "nome": "Tacape",
+                    "bonus": 29,
+                    "dano": "1d12+18"
+                }
+            ],
+            "habilidades": [
+                "3 Mutações (Cabeça Adicional, Braços Longos, etc)"
+            ]
+        },
+        {
+            "nome": "Orc Xamã (Megalokk)",
+            "nd": "7",
+            "pv": 196,
+            "pm": 41,
+            "magias": [
+                "Arma Espiritual",
+                "Despedaçar",
+                "Físico Divino",
+                "Soco de Arsenal"
+            ],
+            "cd_magia": 26
+        }
+    ],
+    "lote3_dragoes": [
+        {
+            "nome": "Dragão Filhote do Bosque",
+            "nd": "3",
+            "tamanho": "Médio",
+            "pv": 120,
+            "sopro": "2d12 ácido (esfera 3m)",
+            "imunidades": [
+                "ácido"
+            ]
+        },
+        {
+            "nome": "Dragão Adulto da Tirania",
+            "nd": "11",
+            "tamanho": "Enorme",
+            "pv": 614,
+            "habilidades": [
+                "Aura Aterradora",
+                "Imposição Avassaladora (4d12 psíquico)"
+            ]
+        },
+        {
+            "nome": "Dragão Venerável da Equidade",
+            "nd": "15",
+            "tamanho": "Enorme",
+            "pv": 800,
+            "pm": 97,
+            "magias": [
+                "Círculo da Justiça",
+                "Missão Divina",
+                "Selo de Mana"
+            ]
+        },
+        {
+            "nome": "Sckhar, Dragão-Rei do Fogo",
+            "nd": "S+",
+            "tamanho": "Colossal",
+            "pv": 4000,
+            "pm": 287,
+            "defesa": 71,
+            "ataques": [
+                {
+                    "nome": "Mordida",
+                    "bonus": 66,
+                    "dano": "10d20+60"
+                }
+            ],
+            "habilidades": [
+                "Deus das Chamas",
+                "Sopro 30d12 fogo",
+                "Poder Incontestável"
+            ]
+        }
+    ],
+    "lote4_elementais": [
+        {
+            "nome": "Aquin'ne (Água)",
+            "nd": "2",
+            "pv": 21,
+            "habilidades": [
+                "Afogar",
+                "Redemoinho de Maresia"
+            ]
+        },
+        {
+            "nome": "Namasqall (Água)",
+            "nd": "14",
+            "pv": 700,
+            "habilidades": [
+                "Maremoto (12d6+40)",
+                "Corpo Torrencial"
+            ]
+        },
+        {
+            "nome": "T'Peel (Ar)",
+            "nd": "1",
+            "pv": 12,
+            "habilidades": [
+                "Corpo Eólico",
+                "E o Vento Levou (Desarmar)"
+            ]
+        },
+        {
+            "nome": "Hallus'tir (Ar)",
+            "nd": "15",
+            "pv": 718,
+            "habilidades": [
+                "Tornado Vivo",
+                "Relâmpago Selvagem"
+            ]
+        },
+        {
+            "nome": "Serpentaar (Fogo)",
+            "nd": "14",
+            "pv": 700,
+            "habilidades": [
+                "Aura de Calor",
+                "Irromper"
+            ]
+        },
+        {
+            "nome": "Tanaloom (Terra)",
+            "nd": "13",
+            "pv": 650,
+            "habilidades": [
+                "Rolo Compressor",
+                "Metamorfismo Rochoso"
+            ]
+        },
+        {
+            "nome": "Elemental Corrompido",
+            "nd": "16",
+            "pv": 800,
+            "habilidades": [
+                "Corpo Volátil",
+                "Engolfar",
+                "Torrente Cáustica"
+            ]
+        }
+    ],
+    "lote5_gnolls_ermos": [
+        {
+            "nome": "Bulette",
+            "nd": "7",
+            "pv": 310,
+            "defesa": 32,
+            "habilidades": [
+                "Espreitador das Dunas",
+                "Engolir"
+            ]
+        },
+        {
+            "nome": "Carrasco de Lena",
+            "nd": "6",
+            "pv": 180,
+            "habilidades": [
+                "Inversão de Dano (Dano vira cura)",
+                "Vulnerabilidade a Cura"
+            ]
+        },
+        {
+            "nome": "Centauro Chefe",
+            "nd": "8",
+            "pv": 320,
+            "habilidades": [
+                "Investida Galopante",
+                "Coice Oportuno"
+            ]
+        },
+        {
+            "nome": "Rhandomm",
+            "nd": "20",
+            "pv": 1300,
+            "habilidades": [
+                "Aura Caótica",
+                "Punhos Caóticos",
+                "Fraqueza Variável"
+            ]
+        },
+        {
+            "nome": "Matrona Gnoll",
+            "nd": "11",
+            "pv": 390,
+            "habilidades": [
+                "Latido Enervante",
+                "Matrona da Alcateia",
+                "Quebra-Pescoço"
+            ]
+        },
+        {
+            "nome": "Gnoll Vuul'rak",
+            "nd": "16",
+            "pv": 900,
+            "habilidades": [
+                "Descarregar Raiva",
+                "Ódio Inexplicável (contra elfos)"
+            ]
+        }
+    ]
+}

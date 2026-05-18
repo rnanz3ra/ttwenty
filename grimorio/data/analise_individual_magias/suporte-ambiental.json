@@ -1,0 +1,11 @@
+{
+  "id": "suporte-ambiental",
+  "name": "Suporte Ambiental",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "1 dia",
+  "description": "Esta magia facilita a sobrevivência em  ambientes hostis. O alvo fica imune  aos efeitos de calor e frio extremos,  pode respirar na água se respirar ar  (ou vice-versa) e não sufoca em fumaça densa. +5 PM: muda o alcance para curto e o  alvo para criaturas escolhidas."
+}

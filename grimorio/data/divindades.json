@@ -1,0 +1,336 @@
+[
+    {
+        "nome": "Aharadak",
+        "titulo": "Deus da Tormenta",
+        "lore": "Outrora um dos terríveis Lordes da Tormenta, esta aberração monstruosa ambicionava o grande poder divino oferecido pelos devotos de Arton. Agora ocupando uma posição de importância no Panteão, os invasores lefeu avançam mais uma etapa em seus planos para corromper Arton.",
+        "crenças": "Reverenciar a Tormenta, praticar a devastação e a perversão. Decurpar tudo o que é correto, desfigurar o normal. Abraçar a agonia.",
+        "simbolo": "Um olho macabro de pupila vertical cercado de espinhos.",
+        "canalizacao": "Negativa",
+        "arma": "Corrente de espinhos",
+        "devotos": "Quaisquer (exceto paladinos de outros deuses).",
+        "poderes": [
+            "Afinidade com a Tormenta",
+            "Êxtase da Loucura",
+            "Percepção Temporal",
+            "Rejeição Divina"
+        ],
+        "obrigacoes": "No início de qualquer cena de ação, role 1d6. Com um resultado ímpar, você fica fascinado na primeira rodada."
+    },
+    {
+        "nome": "Allihanna",
+        "titulo": "Deusa da Natureza",
+        "lore": "Mãe de tudo o que é natural, Allihanna é a própria terra, as florestas e os animais. Ela é uma divindade de paz e preservação, mas sua fúria é implacável contra aqueles que ousam ferir o equilíbrio do mundo selvagem.",
+        "crenças": "Viver em harmonia com a natureza. Proteger as feras e as matas. O ciclo da vida deve ser respeitado acima de tudo.",
+        "simbolo": "Uma folha de carvalho verde.",
+        "canalizacao": "Positiva",
+        "arma": "Bordão",
+        "devotos": "Bárbaros, Caçadores, Druidas, Rangers, Moreau, Dahllan.",
+        "poderes": [
+            "Descanso Natural",
+            "Dedo Verde",
+            "Mestre dos Animais",
+            "Voz da Natureza"
+        ],
+        "obrigacoes": "Proibido usar armaduras de metal. Proibido matar animais, exceto em legítima defesa ou para alimentação."
+    },
+    {
+        "nome": "Arsenal",
+        "titulo": "Deus da Guerra",
+        "lore": "O sumo-sacerdote que desafiou Keenn e tomou seu lugar. Arsenal acredita que a paz é apenas o intervalo entre duas batalhas e que a força militar é a única linguagem que o mundo realmente entende.",
+        "crenças": "A vitória justifica qualquer sacrifício. A guerra purifica e fortalece. Nunca recusar um desafio de combate.",
+        "simbolo": "Um martelo de guerra sobre um sol negro.",
+        "canalizacao": "Positiva ou Negativa",
+        "arma": "Martelo de Guerra",
+        "devotos": "Guerreiros, Lutadores, Clérigos Militares, Anões.",
+        "poderes": [
+            "Conjurar Arma",
+            "Coragem Total",
+            "Mestre em Arma",
+            "Sangue de Ferro"
+        ],
+        "obrigacoes": "Nunca recusar um desafio de combate. Sempre portar uma arma visível."
+    },
+    {
+        "nome": "Azgher",
+        "titulo": "Deus do Sol e da Vigilância",
+        "lore": "Azgher é o vigilante incansável que cruza os céus em sua carruagem de fogo. Ele é o inimigo mortal das trevas e de Tenebra. Seus devotos são os olhos do sol no mundo, protegendo os viajantes e combatendo o mal oculto nas sombras.",
+        "crenças": "A luz revela a verdade. A escuridão deve ser combatida. A coragem é a maior das virtudes sob o sol.",
+        "simbolo": "Um sol dourado com rosto humano.",
+        "canalizacao": "Positiva",
+        "arma": "Cimitarra",
+        "devotos": "Guerreiros, Cavaleiros, Clérigos, Paladinos, Qareen.",
+        "poderes": [
+            "Espada Solar",
+            "Fulgor Arcaico",
+            "Habitante do Deserto",
+            "Inimigo de Tenebra"
+        ],
+        "obrigacoes": "Proibido mostrar o rosto em público (deve usar máscara). Proibido possuir mais dinheiro do que o necessário para o próximo mês (o excesso deve ser doado ao templo)."
+    },
+    {
+        "nome": "Hyninn",
+        "titulo": "Deus da Trapaça e da Astúcia",
+        "lore": "O deus de mil faces. Hyninn não busca a destruição, mas o entretenimento e o lucro através da esperteza. Ele é o patrono dos ladrões, mas também dos diplomatas e daqueles que usam a mente para vencer a força bruta.",
+        "crenças": "Nada é o que parece. A força é estúpida; a inteligência é soberana. Uma boa mentira vale mais que uma espada afiada.",
+        "simbolo": "Uma máscara sorridente branca e preta.",
+        "canalizacao": "Positiva ou Negativa",
+        "arma": "Adaga",
+        "devotos": "Ladinos, Bardos, Inventores, Goblins, Hynne.",
+        "poderes": [
+            "Farsa Infalível",
+            "Forma de Macaco",
+            "Malandragem",
+            "Paparazzo"
+        ],
+        "obrigacoes": "Nunca recusar um convite para um jogo de azar. Sempre realizar uma trapaça ou peça em uma autoridade uma vez por mês."
+    },
+    {
+        "nome": "Kallyadranoch",
+        "titulo": "Deus dos Dragões e do Poder",
+        "lore": "O Terceiro, o Deus caído que retornou ao Panteão. Kallyadranoch representa o poder absoluto, a tirania e a herança dracônica. Ele exige respeito e oferece força descomunal àqueles que provam ser dignos de seu sangue.",
+        "crenças": "O poder é o único direito. Os fracos servem aos fortes. A herança dos dragões é a herança do mundo.",
+        "simbolo": "Uma cabeça de dragão estilizada.",
+        "canalizacao": "Negativa",
+        "arma": "Lança",
+        "devotos": "Arcanistas, Guerreiros, Nobres, Kallyanach.",
+        "poderes": [
+            "Aura de Medo",
+            "Escamas Dracônicas",
+            "Servos do Dragão",
+            "Sopro de Kally"
+        ],
+        "obrigacoes": "Nunca permitir que um insulto a um dragão ou ao próprio Kally passe sem punição. Buscar sempre aumentar seu poder pessoal acima de tudo."
+    },
+    {
+        "nome": "Khalmyr",
+        "titulo": "Deus da Justiça e da Ordem",
+        "lore": "Líder do Panteão por eras, Khalmyr é o juiz supremo. Ele acredita no cumprimento estrito da lei e na moralidade inabalável. Suas decisões são justas, mas muitas vezes vistas como rígidas demais pelos povos livres.",
+        "crenças": "A lei é a base da civilização. A verdade deve prevalecer sobre a conveniência. O crime deve ser sempre punido.",
+        "simbolo": "Uma balança sobre uma espada de prata.",
+        "canalizacao": "Positiva",
+        "arma": "Espada Longa",
+        "devotos": "Cavaleiros, Paladinos, Juízes, Clérigos da Ordem, Anões.",
+        "poderes": [
+            "Coragem Total",
+            "Dom da Verdade",
+            "Espada Justiceira",
+            "Reparar Injustiça"
+        ],
+        "obrigacoes": "Proibido mentir. Proibido desobedecer às leis locais ou ordens de superiores hierárquicos legítimos."
+    },
+    {
+        "nome": "Lena",
+        "titulo": "Deusa da Vida e da Fertilidade",
+        "lore": "Lena é a alegria do nascimento e a preservação da existência. Ela é a única divindade que proíbe terminantemente a violência, pois cada vida é uma centelha divina que ela mesma soprou no mundo.",
+        "crenças": "A vida é sagrada. A cura é o maior dos atos. A violência é a negação da existência.",
+        "simbolo": "Uma mulher grávida cercada por flores.",
+        "canalizacao": "Positiva",
+        "arma": "Nenhuma (Ataque Desarmado)",
+        "devotos": "Clérigos, Médicos, Parteiras, Sereias.",
+        "poderes": [
+            "Aura de Paz",
+            "Cura Extraordinária",
+            "Frutos da Vida",
+            "Sopro de Vida"
+        ],
+        "obrigacoes": "Proibido causar dano a qualquer criatura viva (incluindo monstros). Proibido usar armas de qualquer tipo."
+    },
+    {
+        "nome": "Lin-Wu",
+        "titulo": "Deus da Honra e da Coragem",
+        "lore": "O deus do povo tamuraniano. Lin-Wu personifica o código do guerreiro: lealdade, disciplina e respeito. Ele não aceita desvios morais e exige que seus devotos sejam exemplos de conduta, mesmo diante da morte.",
+        "crenças": "A honra é mais pesada que uma montanha. A morte é mais leve que uma pena. A palavra dada é uma dívida eterna.",
+        "simbolo": "Um dragão serpenteando verticalmente.",
+        "canalizacao": "Positiva",
+        "arma": "Katana",
+        "devotos": "Samurais, Guerreiros, Nobres, Tamuranianos.",
+        "poderes": [
+            "Caminho do Guerreiro",
+            "Coragem Total",
+            "Kiai Divino",
+            "Mente Vazia"
+        ],
+        "obrigacoes": "Seguir o código do Bushido. Nunca atacar um oponente desprevenido ou pelas costas."
+    },
+    {
+        "nome": "Marah",
+        "titulo": "Deusa da Paz e do Amor",
+        "lore": "Enquanto Lena foca na vida biológica, Marah foca na harmonia entre as mentes. Ela é a diplomata do Panteão, buscando sempre a solução sem conflito e o fim de todas as guerras através da empatia.",
+        "crenças": "A paz é o estado natural. O amor vence todas as barreiras. A alegria deve ser espalhada por Arton.",
+        "simbolo": "Uma pomba branca ou um coração rosa.",
+        "canalizacao": "Positiva",
+        "arma": "Nenhuma",
+        "devotos": "Bardos, Diplomatas, Clérigos da Paz, Hynne.",
+        "poderes": [
+            "Aura de Paz",
+            "Canto da Alegria",
+            "Palavras de Bondade",
+            "Talento Diplomático"
+        ],
+        "obrigacoes": "Proibido causar dano físico ou mental. Proibido portar armas ou usar magias de ataque."
+    },
+    {
+        "nome": "Megalokk",
+        "titulo": "Deus dos Monstros",
+        "lore": "O pai das feras. Megalokk acredita que a civilização é uma doença que enfraquece os seres. Ele celebra a selvageria, a predação e a mutação. Para ele, Arton deve ser um lugar de caça eterna.",
+        "crenças": "O caçador devora a presa. A força física é a única verdade. A civilização deve ser derrubada.",
+        "simbolo": "Uma bocarra monstruosa aberta.",
+        "canalizacao": "Negativa",
+        "arma": "Machado de Batalha",
+        "devotos": "Bárbaros, Druidas, Monstros, Nagahs, Trogs.",
+        "poderes": [
+            "Garras do Predador",
+            "Olhar Aterrorizante",
+            "Urro Primal",
+            "Voz dos Monstros"
+        ],
+        "obrigacoes": "Proibido viver em cidades. Proibido usar itens alquímicos ou tecnológicos (incluindo armas de fogo)."
+    },
+    {
+        "nome": "Nimb",
+        "titulo": "Deus do Caos e da Sorte",
+        "lore": "Incompreensível e errático, Nimb é o senhor da aleatoriedade. Ele não possui planos, apenas dados que rolam pelo cosmos. Seus devotos são tão imprevisíveis quanto o próprio deus.",
+        "crenças": "O caos é a ordem que não entendemos. A sorte é a única mestra. Nada é permanente.",
+        "simbolo": "Um dado de seis faces equilibrado em uma quina.",
+        "canalizacao": "Positiva ou Negativa",
+        "arma": "Maça",
+        "devotos": "Bardos, Ladinos, Loucos, Sortudos.",
+        "poderes": [
+            "Sorte dos Loucos",
+            "Poder Oculto",
+            "Transmissão da Loucura",
+            "Êxtase da Loucura"
+        ],
+        "obrigacoes": "Sempre agir de forma errática (o mestre pode exigir que você role um dado para tomar decisões cruciais)."
+    },
+    {
+        "nome": "Oceano",
+        "titulo": "Deus dos Mares",
+        "lore": "Reverenciar os mares, o oceano e os seres que ali habitam. Promover harmonia entre o oceano e o mundo seco. Proteger os seres marinhos, mas também os seres do mundo seco que se aventuram sobre as ondas. Demandar devido respeito ao mar e seu poder.",
+        "crenças": "Reverenciar os mares, o oceano e os seres que ali habitam. Promover harmonia entre o oceano e o mundo seco. Proteger os seres marinhos, mas também os seres do mundo seco que se aventuram sobre as ondas. Demandar devido respeito ao mar e seu poder.",
+        "simbolo": "Uma concha.",
+        "canalizacao": "Qualquer",
+        "arma": "Tridente",
+        "devotos": "Dahllan, hynne, minotauros, sereias/tritões, bárbaros, bucaneiros, caçadores, druidas.",
+        "poderes": [
+            "Anfíbio",
+            "Arsenal das Profundezas",
+            "Mestre dos Mares"
+        ],
+        "obrigacoes": "As únicas armas permitidas para devotos do Oceano são a azagaia, a lança, o tridente e a rede. Podem usar apenas armaduras de couro. O devoto também não pode se manter afastado do oceano por mais de uma semana."
+    },
+    {
+        "nome": "Sszzaas",
+        "titulo": "Deus da Traição",
+        "lore": "Praticar a mentira e a trapaça. Buscar sempre a solução mais inteligente. Demonstrar que lealdade e confiança são fraquezas, devem ser eliminadas. Promover competição, rivalidade, desconfiança. Usar os recursos do inimigo para alcançar seus objetivos. Levar outros a se sacrificarem em seu lugar.",
+        "crenças": "Praticar a mentira e a trapaça. Buscar sempre a solução mais inteligente. Demonstrar que lealdade e confiança são fraquezas, devem ser eliminadas. Promover competição, rivalidade, desconfiança. Usar os recursos do inimigo para alcançar seus objetivos. Levar outros a se sacrificarem em seu lugar.",
+        "simbolo": "Uma naja vertendo veneno pelas presas.",
+        "canalizacao": "Negativa",
+        "arma": "Adaga",
+        "devotos": "Medusas, arcanistas, bardos, bucaneiros, inventores, ladinos, nobres.",
+        "poderes": [
+            "Astúcia da Serpente",
+            "Presas Venenosas",
+            "Sangue Ofídico"
+        ],
+        "obrigacoes": "O devoto deve fazer um ato de traição, intriga ou corrupção por dia (ou por sessão de jogo, o que demorar mais) como oferenda a Sszzaas. Pouco importa se o alvo é aliado ou inimigo — uns poucos sszzaazitas usam seus métodos torpes para ajudar colegas aventureiros em suas missões, às vezes sem que eles próprios saibam. Sugerir a alguém que foi traído pelo cônjuge, influenciar um miliciano a aceitar suborno, instruir um mercador a roubar nos preços, levar alguém a ser culpado de um crime que não cometeu, forjar uma falsificação que incrimina um inocente, enganar um guerreiro para que mate um oponente rendido e inofensivo... em termos de jogo, uma ação exigindo um teste de Enganação com CD mínima 15."
+    },
+    {
+        "nome": "Tanna-Toh",
+        "titulo": "Deusa do Conhecimento",
+        "lore": "Reverenciar a mente racional, o conhecimento, a civilização, a verdade. Proteger o progresso, o avanço dos povos civilizados. Promover o ensino e a prática das artes e das ciências. Solucionar todos os mistérios, revelar todas as mentiras. Buscar novo conhecimento. Não tolerar a ignorância.",
+        "crenças": "Reverenciar a mente racional, o conhecimento, a civilização, a verdade. Proteger o progresso, o avanço dos povos civilizados. Promover o ensino e a prática das artes e das ciências. Solucionar todos os mistérios, revelar todas as mentiras. Buscar novo conhecimento. Não tolerar a ignorância.",
+        "simbolo": "Rolo de pergaminho e pena.",
+        "canalizacao": "Qualquer",
+        "arma": "Bordão.",
+        "devotos": "Golens, kliren, arcanistas, bardos, inventores, nobres, paladinos.",
+        "poderes": [
+            "Conhecimento Enciclopédico",
+            "Mente Analítica",
+            "Voz da Civilização"
+        ],
+        "obrigacoes": "Devotos de Tanna-Toh jamais podem recusar uma missão que envolva a busca por um novo conhecimento ou informação; investigar rumores sobre um livro perdido, procurar uma aldeia lendária, pesquisar os hábitos de uma criatura desconhecida... Além disso, o devoto sempre deve dizer a verdade, e nunca pode se recusar a responder uma pergunta, pouco importando as consequências. É proibido para ele esconder qualquer conhecimento."
+    },
+    {
+        "nome": "Tenebra",
+        "titulo": "Deusa da Noite",
+        "lore": "Reverenciar a noite, a escuridão, a lua e as estrelas. Proteger os segredos e mistérios, proteger tudo que é oculto e invisível. Reverenciar a não vida e os mortos-vivos, propagar a prática da necromancia. Rejeitar o sol e a luz.",
+        "crenças": "Reverenciar a noite, a escuridão, a lua e as estrelas. Proteger os segredos e mistérios, proteger tudo que é oculto e invisível. Reverenciar a não vida e os mortos-vivos, propagar a prática da necromancia. Rejeitar o sol e a luz.",
+        "simbolo": "Estrela negra de cinco pontas.",
+        "canalizacao": "Negativa",
+        "arma": "Adaga",
+        "devotos": "Anões, medusas, qareen, osteon, sulfure, trogs, arcanistas, bardos, ladinos.",
+        "poderes": [
+            "Carícia Sombria",
+            "Manto da Penumbra",
+            "Visão nas Trevas"
+        ],
+        "obrigacoes": "Tenebra proíbe que seus devotos sejam tocados por Azgher, o odiado rival. O devoto deve se cobrir inteiramente durante o dia, sem expor ao sol nenhum pedaço de pele."
+    },
+    {
+        "nome": "Thwor",
+        "titulo": "Deus da Destruição",
+        "lore": "Reverenciar a lealdade, a força e a coragem. Promover a união entre goblins, hobgoblins, bugbears, orcs, ogros e outros povos humanoides. Reverenciar o caos, a mutação, a vida sempre em movimento. Proteger a cultura e o modo de vida goblinoide. Destruir os elfos.",
+        "crenças": "Reverenciar a lealdade, a força e a coragem. Promover a união entre goblins, hobgoblins, bugbears, orcs, ogros e outros povos humanoides. Reverenciar o caos, a mutação, a vida sempre em movimento. Proteger a cultura e o modo de vida goblinoide. Destruir os elfos.",
+        "simbolo": "Um grande punho fechado.",
+        "canalizacao": "Qualquer",
+        "arma": "Machado de Guerra",
+        "devotos": "Qualquer humanoide (mas veja adiante).",
+        "poderes": [
+            "Fúria Divina",
+            "Olhar Amedrontador",
+            "Tropas Duyshidakk"
+        ],
+        "obrigacoes": "Não importando sua raça, o devoto de Thwor deve ser considerado duyshidakk — ou seja, aceito como membro do povo goblinoide. Também deve se esforçar para que o modo de vida duyshidakk tome o continente. Deve sempre procurar fazer alianças com goblinoides e só lutar contra eles em último caso."
+    },
+    {
+        "nome": "Thyatis",
+        "titulo": "Deus da Ressurreição",
+        "lore": "Proteger a vida e aqueles necessitados de novas chances. Renegar a morte e a mentira. Ajudar os perdidos a encontrar seus caminhos e alcançar seus destinos. Oferecer clemência, perdão e redenção",
+        "crenças": "Proteger a vida e aqueles necessitados de novas chances. Renegar a morte e a mentira. Ajudar os perdidos a encontrar seus caminhos e alcançar seus destinos. Oferecer clemência, perdão e redenção",
+        "simbolo": "Uma ave fênix.",
+        "canalizacao": "Positiva",
+        "arma": "Espada longa",
+        "devotos": " Aggelus, cavaleiros, guerreiros, inventores, lutadores, paladinos.",
+        "poderes": [
+            "Ataque Piedoso",
+            "Dom da Imortalidade",
+            "Dom da Profecia",
+            "Dom da Ressurreição"
+        ],
+        "obrigacoes": "Devotos de Thyatis são proibidos de matar seres inteligentes (Int 3 ou mais). Podem atacar e causar dano, mas jamais levar à morte. Por esse motivo, devotos de Thyatis preferem armas e ataques que apenas incapacitam seus oponentes ou causam dano não letal."
+    },
+    {
+        "nome": "Valkaria",
+        "titulo": "Deusa da Ambição",
+        "lore": "Praticar o otimismo, a evolução, a rebeldia. Desafiar limites, almejar o impossível. Combater o mal, a opressão e a tirania. Proteger a liberdade. Aceitar e adaptar-se ao novo e diferente. Demonstrar ambição, paixão e coragem. Desfrutar e amar a vida.",
+        "crenças": "Praticar o otimismo, a evolução, a rebeldia. Desafiar limites, almejar o impossível. Combater o mal, a opressão e a tirania. Proteger a liberdade. Aceitar e adaptar-se ao novo e diferente. Demonstrar ambição, paixão e coragem. Desfrutar e amar a vida.",
+        "simbolo": "A Estátua de Valkaria, ou seis faixas entrelaçadas.",
+        "canalizacao": "Positiva",
+        "arma": "Mangual.",
+        "devotos": "Aventureiros; membros de todas as classes podem ser devotos de Valkaria.",
+        "poderes": [
+            "Armas da Ambição",
+            "Coragem Total",
+            "Liberdade Divina"
+        ],
+        "obrigacoes": "Valkaria odeia o conformismo. Seus devotos são proibidos de fixar moradia em um mesmo lugar, não podendo permanecer mais de 2d10+10 dias na mesma cidade (ou vila, aldeia, povoado...) ou 1d4+2 meses no mesmo reino. Devotos de Valkaria também são proibidos de casar-se ou formar qualquer união estável."
+    },
+    {
+        "nome": "Wynna",
+        "titulo": "Deusa da Magia",
+        "lore": " Reverenciar a magia arcana e seus praticantes. Promover o ensino da magia. Usar a magia para proteger os necessitados e trazer felicidade ao mundo.",
+        "crenças": " Reverenciar a magia arcana e seus praticantes. Promover o ensino da magia. Usar a magia para proteger os necessitados e trazer felicidade ao mundo.",
+        "simbolo": "Um anel metálico.",
+        "canalizacao": "Qualquer",
+        "arma": "Adaga.",
+        "devotos": "Elfos, golens, qareen, sílfides, arcanistas, bardos.",
+        "poderes": [
+            "Benção do Mana",
+            "Centelha Mágica",
+            "Escudo Mágico",
+            "Teurgista Místico"
+        ],
+        "obrigacoes": "Ainda que a magia jamais possa ser negada para quem a busca, devotos de Wynna devem praticar a bondade e a generosidade de sua deusa, jamais recusando um pedido de ajuda. Além disso, devotos de Wynna são proibidos de matar seres mágicos (elfos, qareen, sílfides e outros a critério do mestre) e conjuradores arcanos."
+    }
+]

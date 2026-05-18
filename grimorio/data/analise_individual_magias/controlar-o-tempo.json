@@ -1,0 +1,11 @@
+{
+  "id": "controlar-o-tempo",
+  "name": "Controlar o Tempo",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "veja texto;",
+  "duration": "veja texto",
+  "description": "Escolha um dos efeitos a seguir. Congelar o tempo: você gera uma bolha  do seu tamanho na qual o tempo passa  mais lentamente. Para outras criaturas,  a bolha surge e desaparece instantaneamente, mas, para você, ela dura 3 rodadas (o que fornece 2 turnos extras após  o atual), durante as quais você pode  agir e não é afetado por efeitos contínuos (como chamas). Porém, durante  essas 3 rodadas, você e quaisquer efeitos que você gerar não podem sair da  área que você ocupava quando lançoua magia."
+}

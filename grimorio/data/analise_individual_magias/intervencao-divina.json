@@ -1,0 +1,12 @@
+{
+  "id": "intervenção-divina",
+  "name": "Intervenção Divina",
+  "circle": 5,
+  "type": "Divina",
+  "school": "Convocação",
+  "execution": "completa;",
+  "range": "veja  texto;",
+  "duration": "veja  texto",
+  "description": "Você pede a sua divindade para interceder diretamente. Você pode: •\t Curar todos os PV e condições de  até 10 criaturas em alcance longo (este  efeito cura mortos-vivos, em vez de  causar dano). •\t Dissipar os efeitos de qualquer magia de 4º círculo ou menor. Você pode implorar por algo ainda  mais poderoso. Nesse caso, a magia requer o sacrifício de 2 PM e pode fazer  coisas como: •\t Criar um item mundano de até T$  30.000. •\t Duplicar os efeitos de qualquer magia de até 4º círculo. Caso o mestre permita.",
+  "resistance": "veja texto"
+}

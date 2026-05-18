@@ -1,0 +1,12 @@
+{
+  "id": "rogar-maldição",
+  "name": "Rogar Maldição",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "sustentada",
+  "description": "Você entoa cânticos maléficos que  amaldiçoam uma vítima, criando efeitos variados. Ao lançar a magia, escolha  entre os seguintes. Debilidade: o alvo fica esmorecido e não  pode se comunicar ou lançar magias.  Ainda reconhece seus aliados e pode  segui-los e ajudá-los, mas sempre de  maneira simplória.  Doença: muda a duração para instantânea. O alvo contrai uma doença a sua  escolha, que o afeta imediatamente  (sem período de incubação). Fraqueza: o alvo fica debilitado e lento. Isolamento impede o alvo de falar.",
+  "resistance": "Fortitude anula"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "teletransporte",
+  "name": "Teletransporte",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Convocação",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "Instantânea",
+  "description": "Alvo: até 5 criaturas voluntárias; Duração: instantânea.  Esta magia transporta os alvos para um  lugar a sua escolha a até 1.000km. Você  precisa fazer um teste de Misticismo,  com dificuldade que depende de seu  conhecimento sobre o local de destino. CD 20. Um lugar familiar, que você  visita com frequência.  CD 30. Um lugar conhecido, que você  já visitou pelo menos uma vez.  CD 40. Um lugar que você nunca visitou e só conhece a partir da descrição  de outra pessoa que esteve lá. Você nãoo sofre chance de erro se viajar para um círculo de teletransporte."
+}

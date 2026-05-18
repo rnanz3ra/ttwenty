@@ -1,0 +1,11 @@
+{
+  "id": "vestimenta-da-fé",
+  "name": "Vestimenta da Fé",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "1 dia",
+  "description": "Você fortalece um item, aumentando o  bônus de Defesa de uma armadura ou  escudo em +2. No caso de um vestuário, ele passa a oferecer +2 na Defesa (não cumulativo com armadura). Os  efeitos desta magia contam como um  bônus de encanto. +3 PM: o objeto oferece o mesmo  bônus em testes de resistência. Requer  3º círculo. +4 PM: aumenta o bônus em +1. +7 PM: o objeto também oferece redução de dano 5. Requer 4º círculo."
+}

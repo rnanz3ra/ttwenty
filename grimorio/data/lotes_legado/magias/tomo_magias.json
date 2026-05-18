@@ -1,0 +1,267 @@
+[
+    {
+        "nome": "Abençoar Alimentos",
+        "circulo": 1,
+        "escola": "Transmutação",
+        "estilo": "pergaminho",
+        "lore": "A fome é uma inimiga silenciosa. Com uma prece, o devoto transforma ração bolorenta em um banquete sagrado.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Curto",
+            "alvo": "Alimento"
+        },
+        "efeito": "Purifica alimento e oferece 5 PV ou 1 PM temporário."
+    },
+    {
+        "nome": "Adaga Mental",
+        "circulo": 1,
+        "escola": "Encantamento",
+        "estilo": "pergaminho",
+        "lore": "Não é uma lâmina de aço, mas um estilete de pura vontade psíquica que perfura o crânio.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Curto",
+            "alvo": "1 criatura",
+            "resistencia": "Vontade parcial"
+        },
+        "efeito": "2d6 dano psíquico e atordoado por 1 rodada."
+    },
+    {
+        "nome": "Armadura Arcana",
+        "circulo": 1,
+        "escola": "Abjuração",
+        "estilo": "pergaminho",
+        "lore": "O ar ao redor do mago endurece como placas de aço invisíveis, desviando lâminas mortais.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Pessoal",
+            "alvo": "Você",
+            "duracao": "Cena"
+        },
+        "efeito": "Concede +5 na Defesa (ou +10 como Reação)."
+    },
+    {
+        "nome": "Curar Ferimentos",
+        "circulo": 1,
+        "escola": "Evocação",
+        "estilo": "pergaminho",
+        "lore": "A luz divina fecha cortes e restaura o fôlego daqueles que combatem o mal.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Toque",
+            "alvo": "1 criatura",
+            "duracao": "Instantânea"
+        },
+        "efeito": "Cura 2d8+2 pontos de vida."
+    },
+    {
+        "nome": "Explosão de Chamas",
+        "circulo": 1,
+        "escola": "Evocação",
+        "estilo": "pergaminho",
+        "lore": "Um leque de fogo irrompe das mãos do mago, incinerando tudo em seu caminho.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Pessoal",
+            "area": "Cone de 6m",
+            "resistencia": "Reflexos metade"
+        },
+        "efeito": "Causa 2d6 de dano de fogo na área."
+    },
+    {
+        "nome": "Bola de Fogo",
+        "circulo": 2,
+        "escola": "Evocação",
+        "estilo": "pergaminho",
+        "lore": "Uma fagulha que viaja pelo ar e explode em um rugido ensurdecedor de destruição senitmentada.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Médio",
+            "area": "Esfera de 6m",
+            "resistencia": "Reflexos metade"
+        },
+        "efeito": "Explosão causa 6d6 pontos de dano de fogo na área."
+    },
+    {
+        "nome": "Invisibilidade",
+        "circulo": 2,
+        "escola": "Ilusão",
+        "estilo": "pergaminho",
+        "lore": "A luz desvia do alvo como a água flui ao redor de uma pedra, tornando-o um fantasma entre os vivos.",
+        "regras": {
+            "execucao": "Livre",
+            "alcance": "Pessoal",
+            "alvo": "Você",
+            "duracao": "1 rodada"
+        },
+        "efeito": "Fica invisível (+10 Furtividade, camuflagem total)."
+    },
+    {
+        "nome": "Salto Dimensional",
+        "circulo": 2,
+        "escola": "Convocação",
+        "estilo": "pergaminho",
+        "lore": "O mago dobra o espaço-tempo, desaparecendo de um ponto para surgir instantaneamente em outro.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Curto",
+            "alvo": "Você",
+            "duracao": "Instantânea"
+        },
+        "efeito": "Teletransporta você para um ponto visível no alcance."
+    },
+    {
+        "nome": "Velocidade",
+        "circulo": 2,
+        "escola": "Transmutação",
+        "estilo": "pergaminho",
+        "lore": "O tempo desacelera para o alvo, transformando seus movimentos em um borrão impossível de seguir.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Curto",
+            "alvo": "1 criatura",
+            "duracao": "Sustentada"
+        },
+        "efeito": "Alvo ganha uma ação padrão ou de movimento adicional por turno."
+    },
+    {
+        "nome": "Voo",
+        "circulo": 3,
+        "escola": "Transmutação",
+        "estilo": "pergaminho",
+        "lore": "As leis da gravidade são revogadas, permitindo ao conjurador dominar a perspectiva das alturas.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Pessoal",
+            "alvo": "Você",
+            "duracao": "Cena"
+        },
+        "efeito": "Recebe deslocamento de voo 12m. Desce suavemente ao fim."
+    },
+    {
+        "nome": "Teletransporte",
+        "circulo": 3,
+        "escola": "Convocação",
+        "estilo": "pergaminho",
+        "lore": "O espaço entre dois pontos deixa de existir em um turbilhão de mana puro.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Toque",
+            "alvo": "Até 5 criaturas",
+            "duracao": "Instantânea"
+        },
+        "efeito": "Transporta alvos por até 1.000km (requer teste de Misticismo)."
+    },
+    {
+        "nome": "Pele de Pedra",
+        "circulo": 3,
+        "escola": "Transmutação",
+        "estilo": "pergaminho",
+        "lore": "A pele do alvo assume a coloração e a dureza do granito, tornando lâminas comuns inúteis.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Pessoal",
+            "alvo": "Você",
+            "duracao": "Cena"
+        },
+        "efeito": "Ganha redução de dano 5 (RD 5)."
+    },
+    {
+        "nome": "Muralha Elemental",
+        "circulo": 3,
+        "escola": "Evocação",
+        "estilo": "pergaminho",
+        "lore": "Uma barreira intransponível de fogo ou gelo se eleva da terra para dividir o campo de batalha.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Médio",
+            "efeito": "Muralha de 30m",
+            "duracao": "Cena"
+        },
+        "efeito": "Cria barreira que causa dano (8d6) a quem atravessar."
+    },
+    {
+        "nome": "Assassino Fantasmagórico",
+        "circulo": 4,
+        "escola": "Necromancia",
+        "estilo": "pergaminho",
+        "lore": "A magia molda o pior pesadelo do alvo em uma entidade real que busca arrancar sua vida pelo pavor.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Longo",
+            "alvo": "1 criatura",
+            "resistencia": "Vontade e Fortitude"
+        },
+        "efeito": "Se falhar nos dois testes, o alvo morre instantaneamente."
+    },
+    {
+        "nome": "Marionete",
+        "circulo": 4,
+        "escola": "Encantamento",
+        "estilo": "pergaminho",
+        "lore": "Fios invisíveis de vontade se prendem aos nervos do inimigo, tornando-o um passageiro em seu próprio corpo.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Médio",
+            "alvo": "1 criatura",
+            "resistencia": "Fortitude anula"
+        },
+        "efeito": "Você controla totalmente as ações físicas do alvo."
+    },
+    {
+        "nome": "Campo Antimagia",
+        "circulo": 4,
+        "escola": "Abjuração",
+        "estilo": "pergaminho",
+        "lore": "Um vácuo místico onde a própria magia deixa de existir, silenciando itens e encantos.",
+        "regras": {
+            "execucao": "Padrão",
+            "alcance": "Pessoal",
+            "area": "Esfera de 3m",
+            "duracao": "Sustentada"
+        },
+        "efeito": "Suprime qualquer efeito mágico ou item mágico na área."
+    },
+    {
+        "nome": "Mata-Dragão",
+        "circulo": 5,
+        "escola": "Evocação",
+        "estilo": "pergaminho",
+        "lore": "O ápice da destruição mágica. Uma carga capaz de perfurar montanhas e vaporizar exércitos.",
+        "regras": {
+            "execucao": "2 Rodadas",
+            "alcance": "Pessoal",
+            "area": "Cone de 30m",
+            "resistencia": "Reflexos metade"
+        },
+        "efeito": "Causa 20d12 de dano de essência (recursivo em resultados 12)."
+    },
+    {
+        "nome": "Desejo",
+        "circulo": 5,
+        "escola": "Transmutação",
+        "estilo": "pergaminho",
+        "lore": "O mago profere palavras que o universo é obrigado a obedecer. O roteiro da realidade é reescrito.",
+        "regras": {
+            "execucao": "Completa",
+            "alcance": "Varia",
+            "alvo": "Varia",
+            "duracao": "Varia"
+        },
+        "efeito": "Altera a realidade conforme o pedido (pode exigir sacrifício de PM)."
+    },
+    {
+        "nome": "Buraco Negro",
+        "circulo": 5,
+        "escola": "Convocação",
+        "estilo": "pergaminho",
+        "lore": "Uma singularidade que consome tudo, enviando matéria e luz para o esquecimento eterno.",
+        "regras": {
+            "execucao": "Completa",
+            "alcance": "Longo",
+            "area": "Esfera de 12m",
+            "duracao": "3 rodadas"
+        },
+        "efeito": "Suga criaturas para o centro; alvos no centro desaparecem para sempre."
+    }
+]

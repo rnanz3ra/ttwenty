@@ -1,0 +1,11 @@
+{
+  "id": "potência-divina",
+  "name": "Potência Divina",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "sustentada",
+  "description": "Você canaliza o poder de sua divindade. Você aumenta uma categoria de tamanho (seu equipamento muda de  acordo) e recebe Força +4 e RD 10.  Você não pode lançar magias enquanto estiver sob efeito de Potência Divina. +2 PM: aumenta o bônus de Força  em +1. +5 PM: aumenta a RD em +5. +2 PM: muda o alcance para toque e  o alvo para 1 criatura. A magia falha  se você e o alvo não forem devotos da  mesma divindade."
+}

@@ -1,0 +1,147 @@
+{
+    "lendas_de_arton": [
+        {
+            "nome": "Sckhar, Dragão-Rei do Fogo",
+            "nd": "S+",
+            "tamanho": "Colossal",
+            "pv": 4000,
+            "pm": 287,
+            "defesa": 71,
+            "atributos": {
+                "for": 20,
+                "des": 2,
+                "con": 15,
+                "int": 12,
+                "sab": 12,
+                "car": 12
+            },
+            "habilidades_unicas": [
+                "Aqui Está, Aqui Pertence (Trava Teleporte)",
+                "Deus das Chamas (Ignora RD de Fogo)",
+                "Ego (Sucesso Automático em Perícia)",
+                "Sopro: 30d12 fogo (Cone 30m)"
+            ]
+        },
+        {
+            "nome": "Avatar de Aharadak",
+            "nd": "S",
+            "tamanho": "Colossal",
+            "pv": 2804,
+            "pm": "Infinito (Limite 20/magia)",
+            "defesa": 70,
+            "habilidades": [
+                "Presença da Tormenta (Aura 30m)",
+                "Centelha Divina (Magias 20º nível)",
+                "Engolir (Vontade CD 52 ou Reino de Aharadak)"
+            ]
+        },
+        {
+            "nome": "Rhandomm (Titã do Caos)",
+            "nd": "20",
+            "tamanho": "Colossal",
+            "pv": 1300,
+            "cura_acelerada": 100,
+            "defesa": 63,
+            "mecanica_especial": "Fraqueza Variável (1d10 para definir o tipo de dano que o afeta)"
+        }
+    ],
+    "humanoides_e_seitas": {
+        "meio_orcs": [
+            {
+                "nome": "Meio-Orc Bandoleiro",
+                "nd": "1",
+                "pv": 15,
+                "ataque": "Espada Curta +11"
+            },
+            {
+                "nome": "Meio-Orc Chefe",
+                "nd": "5",
+                "pv": 190,
+                "habilidade": "Urro Selvagem"
+            }
+        ],
+        "culto_aharadak": [
+            {
+                "nome": "Iniciado da Agonia",
+                "nd": "3",
+                "pv": 28,
+                "mecanica": "Júbilo na Dor (Ganha RD ao sofrer dano)"
+            },
+            {
+                "nome": "Sacerdote da Agonia",
+                "nd": "9",
+                "pv": 192,
+                "magias": "Clérigo 9º nível"
+            },
+            {
+                "nome": "Reishid Líder de Culto",
+                "nd": "12",
+                "pv": 483,
+                "habilidade": "Sombra Rubra"
+            }
+        ],
+        "duyshidakk": [
+            {
+                "nome": "Hobgoblin Gladiador",
+                "nd": "16",
+                "pv": 1000,
+                "habilidade": "Venha Aqui e Lute! (Puxa com corrente)"
+            },
+            {
+                "nome": "Bruxa Goblin",
+                "nd": "11",
+                "pv": 370,
+                "mecanica": "Autofagia (Troca PV por PM)"
+            },
+            {
+                "nome": "Sangue do Ayrrak",
+                "nd": "19",
+                "pv": 1364,
+                "mecanica": "Roda do Akzath (3 habilidades de Thwor)"
+            }
+        ]
+    },
+    "natureza_e_elementos": {
+        "elementais": [
+            {
+                "nome": "Namasqall (Água)",
+                "nd": "14",
+                "pv": 700,
+                "especial": "Maremoto"
+            },
+            {
+                "nome": "Hallus'tir (Ar)",
+                "nd": "15",
+                "pv": 718,
+                "especial": "Tornado Vivo"
+            },
+            {
+                "nome": "Elemental Corrompido",
+                "nd": "16",
+                "pv": 800,
+                "tipo": "Tormenta",
+                "especial": "Corpo Volátil (Explode em Ácido)"
+            }
+        ],
+        "monstros_dos_ermos": [
+            {
+                "nome": "Bulette",
+                "nd": "7",
+                "pv": 310,
+                "habilidade": "Espreitador das Dunas"
+            },
+            {
+                "nome": "Carrasco de Lena",
+                "nd": "6",
+                "pv": 180,
+                "mecanica": "Inversão de Dano (Cura fere, Dano cura)"
+            },
+            {
+                "nome": "Ente",
+                "nd": "8",
+                "pv": 310,
+                "habilidade": "Árvore Ancestral"
+            }
+        ]
+    }
+}

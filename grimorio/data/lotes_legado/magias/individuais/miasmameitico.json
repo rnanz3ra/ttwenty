@@ -1,0 +1,11 @@
+{
+  "id": "miasma-mefítico",
+  "name": "Miasma Mefítico",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "médio;  Área: nuvem com 6m de raio; Duração: instantânea; Resistência: Fortitude (veja texto).  A área é coberta por emanações letais. Criaturas na área sofrem 5d6  pontos de dano de ácido e ficam enjoadas por 1 rodada. Se passarem na  resistência, sofrem metade do dano e  não ficam enjoadas.",
+  "duration": "Instantânea",
+  "description": "Truque: muda o alcance para toque,  a área para alvo (1 criatura com 0 PV  ou menos), a duração para instantânea, a resistência para Fortitude anula e adiciona componente material (pó  de ônix no valor de T$ 10). Em vez do  normal, você canaliza o Miasma contra  uma vítima. Se falhar na resistência,  ela morre e você recebe +2 na CD de  suas magias por um dia. Se passar, fica  imune a este truque por um dia. +2 PM: aumenta o dano em +1d6. +3 PM: muda o tipo do dano para  trevas."
+}

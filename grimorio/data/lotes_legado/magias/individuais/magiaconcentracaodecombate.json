@@ -1,0 +1,11 @@
+{
+  "id": "magia---concentração--de-combate",
+  "name": "Magia   Concentração  de Combate",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Adivinhação",
+  "execution": "livre;",
+  "range": "pessoal;",
+  "duration": "1 rodada",
+  "description": "Você amplia sua percepção, antecipando movimentos dos inimigos e achando brechas em sua defesa. Quando faz  um teste de ataque, você rola dois dados e usa o melhor resultado. +2 PM: muda a execução para padrão e  a duração para cena. Requer 2º círculo. +5 PM: além do normal, ao atacar  você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 3º  círculo. +9 PM: muda a execução para padrão, o alcance para curto, o alvo para  criaturas escolhidas e a duração para  cena. Req"
+}

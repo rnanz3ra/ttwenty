@@ -1,0 +1,11 @@
+{
+  "id": "augúrio",
+  "name": "Augúrio",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Adivinhação",
+  "execution": "completa;",
+  "range": "pessoal;",
+  "duration": "instantânea",
+  "description": "Esta magia diz se uma ação que você  tomará em breve — no máximo uma  hora no futuro — trará resultados bons  ou ruins. O mestre rola 1d6 em segredo; com um resultado de 2 a 6, a magia funciona e você recebe uma das seguintes respostas: “felicidade” (a ação  trará bons resultados); “miséria” (a  ação trará maus resultados); “felicidade e miséria” (para ambos) ou “nada”  (para ações que não trarão resultados  bons ou ruins). Com um resultado 1, a magia falha  e oferece o resultado “nada”."
+}

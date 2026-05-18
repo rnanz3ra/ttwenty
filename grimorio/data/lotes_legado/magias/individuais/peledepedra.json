@@ -1,0 +1,11 @@
+{
+  "id": "pele-de-pedra",
+  "name": "Pele de Pedra",
+  "circle": 3,
+  "type": "Universal",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Sua pele ganha aspecto e dureza de  rocha. Você recebe redução de dano 5. +1 PM: muda o alcance para toque e o  alvo para 1 criatura. +4 PM: muda a duração para um dia. +4 PM: sua pele ganha aspecto e dureza de aço. Você recebe redução de dano  10. Requer 4º círculo. +4 PM: muda o alcance para toque, o  alvo para 1 criatura, a duração para 1d4  rodadas e adiciona Resistência: Fortitude anula. Em vez do efeito normal,  a magia transforma o alvo e seu equipamento em uma estátua inerte e sem vida."
+}

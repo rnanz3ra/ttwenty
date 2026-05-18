@@ -1,0 +1,34 @@
+[
+    {
+        "tomo": "Classes",
+        "nome": "Guerreiro",
+        "lore": "O campo de batalha é o lar do guerreiro. Seja um cavaleiro honrado, um mercenário brutal ou um soldado disciplinado, esta classe domina todas as formas de combate físico, transformando o metal e a coragem em uma barreira contra o caos.",
+        "detalhes_tecnicos": {
+            "pv_inicial": "20 (+5 por nível)",
+            "pm_inicial": "3 por nível",
+            "pericias": "Luta ou Pontaria, Fortitude e +2 perícias.",
+            "atributo_chave": "Força ou Destreza"
+        },
+        "habilidades_rodapé": [
+            "Ataque Especial (Lvl 1)",
+            "Durão (Lvl 3)",
+            "Ataque Extra (Lvl 6)"
+        ]
+    },
+    {
+        "tomo": "Classes",
+        "nome": "Arcanista",
+        "lore": "Mestres do impossível, os arcanistas manipulam as energias brutas da existência. Seja através do estudo hermético de fórmulas antigas ou do sangue divino que corre em suas veias, eles são capazes de dobrar a realidade conforme sua vontade.",
+        "detalhes_tecnicos": {
+            "pv_inicial": "8 (+2 por nível)",
+            "pm_inicial": "6 por nível",
+            "pericias": "Misticismo e Vontade.",
+            "atributo_chave": "Inteligência ou Carisma"
+        },
+        "habilidades_rodapé": [
+            "Caminho do Arcanista (Bruxo, Mago ou Feiticeiro)",
+            "Magias de 1º Círculo",
+            "Alta Arcana (Lvl 20)"
+        ]
+    }
+]

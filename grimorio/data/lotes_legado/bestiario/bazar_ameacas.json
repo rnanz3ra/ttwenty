@@ -1,0 +1,190 @@
+{
+    "bazar": {
+        "armas": [
+            {
+                "nome": "Açoite Finntroll",
+                "preco": "T$ 30",
+                "dano": "1d8",
+                "critico": "x2",
+                "tipo": "Corte",
+                "especial": "Alvo sofre -2 em perícias e dano por 1 rodada."
+            },
+            {
+                "nome": "Arcabuz",
+                "preco": "T$ 800",
+                "dano": "2d10",
+                "critico": "19/x3",
+                "alcance": "Médio",
+                "especial": "Arma de fogo desbalanceada. Recarga padrão."
+            },
+            {
+                "nome": "Arpão",
+                "preco": "T$ 30",
+                "dano": "1d10",
+                "critico": "x3",
+                "especial": "Prende o alvo (Força oposta). Se soltar causa 1d10 PV."
+            },
+            {
+                "nome": "Bacamarte",
+                "preco": "T$ 450",
+                "dano": "4d6",
+                "critico": "19/x3",
+                "alcance": "Cone 6m",
+                "especial": "Atinge todos na área. Recarga completa."
+            },
+            {
+                "nome": "Espada Vespa",
+                "preco": "T$ 75",
+                "dano": "2d4",
+                "critico": "18",
+                "especial": "Híbrida: Corte ou Perfuração."
+            },
+            {
+                "nome": "Gládio",
+                "preco": "T$ 12",
+                "dano": "1d6",
+                "critico": "19/x3",
+                "tipo": "Perfuração"
+            },
+            {
+                "nome": "Lança de Fogo",
+                "preco": "T$ 1000",
+                "dano": "1d10/2d8",
+                "critico": "x3/19x3",
+                "especial": "Híbrida: Corpo a corpo alongada ou Arma de fogo."
+            },
+            {
+                "nome": "Mordida do Diabo",
+                "preco": "T$ 30",
+                "dano": "1d4",
+                "critico": "x2",
+                "especial": "Exótica. Agilidade. +2 para agarrar/desarmar. Alcance 3m."
+            }
+        ],
+        "armaduras_e_escudos": [
+            {
+                "nome": "Armadura de Ossos",
+                "preco": "T$ 120",
+                "defesa": 3,
+                "penalidade": -2,
+                "especial": "+1 em Intimidação e CD de Medo."
+            },
+            {
+                "nome": "Armadura de Quitina",
+                "preco": "T$ 350",
+                "defesa": 7,
+                "penalidade": -3,
+                "especial": "Pesada, mas não reduz deslocamento."
+            },
+            {
+                "nome": "Veste de Teia de Aranha",
+                "preco": "T$ 3000",
+                "defesa": 4,
+                "penalidade": 0,
+                "especial": "+5 em Furtividade."
+            },
+            {
+                "nome": "Escudo de Couro",
+                "preco": "T$ 3",
+                "defesa": 1,
+                "penalidade": -1,
+                "especial": "+2 na Defesa contra ataques à distância."
+            }
+        ],
+        "materiais_especiais": [
+            {
+                "nome": "Casco de Monstro",
+                "efeito_arma": "Conta como arma primitiva.",
+                "efeito_armadura": "Penalidade -1. Pesadas dão +1 Des na Defesa."
+            },
+            {
+                "nome": "Couraça de Kaiju",
+                "efeito_arma": "Dano +1 passo. Gasta 2 PM para ignorar redução de dano (não RD).",
+                "efeito_armadura": "RD 10/mágico (leve) ou 20/mágico (pesada)."
+            },
+            {
+                "nome": "Pena de Kraken",
+                "efeito_arma": "Crítico aumenta dano em 2 passos.",
+                "efeito_armadura": "Atacante que errar corpo a corpo sofre 5 ou 10 de dano."
+            }
+        ]
+    },
+    "tabelas_encontros": {
+        "artico": [
+            {
+                "d_min": 1,
+                "d_max": 2,
+                "encontro": "1 sílfide de cabelo rosa morrendo de frio"
+            },
+            {
+                "d_min": 3,
+                "d_max": 6,
+                "encontro": "1d4 zumbis"
+            },
+            {
+                "d_min": 91,
+                "d_max": 98,
+                "encontro": "1 mamute"
+            },
+            {
+                "d_min": 111,
+                "d_max": 115,
+                "encontro": "1d4+1 mamutes esqueletos"
+            },
+            {
+                "d_min": 156,
+                "d_max": 160,
+                "encontro": "1 verme do gelo adulto"
+            }
+        ],
+        "tormenta": [
+            {
+                "d_min": 1,
+                "d_max": 2,
+                "encontro": "Chuva ácida (1d4+1 rodadas)"
+            },
+            {
+                "d_min": 51,
+                "d_max": 60,
+                "encontro": "1d3 infectos"
+            },
+            {
+                "d_min": 81,
+                "d_max": 90,
+                "encontro": "1 alma acorrentada"
+            },
+            {
+                "d_min": 156,
+                "d_max": 160,
+                "encontro": "1 ezzayn especial"
+            },
+            {
+                "d_min": 186,
+                "d_max": 200,
+                "encontro": "Templo de Aharadak (Avatar + 2d4 ezzayns)"
+            }
+        ],
+        "urbanos": [
+            {
+                "d_min": 1,
+                "d_max": 2,
+                "encontro": "Carroça de verduras desgovernada"
+            },
+            {
+                "d_min": 31,
+                "d_max": 35,
+                "encontro": "1d4 pakks causando incêndio"
+            },
+            {
+                "d_min": 101,
+                "d_max": 110,
+                "encontro": "4 kappa brigões e 1 nezumi ninja contra 1 coletor de Arsenal"
+            },
+            {
+                "d_min": 171,
+                "d_max": 185,
+                "encontro": "2 liches de Aslothia"
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "resistência--a-energia",
+  "name": "Resistência  a Energia",
+  "circle": 1,
+  "type": "Universal",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "Ao lançar esta magia, escolha entre  ácido, eletricidade, fogo, frio, luz ou  trevas. O alvo recebe redução de dano  10 contra o tipo de dano escolhido. +2 PM: aumenta a redução de dano  em +5.  +2 PM: muda a duração para um dia.  Requer 2º círculo.  +5 PM: muda o alcance para curto e o  alvo para criaturas escolhidas. Requer  3º círculo.  +5 PM: muda o efeito para redução de  dano contra todos os tipos listados na  magia. Requer 3º círculo.  +9 PM: muda o efeito para imunidade a um tipo lista"
+}

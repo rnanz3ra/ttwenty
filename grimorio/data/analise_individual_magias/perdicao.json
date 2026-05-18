@@ -1,0 +1,12 @@
+{
+  "id": "perdição",
+  "name": "Perdição",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "cena",
+  "description": "Amaldiçoa os alvos, que recebem –1  em testes de ataque e rolagens de  dano. Perdição anula Bênção.  +2 PM: aumenta as penalidades em –1  (penalidade máxima limitada pelo círculo  máximo de magia que você pode lançar).",
+  "resistance": "nenhuma"
+}

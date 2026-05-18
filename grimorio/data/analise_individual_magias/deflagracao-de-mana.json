@@ -1,0 +1,12 @@
+{
+  "id": "deflagração--de-mana",
+  "name": "Deflagração  de Mana",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Evocação",
+  "execution": "completa;",
+  "range": "Curto",
+  "duration": "instantânea",
+  "description": "Após concentrar seu mana, você emana energia, como uma estrela em plena terra. Todas as criaturas na área sofrem 150 pontos de dano de essência e  todos os itens mágicos (exceto artefatos) tornam-se mundanos. Você não é  afetado pela magia. Alvos que passem  no teste de Fortitude sofrem metade  do dano e seus itens mágicos voltam a  funcionar após um dia. 189 Capítulo Quatro +1 PM: aumenta o dano em +10. +5 PM: afeta apenas criaturas a sua  escolha.",
+  "resistance": "Fortitude parcial"
+}

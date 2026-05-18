@@ -1,0 +1,11 @@
+{
+  "id": "magia---alterar-destino",
+  "name": "Magia   Alterar Destino",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Adivinhação",
+  "execution": "reação;",
+  "range": "pessoal;",
+  "duration": "instantânea",
+  "description": "Sua mente visualiza todas as possibilidades de um evento, permitindo  a você escolher o melhor curso de  ação. Você pode rolar novamente um  teste de resistência com um bônus  de +10 ou um inimigo deve rolar novamente um ataque contra você com  uma penalidade de –10."
+}

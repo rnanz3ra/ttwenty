@@ -1,0 +1,21 @@
+{
+    "elementos_masmorra": {
+        "portas": {
+            "madeira": "RD 5, 20 PV, CD 15",
+            "ferro": "RD 10, 100 PV, CD 25"
+        },
+        "paredes": {
+            "alvenaria": "RD 8, 200 PV, CD 20 Atletismo",
+            "pedra": "RD 8, 500 PV, CD 15 Atletismo"
+        }
+    },
+    "viagens": {
+        "velocidade_dia": {
+            "4.5m": "18km",
+            "9m": "36km",
+            "12m": "48km"
+        },
+        "clima_severo": "Reduz distância de viagem pela metade.",
+        "marcha_forcada": "Dobra distância, exige Fortitude CD 15 ou perde 1d6 PV por hora."
+    }
+}

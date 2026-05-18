@@ -1,0 +1,55 @@
+{
+    "customizacao": {
+        "tabela_melhorias_preco": {
+            "1": 300,
+            "2": 3000,
+            "3": 9000,
+            "4": 18000
+        },
+        "melhorias": [
+            {
+                "nome": "Ajustada",
+                "alvo": "Armadura/Escudo",
+                "efeito": "-1 penalidade"
+            },
+            {
+                "nome": "Certeira",
+                "alvo": "Arma",
+                "efeito": "+1 testes de ataque"
+            },
+            {
+                "nome": "Cruel",
+                "alvo": "Arma",
+                "efeito": "+1 rolagens de dano"
+            },
+            {
+                "nome": "Harmonizada",
+                "alvo": "Arma/Esotérico",
+                "efeito": "-1 PM em uma habilidade/magia"
+            }
+        ],
+        "materiais_especiais": [
+            {
+                "nome": "Aço-Rubi",
+                "efeito_arma": "Ignora 10 RD e imunidade a crítico lefeu",
+                "preco_arma": 6000
+            },
+            {
+                "nome": "Adamante",
+                "efeito_arma": "Aumenta dano em um passo",
+                "preco_arma": 3000
+            },
+            {
+                "nome": "Gelo Eterno",
+                "efeito_arma": "+2 dano por frio",
+                "preco_arma": 600
+            },
+            {
+                "nome": "Mitral",
+                "efeito_arma": "+1 margem de ameaça",
+                "preco_arma": 1500,
+                "espaco": -1
+            }
+        ]
+    }
+}

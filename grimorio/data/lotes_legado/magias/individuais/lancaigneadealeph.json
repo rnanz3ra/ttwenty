@@ -1,0 +1,12 @@
+{
+  "id": "lança-ígnea--de-aleph",
+  "name": "Lança Ígnea  de Aleph",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "instantânea",
+  "description": "Esta magia foi desenvolvida pelo mago  imortal Aleph Olhos Vermelhos, um  entusiasta dos estudos vulcânicos. Ela  dispara um projétil de magma contra o  alvo, que sofre 4d6 pontos de dano de  fogo e 4d6 pontos de dano de perfuração e fica em chamas. As chamas causam 2d6 pontos de dano por rodada,  em vez do dano normal. Se passar no  teste de resistência, o alvo sofre metade do dano e não fica em chamas. Respingos de rocha incandescente se  espalham com a explosão, atingindo  todas as cria",
+  "resistance": "Reflexos parcial"
+}

@@ -1,0 +1,36 @@
+{
+    "gerador_tesouro": {
+        "categorias_monstro": {
+            "Nenhum": 0,
+            "Metade": 0.5,
+            "Padrao": 1.0,
+            "Dobro": 2.0
+        },
+        "tabela_itens_diversos": [
+            {
+                "d_porcento": "01-02",
+                "item": "Ácido"
+            },
+            {
+                "d_porcento": "09-23",
+                "item": "Bálsamo Restaurador"
+            },
+            {
+                "d_porcento": "47-56",
+                "item": "Essência de Mana"
+            },
+            {
+                "d_porcento": "60-66",
+                "item": "Fogo Alquímico"
+            }
+        ],
+        "materiais_especiais_random": [
+            "Aço-Rubi",
+            "Adamante",
+            "Gelo Eterno",
+            "Madeira Tollon",
+            "Matéria Vermelha",
+            "Mitral"
+        ]
+    }
+}

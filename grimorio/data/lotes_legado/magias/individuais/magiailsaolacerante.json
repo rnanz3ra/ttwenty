@@ -1,0 +1,12 @@
+{
+  "id": "magia---ilusão-lacerante",
+  "name": "Magia   Ilusão Lacerante",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Ilusão",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "sustentada",
+  "description": "Você cria uma ilusão de algum perigo mortal. Quando a magia é lançada, criaturas na área devem fazer um  teste de Vontade; uma falha significa que a criatura acredita que a ilusão  é real e sofre 3d6 pontos de dano psíquico não letal. Sempre que uma criatura iniciar seu turno dentro da área,  deve repetir o teste de Vontade. Se falhar, sofre o dano novamente. Somente criaturas que falham veem a ilusão,  e racionalizam o efeito sempre que falham no teste (por exemplo, acredita  que está em chamas.",
+  "resistance": "Vontade anula"
+}

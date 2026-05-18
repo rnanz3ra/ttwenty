@@ -1,0 +1,839 @@
+[
+    {
+        "nome": "Gárgula",
+        "nd": "2",
+        "tipo": "Construto Médio",
+        "pv": 65,
+        "defesa": 19,
+        "habilidades": [
+            "Imobilidade (Disfarce de Estátua)",
+            "Voo 18m"
+        ]
+    },
+    {
+        "nome": "Gárgula Assassina",
+        "nd": "4",
+        "tipo": "Construto Médio",
+        "pv": 140,
+        "defesa": 25,
+        "habilidades": [
+            "Ataque Furtivo +2d6",
+            "Imobilidade"
+        ]
+    },
+    {
+        "nome": "Golem de Barro",
+        "nd": "10",
+        "tipo": "Construto Grande",
+        "pv": 400,
+        "defesa": 36,
+        "habilidades": [
+            "Corpo Barroso",
+            "Imunidade a Magia",
+            "Lama (Penalidade em perícias)",
+            "Ressecamento"
+        ]
+    },
+    {
+        "nome": "Golem de Bronze",
+        "nd": "9",
+        "tipo": "Construto Grande",
+        "pv": 350,
+        "defesa": 34,
+        "habilidades": [
+            "Soar os Sinos (Dano sônico e atordoamento)",
+            "Imunidade a Magia (Cura com Fogo)"
+        ]
+    },
+    {
+        "nome": "Golem de Carne",
+        "nd": "7",
+        "tipo": "Construto Grande",
+        "pv": 300,
+        "defesa": 31,
+        "habilidades": [
+            "Fúria Homicida",
+            "Imunidade a Magia (Cura com Eletricidade)"
+        ]
+    },
+    {
+        "nome": "Golem de Espelhos",
+        "nd": "9",
+        "tipo": "Construto Grande",
+        "pv": 350,
+        "defesa": 32,
+        "habilidades": [
+            "Copiar Habilidade",
+            "Refletir Magia",
+            "Vulnerabilidade a Despedaçar"
+        ]
+    },
+    {
+        "nome": "Golem de Ferro",
+        "nd": "10",
+        "tipo": "Construto Grande",
+        "pv": 400,
+        "defesa": 36,
+        "habilidades": [
+            "Sopro de Gás Venenoso",
+            "Imunidade a Magia"
+        ]
+    },
+    {
+        "nome": "Golem de Ferro Superior",
+        "nd": "15",
+        "tipo": "Construto Grande",
+        "pv": 760,
+        "defesa": 55,
+        "habilidades": [
+            "Marcha de Ferro (Atropelamento)",
+            "Sopro de Gás Venenoso"
+        ]
+    },
+    {
+        "nome": "Golem de Matéria Vermelha",
+        "nd": "18",
+        "tipo": "Construto (lefeu) Enorme",
+        "pv": 900,
+        "defesa": 50,
+        "habilidades": [
+            "Abraço Corrosivo",
+            "Sangue Ácido",
+            "Insanidade da Tormenta"
+        ]
+    },
+    {
+        "nome": "Golem de Pedra",
+        "nd": "12",
+        "tipo": "Construto Grande",
+        "pv": 575,
+        "defesa": 43,
+        "habilidades": [
+            "Imobilidade",
+            "Resistência Extrema",
+            "Imunidade a Magia (Exceto Despedaçar)"
+        ]
+    },
+    {
+        "nome": "Instrumento Divino",
+        "nd": "7",
+        "tipo": "Construto Médio",
+        "pv": 266,
+        "defesa": 33,
+        "habilidades": [
+            "Aura de Arrependimento (Atordoa atacante)",
+            "Fulgor Divino",
+            "Quebrar Superior"
+        ]
+    },
+    {
+        "nome": "Soldado Mecânico",
+        "nd": "3",
+        "tipo": "Construto Médio",
+        "pv": 23,
+        "defesa": 20,
+        "habilidades": [
+            "Sopro de Vapor",
+            "Movido a Vapor (Ganha velocidade com fogo)"
+        ]
+    },
+    {
+        "nome": "Coletor de Arsenal",
+        "nd": "10",
+        "tipo": "Humanoide Médio",
+        "pv": 280,
+        "pm": 54,
+        "defesa": 32,
+        "habilidades": [
+            "Chicote de Aço",
+            "Desarmar Superior",
+            "Marca da Oferenda",
+            "Magias de Arsenal"
+        ]
+    },
+    {
+        "nome": "Forjador Litúrgico",
+        "nd": "9",
+        "tipo": "Humanoide Médio",
+        "pv": 230,
+        "defesa": 32,
+        "habilidades": [
+            "Armamento Sagrado",
+            "Desprezo pelo Ordinário (RD contra armas comuns)"
+        ]
+    },
+    {
+        "nome": "Concílio Forjador",
+        "nd": "13",
+        "tipo": "Humanoide Grande",
+        "papel": "Bando",
+        "pv": 430,
+        "defesa": 41,
+        "habilidades": [
+            "Bando",
+            "Armamento Sagrado"
+        ]
+    },
+    {
+        "nome": "Guerreiro Perpétuo",
+        "nd": "7",
+        "tipo": "Morto-vivo Médio",
+        "pv": 265,
+        "defesa": 33,
+        "habilidades": [
+            "Incorpóreo",
+            "Sempre Armado (Arma retorna)",
+            "Casca Vazia"
+        ]
+    },
+    {
+        "nome": "Kishin (Avatar Menor)",
+        "nd": "13",
+        "tipo": "Construto Enorme",
+        "pv": 617,
+        "defesa": 46,
+        "habilidades": [
+            "Armamento Adaptativo",
+            "Sobrecarga",
+            "Zona de Perigo"
+        ]
+    },
+    {
+        "nome": "Kishinauros (O Titã)",
+        "nd": "S",
+        "tipo": "Construto Colossal",
+        "pv": 2450,
+        "defesa": 61,
+        "habilidades": [
+            "Armamento Adaptativo Colossal",
+            "Balística Avançada",
+            "Protocolos de Emergência",
+            "Fúria do Panteão"
+        ]
+    },
+    {
+        "nome": "Acólito de Kally",
+        "nd": "3",
+        "tipo": "Humanoide Médio",
+        "pv": 60,
+        "pm": 29,
+        "defesa": 19,
+        "habilidades": [
+            "Aura de Medo",
+            "Servos do Dragão (Invoca Kobolds)"
+        ]
+    },
+    {
+        "nome": "Cavaleiro de Kally",
+        "nd": "8",
+        "tipo": "Humanoide Médio",
+        "pv": 250,
+        "defesa": 35,
+        "habilidades": [
+            "Cavaleiro Dracônico",
+            "Despertar o Poder",
+            "Investida Aérea",
+            "Montado em Corcel de Kally"
+        ]
+    },
+    {
+        "nome": "Alto Clérigo de Kally",
+        "nd": "13",
+        "tipo": "Monstro (kallyanach) Médio",
+        "pv": 455,
+        "pm": 72,
+        "defesa": 40,
+        "habilidades": [
+            "Poder Ilimitado",
+            "Manto do Cruzado",
+            "Magias 13º Nível"
+        ]
+    },
+    {
+        "nome": "Corcel de Kally",
+        "nd": "2",
+        "tipo": "Monstro Grande",
+        "pv": 72,
+        "defesa": 20,
+        "habilidades": [
+            "Sopro de Fogo",
+            "Natureza Dracônica",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Dracomante",
+        "nd": "5",
+        "tipo": "Humanoide Médio",
+        "pv": 112,
+        "pm": 40,
+        "defesa": 18,
+        "habilidades": [
+            "Arcano de Batalha",
+            "Dracomancia (RD Elemental)",
+            "Presença Aterradora"
+        ]
+    },
+    {
+        "nome": "Dracomante Superior",
+        "nd": "14",
+        "tipo": "Humanoide (elfo) Médio",
+        "pv": 500,
+        "pm": 112,
+        "defesa": 33,
+        "habilidades": [
+            "Transformação em Dragão",
+            "Magia Acelerada",
+            "Raio Arcano de Fogo"
+        ]
+    },
+    {
+        "nome": "Kallyanach Bárbaro",
+        "nd": "6",
+        "tipo": "Monstro Médio",
+        "pv": 224,
+        "defesa": 24,
+        "habilidades": [
+            "Fúria Elemental",
+            "Resistência a Fogo"
+        ]
+    },
+    {
+        "nome": "Kallyanach Morte Glacial",
+        "nd": "9",
+        "tipo": "Monstro Médio",
+        "pv": 340,
+        "defesa": 32,
+        "habilidades": [
+            "Ataque Furtivo +4d6",
+            "Sopro de Dragão (Frio)",
+            "Finta Aprimorada"
+        ]
+    },
+    {
+        "nome": "Avatar de Kallyadranoch",
+        "nd": "S",
+        "tipo": "Monstro (dragão) Colossal",
+        "pv": 2500,
+        "defesa": 65,
+        "habilidades": [
+            "Sopro Supremo (48d12)",
+            "Servos de Kally",
+            "Centelha Divina",
+            "Mergulho Mortal"
+        ]
+    },
+    {
+        "nome": "Chibi-Kabuto",
+        "nd": "1/4",
+        "tipo": "Animal Minúsculo",
+        "pv": 8,
+        "defesa": 13,
+        "habilidades": [
+            "Familiar"
+        ]
+    },
+    {
+        "nome": "Ko-Kabuto",
+        "nd": "1",
+        "tipo": "Animal Pequeno",
+        "pv": 38,
+        "defesa": 17,
+        "habilidades": [
+            "Agarralhada",
+            "Parceiro (Guardião)"
+        ]
+    },
+    {
+        "nome": "Horda de Ko-Kabuto",
+        "nd": "3",
+        "tipo": "Animal Médio",
+        "papel": "Bando",
+        "pv": 112,
+        "defesa": 22,
+        "habilidades": [
+            "Bando",
+            "Formação Defensiva"
+        ]
+    },
+    {
+        "nome": "Dai-Kabuto",
+        "nd": "4",
+        "tipo": "Animal Grande",
+        "pv": 155,
+        "defesa": 25,
+        "habilidades": [
+            "Agarrar Aprimorado",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Kaijin Capanga",
+        "nd": "6",
+        "tipo": "Monstro Médio",
+        "pv": 60,
+        "defesa": 26,
+        "habilidades": [
+            "Mutação Rubra",
+            "Mente Alienígena",
+            "Sangue Corrosivo"
+        ]
+    },
+    {
+        "nome": "Kaijin Bruto",
+        "nd": "11",
+        "tipo": "Monstro Grande",
+        "pv": 600,
+        "defesa": 42,
+        "habilidades": [
+            "3 Mutações Rubras",
+            "Dilacerar",
+            "Agarrar Aprimorado"
+        ]
+    },
+    {
+        "nome": "Kaijin Ninja",
+        "nd": "13",
+        "tipo": "Monstro Médio",
+        "pv": 450,
+        "pm": 48,
+        "defesa": 36,
+        "habilidades": [
+            "Ataque Furtivo +6d6",
+            "Truques Ninjas (Magias)",
+            "Sombra"
+        ]
+    },
+    {
+        "nome": "Kappa Brigão",
+        "nd": "1",
+        "tipo": "Espírito Médio",
+        "pv": 30,
+        "defesa": 18,
+        "habilidades": [
+            "Cura das Águas",
+            "Tigela D'água (Fraqueza)"
+        ]
+    },
+    {
+        "nome": "Kappa Yokozuna",
+        "nd": "3",
+        "tipo": "Espírito Médio",
+        "pv": 105,
+        "defesa": 23,
+        "habilidades": [
+            "Golpe Impactante",
+            "Agarrar Aprimorado",
+            "Derrubada Automática"
+        ]
+    },
+    {
+        "nome": "Mashin Monge",
+        "nd": "3",
+        "tipo": "Construto Médio",
+        "pv": 135,
+        "defesa": 22,
+        "habilidades": [
+            "Ataque de Chi",
+            "Evasão",
+            "Arma Elemental"
+        ]
+    },
+    {
+        "nome": "Mashin Samurai",
+        "nd": "5",
+        "tipo": "Construto Médio",
+        "pv": 221,
+        "defesa": 25,
+        "habilidades": [
+            "Kiai Divino (Dano Máximo)",
+            "Lâmina em Chamas",
+            "Arma Acoplada"
+        ]
+    },
+    {
+        "nome": "Nezumi Capanga",
+        "nd": "1",
+        "tipo": "Humanoide Pequeno",
+        "pv": 9,
+        "defesa": 15,
+        "habilidades": [
+            "Roedor (Avaria Armadura)"
+        ]
+    },
+    {
+        "nome": "Nezumi Ninja",
+        "nd": "3",
+        "tipo": "Humanoide Pequeno",
+        "pv": 74,
+        "defesa": 19,
+        "habilidades": [
+            "Bomba de Fumaça",
+            "Ataque Furtivo +2d6",
+            "Roedor"
+        ]
+    },
+    {
+        "nome": "Nezumi Brutamontes",
+        "nd": "4",
+        "tipo": "Humanoide Pequeno",
+        "pv": 140,
+        "defesa": 23,
+        "habilidades": [
+            "Estocada Invertida",
+            "Roedor"
+        ]
+    },
+    {
+        "nome": "Oni",
+        "nd": "5",
+        "tipo": "Espírito Médio",
+        "pv": 200,
+        "defesa": 24,
+        "habilidades": [
+            "Avesso à Honra (Dano extra contra heróis)",
+            "Ataque Pesado",
+            "Doença"
+        ]
+    },
+    {
+        "nome": "Aka Oni",
+        "nd": "9",
+        "tipo": "Espírito (lefeu) Médio",
+        "pv": 360,
+        "defesa": 35,
+        "habilidades": [
+            "Insanidade da Tormenta",
+            "Ataque Pesado",
+            "Tetsubo de Matéria Vermelha"
+        ]
+    },
+    {
+        "nome": "Tengu Bandoleiro",
+        "nd": "6",
+        "tipo": "Espírito Médio",
+        "pv": 51,
+        "defesa": 25,
+        "habilidades": [
+            "Asas Desorientadoras",
+            "Ataque Reflexo",
+            "Imprevisível como o Vento"
+        ]
+    },
+    {
+        "nome": "Daitengu",
+        "nd": "8",
+        "tipo": "Espírito Médio",
+        "pv": 222,
+        "pm": 64,
+        "defesa": 32,
+        "habilidades": [
+            "Magias de Bruxo",
+            "Ataque Reflexo",
+            "Imprevisível como o Vento"
+        ]
+    },
+    {
+        "nome": "Dragão Celestial Jovem",
+        "nd": "10",
+        "tipo": "Espírito Grande",
+        "pv": 450,
+        "pm": 75,
+        "defesa": 35,
+        "magias": [
+            "Lin-Wu 10º Nível"
+        ]
+    },
+    {
+        "nome": "Dragão Celestial Adulto",
+        "nd": "15",
+        "tipo": "Espírito Enorme",
+        "pv": 825,
+        "pm": 108,
+        "defesa": 50,
+        "habilidades": [
+            "Presença Celestial",
+            "Viagem Planar",
+            "Magias 15º Nível"
+        ]
+    },
+    {
+        "nome": "Dragão Celestial Venerável",
+        "nd": "20",
+        "tipo": "Espírito Enorme",
+        "pv": 1300,
+        "pm": 143,
+        "defesa": 60,
+        "habilidades": [
+            "Bombardeio Celestial",
+            "Intervenção Divina",
+            "Katana Celestial"
+        ]
+    },
+    {
+        "nome": "Arqueiro Escravo",
+        "nd": "5",
+        "tipo": "Humanoide (elfo) Médio",
+        "pv": 36,
+        "defesa": 24,
+        "habilidades": [
+            "Flecha Amiga",
+            "Minha Vida Pela Legião",
+            "Disparo Preciso"
+        ]
+    },
+    {
+        "nome": "Centurião",
+        "nd": "3",
+        "tipo": "Humanoide (minotauro) Médio",
+        "pv": 100,
+        "defesa": 23,
+        "habilidades": [
+            "Coordenar Ataque",
+            "Falange",
+            "Ordens"
+        ]
+    },
+    {
+        "nome": "Centurião de Elite",
+        "nd": "7",
+        "tipo": "Humanoide (minotauro) Médio",
+        "pv": 250,
+        "defesa": 32,
+        "habilidades": [
+            "É Proibido Morrer (Concede RD)",
+            "Coordenar Ataque",
+            "Falange"
+        ]
+    },
+    {
+        "nome": "Fúria de Tauron",
+        "nd": "4",
+        "tipo": "Morto-vivo Pequeno",
+        "pv": 30,
+        "defesa": 20,
+        "habilidades": [
+            "Incorpóreo",
+            "Debandada Flamejante",
+            "Chamas Espectrais"
+        ]
+    },
+    {
+        "nome": "Estouro de Fúrias de Tauron",
+        "nd": "8",
+        "tipo": "Morto-vivo Médio",
+        "papel": "Bando",
+        "pv": 76,
+        "defesa": 30,
+        "habilidades": [
+            "Bando",
+            "Debandada Flamejante"
+        ]
+    },
+    {
+        "nome": "Gladiador Táurico",
+        "nd": "10",
+        "tipo": "Humanoide (minotauro) Médio",
+        "pv": 390,
+        "defesa": 34,
+        "habilidades": [
+            "Agitar a Torcida (Ganha PV Temp)",
+            "Estilo Espetacular",
+            "Sangue e Areia"
+        ]
+    },
+    {
+        "nome": "Legionário",
+        "nd": "1",
+        "tipo": "Humanoide (minotauro) Médio",
+        "pv": 12,
+        "defesa": 19,
+        "habilidades": [
+            "Falange",
+            "Medo de Altura"
+        ]
+    },
+    {
+        "nome": "Decúria",
+        "nd": "5",
+        "tipo": "Humanoide (minotauro) Grande",
+        "papel": "Bando",
+        "pv": 60,
+        "defesa": 22,
+        "habilidades": [
+            "Bando",
+            "Disciplina Militar",
+            "Falange"
+        ]
+    },
+    {
+        "nome": "Legionário Insano",
+        "nd": "8",
+        "tipo": "Humanoide (minotauro) Médio",
+        "pv": 80,
+        "defesa": 30,
+        "habilidades": [
+            "Desapego à Vida",
+            "Olhar Desesperador",
+            "Retribuição Ensandecida"
+        ]
+    },
+    {
+        "nome": "Minauro Arcanista",
+        "nd": "3",
+        "tipo": "Humanoide Médio",
+        "pv": 64,
+        "pm": 34,
+        "defesa": 17,
+        "magias": [
+            "Mago 5º Nível"
+        ]
+    },
+    {
+        "nome": "Minauro Ladino",
+        "nd": "6",
+        "tipo": "Humanoide Médio",
+        "pv": 147,
+        "defesa": 25,
+        "habilidades": [
+            "Bombardeiro Veloz",
+            "Fuga Formidável",
+            "Mãos Leves",
+            "Pirueta Defensiva"
+        ]
+    },
+    {
+        "nome": "Governador Corrupto",
+        "nd": "6",
+        "tipo": "Humanoide (minotauro) Médio",
+        "pv": 122,
+        "defesa": 18,
+        "habilidades": [
+            "Como Ousa? (Anula ação)",
+            "Deliberação Desnorteante",
+            "Guarda Pessoal",
+            "Proteja-me!"
+        ]
+    },
+    {
+        "nome": "Cão de Kally",
+        "nd": "2",
+        "tipo": "Monstro Médio",
+        "pv": 21,
+        "defesa": 18,
+        "habilidades": [
+            "Sopro de Fogo",
+            "Derrubar",
+            "Parceiro (Fortão)"
+        ]
+    },
+    {
+        "nome": "Enxame Larval",
+        "nd": "1",
+        "tipo": "Monstro (kobold) Médio",
+        "papel": "Enxame",
+        "pv": 30,
+        "defesa": 16,
+        "habilidades": [
+            "Enxame",
+            "Distração",
+            "Entrar nas Roupas"
+        ]
+    },
+    {
+        "nome": "Kobold Patrulheiro",
+        "nd": "1/2",
+        "tipo": "Monstro Pequeno",
+        "pv": 6,
+        "defesa": 14,
+        "habilidades": [
+            "Peste Oportunista"
+        ]
+    },
+    {
+        "nome": "Kobold Veterano",
+        "nd": "2",
+        "tipo": "Monstro Pequeno",
+        "pv": 13,
+        "defesa": 19,
+        "habilidades": [
+            "Muito Já Apanhei (Ignora primeiro dano)",
+            "Peste Oportunista"
+        ]
+    },
+    {
+        "nome": "Patrulha Kobold",
+        "nd": "4",
+        "tipo": "Monstro Médio",
+        "papel": "Bando",
+        "pv": 30,
+        "defesa": 23,
+        "habilidades": [
+            "Bando",
+            "Peste Oportunista"
+        ]
+    },
+    {
+        "nome": "Kobold Bruto",
+        "nd": "4",
+        "tipo": "Monstro Grande",
+        "pv": 120,
+        "defesa": 23,
+        "habilidades": [
+            "Escamas de Kally (Dano pela metade)",
+            "Peste Oportunista",
+            "Cabecinha (Fraqueza)"
+        ]
+    },
+    {
+        "nome": "Kobold Explosivo",
+        "nd": "1",
+        "tipo": "Monstro Pequeno",
+        "pv": 9,
+        "defesa": 15,
+        "habilidades": [
+            "Detonação Final (Explode ao morrer)",
+            "Peste Oportunista"
+        ]
+    },
+    {
+        "nome": "Kobold Xamã",
+        "nd": "3",
+        "tipo": "Monstro Pequeno",
+        "pv": 69,
+        "pm": 15,
+        "defesa": 20,
+        "habilidades": [
+            "Aura de Medo",
+            "Símbolo Sagrado Energizado"
+        ],
+        "magias": [
+            "Kally 3º Nível"
+        ]
+    },
+    {
+        "nome": "Kobold-Mãe",
+        "nd": "12",
+        "tipo": "Monstro Grande",
+        "pv": 550,
+        "defesa": 41,
+        "habilidades": [
+            "Canção de Ninar (Dano Psíquico)",
+            "Mãe é Sagrado",
+            "Ovos (Invoca ninhadas)",
+            "Protejam a Mamãe"
+        ]
+    },
+    {
+        "nome": "Vagalhão Kobold",
+        "nd": "17",
+        "tipo": "Evento/Enxame Colossal",
+        "pv": "Especial",
+        "defesa": 50,
+        "habilidades": [
+            "Engolfar (12d12 dano)",
+            "Roubar Itens Mágicos",
+            "Frenesi Selvagem (Dura 1d8+6 rodadas)"
+        ]
+    }
+]

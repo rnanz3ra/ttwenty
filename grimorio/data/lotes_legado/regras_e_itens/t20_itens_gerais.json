@@ -1,0 +1,49 @@
+{
+    "itens_gerais": {
+        "aventura": [
+            {
+                "nome": "Mochila de Aventureiro",
+                "preco": 50,
+                "efeito": "+2 espaços de carga"
+            },
+            {
+                "nome": "Água Benta",
+                "preco": 10,
+                "efeito": "2d10 dano luz em Mortos-vivos/Demônios"
+            }
+        ],
+        "alquimicos": [
+            {
+                "nome": "Bálsamo Restaurador",
+                "preco": 10,
+                "efeito": "Recupera 2d4 PV"
+            },
+            {
+                "nome": "Essência de Mana",
+                "preco": 50,
+                "efeito": "Recupera 1d4 PM"
+            }
+        ],
+        "catalisadores": [
+            {
+                "nome": "Baga-de-Fogo",
+                "preco": 30,
+                "efeito": "+1d6 dano de fogo na magia"
+            }
+        ],
+        "hospedagem_noite": {
+            "Comum": {
+                "preco": 0.5,
+                "recuperacao": "1x Nível"
+            },
+            "Confortável": {
+                "preco": 4,
+                "recuperacao": "2x Nível"
+            },
+            "Luxuosa": {
+                "preco": 20,
+                "recuperacao": "3x Nível"
+            }
+        }
+    }
+}

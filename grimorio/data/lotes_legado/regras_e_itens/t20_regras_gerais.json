@@ -1,0 +1,106 @@
+{
+    "criacao_personagem": {
+        "idade_por_classe": {
+            "Bárbaro, Bucaneiro, Ladino, Lutador": "1d6+15",
+            "Bardo, Caçador, Cavaleiro, Guerreiro, Nobre, Paladino": "2d4+15",
+            "Arcanista, Clérigo, Druida, Inventor": "2d6+15"
+        },
+        "envelhecimento": {
+            "Maduro": {
+                "idade_minima": 45,
+                "mods": {
+                    "for": -1,
+                    "des": -1,
+                    "con": -1,
+                    "int": 1,
+                    "sab": 1,
+                    "car": 1
+                }
+            },
+            "Velho": {
+                "idade_minima": 70,
+                "mods": {
+                    "for": -2,
+                    "des": -2,
+                    "con": -2,
+                    "int": 1,
+                    "sab": 1,
+                    "car": 1
+                }
+            },
+            "multiplicador_longevidade": {
+                "Anão": 2,
+                "Qareen": 2,
+                "Dahllan": 0,
+                "Elfo": 0,
+                "Golem": 0,
+                "Osteon": 0,
+                "Sílfide": 0
+            }
+        }
+    },
+    "alinhamentos": {
+        "eixo_etico": [
+            "Bondoso",
+            "Neutro",
+            "Maligno"
+        ],
+        "eixo_moral": [
+            "Leal",
+            "Neutro",
+            "Caótico"
+        ],
+        "combinacoes": [
+            "LB",
+            "NB",
+            "CB",
+            "LN",
+            "N",
+            "CN",
+            "LM",
+            "NM",
+            "CM"
+        ],
+        "restricao_paladino": "Leal e Bondoso"
+    },
+    "tabelas_referencia": {
+        "tamanho": {
+            "Minúsculo": {
+                "espaco": "1,5m",
+                "furtividade": 5,
+                "manobra": -5
+            },
+            "Pequeno": {
+                "espaco": "1,5m",
+                "furtividade": 2,
+                "manobra": -2
+            },
+            "Médio": {
+                "espaco": "1,5m",
+                "furtividade": 0,
+                "manobra": 0
+            },
+            "Grande": {
+                "espaco": "3m",
+                "furtividade": -2,
+                "manobra": 2
+            },
+            "Enorme": {
+                "espaco": "4,5m",
+                "furtividade": -5,
+                "manobra": 5
+            },
+            "Colossal": {
+                "espaco": "9m",
+                "furtividade": -10,
+                "manobra": 10
+            }
+        },
+        "descanso_recuperacao": {
+            "ruim": "PV/PM = Nivel",
+            "normal": "PV/PM = Nivel * 2",
+            "confortavel": "PV/PM = Nivel * 3",
+            "luxuosa": "PV/PM = Nivel * 4"
+        }
+    }
+}

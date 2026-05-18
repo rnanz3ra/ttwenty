@@ -1,0 +1,12 @@
+{
+  "id": "ligação-sombria",
+  "name": "Ligação Sombria",
+  "circle": 4,
+  "type": "Divina",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "longo;",
+  "duration": "1 dia",
+  "description": "Cria uma conexão entre seu corpo e o  da criatura alvo, deixando uma marca idêntica na pele de ambos. Enquanto a magia durar, sempre que você sofrer qualquer dano ou condição, o alvo  desta magia deve fazer um teste de Fortitude; se falhar, sofre o mesmo dano  que você ou adquire a mesma condição.  196 Magia   A magia termina se o alvo chegar a 0  pontos de vida. +5 PM: a magia não termina se o alvo  chegar a 0 PV (o que significa que dano  causado por essa magia pode matá-lo).",
+  "resistance": "Fortitude anula"
+}

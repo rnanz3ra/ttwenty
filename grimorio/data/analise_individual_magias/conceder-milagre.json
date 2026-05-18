@@ -1,0 +1,11 @@
+{
+  "id": "conceder-milagre",
+  "name": "Conceder Milagre",
+  "circle": 4,
+  "type": "Divina",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "permanente até ser descarregada",
+  "description": "Você transfere um pouco de seu poder  divino a outra criatura. Escolha uma  magia de até 2º círculo que você conheça; o alvo pode lançar essa magia  uma vez, sem pagar o custo dela em  PM (aprimoramentos podem ser usados, mas o alvo deve gastar seus próprios PM). Você sofre uma penalidade  de –3 PM até que o alvo lance a magia. +4 PM: muda o círculo da magia concedida para 3º e a penalidade de PM  para –6. 184."
+}

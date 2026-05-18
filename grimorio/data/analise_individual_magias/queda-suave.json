@@ -1,0 +1,11 @@
+{
+  "id": "queda-suave",
+  "name": "Queda Suave",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Transmutação",
+  "execution": "reação;",
+  "range": "curto; Alvos: 1 criatura ou objeto Grande ou  menor; Duração: até chegar ao solo  ou cena, o que vier primeiro. O alvo cai lentamente. A velocidade da  queda é reduzida para 18m por rodada  — o suficiente para não causar dano.  Como lançar esta magia é uma reação,  você pode lançá-la rápido o bastante  para salvar a si ou um aliado de quedas  inesperadas. Lançada sobre um projétil  — como uma flecha ou uma rocha largada do alto de um penhasco —, a magia faz com que ele cause metade do  dano normal, devido à lentidão.  Queda Suave só funciona em criaturas e  objetos em queda livre; a magia não vai  frear um golpe de espada ou o mergulho rasante de um atacante voador.",
+  "duration": "até chegar ao solo  ou cena, o que vier primeiro",
+  "description": "O alvo cai lentamente. A velocidade da  queda é reduzida para 18m por rodada  — o suficiente para não causar dano.  Como lançar esta magia é uma reação,  você pode lançá-la rápido o bastante  para salvar a si ou um aliado de quedas  inesperadas. Lançada sobre um projétil  — como uma flecha ou uma rocha largada do alto de um penhasco —, a magia faz com que ele cause metade do  dano normal, devido à lentidão.  Queda Suave só funciona em criaturas e  objetos em queda livre; a magia não vai  frear seu deslocamento horizontal."
+}

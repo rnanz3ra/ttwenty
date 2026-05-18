@@ -1,0 +1,12 @@
+{
+  "id": "desespero--esmagador",
+  "name": "Desespero  Esmagador",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "instantânea",
+  "description": "Humanoides na área são acometidos de  grande tristeza, ficando fracos e frustrados até o fim da cena (ou por uma rodada, se passarem no teste de resistência). +2 PM: em vez do normal, as condições adquiridas são debilitado e esmorecido. +3 PM: em vez do normal, afeta qualquer tipo de criatura. +3 PM: além do normal, criaturas que  falhem na resistência ficam aos prantos (pasmos) por 1 rodada (apenas  uma vez por cena). Requer 3º círculo.",
+  "resistance": "Vontade parcial"
+}

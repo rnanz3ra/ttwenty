@@ -1,0 +1,34 @@
+[
+    {
+        "tomo": "Raças",
+        "nome": "Anão",
+        "lore": "Os anões são um povo antigo e resiliente, cujas raízes mergulham profundamente nas montanhas de Arton. Mestres da forja e da mineração, possuem uma ligação espiritual com as rochas e uma teimosia lendária que os mantém de pé mesmo quando impérios caem.",
+        "detalhes_tecnicos": {
+            "tamanho": "Médio",
+            "deslocamento": "6m (Não reduzido por carga)",
+            "atributos": "Con +2, Sab +1, Des -1",
+            "visao": "Escuro"
+        },
+        "habilidades_rodapé": [
+            "Conhecimento das Rochas (+2 Percepção em subterrâneos)",
+            "Duro como Pedra (+3 PV inicial +1/nível)",
+            "Tradição de Heredrimm (+2 ataque com machados e martelos)"
+        ]
+    },
+    {
+        "tomo": "Raças",
+        "nome": "Elfo",
+        "lore": "A raça élfica é marcada por uma tragédia milenar e uma graça inabalável. Após a queda de sua nação, Lenórienn, os elfos se espalharam por Arton como andarilhos e mercenários, carregando o peso de um passado glorioso e a maestria absoluta nas artes místicas.",
+        "detalhes_tecnicos": {
+            "tamanho": "Médio",
+            "deslocamento": "12m",
+            "atributos": "Int +2, Des +1, Con -1",
+            "visao": "Penumbra"
+        },
+        "habilidades_rodapé": [
+            "Graça de Glórienn (+3m deslocamento)",
+            "Sangue Mágico (+1 PM por nível)",
+            "Sentidos Élficos (+2 Misticismo e Percepção)"
+        ]
+    }
+]

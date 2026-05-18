@@ -1,0 +1,11 @@
+{
+  "id": "globo-de--invulnerabilidade",
+  "name": "Globo de  Invulnerabilidade",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "sustentada",
+  "description": "Você é envolto por uma esfera mágica brilhante com 3m de raio, que detém qualquer magia de 2º círculo ou  menor. Nenhuma magia pode ser lançada contra um alvo dentro do globo  e magias de área não  têm efeito dentro dele. No entanto, magias ainda podem ser lançadas de dentro para fora. Uma magia que dissipe outras magias  só dissipa o globo se for usada diretamente sobre você, não o afetando se  usada em área. Efeitos mágicos não  são dissipados quando entram na esfera, apenas supre atordoado."
+}

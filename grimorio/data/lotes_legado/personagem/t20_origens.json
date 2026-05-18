@@ -1,0 +1,506 @@
+{
+    "origens": [
+        {
+            "nome": "Acólito",
+            "itens": [
+                "Símbolo Sagrado",
+                "Traje de Sacerdote"
+            ],
+            "beneficios": [
+                "Cura",
+                "Religião",
+                "Vontade",
+                "Medicina",
+                "Membro da Igreja",
+                "Vontade de Ferro"
+            ]
+        },
+        {
+            "nome": "Amigo dos Animais",
+            "itens": [
+                "Cão",
+                "Cavalo",
+                "Pônei",
+                "Trobo"
+            ],
+            "beneficios": [
+                "Adestramento",
+                "Cavalgar",
+                "Amigo Especial (Poder Único)"
+            ]
+        },
+        {
+            "nome": "Amnésico",
+            "itens": [
+                "Itens até T$ 500"
+            ],
+            "beneficios": [
+                "Lembranças Graduais (Poder Único)"
+            ]
+        },
+        {
+            "nome": "Aristocrata",
+            "itens": [
+                "Joia de Família (T$ 300)",
+                "Traje da Corte"
+            ],
+            "beneficios": [
+                "Diplomacia",
+                "Enganação",
+                "Nobreza",
+                "Comandar",
+                "Sangue Azul"
+            ]
+        },
+        {
+            "nome": "Artesão",
+            "itens": [
+                "Instrumentos de Ofício"
+            ],
+            "beneficios": [
+                "Ofício",
+                "Vontade",
+                "Frutos do Trabalho",
+                "Sortudo"
+            ]
+        },
+        {
+            "nome": "Artista",
+            "itens": [
+                "Estojo de Disfarces",
+                "Instrumento"
+            ],
+            "beneficios": [
+                "Atuação",
+                "Enganação",
+                "Atraente",
+                "Dom Artístico",
+                "Sortudo",
+                "Torcida"
+            ]
+        },
+        {
+            "nome": "Assistente de Laboratório",
+            "itens": [
+                "Instrumentos de Ofício (Alquimia)"
+            ],
+            "beneficios": [
+                "Ofício",
+                "Misticismo",
+                "Esse Cheiro...",
+                "Venefício",
+                "Poder da Tormenta"
+            ]
+        },
+        {
+            "nome": "Batedor",
+            "itens": [
+                "Barraca",
+                "Equip. Viagem",
+                "Arma de Ataque à Distância"
+            ],
+            "beneficios": [
+                "Furtividade",
+                "Percepção",
+                "Sobrevivência",
+                "À Prova de Tudo",
+                "Estilo de Disparo",
+                "Sentidos Aguçados"
+            ]
+        },
+        {
+            "nome": "Capanga",
+            "itens": [
+                "Tatuagem ou Adereço de Gangue",
+                "Arma Simples"
+            ],
+            "beneficios": [
+                "Luta",
+                "Intimidação",
+                "Confissão",
+                "Poder de Combate"
+            ]
+        },
+        {
+            "nome": "Charlatão",
+            "itens": [
+                "Estojo de Disfarces",
+                "Joia Falsificada"
+            ],
+            "beneficios": [
+                "Enganação",
+                "Jogatina",
+                "Alpinista Social",
+                "Aparência Inofensiva",
+                "Sortudo"
+            ]
+        },
+        {
+            "nome": "Circense",
+            "itens": [
+                "Três bolas coloridas"
+            ],
+            "beneficios": [
+                "Acrobacia",
+                "Atuação",
+                "Reflexos",
+                "Acrobático",
+                "Torcida",
+                "Truque de Mágica"
+            ]
+        },
+        {
+            "nome": "Criminoso",
+            "itens": [
+                "Estojo de Disfarces",
+                "Gazua"
+            ],
+            "beneficios": [
+                "Enganação",
+                "Furtividade",
+                "Ladinagem",
+                "Punguista",
+                "Venefício"
+            ]
+        },
+        {
+            "nome": "Curandeiro",
+            "itens": [
+                "Bálsamo Restaurador x2",
+                "Maleta"
+            ],
+            "beneficios": [
+                "Cura",
+                "Vontade",
+                "Medicina",
+                "Médico de Campo",
+                "Venefício"
+            ]
+        },
+        {
+            "nome": "Eremita",
+            "itens": [
+                "Barraca",
+                "Equip. Viagem"
+            ],
+            "beneficios": [
+                "Misticismo",
+                "Religião",
+                "Sobrevivência",
+                "Busca Interior",
+                "Lobo Solitário"
+            ]
+        },
+        {
+            "nome": "Escravo",
+            "itens": [
+                "Algemas",
+                "Ferramenta Pesada (Maça)"
+            ],
+            "beneficios": [
+                "Atletismo",
+                "Fortitude",
+                "Furtividade",
+                "Desejo de Liberdade",
+                "Vitalidade"
+            ]
+        },
+        {
+            "nome": "Estudioso",
+            "itens": [
+                "Coleção de Livros"
+            ],
+            "beneficios": [
+                "Conhecimento",
+                "Guerra",
+                "Misticismo",
+                "Aparência Inofensiva",
+                "Palpite Fundamentado"
+            ]
+        },
+        {
+            "nome": "Fazendeiro",
+            "itens": [
+                "Carroça",
+                "Ferramenta Agrícola",
+                "10 Rações",
+                "Animal"
+            ],
+            "beneficios": [
+                "Adestramento",
+                "Cavalgar",
+                "Ofício",
+                "Sobrevivência",
+                "Água no Feijão",
+                "Ginete"
+            ]
+        },
+        {
+            "nome": "Forasteiro",
+            "itens": [
+                "Equip. Viagem",
+                "Instr. Musical Exótico",
+                "Traje Estrangeiro"
+            ],
+            "beneficios": [
+                "Cavalgar",
+                "Pilotagem",
+                "Sobrevivência",
+                "Cultura Exótica",
+                "Lobo Solitário"
+            ]
+        },
+        {
+            "nome": "Gladiador",
+            "itens": [
+                "Arma Marcial",
+                "Item de Admirador"
+            ],
+            "beneficios": [
+                "Atuação",
+                "Luta",
+                "Atraente",
+                "Pão e Circo",
+                "Torcida",
+                "Poder de Combate"
+            ]
+        },
+        {
+            "nome": "Guarda",
+            "itens": [
+                "Apito",
+                "Insígnia",
+                "Arma Marcial"
+            ],
+            "beneficios": [
+                "Investigação",
+                "Luta",
+                "Percepção",
+                "Detetive",
+                "Investigador",
+                "Poder de Combate"
+            ]
+        },
+        {
+            "nome": "Herdeiro",
+            "itens": [
+                "Símbolo de Herança (Anel/Manto)"
+            ],
+            "beneficios": [
+                "Misticismo",
+                "Nobreza",
+                "Ofício",
+                "Comandar",
+                "Herança"
+            ]
+        },
+        {
+            "nome": "Herói Camponês",
+            "itens": [
+                "Instr. de Ofício",
+                "Traje Plebeu"
+            ],
+            "beneficios": [
+                "Adestramento",
+                "Ofício",
+                "Coração Heroico",
+                "Sortudo",
+                "Surto Heroico",
+                "Torcida"
+            ]
+        },
+        {
+            "nome": "Marujo",
+            "itens": [
+                "Tibares de Salário",
+                "Corda"
+            ],
+            "beneficios": [
+                "Atletismo",
+                "Jogatina",
+                "Pilotagem",
+                "Acrobático",
+                "Passagem de Navio"
+            ]
+        },
+        {
+            "nome": "Mateiro",
+            "itens": [
+                "Arco Curto",
+                "Barraca",
+                "Equip. Viagem",
+                "20 flechas"
+            ],
+            "beneficios": [
+                "Atletismo",
+                "Furtividade",
+                "Sobrevivência",
+                "Lobo Solitário",
+                "Sentidos Aguçados",
+                "Vendedor de Carcaças"
+            ]
+        },
+        {
+            "nome": "Membro de Guilda",
+            "itens": [
+                "Gazua",
+                "Instr. de Ofício"
+            ],
+            "beneficios": [
+                "Diplomacia",
+                "Enganação",
+                "Misticismo",
+                "Ofício",
+                "Foco em Perícia",
+                "Rede de Contatos"
+            ]
+        },
+        {
+            "nome": "Mercador",
+            "itens": [
+                "Carroça",
+                "Trobo",
+                "Mercadorias"
+            ],
+            "beneficios": [
+                "Diplomacia",
+                "Intuição",
+                "Ofício",
+                "Negociação",
+                "Proficiência",
+                "Sortudo"
+            ]
+        },
+        {
+            "nome": "Minerador",
+            "itens": [
+                "Gemas (T$ 100)",
+                "Picareta"
+            ],
+            "beneficios": [
+                "Atletismo",
+                "Fortitude",
+                "Ofício",
+                "Ataque Poderoso",
+                "Escavador",
+                "Sentidos Aguçados"
+            ]
+        },
+        {
+            "nome": "Nômade",
+            "itens": [
+                "Bordão",
+                "Equip. Viagem"
+            ],
+            "beneficios": [
+                "Cavalgar",
+                "Pilotagem",
+                "Sobrevivência",
+                "Lobo Solitário",
+                "Mochileiro",
+                "Sentidos Aguçados"
+            ]
+        },
+        {
+            "nome": "Pivete",
+            "itens": [
+                "Gazua",
+                "Traje de Plebeu",
+                "Animal Urbano"
+            ],
+            "beneficios": [
+                "Furtividade",
+                "Iniciativa",
+                "Ladinagem",
+                "Acrobático",
+                "Aparência Inofensiva",
+                "Quebra-Galho"
+            ]
+        },
+        {
+            "nome": "Refugiado",
+            "itens": [
+                "Item Estrangeiro (T$ 100)"
+            ],
+            "beneficios": [
+                "Fortitude",
+                "Reflexos",
+                "Vontade",
+                "Estoico",
+                "Vontade de Ferro"
+            ]
+        },
+        {
+            "nome": "Seguidor",
+            "itens": [
+                "Item de Mestre (T$ 100)"
+            ],
+            "beneficios": [
+                "Adestramento",
+                "Ofício",
+                "Antigo Mestre",
+                "Proficiência",
+                "Surto Heroico"
+            ]
+        },
+        {
+            "nome": "Selvagem",
+            "itens": [
+                "Arma Simples",
+                "Animal de Estimação"
+            ],
+            "beneficios": [
+                "Percepção",
+                "Reflexos",
+                "Sobrevivência",
+                "Lobo Solitário",
+                "Vida Rústica",
+                "Vitalidade"
+            ]
+        },
+        {
+            "nome": "Soldado",
+            "itens": [
+                "Arma Marcial",
+                "Uniforme",
+                "Insígnia"
+            ],
+            "beneficios": [
+                "Fortitude",
+                "Guerra",
+                "Luta",
+                "Pontaria",
+                "Influência Militar",
+                "Poder de Combate"
+            ]
+        },
+        {
+            "nome": "Taverneiro",
+            "itens": [
+                "Rolo de Macarrão",
+                "Panela",
+                "Avental"
+            ],
+            "beneficios": [
+                "Diplomacia",
+                "Jogatina",
+                "Ofício",
+                "Gororoba",
+                "Proficiência",
+                "Vitalidade"
+            ]
+        },
+        {
+            "nome": "Trabalhador",
+            "itens": [
+                "Ferramenta Pesada"
+            ],
+            "beneficios": [
+                "Atletismo",
+                "Fortitude",
+                "Atlético",
+                "Esforçado"
+            ]
+        }
+    ]
+}

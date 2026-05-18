@@ -1,0 +1,338 @@
+{
+    "aharadak" : {
+        "nome": "Aharadak",
+        "crencas_objetivos": "Reverenciar a Tormenta, apregoar a inevitabilidade de sua chegada ao mundo. Praticar a devassidão e a perversão. Deturpar tudo que é correto, desfigurar tudo que é normal. Abraçar a agonia, crueldade e loucura.",
+        "devotos_permitidos": "Quaisquer. A Tormenta aceita tudo e todos.",
+        "simbolo_sagrado": "Um olho macabro de pupila vertical e cercado de espinhos.",
+        "canalizar_energia": "Negativa",
+        "arma_preferida": "Corrente de Espinhos",
+        "obrigacoes_restricoes": {
+            "0": "Quase todos os cultistas de Aharadak são maníacos insanos, compelidos a praticar os atos mais abomináveis. No entanto, talvez devido à própria natureza alienígena e incompreensível deste deus, uns poucos devotos conseguem se resguardar. Conseguem preservar sua preciosa humanidade, abstendo-se de cometer crimes ou profanações. Ainda assim, o devoto de Aharadak deve pagar um preço. No início de qualquer cena de ação, role 1d6. Com um resultado ímpar, você fica fascinado na primeira rodada, perdido em devaneios sobre a futilidade da vida."
+        },
+        "poderes_concedidos": [
+            { "nome": "Afinidade com a Tormenta", "descricao": "Você recebe +10 em testes de resistência contra efeitos da Tormenta e de suas criaturas." },
+            { "nome": "Percepção Temporal", "descricao": "Você pode gastar 3 PM para adicionar seu bônus de Sabedoria (mínimo +1, limitado por seu nível) a seus ataques, Defesa e testes de Reflexos até o fim da cena."},
+            { "nome": "Rejeição Divina", "descricao": "Você recebe +5 em testes de resistência contra magias divinas." }
+        ]
+    },
+    "allihanna" : {
+        "nome": "Allihanna",
+        "crencas_objetivos": "Reverenciar os seres da natureza. Proteger a vida selvagem. Promover harmonia entre a natureza e a civilização. Combater monstros, mortos-vivos e outras criaturas que perturbam o equilíbrio natural.",
+        "devotos_permitidos": "Dahllan, elfos, sílfides, bárbaros, caçadores, druidas.",
+        "simbolo_sagrado":"Para bárbaros e outros adoradores de animais, o símbolo corresponde ao respectivo animal. Para outros, uma pequena árvore.",
+        "canalizar_energia": "Positiva",
+        "arma_preferida": "Bordão",
+        "obrigacoes_restricoes": {
+            "0":"Devotos de Allihanna não podem usar armaduras e escudos feitos de metal. Assim, você só pode usar armadura acolchoada, armadura de couro, gibão de peles e escudo leve.",
+            "1":"Devotos de Allihanna não podem descansar em nenhuma comunidade maior que uma aldeia (não perdem seus poderes, mas também não recuperam pontos de vida ou mana). Por isso, sempre preferem o relento a um quarto de estalagem."
+        },
+        "poderes_concedidos": [
+            { "nome": "Dedo Verde", "descricao": "Você aprende e pode lançar Controlar Plantas." },
+            { "nome": "Descanso Natural", "descricao": "Para você, dormir ao relento conta como uma estalagem confortável."},
+            { "nome": "Voz da Natureza", "descricao": "Você pode falar com animais (como o efeito da magia Voz Divina) e aprende e pode lançar Acalmar Animal, mas só contra animais." } 
+        ]
+    },
+    "arsenal" : {
+        "nome": "Arsenal",
+        "crencas_objetivos": "Promover a guerra e o conflito. Vencer a qualquer custo, pela força ou estratégia. Jamais oferecer ou aceitar rendição. Eliminar as próprias fraquezas. Conhecer o inimigo como a si mesmo. Sempre encontrar condições de vitória; quando não existirem, criá-las.",
+        "devotos_permitidos": "Anões, minotauros, bárbaros, cavaleiros, guerreiros, lutadores.",
+        "simbolo_sagrado": "Um martelo de guerra e uma espada longa cruzados sobre um escudo.",
+        "canalizar_energia": "Negativa",
+        "arma_preferida": "Martelo de Guerra",
+        "obrigacoes_restricoes": {
+            "0": "Um devoto de Arsenal é proibido de ser derrotado em qualquer tipo de combate ou disputa (como um teste oposto para ver quem é mais forte). Caso seu grupo seja derrotado, isso também constitui uma violação das obrigações."
+        },
+        "poderes_concedidos": [
+            { "nome": "Conjurar Arma", "descricao": "Você pode gastar 1 PM para invocar uma arma corpo a corpo ou de arremesso com a qual seja profi-ciente. A arma surge em sua mão, recebe um bônus de +1 em testes de ataque e rolagens de dano e dura pela cena. Você não pode criar armas de disparo, mas pode criar 20 projéteis (flechas, virotes etc.)." },
+            { "nome": "Coragem Total", "descricao": "Você é imune a efeitos de medo, mágicos ou não. Este poder não elimina fobias raciais (como o medo de altura dos minotauros)."},
+            { "nome": "Sangue de Ferro", "descricao": "Você pode pagar 2 PM para receber +2 em rolagens de dano e resistência a dano 5 até o fim da cena." } 
+        ]
+    },
+    "azgher" : {
+        "nome": "Azgher",
+        "crencas_objetivos": "Praticar a gratidão pela proteção e generosidade do sol. Promover a honestidade, expor embustes e mentiras. Praticar a caridade e altruísmo. Proteger os necessitados. Oferecer clemência, perdão e redenção. Combater o mal.",
+        "devotos_permitidos": "Aggelus, qareen, arcanistas, bárbaros, caçadores, cavaleiros, guerreiros, nobres, paladinos.",
+        "simbolo_sagrado":"Um sol dourado.",
+        "canalizar_energia": "Positiva",
+        "arma_preferida": "Cimitarra",
+        "obrigacoes_restricoes": {
+            "0": "O devoto de Azgher deve manter o rosto sempre coberto (com uma máscara, capuz ou trapos). Sua face pode ser revelada apenas ao sumo-sacerdote, ou em seu funeral.",
+            "1": "Devotos do Sol também devem doar para a igreja de Azgher 20% de qualquer tesouro obtido. Essa doação deve ser feita em ouro, seja na forma de moedas ou itens."
+        },
+        "poderes_concedidos": [
+            { "nome": "Espada Solar", "descricao": "Você pode gastar 1 PM para fazer uma arma corpo a corpo de corte que esteja empunhando causar +1d6 de dano por fogo até o fim da cena." },
+            { "nome": "Habitante do Deserto", "descricao": "Você recebe resistência a fogo 5 e pode pagar 1 PM para criar água pura e potável suficiente para um odre (ou outro recipiente pequeno)."},
+            { "nome": "Inimigo de Tenebra", "descricao": "Seus ataques e habilidades causam +1d6 pontos de dano contra mortos-vivos." } 
+        ]
+    },
+    "hyninn" : {
+        "nome": "Hyninn",
+        "crencas_objetivos": "Praticar a astúcia e a esperteza. Demonstrar que honestidade e sinceridade levam ao fracasso. Desafiar a lei e a ordem. Ser vitorioso sem seguir regras. Fazer aos outros antes que façam a você. Levar vantagem em tudo.",
+        "devotos_permitidos": "Hynne, goblins, sílfides, bardos, bucaneiros, ladinos, inventores, nobres.",
+        "simbolo_sagrado":"Uma adaga atravessando uma máscara, ou uma raposa.",
+        "canalizar_energia": "Qualquer",
+        "arma_preferida": "Adaga",
+        "obrigacoes_restricoes": {
+            "0": "Um devoto de Hyninn não recusa participação em um golpe, trapaça ou artimanha (o que muitas vezes inclui missões para roubar... hã, resgatar tesouros), exceto quando prejudica seus próprios companheiros.",
+            "1": "O devoto também deve fazer um ato furtivo, ousado ou proibido por dia (ou por sessão de jogo, o que demorar mais), como oferenda a Hyninn. Roubar uma bolsa, enganar um miliciano, invadir o quarto de um nobre... Em termos de jogo, uma ação exigindo um teste de Enganação ou Ladinagem com CD mínima 15 + metade do seu nível."
+        },
+        "poderes_concedidos": [
+            { "nome": "Farsa do Fingidor", "descricao": "Você aprende e pode lançar Criar Ilusão." },
+            { "nome": "Forma de Macaco", "descricao": "Você pode gastar uma ação completa e 2 PM para se transformar em um macaco. Você adquire tamanho Minúsculo (o que fornece +5 em Furtividade e –5 em testes de manobra) e recebe deslocamento de escalar 9m. Seu equipamento desaparece (e você perde seus benefícios) até você voltar ao normal, mas suas outras estatísticas não são alteradas. A transformação dura indefinidamente, mas termina caso você faça um ataque, lance uma magia ou sofra dano."},
+            { "nome": "Golpista Divino", "descricao": "Você recebe +2 em Enganação e Ladinagem." } 
+        ]
+    },
+    "kallyadranoch" : {
+        "nome": "Kallyadranoch",
+        "crencas_objetivos": "Praticar a soberania. Demonstrar orgulho, superioridade, majestade. Praticar o acúmulo de riquezas. Proteger suas posses e sua dignidade. Ser implacável com seus inimigos. Reverenciar os dragões e suas crias.",
+        "devotos_permitidos": "Elfos, medusas, sulfure, arcanistas, cavaleiros, guerreiros, lutadores, nobres.",
+        "simbolo_sagrado": "Escamas de cinco cores diferentes.",
+        "canalizar_energia": "Negativa",
+        "arma_preferida": "Lança",
+        "obrigacoes_restricoes": {
+            "0": "Para subir de nível, além de acumular XP suficiente, o devoto de Kallyadranoch deve realizar uma oferenda em tesouro. O valor é igual à metade da diferença do dinheiro inicial do nível que vai alcançar para o nível atual (por exemplo, T$ 200 para subir para o 4° nível). Sabe-se, também, de devotos malignos que sacrificam vítimas a Kallyadranoch (não permitido para personagens jogadores)."
+        },
+        "poderes_concedidos": [
+            { "nome": "Aura de Medo", "descricao": "Você pode gastar 2 PM para gerar uma aura de medo com alcance curto e duração até o fim da cena. Todos os inimigos que entrem na aura devem fazer um teste de Vontade (CD Car) ou ficam abalados até o fim da cena. Uma criatura que passe no teste de Vontade fica imune a esta habilidade por um dia." },
+            { "nome": "Escamas Dracônicas", "descricao": "Você recebe +1 na Defesa."},
+            { "nome": "Servos do Dragão", "descricao": "Você pode gastar uma ação completa e 2 PM para invocar 2d4+1 kobolds em espaços desocupados em alcance curto. Você pode usar uma ação de movimento para fazer os kobolds andarem (eles têm deslocamento 9m) ou uma ação padrão para fazê-los causar dano a criaturas adjacentes (1d6–1 pontos de dano de perfuração cada). Os kobolds têm For 8, Des 14, 1 PV, não têm valor de Defesa ou testes de resistência e falham automaticamente em qualquer teste oposto. Eles desaparecem quando morrem ou no fim da cena. Os kobolds não agem sem receber uma ordem. Usos criativos para criaturas invocadas fora de combate ficam a critério do mestre." } 
+        ]
+    },
+    "khalmyr" : {
+        "nome": "Khalmyr",
+        "crencas_objetivos": "Praticar a caridade e altruísmo. Proteger a lei e ordem. Proteger os necessitados. Combater a mentira, o crime e o mal. Oferecer clemência, perdão e redenção. Lutar o bom combate.",
+        "devotos_permitidos": "Aggelus, anões, cavaleiros, guerreiros, nobres, paladinos.",
+        "simbolo_sagrado":"Espada sobreposta a uma balança.",
+        "canalizar_energia": "Positiva",
+        "arma_preferida": "Espada Longa",
+        "obrigacoes_restricoes": {
+            "0": "Devotos de Khalmyr não podem recusar pedidos de ajuda feitos por pessoas inocentes. Também devem cumprir as ordens de superiores na hierarquia da igreja (qualquer devoto do Deus da Justiça de nível maior) e só podem usar itens mágicos criados por devotos do mesmo deus."
+        },
+        "poderes_concedidos": [
+            { "nome": "Coragem Total", "descricao": "Você é imune a efeitos de medo, mágicos ou não. Este poder não elimina fobias raciais (como o medo de altura dos minotauros)."},
+            { "nome": "Dom da Verdade", "descricao": "Você pode pagar 1 PM para receber +5 em testes de Intuição até o fim da cena."},
+            { "nome": "Espada Justiceira", "descricao": "Você pode gastar 1 PM para encantar sua espada (ou outra arma corpo a corpo de corte que esteja empunhando). Ela recebe +1 em testes de ataque e rolagens de dano até o fim da cena." } 
+        ]
+    }, 
+    "lena" : {
+        "nome": "Lena",
+        "crencas_objetivos": "Reverenciar e proteger a vida em todas as suas formas. Reverenciar a fecundidade, a maternidade e a infância. Praticar a caridade e altruísmo. Oferecer clemência, perdão e redenção. Aliviar a dor e sofrimento físico, mental ou espiritual.",
+        "devotos_permitidos": "Dahllan, qareen, nobres, paladinos.",
+        "simbolo_sagrado":"Lua crescente prateada.",
+        "canalizar_energia": "Positiva",
+        "arma_preferida": "Não há. Servos desta deusa não podem lançar a magia arma espiritual e similares.",
+        "obrigacoes_restricoes": {
+            "0": "Devotos de Lena não podem causar dano letal a criaturas vivas (habilidades que aumentem o dano letal causado por seus aliados também são proibidas). Podem causar dano não letal e prejudicar seus inimigos (em termos de jogo, impondo condições), desde que não causem dano letal. Para um devoto de Lena, é preferível perder a própria vida a tirá-la de outros.",
+            "1": "Apenas mulheres podem ser devotas de Lena. Uma clériga precisa dar à luz pelo menos uma vez antes de receber seus poderes divinos. A fecundação é um mistério bem guardado pelas sacerdotisas; conta-se que a própria deusa vem semear suas discípulas. Paladinos de Lena podem ser homens (são os únicos devotos masculinos permitidos) ou mulheres."
+        },
+        "poderes_concedidos": [
+            { "nome": "Ataque Piedoso", "descricao": "Você pode usar armas de corpo a corpo para causar dano não letal sem sofrer a penalidade de –5 no teste de ataque." },
+            { "nome": "Aura Restauradora", "descricao": "Você e seus aliados em alcance curto recuperam duas vezes mais pontos de vida por descanso." },
+            { "nome": "Curandeira Perfeita", "descricao": "Você sempre pode escolher 10 em testes de Cura. Além disso, pode usar essa perícia mesmo sem um kit de medicamentos. Se usar o kit, recebe +2 no teste de Cura." },
+            { "nome": "Cura Gentil", "descricao": "Você adiciona seu bônus de Carisma (mínimo +1) aos PV restaurados por suas magias de cura." }
+        ]
+    },
+    "lin-wu": {
+        "nome": "Lin-Wu",
+        "crencas_objetivos": "Promover a honra acima de tudo. Proteger Tamu-ra e o Reinado de Arton. Praticar honestidade, coragem, cortesia e compaixão. Demonstrar integridade e dignidade. Ser leal a seus companheiros. Buscar redenção após cometer desonra.",
+        "devotos_permitidos": "Anões, cavaleiros, guerreiros, nobres, paladinos.",
+        "simbolo_sagrado":"Placa de metal com a silhueta de um dragão-serpente celestial.",
+        "canalizar_energia": "Qualquer",
+        "arma_preferida": "Katana.",
+        "obrigacoes_restricoes": {
+            "0": "Antigas proibições quanto a devotos estrangeiros ou do gênero feminino não mais se aplicam. No entanto, devotos de Lin-Wu ainda devem demonstrar comportamento honrado, jamais recorrendo a mentiras e subterfúgios. Em termos de jogo, são proibidos de tentar qualquer ação que exigiria um teste de Enganação, Furtividade ou Ladinagem."
+        },
+        "poderes_concedidos": [
+            { "nome": "Coragem Total", "descricao": "Você é imune a efeitos de medo, mágicos ou não. Este poder não elimina fobias raciais (como o medo de altura dos minotauros)."},
+            { "nome": "Kiai Divino", "descricao": "Quando faz um ataque corpo a corpo, você pode pagar 2 PM. Se acertar o ataque, causa dano máximo."},
+            { "nome": "Mente Vazia", "descricao": "Você recebe +2 em Iniciativa e Vontade."}
+        ]
+    },
+    "marah": {
+        "nome": "Marah",
+        "crencas_objetivos": "Praticar o amor e a gratidão pela vida, pela bondade dos deuses. Promover a paz, harmonia e felicidade. Aliviar a dor e o sofrimento, trazer conforto aos aflitos. Praticar a caridade e o altruísmo. Oferecer clemência, perdão e redenção.",
+        "devotos_permitidos": "Aggelus, elfos, hynne, qareen, bardos, nobres, paladinos.",
+        "simbolo_sagrado":"Um coração vermelho.",
+        "canalizar_energia": "Positiva",
+        "arma_preferida": "Não há. Devotos desta deusa não podem lançar a magia Arma Espiritual e similares.",
+        "obrigacoes_restricoes": {
+            "0": "Devotos de Marah não podem causar dano e impor condições a criaturas, exceto fascinado e pasmo (habilidades que aumentem o dano causado por seus aliados também são proibidas). Em combate, só podem recorrer a ações como proteger ou curar — ou então fugir, render-se ou aceitar a morte. Um devoto de Marah jamais vai causar violência, nem mesmo para se salvar."
+        },
+        "poderes_concedidos": [
+            { "nome": "Aura de Paz", "descricao": "Você pode gastar 2 PM para gerar uma aura de paz com alcance curto e duração de uma cena. Qualquer inimigo dentro da aura que tente fazer uma ação hostil contra você deve fazer um teste de Vontade (CD Car). Se falhar, perderá sua ação. Se passar, fica imune a esta habilidade por um dia."},
+            { "nome": "Palavras de Bondade", "descricao": "Você aprende e pode lançar Enfeitiçar."},
+            { "nome": "Talento Artístico", "descricao": "Você recebe +2 em Atuação e Diplomacia."}
+        ]
+    },
+    "megalokk": {
+        "nome": "Megalokk",
+        "crencas_objetivos": "Praticar a violência, a soberania do mais forte. Jamais reprimir os próprios instintos e desejos. Jamais ser domado, desafiar qualquer forma de controle. Jamais oferecer perdão ou rendição. Eliminar os fracos. Destruir seus inimigos.",
+        "devotos_permitidos": "Goblins, medusas, minotauros, sulfure, trogs, bárbaros, caçadores, druidas, lutadores.",
+        "simbolo_sagrado":"A garra de um monstro.",
+        "canalizar_energia": "Negativa",
+        "arma_preferida": "Maça",
+        "obrigacoes_restricoes": {
+            "0": "Devotos de Megalokk devem entregar-se à ferocidade, descontrole e impaciência. Você é proibido de tentar ações que exigem calma ou foco, como preparar uma ação, escolher 10 ou 20 em um teste ou lançar uma magia sustentada.",
+            "1": "O devoto também é obrigado a rejeitar os modos civilizados. Você é proibido de tentar qualquer teste de perícia baseada em Inteligência ou Carisma (exceto Intimidação)."
+        },
+        "poderes_concedidos": [
+            { "nome": "Olhar Amedrontador", "descricao": "Você aprende e pode lançar Amedrontar."},
+            { "nome": "Urro Divino", "descricao": "Quando faz um ataque ou lança uma magia, você pode pagar 1 PM para somar seu modificador de Constituição (mínimo +1) à rolagem de dano desse ataque ou magia."},
+            { "nome": "Voz dos Monstros", "descricao": "Você conhece os idiomas de todos os monstros inteligentes (criaturas do tipo monstro com Int 3 ou mais) e pode se comunicar livremente com monstros não inteligentes (Int 1 ou 2), como se estivesse sob efeito da magia Voz Divina."}
+        ]
+    },
+    "nimb" : {
+        "nome": "Nimb",
+        "crencas_objetivos": "Reverenciar o caos, a aleatoriedade, a sorte e azar. Praticar a ousadia e rebeldia, desafiar regras e leis. Rejeitar o bom senso. Tornar o mundo mais interessante. Ou divertido. Ou terrível. Ou não.",
+        "devotos_permitidos": "Goblins, qareen, sílfides, arcanistas, bárbaros, bardos, bucaneiros, inventores, ladinos.",
+        "simbolo_sagrado":"Um dado de seis faces.",
+        "canalizar_energia": "Qualquer",
+        "arma_preferida": "Nenhuma e todas! Ao usar um efeito que dependa de arma preferida, qualquer arma (ou outro objeto!) pode aparecer, de acordo com o mestre",
+        "obrigacoes_restricoes": {
+            "0": "Por  serem  incapazes de seguir regras, estes devotos não têm “obrigações” verdadeiras (portanto, nunca perdem seus poderes concedidos). No entanto, sofrem certas restrições que não podem escolher ignorar.",
+            "1": "Devotos de Nimb são loucos (ou agem como se fossem), não conseguindo convencer ninguém de coisa alguma. Você sofre um severo redutor de –5 em todos os testes de perícias baseadas em Carisma.",
+            "2": "Além disso, sempre que você entra em combate, role 1d6. Com um resultado 1, você fica confuso até o fim da cena."
+        },
+        "poderes_concedidos": [
+            { "nome": "Poder Oculto", "descricao": "Você pode gastar uma ação de movimento e 2 PM para invocar a força, a rapidez ou o vigor dos loucos. Role 1d6 para receber +4 em Força (1 ou 2), Destreza (3 ou 4) ou Constituição (5 ou 6) até o fim da cena. Você pode usar este poder várias vezes, cada vez gastando uma ação de movimento e 2 PM." },
+            { "nome": "Sorte dos Loucos", "descricao": "Você pode pagar 1 PM para rolar novamente um teste recém realizado. Se ainda assim falhar no teste, você perde 1d6 PM." },
+            { "nome": "Transmissão da Loucura", "descricao": "Você pode lançar Sussurros Insanos (CD Car)." }
+        ]
+    },
+    "oceano": {
+        "nome": "Oceano",
+        "crencas_objetivos": "Reverenciar os mares, o oceano e os seres que ali habitam. Promover harmonia entre o oceano e o mundo seco. Proteger os seres marinhos, mas também os seres do mundo seco que se aventuram sobre as ondas. Demandar devido respeito ao mar e seu poder.",
+        "devotos_permitidos": "Dahllan, hynne, minotauros, sereias/tritões, bárbaros, bucaneiros, caçadores, druidas.",
+        "simbolo_sagrado":"Uma concha.",
+        "canalizar_energia": "Qualquer",
+        "arma_preferida": "Tridente",
+        "obrigacoes_restricoes": {
+            "0": "As únicas armas permitidas para devotos do Oceano são a azagaia, a lança, o tridente e a rede. Podem usar apenas armaduras de couro.",
+            "1": "O devoto também não pode se manter afastado do oceano por mais de uma semana."
+        },
+        "poderes_concedidos": [
+            { "nome": "Anfíbio", "descricao": "Você pode respirar embaixo d’água e adquire deslocamento de natação igual a seu deslocamento terrestre." },
+            { "nome": "Arsenal das Profundezas", "descricao": "Você recebe +2 nas rolagens de dano com azagaias, lanças e tridentes." },
+            { "nome": "Mestre dos Mares", "descricao": "Você pode falar com animais aquáticos (como o efeito da magia Voz Divina) e aprende e pode lançar Acalmar Animal, mas só contra criaturas aquáticas." }
+        ]
+    },
+    "sszzaas" : {
+        "nome": "Sszzaas",
+        "crencas_objetivos": "Praticar a mentira e a trapaça. Buscar sempre a solução mais inteligente. Demonstrar que lealdade e confiança são fraquezas, devem ser eliminadas. Promover competição, rivalidade, desconfiança. Usar os recursos do inimigo para alcançar seus objetivos. Levar outros a se sacrificarem em seu lugar.",
+        "devotos_permitidos": "Medusas, arcanistas, bardos, bucaneiros, inventores, ladinos, nobres.",
+        "simbolo_sagrado":"Uma naja vertendo veneno pelas presas.",
+        "canalizar_energia": "Negativa",
+        "arma_preferida": "Adaga",
+        "obrigacoes_restricoes": {
+            "0": "O devoto deve fazer um ato de traição, intriga ou corrupção por dia (ou por sessão de jogo, o que demorar mais) como oferenda a Sszzaas. Pouco importa se o alvo é aliado ou inimigo — uns poucos sszzaazitas usam seus métodos torpes para ajudar colegas aventureiros em suas missões, às vezes sem que eles próprios saibam.",
+            "1": "Sugerir a alguém que foi traído pelo cônjuge, influenciar um miliciano a aceitar suborno, instruir um mercador a roubar nos preços, levar alguém a ser culpado de um crime que não cometeu, forjar uma falsificação que incrimina um inocente, enganar um guerreiro para que mate um oponente rendido e inofensivo... em termos de jogo, uma ação exigindo um teste de Enganação com CD mínima 15."
+        },
+        "poderes_concedidos": [
+            { "nome": "Astúcia da Serpente", "descricao": "Você recebe +2 em Enganação e Intuição." },
+            { "nome": "Presas Venenosas", "descricao": "Você pode gastar uma ação de movimento e 1PM para envenenar uma arma corpo a corpo que esteja empunhando. Em caso de acerto, a arma causa 1d12 pontos de dano de veneno. A arma permanece envenenada até atingir uma criatura ou até o fim da cena, o que acontecer primeiro." },
+            { "nome": "Sangue Ofídico", "descricao": "Você recebe resistência a veneno 5 e a CD para resistir aos seus venenos aumenta em +2." }
+        ]
+    },
+    "tanna-toh" : {
+        "nome": "Tanna-Toh",
+        "crencas_objetivos": "Reverenciar a mente racional, o conhecimento, a civilização, a verdade. Proteger o progresso, o avanço dos povos civilizados. Promover o ensino e a prática das artes e das ciências. Solucionar todos os mistérios, revelar todas as mentiras. Buscar novo conhecimento. Não tolerar a ignorância.",
+        "devotos_permitidos": "Golens, kliren, arcanistas, bardos, inventores, nobres, paladinos.",
+        "simbolo_sagrado":"Rolo de pergaminho e pena.",
+        "canalizar_energia": "Qualquer",
+        "arma_preferida": "Bordão.",
+        "obrigacoes_restricoes": {
+            "0": "Devotos de Tanna-Toh jamais podem recusar uma missão que envolva a busca por um novo conhecimento ou informação; investigar rumores sobre um livro perdido, procurar uma aldeia lendária, pesquisar os hábitos de uma criatura desconhecida...",
+            "1": "Além disso, o devoto sempre deve dizer a verdade, e nunca pode se recusar a responder uma pergunta, pouco importando as consequências. É proibido para ele esconder qualquer conhecimento."
+        },
+        "poderes_concedidos": [
+            { "nome": "Conhecimento Enciclopédico", "descricao": "Você se torna treinado em duas perícias baseadas em Inteligência à sua escolha." },
+            { "nome": "Mente Analítica", "descricao": "Você recebe +2 em testes de Intuição e Vontade." },
+            { "nome": "Voz da Civilização", "descricao": "Você está sempre sob efeito da magia Compreensão." }
+        ]
+    },
+    "tenebra" : {
+        "nome": "Tenebra",
+        "crencas_objetivos": "Reverenciar a noite, a escuridão, a lua e as estrelas. Proteger os segredos e mistérios, proteger tudo que é oculto e invisível. Reverenciar a não vida e os mortos-vivos, propagar a prática da necromancia. Rejeitar o sol e a luz.",
+        "devotos_permitidos": "Anões, medusas, qareen, osteon, sulfure, trogs, arcanistas, bardos, ladinos.",
+        "simbolo_sagrado":"Estrela negra de cinco pontas.",
+        "canalizar_energia": "Negativa",
+        "arma_preferida": "Adaga",
+        "obrigacoes_restricoes": {
+             "0": "Tenebra proíbe que seus devotos sejam tocados por Azgher, o odiado rival. O devoto deve se cobrir inteiramente durante o dia, sem expor ao sol nenhum pedaço de pele."
+        },
+        "poderes_concedidos": [
+            { "nome": "Carícia Sombria", "descricao": "Você pode gastar 1 PM e uma ação padrão para cobrir sua mão com energia negativa e tocar uma criatura em alcance corpo a corpo. A criatura sofre 2d6 pontos de dano de trevas (Fortitude CD Sab reduz à metade) e você recupera PV iguais à metade do dano causado. Você pode aprender Toque Vampírico como uma magia divina. Se fizer isso, o custo dela diminui em –1 PM." },
+            { "nome": "Manto da Penumbra", "descricao": "Você aprende e pode lançar Escuridão." },
+            { "nome": "Visão nas Trevas", "descricao": "Você enxerga perfeitamente no escuro, incluindo magias de escuridão." }
+        ]
+    },
+    "thwor": {
+        "nome": "Thwor",
+        "crencas_objetivos": "Reverenciar a lealdade, a força e a coragem. Promover a união entre goblins, hobgoblins, bugbears, orcs, ogros e outros povos humanoides. Reverenciar o caos, a mutação, a vida sempre em movimento. Proteger a cultura e o modo de vida goblinoide. Destruir os elfos.",
+        "devotos_permitidos": "Qualquer humanoide (mas veja adiante).",
+        "simbolo_sagrado":"Um grande punho fechado.",
+        "canalizar_energia": "Qualquer",
+        "arma_preferida": "Machado de Guerra",
+        "obrigacoes_restricoes": {
+             "0": "Não importando sua raça, o devoto de Thwor deve ser considerado duyshidakk — ou seja, aceito como membro do povo goblinoide.",
+             "1": "Também deve se esforçar para que o modo de vida duyshidakk tome o continente. Deve sempre procurar fazer alianças com goblinoides e só lutar contra eles em último caso."
+        },
+        "poderes_concedidos": [
+            { "nome": "Fúria Divina", "descricao": "Você pode gastar 2 PM para invocar uma fúria selvagem, tornando-se temível em combate. Você recebe +2 em testes de ataque e rolagens de dano corpo a corpo, mas não pode executar nenhuma ação que exija paciência ou concentração (como usar a perícia Furtividade ou lançar magias). A Fúria Divina termina se, ao fim da rodada, você não tiver atacado nem sido alvo de um efeito hostil." },
+            { "nome": "Olhar Amedrontador", "descricao": "Você aprende e pode lançar Amedrontar." },
+            { "nome": "Tropas Duyshidakk", "descricao": "Você pode gastar uma ação completa e 2 PM para invocar 1d4+1 goblinoides em espaços desocupados em alcance curto. Você pode usar uma ação de movimento para fazer os goblinoides andarem (eles têm deslocamento 9m) ou uma ação padrão para fazê-los causar dano a criaturas adjacentes (1d6+1 pontos de dano de corte cada). Os goblinoides têm For 14, Des 14, 1 PV, não têm valor de Defesa ou testes de resis-tência e falham automaticamente em qualquer teste oposto. Eles desaparecem quando morrem ou no fim da cena. Os goblinoides não agem sem receber uma ordem. Usos criativos para criaturas invocadas fora de combate ficam a critério do mestre." }
+        ]
+    },
+    "thyatis": {
+        "nome": "Thyatis",
+        "crencas_objetivos": "Proteger a vida e aqueles necessitados de novas chances. Renegar a morte e a mentira. Ajudar os perdidos a encontrar seus caminhos e alcançar seus destinos. Oferecer clemência, perdão e redenção",
+        "devotos_permitidos": " Aggelus, cavaleiros, guerreiros, inventores, lutadores, paladinos.",
+        "simbolo_sagrado":"Uma ave fênix.",
+        "canalizar_energia": "Positiva",
+        "arma_preferida": "Espada longa",
+        "obrigacoes_restricoes": {
+             "0": "Devotos de Thyatis são proibidos de matar seres inteligentes (Int 3 ou mais). Podem atacar e causar dano, mas jamais levar à morte. Por esse motivo, devotos de Thyatis preferem armas e ataques que apenas incapacitam seus oponentes ou causam dano não letal."
+        },
+        "poderes_concedidos": [
+            { "nome": "Ataque Piedoso", "descricao": "Você pode usar armas de corpo a corpo para causar dano não letal sem sofrer a penalidade de –5 no teste de ataque." },
+            { "nome": "Dom da Imortalidade", "descricao": "Você é imortal. Sempre que morre, não importando o motivo, volta à vida após 3d6 dias. Você não perde níveis de experiência. Apenas paladinos podem escolher este poder. Um personagem pode ter Dom da Imortalidade ou Dom da Ressurreição, mas não ambos." },
+            { "nome": "Dom da Profecia", "descricao": "Você pode lançar Augúrio. Você também pode gastar 2 PM para receber +2 em um teste." },
+            { "nome": "Dom da Ressurreição", "descricao": "Você pode gastar uma ação completa e todos os PM que possui (mínimo 1 PM) para tocar o corpo de uma criatura morta há menos de um ano e ressuscitá-la. A criatura volta à vida com 1 PV e 0 PM, e perde 2 pontos de Constituição permanentemente. Este poder só pode ser usado uma vez em cada criatura. Apenas clérigos podem escolher este poder. Um personagem pode ter Dom da Imortalidade ou Dom da Ressurreição, mas não ambos." }
+        ]
+    },
+    "valkaria" : {
+        "nome": "Valkaria",
+        "crencas_objetivos": "Praticar o otimismo, a evolução, a rebeldia. Desafiar limites, almejar o impossível. Combater o mal, a opressão e a tirania. Proteger a liberdade. Aceitar e adaptar-se ao novo e diferente. Demonstrar ambição, paixão e coragem. Desfrutar e amar a vida.",
+        "devotos_permitidos": "Aventureiros; membros de todas as classes podem ser devotos de Valkaria.",
+        "simbolo_sagrado":"A Estátua de Valkaria, ou seis faixas entrelaçadas.",
+         "canalizar_energia": "Positiva",
+        "arma_preferida": "Mangual.",
+        "obrigacoes_restricoes": {
+            "0": "Valkaria odeia o conformismo. Seus devotos são proibidos de fixar moradia em um mesmo lugar, não podendo permanecer mais de 2d10+10 dias na mesma cidade (ou vila, aldeia, povoado...) ou 1d4+2 meses no mesmo reino.",
+            "1": "Devotos de Valkaria também são proibidos de casar-se ou formar qualquer união estável."
+        },
+        "poderes_concedidos": [
+            { "nome": "Armas da Ambição", "descricao": "Você pode usar armas de corpo a corpo para causar dano não letal sem sofrer a penalidade de –5 no teste de ataque." },
+            { "nome": "Coragem Total", "descricao": "Você é imune a efeitos de medo, mágicos ou não. Este poder não elimina fobias raciais (como o medo de altura dos minotauros)."},
+            { "nome": "Liberdade Divina", "descricao": "Você pode gastar 2 PM e uma reação para lançar Libertação com alcance pessoal e duração de 1 rodada." }
+        ]  
+    },
+    "wynna": {
+        "nome": "Wynna",
+        "crencas_objetivos": " Reverenciar a magia arcana e seus praticantes. Promover o ensino da magia. Usar a magia para proteger os necessitados e trazer felicidade ao mundo.",
+        "devotos_permitidos": "Elfos, golens, qareen, sílfides, arcanistas, bardos.",
+        "simbolo_sagrado": "Um anel metálico.",
+        "canalizar_energia": "Qualquer",
+        "arma_preferida": "Adaga.",
+        "obrigacoes_restricoes": {
+            "0": "Ainda que a magia jamais possa ser negada para quem a busca, devotos de Wynna devem praticar a bondade e a generosidade de sua deusa, jamais recusando um pedido de ajuda.",
+            "1": "Além disso, devotos de Wynna são proibidos de matar seres mágicos (elfos, qareen, sílfides e outros a critério do mestre) e conjuradores arcanos."
+        },
+        "poderes_concedidos": [
+            { "nome": "Benção do Mana", "descricao": "Você recebe +3 pontos de mana." },
+            { "nome": "Centelha Mágica", "descricao": "Escolha uma magia arcana ou divina de 1º círculo. Você aprende e pode lançar essa magia. Pré-requisito: não possuir a habilidade de classe Magias."},
+            { "nome": "Escudo Mágico", "descricao": "Quando lança uma magia, você recebe +2 na Defesa até o início do seu próximo turno." },
+            { "nome": "Teurgista Místico", "descricao": "Até uma magia de cada círculo que você aprender poderá ser escolhida entre magias divinas (se você for um conjurador arcano) ou entre magias arcanas (se for um conjurador divino). Pré-requisito: habilidade de classe Magias." }
+        ]  
+    }
+}

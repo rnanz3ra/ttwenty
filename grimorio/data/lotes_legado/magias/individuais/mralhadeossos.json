@@ -1,0 +1,11 @@
+{
+  "id": "muralha-de-ossos",
+  "name": "Muralha de Ossos",
+  "circle": 4,
+  "type": "Universal",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "cena",
+  "description": "Uma parede de ossos se eleva da terra. A parede tem 15m de comprimento, 9m de altura e 1,5m de espessura. Ela pode ter qualquer forma — não  precisa ser uma linha reta —, mas sua  base precisa estar sempre tocando o  solo. Quando a parede surge, criaturas na área ocupada ou adjacentes sofrem 4d8 pontos de dano de corte e  precisam fazer um teste de Reflexos  para não ficarem presas no emaranhado de ossos. Uma criatura presa dessa maneira fica agarrada, e pode gastar  uma ação padrãão para erguer uma seção de 1,5m de lado."
+}

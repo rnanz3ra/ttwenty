@@ -1,0 +1,11 @@
+{
+  "id": "convocação--instantânea",
+  "name": "Convocação  Instantânea",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Convocação",
+  "execution": "padrão;",
+  "range": "ilimitado;",
+  "duration": "Instantânea",
+  "description": "Alvo: 1 objeto de até 2 espaços; Duração: instantânea.  Você invoca um objeto de qualquer lugar para sua mão. O item deve ter sido  previamente preparado com uma runa  pessoal sua (ao custo de T$ 5). A magia não funciona se o objeto estiver com outra criatura, mas você saberá onde ele está e quem o está carregando (ou sua descrição física, caso  não conheça a criatura). +1 PM: além do normal, até 1 hora  após ter lançado a magia, você pode  gastar uma ação de movimento para  enviar o o"
+}

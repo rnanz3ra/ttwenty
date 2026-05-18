@@ -1,0 +1,45 @@
+[
+    {
+        "deus": "Aharadak",
+        "poderes": [
+            {
+                "nome": "Afinidade com a Tormenta",
+                "efeito": "Você recebe +2 em níveis de mana (PM) e não sofre penalidades de Carisma por poderes da Tormenta."
+            },
+            {
+                "nome": "Percepção Temporal",
+                "efeito": "Você pode gastar 2 PM para somar sua Sabedoria na Iniciativa e Reflexos até o fim da cena."
+            }
+        ]
+    },
+    {
+        "deus": "Khalmyr",
+        "poderes": [
+            {
+                "nome": "Coragem Total",
+                "efeito": "Você é imune a medo. Se já for imune, recebe +2 em todos os testes de resistência."
+            },
+            {
+                "nome": "Dom da Verdade",
+                "efeito": "Você pode gastar 2 PM para receber +10 em testes de Intuição para detectar mentiras até o fim da cena."
+            },
+            {
+                "nome": "Espada Justiceira",
+                "efeito": "Ao usar uma Espada Longa, o dano aumenta em um passo e ela é considerada mágica."
+            }
+        ]
+    },
+    {
+        "deus": "Valkaria",
+        "poderes": [
+            {
+                "nome": "Ambição Desmedida",
+                "efeito": "Ao rolar um 1 natural em um teste de perícia, você pode gastar 1 PM para rolar novamente."
+            },
+            {
+                "nome": "Liberdade de Ir",
+                "efeito": "Você recebe +3m em seu deslocamento e é imune a efeitos de paralisia e enredamento."
+            }
+        ]
+    }
+]

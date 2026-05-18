@@ -1,0 +1,11 @@
+{
+  "id": "criar-elementos",
+  "name": "Criar Elementos",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Convocação",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "instantânea",
+  "description": "188 Magia   Você cria uma pequena porção de um  elemento, a sua escolha. Os elementos criados são reais, não mágicos. Elementos físicos devem surgir em uma  superfície. Em vez de um cubo, pode- -se criar objetos simples (sem partes  móveis) feitos de gelo, terra ou pedra. Água: enche um recipiente de tamanho  Minúsculo (como um odre) com água  potável ou cria um cubo de gelo de tamanho Minúsculo. Ar: cria um vento fraco em um quadrado de 1,5m. Isso purifica a área de  qualquer gás ou fuma."
+}

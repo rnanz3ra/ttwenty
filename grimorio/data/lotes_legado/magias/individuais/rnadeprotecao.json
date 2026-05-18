@@ -1,0 +1,11 @@
+{
+  "id": "runa-de-proteção",
+  "name": "Runa de Proteção",
+  "circle": 2,
+  "type": "Universal",
+  "school": "Abjuração",
+  "execution": "1 hora;",
+  "range": "toque;",
+  "duration": "Instantânea",
+  "description": "Alvo: uma área de 6m de raio; Duração: permanente até ser descarregada.  Resistência: varia (veja o texto). Você escreve uma runa pessoal em  uma superfície fixa, como uma parede  ou o chão, que protege uma pequena  área ao redor. Quando uma criatura  entra na área afetada a runa explode,  causando 6d6 pontos de dano em todos os alvos a até 6m. A criatura que  ativa a runa não tem direi­to a teste de  resistência; outras criatu­ras na área  têm direito a um teste de Reflexos  para reduzir o dano à metade."
+}

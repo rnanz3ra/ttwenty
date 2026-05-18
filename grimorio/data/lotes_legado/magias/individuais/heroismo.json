@@ -1,0 +1,11 @@
+{
+  "id": "heroísmo",
+  "name": "Heroísmo",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "Esta magia imbui uma criatura com  coragem e valentia. O alvo fica imune a  medo e recebe 40 PV temporários e +4  em testes de ataque e rolagens de dano  contra o inimigo de maior ND na cena. +2 PM: muda o bônus para +6. Hipnotismo arcana 1 (Encantamento) Execução: padrão; Alcance: curto;  Alvos: 1 animal ou humanoide; Duração: 1d4 rodadas; Resistência:  Vontade anula. Suas palavras e movimentos ritmados  deixam o alvo fascinado. Esta magia só  afeta criaturas que possam perceber  você. Se usar uma ação padrão, você percebe todas as criaturas furtivas na área."
+}

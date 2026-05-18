@@ -1,0 +1,60 @@
+{
+    "protecoes": [
+        {
+            "nome": "Armadura Acolchoada",
+            "preco": 5,
+            "defesa": 1,
+            "penalidade": 0,
+            "espaco": 2,
+            "tipo": "Leve",
+            "especial": "+2 Fortitude"
+        },
+        {
+            "nome": "Couro Batido",
+            "preco": 35,
+            "defesa": 3,
+            "penalidade": -1,
+            "espaco": 2,
+            "tipo": "Leve"
+        },
+        {
+            "nome": "Couraça",
+            "preco": 500,
+            "defesa": 5,
+            "penalidade": -4,
+            "espaco": 2,
+            "tipo": "Leve"
+        },
+        {
+            "nome": "Brunea",
+            "preco": 50,
+            "defesa": 5,
+            "penalidade": -2,
+            "espaco": 5,
+            "tipo": "Pesada"
+        },
+        {
+            "nome": "Armadura Completa",
+            "preco": 3000,
+            "defesa": 10,
+            "penalidade": -5,
+            "espaco": 5,
+            "tipo": "Pesada",
+            "especial": "Dormir nela deixa fatigado"
+        },
+        {
+            "nome": "Escudo Leve",
+            "preco": 5,
+            "defesa": 1,
+            "penalidade": -1,
+            "espaco": 1
+        },
+        {
+            "nome": "Escudo Pesado",
+            "preco": 15,
+            "defesa": 2,
+            "penalidade": -2,
+            "espaco": 2
+        }
+    ]
+}

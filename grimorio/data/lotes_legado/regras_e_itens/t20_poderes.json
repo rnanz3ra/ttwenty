@@ -1,0 +1,118 @@
+{
+    "poderes_gerais": {
+        "Combate": [
+            {
+                "nome": "Acuidade com Arma",
+                "req": "Des 1",
+                "efeito": "Usa Des em vez de For para ataques e dano com armas leves/arremesso."
+            },
+            {
+                "nome": "Ataque Poderoso",
+                "req": "For 1",
+                "efeito": "-2 atq para +5 dano."
+            },
+            {
+                "nome": "Estilo de Duas Armas",
+                "req": "Des 2, Luta",
+                "efeito": "Ataque extra com arma secundária leve (-2 atq)."
+            },
+            {
+                "nome": "Encouraçado",
+                "req": "Prof. Armaduras Pesadas",
+                "efeito": "+2 Defesa usando armadura pesada."
+            },
+            {
+                "nome": "Trespassar",
+                "req": "Ataque Poderoso",
+                "efeito": "Se derrubar inimigo, ganha ataque extra contra outro alvo em alcance."
+            }
+        ],
+        "Destino": [
+            {
+                "nome": "Ao Sabor do Destino",
+                "req": "Nível 6",
+                "efeito": "Ganha bônus fixos se não usar itens mágicos (Pág 130)."
+            },
+            {
+                "nome": "Surto Heroico",
+                "req": null,
+                "efeito": "Uma vez por rodada, gasta 5 PM para ação padrão ou movimento extra."
+            },
+            {
+                "nome": "Parceiro",
+                "req": "Treinado em Adestramento/Diplomacia, Nível 5",
+                "efeito": "Ganha um parceiro iniciante."
+            }
+        ],
+        "Magia": [
+            {
+                "nome": "Magia Ampliada",
+                "req": "Lançar magias",
+                "efeito": "+2 PM para dobrar área ou aumentar alcance em um passo."
+            },
+            {
+                "nome": "Magia Discreta",
+                "req": "Lançar magias",
+                "efeito": "+2 PM para lançar sem gestos ou palavras (ignora penalidade de armadura)."
+            },
+            {
+                "nome": "Foco em Magia",
+                "req": "Lançar magias",
+                "efeito": "Custo de uma magia escolhida diminui em -1 PM."
+            }
+        ]
+    },
+    "poderes_especiais": {
+        "Concedidos": [
+            {
+                "deus": "Aharadak",
+                "poderes": [
+                    "Afinidade com a Tormenta",
+                    "Êxtase da Loucura",
+                    "Percepção Temporal",
+                    "Rejeição Divina"
+                ]
+            },
+            {
+                "deus": "Khalmyr",
+                "poderes": [
+                    "Coragem Total",
+                    "Dom da Verdade",
+                    "Espada Justiceira",
+                    "Reparar Injustiça"
+                ]
+            },
+            {
+                "deus": "Nimb",
+                "poderes": [
+                    "Êxtase da Loucura",
+                    "Poder Oculto",
+                    "Sorte dos Loucos",
+                    "Transmissão da Loucura"
+                ]
+            }
+        ],
+        "Tormenta": {
+            "regra_custo": "Perde 1 Carisma ao pegar o 1º poder. Perde +1 a cada 2 novos poderes.",
+            "lista": [
+                {
+                    "nome": "Anatomia Insana",
+                    "efeito": "25% chance de ignorar crítico/furtivo (aumenta +25% por par de poderes)."
+                },
+                {
+                    "nome": "Asas Insetoides",
+                    "req": "4 Poderes da Tormenta",
+                    "efeito": "Voo 9m por 1 PM."
+                },
+                {
+                    "nome": "Corpo Aberrante",
+                    "efeito": "Aumenta passo de dano desarmado."
+                },
+                {
+                    "nome": "Sangue Ácido",
+                    "efeito": "Atacantes adjacentes sofrem dano de ácido ao te ferir."
+                }
+            ]
+        }
+    }
+}

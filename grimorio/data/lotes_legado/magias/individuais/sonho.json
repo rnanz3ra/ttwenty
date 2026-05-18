@@ -1,0 +1,11 @@
+{
+  "id": "sonho",
+  "name": "Sonho",
+  "circle": 4,
+  "type": "Arcana",
+  "school": "Adivinhação",
+  "execution": "10 minutos;",
+  "range": "ilimitado;",
+  "duration": "Instantânea",
+  "description": "Alvo: 1 criatura viva; Duração: veja texto. Você entra nos sonhos de uma criatura. Uma vez lá, pode conversar com  ela até que ela acorde. Se o alvo não  estiver dormindo quando você lançar  a magia, você pode permanecer em  transe até que ele adormeça. Durante o transe, você fica indefeso e sem  consciência dos arredores. Você pode  sair do transe quando quiser, mas a  magia termina. +2 PM: transforma o sonho do alvo  em um pesadelo. A vítima deve fazer  um teste de Vontade. Se falhar, não recebe a mensagem."
+}

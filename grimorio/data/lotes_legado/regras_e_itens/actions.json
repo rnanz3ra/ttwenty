@@ -1,0 +1,90 @@
+[
+    {
+        "type": "Padrão",
+        "actions": [
+            {
+                "name": "Ataque",
+                "desc": "Realizar um ataque corpo a corpo ou à distância."
+            },
+            {
+                "name": "Lançar Magia",
+                "desc": "A maioria das magias exige uma ação padrão."
+            },
+            {
+                "name": "Ativar Habilidade",
+                "desc": "Muitas habilidades de classe ou raça usam ação padrão."
+            },
+            {
+                "name": "Prestar Auxílio",
+                "desc": "Concede +2 no teste de um aliado adjacente."
+            },
+            {
+                "name": "Fintar",
+                "desc": "Enganação vs Intuição. Se vencer, inimigo fica desprevenido."
+            },
+            {
+                "name": "Usar Item",
+                "desc": "Beber poção, usar varinha, etc."
+            }
+        ]
+    },
+    {
+        "type": "Movimento",
+        "actions": [
+            {
+                "name": "Movimentar-se",
+                "desc": "Mover-se até seu deslocamento."
+            },
+            {
+                "name": "Levantar-se",
+                "desc": "Sair da condição caído."
+            },
+            {
+                "name": "Sacar/Guardar",
+                "desc": "Preparar ou guardar um item. Com Saque Rápido é livre."
+            },
+            {
+                "name": "Mirar",
+                "desc": "Ignora penalidade de distância ou mira em partes específicas."
+            },
+            {
+                "name": "Manipular Item",
+                "desc": "Abrir porta, pegar item no chão."
+            }
+        ]
+    },
+    {
+        "type": "Completa",
+        "actions": [
+            {
+                "name": "Investida",
+                "desc": "Move o dobro e ataca com +2 (e -2 Defesa)."
+            },
+            {
+                "name": "Golpe de Misericórdia",
+                "desc": "Ataque automático crítico em alvo indefeso."
+            },
+            {
+                "name": "Correr",
+                "desc": "Move 4x o deslocamento (em linha reta)."
+            }
+        ]
+    },
+    {
+        "type": "Livre/Reação",
+        "actions": [
+            {
+                "name": "Falar",
+                "desc": "Poucas frases rápidas."
+            },
+            {
+                "name": "Soltar Item",
+                "desc": "Deixar cair algo que segura."
+            },
+            {
+                "name": "Ataque de Oportunidade",
+                "desc": "Reação a inimigo sair de área ameaçada ou conjurar/atirar adjacente."
+            }
+        ]
+    }
+]

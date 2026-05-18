@@ -1,0 +1,11 @@
+{
+  "id": "tranquilidade",
+  "name": "Tranquilidade",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "Instantânea",
+  "description": "Alvo: 1 animal ou humanoide; Duração: cena; Resistência: Vontade parcial. Você emana ondas de serenidade. Se  falhar na resistência, o alvo tem sua  atitude mudada para indiferente (veja  a página 259) e não pode atacar ou realizar qualquer ação agressiva. Se passar, sofre –2 em testes de ataque. Qualquer ação hostil contra o alvo ou seus  aliados dissipa a magia e faz ele retornar à atitude que tinha antes (ou pior,  de acordo com o mestre). +1 PM: muda o alvo para 1 criatura. +1 PM:a duração passa a ser cena."
+}

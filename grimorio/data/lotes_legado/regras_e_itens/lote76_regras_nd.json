@@ -1,0 +1,43 @@
+{
+    "regras_nd": {
+        "base_grupo": "4 jogadores de nível X = ND X",
+        "calculo_multiplos_inimigos": {
+            "nd_menor_que_1": "Soma simples (Ex: 4 de ND 1/4 = ND 1)",
+            "nd_maior_ou_igual_a_1": "Inimigo Base + 2 para cada vez que a quantidade dobra (Ex: 2 de ND 1 = ND 3; 4 de ND 1 = ND 5)"
+        },
+        "papeis_combate": {
+            "Solo": {
+                "desc": "Enfrenta o grupo sozinho. Muitos PV.",
+                "mod": "+2 ND"
+            },
+            "Lacaio": {
+                "desc": "Vários inimigos de ND menor que o grupo. Poucos PV.",
+                "mod": "-2 ND"
+            },
+            "Especial": {
+                "desc": "Conjuradores ou líderes. Devem ser usados com lacaios.",
+                "mod": "+0 ND"
+            }
+        }
+    },
+    "tipos_criaturas_habilidades": {
+        "Lefeu": [
+            "Imunidade a Críticos",
+            "Imunidade a Veneno"
+        ],
+        "Construto": [
+            "Imunidade a fadiga",
+            "Imunidade a veneno",
+            "Imunidade a metabolismo",
+            "Não recupera PV por cura mágica ou descanso"
+        ],
+        "Morto-vivo": [
+            "Visão no escuro",
+            "Imunidade a fadiga",
+            "Imunidade a veneno",
+            "Imunidade a trevas",
+            "Cura de luz causa dano (Vontade metade)",
+            "Dano de trevas recupera PV"
+        ]
+    }
+}

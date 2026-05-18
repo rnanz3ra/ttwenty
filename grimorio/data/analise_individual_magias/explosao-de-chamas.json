@@ -1,0 +1,12 @@
+{
+  "id": "explosão--de-chamas",
+  "name": "Explosão  de chamas",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "pessoal;  Área: cone de 6m; Duração: instantânea; Resistência: Reflexos reduz à  metade.  Um leque de chamas irrompe de suas  mãos, causando 2d6 pontos de dano de  fogo às criaturas na área.",
+  "duration": "instantânea",
+  "description": "Um leque de chamas irrompe de suas  mãos, causando 2d6 pontos de dano de  fogo às criaturas na área.  Truque: muda o alcance para curto,  a área para alvo de 1 objeto e a resistência para Reflexos anula. Você gera  uma pequena explosão que não causa  dano mas pode acender uma vela, tocha ou fogueira. Também pode fazer  um objeto inflamável com RD 0 (como  uma corda ou pergaminho) ficar em  chamas. Uma criatura em posse de um  objeto pode evitar esse efeito se passar  no teste de resistência.",
+  "resistance": "Reflexos reduz à  metade"
+}

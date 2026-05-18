@@ -1,0 +1,40 @@
+{
+    "encantos_itens": {
+        "armas": [
+            {
+                "nome": "Ameaçadora",
+                "efeito": "Duplica a margem de ameaça."
+            },
+            {
+                "nome": "Dançarina",
+                "efeito": "Gasta 1 PM para a arma lutar sozinha (Sustentada)."
+            },
+            {
+                "nome": "Drenante",
+                "efeito": "Crítico concede 2d10 PV temporários."
+            },
+            {
+                "nome": "Flamejante",
+                "efeito": "+1d6 dano fogo. Gasta 2 PM para disparar Bola de Fogo."
+            },
+            {
+                "nome": "Veloz",
+                "efeito": "Concede a habilidade Ataque Extra (1 PM)."
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "Abascanto",
+                "efeito": "+5 em resistência a magia."
+            },
+            {
+                "nome": "Alada",
+                "efeito": "Gasta 2 PM para receber voo 12m (Sustentada)."
+            },
+            {
+                "nome": "Refletor",
+                "efeito": "Gasta PM para refletir magia de volta ao conjurador."
+            }
+        ]
+    }
+}

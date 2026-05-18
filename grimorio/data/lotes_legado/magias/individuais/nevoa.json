@@ -1,0 +1,11 @@
+{
+  "id": "névoa",
+  "name": "Névoa",
+  "circle": 1,
+  "type": "Universal",
+  "school": "Convocação",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "cena",
+  "description": "Uma névoa espessa eleva-se de um ponto a sua escolha, obscurecendo toda a  visão — criaturas a até 1,5m têm camuflagem leve e criaturas a partir de 3m  têm camuflagem total. Um vento forte dispersa a névoa em 4 rodadas e um  vendaval a dispersa em 1 rodada. Esta  magia não funciona sob a água. +1 PM: a magia também funciona sob  a água, criando uma nuvem de tinta. +2 PM: você pode escolher criaturas  no alcance ao lançar a magia; elas enxergam através do efeito. Requer 2º  círculo. +2 PM"
+}

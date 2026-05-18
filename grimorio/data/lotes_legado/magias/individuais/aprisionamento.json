@@ -1,0 +1,12 @@
+{
+  "id": "aprisionamento",
+  "name": "Aprisionamento",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Abjuração",
+  "execution": "completa;",
+  "range": "curto;",
+  "duration": "permanente",
+  "description": "Você cria uma prisão mágica para aprisionar uma criatura. Se falhar no teste  de resistência, o alvo sofre o efeito da  magia; se passar, fica imune a esta magia por uma semana. Enquanto estiver  aprisionada, a criatura não precisa respirar e alimentar-se, e não envelhece.  Magias de adivinhação não conseguem  localizar ou perceber o alvo. Ao lançar a  magia, você escolhe uma das seguintes  formas de prisão. O componente material varia, mas todos custam T$ 1.000. Acorrentamento: o alvo é preso na área e não pode sair (Vontade anula).",
+  "resistance": "Vontade anula"
+}

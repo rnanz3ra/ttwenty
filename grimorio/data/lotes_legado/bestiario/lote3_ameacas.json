@@ -1,0 +1,341 @@
+[
+    {
+        "nome": "Dragão Filhote do Bosque",
+        "nd": "3",
+        "tipo": "Monstro (dragão) Médio",
+        "pv": 120,
+        "pm": 0,
+        "defesa": 21,
+        "habilidades": [
+            "Imunidade a Ácido",
+            "Resistência a Magia +1",
+            "Bote",
+            "Sopro de Ácido (2d12)"
+        ]
+    },
+    {
+        "nome": "Dragão Filhote dos Rios",
+        "nd": "3",
+        "tipo": "Monstro (dragão) Grande",
+        "pv": 120,
+        "pm": 0,
+        "defesa": 22,
+        "habilidades": [
+            "Imunidade a Eletricidade",
+            "Resistência a Magia +1",
+            "Sopro de Eletricidade (2d12)"
+        ]
+    },
+    {
+        "nome": "Ninhada de Dragões Filhotes",
+        "nd": "5",
+        "tipo": "Monstro (dragão) Grande",
+        "papel": "Bando",
+        "pv": 240,
+        "pm": 0,
+        "defesa": 25,
+        "habilidades": [
+            "Bando",
+            "Avalanche de Escamas",
+            "Sopro Duplo (4d12 fogo)"
+        ]
+    },
+    {
+        "nome": "Dragão Jovem da Proteção",
+        "nd": "7",
+        "tipo": "Monstro (dragão) Grande",
+        "pv": 320,
+        "pm": 0,
+        "defesa": 32,
+        "habilidades": [
+            "Fortificação 25%",
+            "Imunidade a Eletricidade",
+            "Asas Guardiãs",
+            "Sopro Relâmpago (6d12)"
+        ]
+    },
+    {
+        "nome": "Dragão Jovem do Ocaso",
+        "nd": "7",
+        "tipo": "Monstro (dragão) Grande",
+        "pv": 320,
+        "pm": 0,
+        "defesa": 31,
+        "habilidades": [
+            "Imunidade a Frio",
+            "Mordida Definhante",
+            "Sopro de Gelo (6d12)",
+            "Ver o Fim"
+        ]
+    },
+    {
+        "nome": "Dragão Adulto da Tirania",
+        "nd": "11",
+        "tipo": "Monstro (dragão) Enorme",
+        "pv": 614,
+        "pm": 77,
+        "defesa": 42,
+        "habilidades": [
+            "Aura Aterradora",
+            "Imposição Avassaladora",
+            "Metamorfose",
+            "Magia Dracônica"
+        ]
+    },
+    {
+        "nome": "Dragão Adulto dos Segredos",
+        "nd": "11",
+        "tipo": "Monstro (dragão) Enorme",
+        "pv": 522,
+        "pm": 90,
+        "defesa": 40,
+        "habilidades": [
+            "Aura Aterradora",
+            "Enxergar as Farsas",
+            "Esmiuçar a Alma",
+            "Magia Ampliada"
+        ]
+    },
+    {
+        "nome": "Dragão Venerável da Equidade",
+        "nd": "15",
+        "tipo": "Monstro (dragão) Enorme",
+        "pv": 800,
+        "pm": 97,
+        "defesa": 52,
+        "habilidades": [
+            "Equalizar",
+            "Restabelecer a Igualdade",
+            "Sopro de Luz (16d12)"
+        ],
+        "magias": [
+            "Círculo da Justiça",
+            "Missão Divina",
+            "Selo de Mana"
+        ]
+    },
+    {
+        "nome": "Dragão Venerável dos Recifes",
+        "nd": "15",
+        "tipo": "Monstro (dragão) Enorme",
+        "pv": 790,
+        "pm": 97,
+        "defesa": 48,
+        "habilidades": [
+            "Fluxo de Mana",
+            "Profunda Paixão",
+            "Sopro de Eletricidade (16d12)"
+        ],
+        "magias": [
+            "Controlar o Clima",
+            "Globo de Invulnerabilidade",
+            "Suporte Ambiental"
+        ]
+    },
+    {
+        "nome": "Dragão Feral",
+        "nd": "10",
+        "tipo": "Monstro (dragão) Enorme",
+        "pv": 495,
+        "pm": 0,
+        "defesa": 38,
+        "habilidades": [
+            "Amadurecimento Primitivo",
+            "Dilacerar",
+            "Investida Imparável"
+        ]
+    },
+    {
+        "nome": "Dragão Bicéfalo",
+        "nd": "12",
+        "tipo": "Monstro (dragão) Enorme",
+        "pv": 650,
+        "pm": 0,
+        "defesa": 44,
+        "habilidades": [
+            "Duas Mentes (2 ações padrão)",
+            "Sopro: Esfera Elétrica ou Nuvem Cáustica"
+        ]
+    },
+    {
+        "nome": "Sckhar, Dragão-Rei do Fogo",
+        "nd": "S+",
+        "tipo": "Monstro (dragão) Colossal",
+        "pv": 4000,
+        "pm": 287,
+        "defesa": 71,
+        "rd": 20,
+        "cura_acelerada": 0,
+        "habilidades": [
+            "Deus das Chamas",
+            "Ego",
+            "Imposição Real",
+            "Poder Incontestável",
+            "Sopro (30d12)"
+        ],
+        "magias": [
+            "Aprisionamento",
+            "Chuva de Meteoros",
+            "Coluna de Chamas",
+            "Segunda Chance"
+        ]
+    },
+    {
+        "nome": "Bugbear Sentinela",
+        "nd": "2",
+        "tipo": "Humanoide (bugbear) Médio",
+        "pv": 18,
+        "defesa": 17,
+        "habilidades": [
+            "Êxtase no Medo (RD contra amedrontados)",
+            "Visão no escuro",
+            "Faro"
+        ]
+    },
+    {
+        "nome": "Bugbear Guarda-Costas",
+        "nd": "6",
+        "tipo": "Humanoide (bugbear) Médio",
+        "pv": 48,
+        "defesa": 26,
+        "habilidades": [
+            "Quebrar Armas",
+            "Saborear Pavor",
+            "Empunhadura Poderosa"
+        ]
+    },
+    {
+        "nome": "Bruxa Goblin",
+        "nd": "11",
+        "tipo": "Humanoide (goblin) Pequeno",
+        "pv": 370,
+        "pm": 98,
+        "defesa": 37,
+        "habilidades": [
+            "Autofagia",
+            "Raio Conspurcado"
+        ],
+        "magias": [
+            "Amedrontar",
+            "Crânio Voador",
+            "Ferver Sangue",
+            "Marionete",
+            "Tentáculos de Trevas"
+        ]
+    },
+    {
+        "nome": "Gangue Goblin",
+        "nd": "5",
+        "tipo": "Humanoide (goblin) Grande",
+        "papel": "Enxame",
+        "pv": 171,
+        "defesa": 20,
+        "habilidades": [
+            "Enxame 5d6",
+            "Frenesi Incontrolável",
+            "Cada Um por Si!"
+        ]
+    },
+    {
+        "nome": "Horda Goblin",
+        "nd": "14",
+        "tipo": "Humanoide (goblin) Colossal",
+        "papel": "Enxame",
+        "pv": 666,
+        "defesa": 42,
+        "habilidades": [
+            "Enxame 14d6",
+            "Pilhar e Devorar",
+            "Sobrepujar"
+        ]
+    },
+    {
+        "nome": "Goblin-Bomba",
+        "nd": "3",
+        "tipo": "Humanoide (goblin) Pequeno",
+        "pv": 74,
+        "defesa": 19,
+        "habilidades": [
+            "Granadas a Granel (1d4 efeitos)",
+            "Grand Finale (Explode ao morrer)"
+        ]
+    },
+    {
+        "nome": "Goblin de Ferro",
+        "nd": "5",
+        "tipo": "Humanoide (goblin) Médio",
+        "pv": 150,
+        "defesa": 28,
+        "rd": 10,
+        "habilidades": [
+            "Armadura Blindada",
+            "Engenhocas de Combate (aleatório)"
+        ]
+    },
+    {
+        "nome": "Goblin de Ferro Mark II",
+        "nd": "8",
+        "tipo": "Humanoide (goblin) Grande",
+        "pv": 300,
+        "defesa": 36,
+        "rd": 20,
+        "habilidades": [
+            "Arco Voltaico",
+            "Canhão Congelante",
+            "Foguete Explosivo",
+            "Garra-Gancho"
+        ]
+    },
+    {
+        "nome": "Hobgoblin Atirador",
+        "nd": "5",
+        "tipo": "Humanoide (hobgoblin) Médio",
+        "pv": 38,
+        "defesa": 22,
+        "habilidades": [
+            "Fuzileiro",
+            "Lança de Fogo",
+            "Mira Apurada"
+        ]
+    },
+    {
+        "nome": "Hobgoblin Comandante Tático",
+        "nd": "11",
+        "tipo": "Humanoide (hobgoblin) Médio",
+        "pv": 425,
+        "defesa": 40,
+        "habilidades": [
+            "Carga Odiosa",
+            "Estandarte de Thwor",
+            "Manobras Evasivas",
+            "Ordens de Ataque"
+        ]
+    },
+    {
+        "nome": "Hobgoblin Gladiador",
+        "nd": "16",
+        "tipo": "Humanoide (hobgoblin) Médio",
+        "pv": 1000,
+        "defesa": 46,
+        "habilidades": [
+            "Agraciado por Thwor",
+            "Campeão Bestial",
+            "Lento Demais!",
+            "Venha Aqui e Lute!"
+        ]
+    },
+    {
+        "nome": "Sangue do Ayrrak",
+        "nd": "19",
+        "tipo": "Humanoide (bugbear) Médio",
+        "pv": 1364,
+        "pm": 57,
+        "defesa": 59,
+        "habilidades": [
+            "O Mundo Como Deve Ser",
+            "Roda do Akzath (3 poderes)",
+            "Continuidade",
+            "Início (Reset de turno)"
+        ]
+    }
+]

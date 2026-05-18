@@ -1,0 +1,11 @@
+{
+  "id": "legião",
+  "name": "Legião",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "Instantânea",
+  "description": "Alvo: até 10 criaturas na área; Duração: sustentada. Resistência: Vontade parcial. Você domina a mente dos alvos. Os alvos obedecem cegamente a seus comandos, exceto ordens claramente suicidas. Um alvo tem direito a um teste  no final de cada um de seus turnos para  se livrar do efeito. Alvos que passarem  no teste ficam abalados por 1 rodada  enquanto recuperam a consciência. +1 PM: aumenta o número de alvos  em +1."
+}

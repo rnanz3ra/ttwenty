@@ -1,0 +1,11 @@
+{
+  "id": "manto-do-cruzado",
+  "name": "Manto do Cruzado",
+  "circle": 4,
+  "type": "Divina",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "sustentada",
+  "description": "Você invoca o poder de sua divindade na forma de um manto de energia  que reveste seu corpo. Esta magia tem  duas versões. Você escolhe qual versão  pode lançar quando aprende esta magia. Ela não pode ser mudada. Manto de Luz: um manto dourado e luminoso. No início de cada um de seus  turnos, você e todos os seus aliados  em alcance curto recuperam 2d8 PV.  Você recebe imunidade a dano de trevas e seus ataques corpo a corpo causam +2d8 pontos de dano de luz. Manto de Trevas: um manto negro que causa 1d6 de dano de trevas a quem atacar corpo-a-corpo."
+}

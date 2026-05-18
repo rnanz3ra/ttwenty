@@ -1,0 +1,11 @@
+{
+  "id": "semiplano",
+  "name": "Semiplano",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Convocação",
+  "execution": "completa;",
+  "range": "curto;",
+  "duration": "1 dia",
+  "description": "Você cria uma dimensão particular.  Você pode entrar no semiplano gastando uma ação padrão e 10 PM, desaparecendo do plano material como se tivesse se teletransportado. Você pode  levar criaturas voluntárias que esteja  tocando, ao custo de 1 PM por criatura extra. Você também pode levar objetos que esteja tocando, ao custo de 1  PM por objeto Médio ou menor, 2 PM  por objeto Grande, 5 PM por Enorme e  10 PM por Colossal. Uma vez no semiplano, pode gastar uma ação completa  para voltar ao plano original."
+}

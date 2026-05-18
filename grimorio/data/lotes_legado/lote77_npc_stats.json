@@ -1,0 +1,103 @@
+{
+    "tomo": "Ferramentas do Mestre",
+    "secao": "Gerador de NPCs",
+    "atributos_por_patamar": {
+        "Iniciante": [
+            3,
+            2,
+            1,
+            1,
+            0,
+            -1
+        ],
+        "Veterano": [
+            4,
+            3,
+            2,
+            1,
+            0,
+            0
+        ],
+        "Campeão": [
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "Lenda": [
+            7,
+            5,
+            4,
+            2,
+            2,
+            1
+        ]
+    },
+    "tabela_7_2_npc_stats": [
+        {
+            "nd": "1/2",
+            "ataque": 7,
+            "dano": "1d6+3",
+            "defesa": 15,
+            "pv": 10,
+            "pericias": 4,
+            "cd": 14
+        },
+        {
+            "nd": "1",
+            "ataque": 9,
+            "dano": "1d8+5",
+            "defesa": 17,
+            "pv": 25,
+            "pericias": 6,
+            "cd": 16
+        },
+        {
+            "nd": "2",
+            "ataque": 12,
+            "dano": "1d10+8",
+            "defesa": 20,
+            "pv": 50,
+            "pericias": 8,
+            "cd": 17
+        },
+        {
+            "nd": "5",
+            "ataque": 18,
+            "dano": "1d12+11",
+            "defesa": 28,
+            "pv": 150,
+            "pericias": 14,
+            "cd": 20
+        },
+        {
+            "nd": "10",
+            "ataque": 29,
+            "dano": "3d6+26",
+            "defesa": 43,
+            "pv": 350,
+            "pericias": 24,
+            "cd": 30
+        },
+        {
+            "nd": "15",
+            "ataque": 42,
+            "dano": "4d8+38",
+            "defesa": 55,
+            "pv": 600,
+            "pericias": 30,
+            "cd": 40
+        },
+        {
+            "nd": "20",
+            "ataque": 55,
+            "dano": "4d12+50",
+            "defesa": 65,
+            "pv": 900,
+            "pericias": 35,
+            "cd": 50
+        }
+    ]
+}

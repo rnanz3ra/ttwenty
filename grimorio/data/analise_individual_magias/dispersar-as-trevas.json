@@ -1,0 +1,11 @@
+{
+  "id": "dispersar-as-trevas",
+  "name": "Dispersar as Trevas",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: pessoal;  Área: esfera com 6m de raio; Duração: veja texto. Esta magia cria um forte brilho (multicolorido ou de uma cor que remeta a  sua divindade) que causa diversos efeitos. Todas as magias de 3º círculo ou  menor ativas na área são dissipadas se  você passar num teste de Religião contra a CD de cada magia. Seus aliados  na área recebem +4 em testes de resistência e redução de trevas 10 até o  fim da cena, protegidos por uma aura  sutil da mesma cor. Inimgos na área sofrem 2d8 pontos de dano de luz."
+}

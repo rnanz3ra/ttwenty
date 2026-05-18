@@ -1,0 +1,12 @@
+{
+  "id": "alterar-memória",
+  "name": "Alterar Memória",
+  "circle": 4,
+  "type": "Arcana",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "instantânea",
+  "description": "Você invade a mente do alvo e altera ou  apaga suas memórias da última hora. +2 PM: muda o alcance para pessoal e  o alvo para área cone de 4,5m. +5 PM: você pode alterar ou apagar as  memórias das últimas 24 horas.",
+  "resistance": "Vontade anula"
+}

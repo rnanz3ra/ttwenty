@@ -1,0 +1,11 @@
+{
+  "id": "camuflagem-ilusória",
+  "name": "Camuflagem ilusória",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Ilusão",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "O alvo fica com sua imagem nublada,  como se vista através de um líquido, recebendo os efeitos de camuflagem leve. +3 PM: muda a duração para sustentada. A imagem do alvo fica mais distorcida, aumentando a chance de falha da  camuflagem leve para 50%. +7 PM: muda o alcance para curto e o  alvo para criaturas escolhidas. Requer  4º círculo."
+}

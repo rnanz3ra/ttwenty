@@ -1,0 +1,11 @@
+{
+  "id": "magia---tentáculos--de-trevas",
+  "name": "Magia   Tentáculos  de Trevas",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: médio;  Área: esfera com 6m de raio; Duração: cena.  Um círculo de energias sombrias se  abre no chão, de onde surgem tentáculos feitos de treva viscosa. Ao lançar a  magia e no início de cada um de seus  turnos, você faz um teste da manobra  agarrar (usando seu valor de Misticismo) contra cada criatura na área. Se  você passar, a criatura é agarrada; se  a vítima já está agarrada, é esmagada,  sofrendo 4d6 pontos de dano de trevas. A área conta como terreno di"
+}

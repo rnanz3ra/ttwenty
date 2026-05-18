@@ -1,0 +1,11 @@
+{
+  "id": "escudo-da-fé",
+  "name": "Escudo da Fé",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "reação;",
+  "range": "curto;",
+  "duration": "1 turno",
+  "description": "Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +2 na Defesa. +1 PM: muda a execução para ação padrão, o alcance para toque e a duração  para cena. +1 PM: também fornece ao alvo camuflagem leve contra ataques à distância. +2 PM: aumenta o bônus na Defesa  em +1. +2 PM: muda a execução para ação padrão, o alcance para toque e a duração  para cena. A magia cria uma conexão  mística entre você e o alvo. Além do  efeito normal, o alvo sofre metade do  dano."
+}

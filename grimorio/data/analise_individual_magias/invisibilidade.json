@@ -1,0 +1,11 @@
+{
+  "id": "invisibilidade",
+  "name": "Invisibilidade",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Ilusão",
+  "execution": "livre;",
+  "range": "pessoal;",
+  "duration": "1 rodada",
+  "description": "O alvo fica invisível (incluindo seu equipamento). Um personagem invisível recebe camuflagem total, +10 em testes  de Furtividade contra ouvir e criaturas  que não possam  percebê-lo ficam desprevenidas contra seus ataques. A magia termina se o alvo faz uma ação  hostil contra uma criatura. Ações contra objetos livres não dissipam a Invisibilidade (você pode tocar ou apanhar  objetos que não estejam sendo segurados por outras criaturas). Causar dano  indiretamente — por exemplo, acendendo uma tocha)."
+}

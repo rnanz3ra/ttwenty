@@ -1,0 +1,11 @@
+{
+  "id": "mente-divina",
+  "name": "Mente Divina",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Adivinhação",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "Você fortalece a mente do alvo. Ele recebe +2 em Inteligência, Sabedoria  ou Carisma, a sua escolha. Esse aumento não oferece PV, PM ou perícias  adicionais. +3 PM: muda o alcance para curto e o  alvo para criaturas escolhidas.  +3 PM: em vez do normal, o alvo recebe +2 nos três atributos mentais.  Requer 3º círculo. +7 PM: em vez do normal, o alvo recebe +4 no atributo escolhido. Requer  4º círculo. +12 PM: em vez do normal, o alvo recebe +4 nos três atributos mentais.  Requer 5º círcculo."
+}

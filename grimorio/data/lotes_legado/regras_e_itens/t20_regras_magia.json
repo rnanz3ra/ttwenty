@@ -1,0 +1,28 @@
+{
+    "regras_magia": {
+        "custo_por_circulo": {
+            "1": 1,
+            "2": 3,
+            "3": 6,
+            "4": 10,
+            "5": 15
+        },
+        "cd_resistencia": "10 + Metade do Nível + Atributo-Chave",
+        "atributos_chave": {
+            "Arcanista": "Inteligência",
+            "Bruxo": "Inteligência",
+            "Mago": "Inteligência",
+            "Clérigo": "Sabedoria",
+            "Druida": "Sabedoria",
+            "Bardo": "Carisma",
+            "Feiticeiro": "Carisma"
+        },
+        "concentracao_cd": {
+            "dano_sofrido": "Igual ao dano",
+            "condicao_ruim": "15 + custo PM",
+            "condicao_terrivel": "20 + custo PM"
+        },
+        "armadura_magia_arcana": "Teste Misticismo (CD 20 + custo PM) + Penalidade de Armadura",
+        "limitacoes_base": "Requer uma mão livre e capacidade de falar."
+    }
+}

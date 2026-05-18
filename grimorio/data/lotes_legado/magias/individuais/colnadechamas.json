@@ -1,0 +1,12 @@
+{
+  "id": "coluna-de-chamas",
+  "name": "Coluna de Chamas",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "instantânea",
+  "description": "Um pilar de fogo sagrado desce dos  céus, causando 6d6 pontos de dano de  fogo mais 6d6 pontos de dano de luz  nas criaturas e objetos livres na área. +1 PM: aumenta o dano de fogo em +1d6. +1 PM: aumenta o dano de luz em +1d6.",
+  "resistance": "Reflexos reduz à metade"
+}

@@ -1,0 +1,134 @@
+{
+    "tabela_tamanhos": [
+        {
+            "id": "minusc",
+            "nome": "Minúsculo",
+            "espaco": "1,5m",
+            "mod_furtividade": 5,
+            "mod_manobra": -5
+        },
+        {
+            "id": "peq",
+            "nome": "Pequeno",
+            "espaco": "1,5m",
+            "mod_furtividade": 2,
+            "mod_manobra": -2
+        },
+        {
+            "id": "med",
+            "nome": "Médio",
+            "espaco": "1,5m",
+            "mod_furtividade": 0,
+            "mod_manobra": 0
+        },
+        {
+            "id": "grande",
+            "nome": "Grande",
+            "espaco": "3m",
+            "mod_furtividade": -2,
+            "mod_manobra": 2
+        },
+        {
+            "id": "enorme",
+            "nome": "Enorme",
+            "espaco": "4,5m",
+            "mod_furtividade": -5,
+            "mod_manobra": 5
+        },
+        {
+            "id": "colossal",
+            "nome": "Colossal",
+            "espaco": "9m",
+            "mod_furtividade": -10,
+            "mod_manobra": 10
+        }
+    ],
+    "tipos_criaturas": {
+        "Animal": {
+            "int_max": -4,
+            "traits": [
+                "Sem habilidades sobrenaturais"
+            ]
+        },
+        "Construto": {
+            "traits": [
+                "Visão no escuro",
+                "Imunidade a cansaço, metabolismo e veneno",
+                "Não recupera PV por descanso ou cura mágica",
+                "Ofício (Artesão) substitui perícia Cura"
+            ]
+        },
+        "Espírito": {
+            "traits": [
+                "Geralmente possuem visão no escuro"
+            ]
+        },
+        "Humanóide": {
+            "traits": [
+                "Sempre inteligentes (possuem raça ou subtipo)"
+            ]
+        },
+        "Monstro": {
+            "traits": [
+                "Anatomia estranha ou habilidades mágicas"
+            ]
+        },
+        "Morto-Vivo": {
+            "traits": [
+                "Visão no escuro",
+                "Imunidade a cansaço, metabolismo, trevas e veneno",
+                "Sofrem dano por cura de luz (metade se passar em Vontade)",
+                "Recuperam PV com dano de trevas"
+            ]
+        }
+    },
+    "habilidades_gerais": [
+        {
+            "nome": "Agarrar Aprimorado",
+            "tipo": "Ação Livre",
+            "efeito": "Se acertar ataque natural, pode agarrar como ação livre."
+        },
+        {
+            "nome": "Bando",
+            "icone": "bandeira",
+            "efeito": "Dobra dano se exceder Defesa em 10. Metade do dano se errar. Imune a manobras simples. Vulnerável a área."
+        },
+        {
+            "nome": "Cura Acelerada",
+            "efeito": "Recupera X PV no início do turno (não cura dano de tipos específicos listados)."
+        },
+        {
+            "nome": "Engolir",
+            "efeito": "Teste de agarrar contra criaturas menores. Causa dano interno e cegueira."
+        },
+        {
+            "nome": "Enxame",
+            "icone": "várias setas",
+            "efeito": "Dano automático no fim do turno. Imune a manobras. Metade do dano de armas. Imune a efeitos de alvo único."
+        },
+        {
+            "nome": "Evasão",
+            "efeito": "Reflexos para reduzir a 0 em vez de metade. Requer liberdade de movimento."
+        },
+        {
+            "nome": "Faro",
+            "efeito": "Não fica desprevenido contra o que não vê. 20% de falha contra camuflagem total em curto alcance."
+        },
+        {
+            "nome": "Fortificação",
+            "efeito": "X% de chance de ignorar crítico ou ataque furtivo."
+        },
+        {
+            "nome": "Incorpóreo",
+            "efeito": "Sem corpo físico. Afetado apenas por magia/itens mágicos. Atravessa objetos. Força Nula."
+        },
+        {
+            "nome": "Percepção às Cegas",
+            "efeito": "Usa sentidos não visuais. Ignora escuridão e invisibilidade em alcance curto."
+        },
+        {
+            "nome": "Redução de Dano (RD)",
+            "efeito": "Subtrai o valor indicado de cada dano sofrido."
+        }
+    ]
+}

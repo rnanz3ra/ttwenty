@@ -1,0 +1,11 @@
+{
+  "id": "campo-antimagia",
+  "name": "Campo Antimagia",
+  "circle": 4,
+  "type": "Arcana",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "sustentada",
+  "description": "Você é cercado por uma barreira invisível com 3m de raio que o acompanha.  Qualquer habilidade mágica ou item  mágico que entre na área da barreira é  suprimida enquanto estiver lá. Criaturas convocadas que entrem em  um Campo Antimagia desaparecem. Elas  reaparecem na mesma posição quando  a duração do Campo termina — supondo que a duração da magia que as convocou ainda não tenha terminado. Criaturas mágicas ou imbuídas com  magia durante sua criação não são diretamente afetadas pelo Campo Antimagia."
+}

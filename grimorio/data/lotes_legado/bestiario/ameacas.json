@@ -1,0 +1,236 @@
+{
+    "livro": "Ameaças de Arton",
+    "capitulo": "Áreas de Tormenta",
+    "ameacas": [
+        {
+            "nome": "Alma Acorrentada",
+            "nd": "7",
+            "tipo": "Morto-vivo",
+            "tamanho": "Médio",
+            "percepcao": 9,
+            "iniciativa": 14,
+            "defesa": 26,
+            "fortitude": 14,
+            "reflexos": 19,
+            "vontade": 8,
+            "pv": 56,
+            "pm": 0,
+            "deslocamento": "Voo 9m (6q)",
+            "atributos": {
+                "for": null,
+                "des": 7,
+                "con": 2,
+                "int": 1,
+                "sab": 0,
+                "car": -2
+            },
+            "ataques": [
+                {
+                    "nome": "Toque cáustico",
+                    "bonus": 26,
+                    "dano": "2d6+10 ácido"
+                }
+            ],
+            "habilidades": [
+                {
+                    "nome": "Agarrar Oportunista",
+                    "tipo": "Livre",
+                    "descricao": "Se acertar ataque, pode agarrar (teste +28). Agarrada, a alma é corpórea."
+                },
+                {
+                    "nome": "Aura Cáustica",
+                    "tipo": "Passiva",
+                    "descricao": "6d6 dano ácido em adjacentes no início do turno da alma."
+                },
+                {
+                    "nome": "Invisibilidade Rubra",
+                    "tipo": "Passiva",
+                    "descricao": "Camuflagem total em áreas de Tormenta. Muda para leve se atacar."
+                },
+                {
+                    "nome": "Incorpóreo",
+                    "tipo": "Passiva",
+                    "descricao": "Regra padrão de incorpóreo."
+                }
+            ],
+            "pericias": "Furtividade +15 (+25 em áreas de Tormenta)."
+        },
+        {
+            "nome": "Bruxo da Tormenta",
+            "nd": "6",
+            "tipo": "Humanoide (humano)",
+            "tamanho": "Médio",
+            "papel": "Especial (Ícone Olho)",
+            "percepcao": 6,
+            "iniciativa": 5,
+            "defesa": 27,
+            "fortitude": 6,
+            "reflexos": 12,
+            "vontade": 18,
+            "pv": 142,
+            "pm": 41,
+            "deslocamento": "9m (6q)",
+            "atributos": {
+                "for": -1,
+                "des": 0,
+                "con": 2,
+                "int": 5,
+                "sab": 1,
+                "car": -2
+            },
+            "habilidades": [
+                {
+                    "nome": "Cuspir Enxame",
+                    "custo": "2 PM",
+                    "tipo": "Completa/Sustentada",
+                    "descricao": "Enxame Médio surge em alcance curto, causa 4d6 ácido."
+                },
+                {
+                    "nome": "Mente Aberrante",
+                    "tipo": "Reação",
+                    "descricao": "Ao resistir a efeito, causa 5d6 dano psíquico no emissor."
+                },
+                {
+                    "nome": "Raio Arcano",
+                    "custo": "1 PM",
+                    "tipo": "Padrão",
+                    "descricao": "Alcance médio, 2d12 trevas, impede cura por 1 rodada (Ref CD 24 reduz metade)."
+                }
+            ],
+            "magias": {
+                "nivel": 6,
+                "cd": 24,
+                "lista": [
+                    "Névoa",
+                    "Raio do Enfraquecimento",
+                    "Sussurros Insanos",
+                    "Velocidade"
+                ]
+            }
+        },
+        {
+            "nome": "Esmagador Coletivo",
+            "nd": "15",
+            "tipo": "Construto",
+            "tamanho": "Enorme",
+            "papel": "Solo (Ícone Dragão)",
+            "percepcao": 13,
+            "iniciativa": 12,
+            "defesa": 46,
+            "fortitude": 28,
+            "reflexos": 22,
+            "vontade": 14,
+            "pv": 800,
+            "pm": 0,
+            "imunidades": [
+                "Críticos",
+                "Metabolismo",
+                "Metamorfose",
+                "Paralisia"
+            ],
+            "rd": 15,
+            "deslocamento": "9m (6q)",
+            "atributos": {
+                "for": 14,
+                "des": -1,
+                "con": 15,
+                "int": null,
+                "sab": 0,
+                "car": null
+            },
+            "ataques": [
+                {
+                    "nome": "Três pancadas",
+                    "bonus": 39,
+                    "dano": "4d10+28"
+                }
+            ],
+            "habilidades": [
+                {
+                    "nome": "Absorver",
+                    "tipo": "Completa",
+                    "descricao": "Mata criatura agarrada há 3 rodadas, ganha 20 PV temp por nível da vítima."
+                },
+                {
+                    "nome": "Arremessar Corpos",
+                    "tipo": "Padrão",
+                    "descricao": "1d4+2 corpos em alcance longo, 4d8+15 impacto (Ref CD 40 metade)."
+                },
+                {
+                    "nome": "Forma Horrenda",
+                    "tipo": "Passiva",
+                    "descricao": "Início do turno em alcance médio exige Von CD 40 ou fica apavorada."
+                }
+            ]
+        },
+        {
+            "nome": "Gatzvalith, Lorde da Tormenta",
+            "nd": "S+",
+            "tipo": "Monstro (lekael)",
+            "tamanho": "Grande",
+            "percepcao": 39,
+            "iniciativa": 28,
+            "defesa": 69,
+            "fortitude": 34,
+            "reflexos": 36,
+            "vontade": 24,
+            "pv": 3700,
+            "pm": "2d20 (especial)",
+            "rd": 25,
+            "cura_acelerada": 50,
+            "atributos": {
+                "for": 18,
+                "des": 12,
+                "con": 19,
+                "int": 15,
+                "sab": 8,
+                "car": 14
+            },
+            "habilidades_lekael": [
+                "Coração da Tormenta",
+                "Domínio sobre o Tempo",
+                "Invocar Lefeu",
+                "Percepção Perfeita",
+                "Poder sobre a Realidade",
+                "Telepatia"
+            ],
+            "ataques": [
+                {
+                    "nome": "Rompedor da Realidade x4",
+                    "bonus": 64,
+                    "dano": "4d12+31 (Crítico x3) + 2d8 contra não lefeu"
+                }
+            ]
+        }
+    ],
+    "regras_especiais": {
+        "armadilhas_vivas": {
+            "modificadores": {
+                "cd_resistencia": 2,
+                "dano_por_dado": 2,
+                "cd_investigacao_ladinagem": 5,
+                "nd": 1
+            },
+            "exemplos": [
+                {
+                    "nome": "Estátua Executora Viva",
+                    "nd": 4,
+                    "dano": "1d12+12 x2",
+                    "cd_investigacao": 25
+                },
+                {
+                    "nome": "Gás Venenoso Vivo",
+                    "nd": 4,
+                    "dano": "1d12+2 por rodada",
+                    "cd_investigacao": 30
+                },
+                {
+                    "nome": "Parede Instável Viva",
+                    "nd": 5,
+                    "dano": "8d6+16",
+                    "cd_investigacao": 25
+                }
+            ]
+        }
+    }
+}

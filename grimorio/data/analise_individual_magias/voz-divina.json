@@ -1,0 +1,11 @@
+{
+  "id": "voz-divina",
+  "name": "Voz Divina",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Adivinhação",
+  "execution": "padrão;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Você pode conversar com criaturas de  qualquer raça e tipo: animal, construto, espírito, humanoide, monstro ou  morto-vivo. Pode fazer perguntas e entende suas respostas, mesmo sem um  idioma em comum ou se a criatura não  for capaz de falar, mas respeitando os  limites da Inteligência dela. A atitude  dessas criaturas não é alterada, mas  você pode usar a perícia Diplomacia  para tentar mudar sua atitude. +1 PM: você concede um pouco de  vida a um cadáver, suficiente para  que ele responda algumas perguntas."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "controlar-água",
+  "name": "Controlar Água",
+  "circle": 3,
+  "type": "Divina",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "longo;  Área: esfera com 30m de raio; Duração: cena; Resistência: veja texto.  Você controla os movimentos e comportamentos da água. Ao lançar a magia, escolha um dos efeitos abaixo.",
+  "duration": "Instantânea",
+  "description": "Congelar: toda a água mundana na área  é congelada. Criaturas nadando na  área ficam imóveis; escapar exige gastar uma ação padrão e passar num teste de Atletismo ou Acrobacia.  Derreter: gelo mundano na área vira  água e a magia termina. A critério do  mestre, isso pode criar terreno difícil. Enchente: eleva o nível da água mundana na área em até 4,5m. A sua escolha,  muda área para alvo: uma embarcação.  O alvo recebe +3m em seu deslocamento pela duração do efeito.  Evaporar: toda a água na área evapora."
+}

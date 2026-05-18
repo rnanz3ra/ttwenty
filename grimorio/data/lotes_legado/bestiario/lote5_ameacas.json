@@ -1,0 +1,176 @@
+[
+    {
+        "nome": "Gnoll Caçador de Cabeças",
+        "nd": "8",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 320,
+        "defesa": 33,
+        "habilidades": [
+            "Caminhos Selvagens",
+            "Disparo Preciso",
+            "Emboscar",
+            "Marca da Presa (Bônus contra Humanoides)"
+        ]
+    },
+    {
+        "nome": "Gnoll Capanga",
+        "nd": "1/2",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 8,
+        "defesa": 14,
+        "habilidades": [
+            "Bote (Ataque + Mordida na Investida)",
+            "Faro"
+        ]
+    },
+    {
+        "nome": "Gnoll Saqueador",
+        "nd": "1",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 15,
+        "defesa": 15,
+        "habilidades": [
+            "Usa Arco Curto",
+            "Faro"
+        ]
+    },
+    {
+        "nome": "Gnoll Filibusteiro",
+        "nd": "2",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 60,
+        "defesa": 19,
+        "habilidades": [
+            "Usa Mosquete",
+            "Recarga Rápida (Ação de Movimento)"
+        ]
+    },
+    {
+        "nome": "Gnoll Líder de Alcateia",
+        "nd": "5",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 200,
+        "defesa": 24,
+        "habilidades": [
+            "Líder da Alcateia (Dano extra por aliado)",
+            "Ordens",
+            "Totem Risonho (Regra de área)"
+        ]
+    },
+    {
+        "nome": "Gnoll Xamã de Allihanna",
+        "nd": "2",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 50,
+        "pm": 12,
+        "defesa": 17,
+        "habilidades": [
+            "Medicina Primal",
+            "Caminhos Selvagens"
+        ],
+        "magias": [
+            "Armamento da Natureza",
+            "Controlar Plantas",
+            "Curar Ferimentos"
+        ]
+    },
+    {
+        "nome": "Gnoll Xamã de Megalokk",
+        "nd": "5",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 170,
+        "pm": 25,
+        "defesa": 24,
+        "habilidades": [
+            "Urro Divino (Soma Con no dano)",
+            "Voz dos Monstros"
+        ],
+        "magias": [
+            "Amedrontar",
+            "Armamento da Natureza",
+            "Físico Divino",
+            "Perdição"
+        ]
+    },
+    {
+        "nome": "Gnoll Xamã de Marah",
+        "nd": "6",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 180,
+        "pm": 34,
+        "defesa": 25,
+        "habilidades": [
+            "Aura de Paz (CD 24)",
+            "Símbolo Sagrado Energizado"
+        ],
+        "magias": [
+            "Curar Ferimentos",
+            "Dissipar Magia",
+            "Enfeitiçar",
+            "Santuário"
+        ]
+    },
+    {
+        "nome": "Hiena",
+        "nd": "1",
+        "tipo": "Animal Médio",
+        "pv": 17,
+        "defesa": 14,
+        "habilidades": [
+            "Derrubar",
+            "Oportunista",
+            "Parceiro (Perseguidor)"
+        ]
+    },
+    {
+        "nome": "Hiena Rainha",
+        "nd": "2",
+        "tipo": "Animal Médio",
+        "pv": 68,
+        "defesa": 18,
+        "habilidades": [
+            "Gargalhada Perturbadora (Abala inimigos)",
+            "Derrubar",
+            "Oportunista"
+        ]
+    },
+    {
+        "nome": "Hienodonte",
+        "nd": "3",
+        "tipo": "Animal Grande",
+        "pv": 38,
+        "defesa": 20,
+        "habilidades": [
+            "Derrubar",
+            "Oportunista",
+            "Parceiro (Montaria)"
+        ]
+    },
+    {
+        "nome": "Matrona Gnoll",
+        "nd": "11",
+        "tipo": "Humanoide (gnoll) Médio",
+        "pv": 390,
+        "defesa": 39,
+        "rd": 5,
+        "habilidades": [
+            "Latido Enervante",
+            "Matrona da Alcateia",
+            "Pega!",
+            "Quebra-Pescoço"
+        ]
+    },
+    {
+        "nome": "Gnoll Vuul'rak",
+        "nd": "16",
+        "tipo": "Humanoide (gnoll) Grande",
+        "pv": 900,
+        "defesa": 51,
+        "rd": 10,
+        "habilidades": [
+            "Descarregar Raiva (Ataque em área ao perder PV)",
+            "Golpe Avassalador",
+            "Ódio Inexplicável (Bônus contra Elfos)"
+        ]
+    }
+]

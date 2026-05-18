@@ -1,0 +1,12 @@
+{
+  "id": "acalmar-animal",
+  "name": "Acalmar Animal",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "cena",
+  "description": "O animal fica prestativo em relação a  você.  Ele não fica sob seu controle, mas  percebe suas palavras e ações da maneira mais favorável possível. Você recebe  +10 nos testes de Adestramento e Diplomacia que fizer contra o animal. Um alvo hostil ou que esteja envolvido  em um combate recebe +5 em seu teste  de resistência. Se você ou seus aliados  tomarem qualquer ação hostil contra o  alvo, a magia é dissipada e ele retorna à  atitude que tinha antes (ou piorada, de  acordo com o mestre).A magia falha se o alvo for atacado.",
+  "resistance": "Vontade anula"
+}

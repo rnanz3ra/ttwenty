@@ -1,0 +1,12 @@
+{
+  "id": "raio-do--enfraquecimento",
+  "name": "Raio do  Enfraquecimento",
+  "circle": 1,
+  "type": "Arcana",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "cena",
+  "description": "Você dispara um raio púrpura que drena as forças do alvo. Se falhar na resistência, o alvo fica fatigado. Se passar,  fica vulnerável. Note que, como efeitos  de magia não acumulam, lançar esta  magia duas vezes contra o mesmo alvo  não irá deixá-lo exausto. Truque: muda o alcance para toque e  a resistência para Fortitude anula. Em  vez do normal, sua mão emana um brilho púrpura e, ao tocar o alvo, ele fica  fatigado. +2 PM: em vez do normal, se falhar na  resistência o alvo fica exausto.",
+  "resistance": "Fortitude parcial"
+}

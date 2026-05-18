@@ -1,0 +1,11 @@
+{
+  "id": "animar-objetos",
+  "name": "Animar Objetos",
+  "circle": 4,
+  "type": "Arcana",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "médio;",
+  "duration": "Instantânea",
+  "description": "Alvo: até 8 objetos Minúsculos ou Pequenos, 4 objetos Médios, 2 objetos  Grandes ou 1 objeto Enorme; Duração: cena. Você concede vida a objetos inanimados. Cada objeto se torna um parceiro  sob seu controle. O tipo dele é escolhido da lista de tamanho e ele não conta  em seu limite de parceiros. Com uma  ação de movimento, você pode comandar mentalmente qualquer objeto animado dentro do alcance para que auxilie você ou outra criatura. Outros  usos criativos para os objetos ficam  animados de forma permanente."
+}

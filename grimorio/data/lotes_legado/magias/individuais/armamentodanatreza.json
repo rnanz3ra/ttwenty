@@ -1,0 +1,11 @@
+{
+  "id": "armamento--da-natureza",
+  "name": "Armamento  da Natureza",
+  "circle": 1,
+  "type": "Divina",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "cena",
+  "description": "Você fortalece uma arma mundana primitiva (sem custo em T$, como bordão, clava, funda ou tacape), uma arma  natural ou um ataque desarmado. O  dano da arma aumenta em um passo  e ela é considerada mágica. Ao lançar a  magia, você pode mudar o tipo de dano  da arma (escolhendo entre corte, impacto ou perfuração). +1 PM: fornece +1 nos testes de ataque com a arma. +2 PM: muda a execução para ação de  movimento. +3 PM: aumenta o bônus nos testes de  ataque em +1. +5 PM: aumenta o dano da ar"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bola-de-fogo",
+  "name": "Bola de Fogo",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: padrão; Alcance: médio;  Área: esfera com 6m de raio; Duração: instantânea; Resistência: Reflexos reduz à metade.  Esta famosa magia de ataque cria uma  poderosa explosão, causando 6d6 pontos de dano de fogo em todas as criaturas e objetos livres na área.  +2 PM: aumenta o dano em +2d6. +2 PM: muda a área para efeito de esfera flamejante com tamanho Médio e  a duração para cena. Em vez do normal, cria uma esfera flamejante com  1,5m de diâmetro que causa 3d6 pontos de dano."
+}

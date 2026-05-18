@@ -1,0 +1,12 @@
+{
+  "id": "palavra-primordial",
+  "name": "Palavra Primordial",
+  "circle": 5,
+  "type": "Universal",
+  "school": "Encantamento",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "instantânea ou veja  texto",
+  "description": "Você pronuncia uma palavra do idioma  primordial da Criação, que causa um  dos efeitos abaixo, a sua escolha. Atordoar: a criatura fica atordoada por  1d4+1 rodadas (apenas uma vez por  cena). Se passar no teste de resistência, ou se já foi atordoada por esta magia, fica desprevenida por 1d4 rodadas. Cegar: a criatura fica cega. Se passar no  teste de resistência, fica ofuscada por  1d4 rodadas. 200 Magia   Matar: a criatura morre. Além do teste de Vontade, a criatura tem direito a  um teste de Vontade para evitar o atordoamento.",
+  "resistance": "Vontade parcial"
+}

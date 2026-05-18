@@ -1,0 +1,11 @@
+{
+  "id": "visão-da-verdade",
+  "name": "Visão da Verdade",
+  "circle": 4,
+  "type": "Universal",
+  "school": "Adivinhação",
+  "execution": "movimento;",
+  "range": "pessoal;",
+  "duration": "cena",
+  "description": "Você enxerga a forma real das coisas.  Você pode ver através de camuflagem e  escuridão (normais e mágicas), assim  como efeitos de ilusão e transmutação  (enxergando a verdade como formas  translúcidas ou sobrepostas). +1 PM: muda o alcance para toque e o  alvo para 1 criatura.  +1 PM: além do normal, o alvo fica  com sentidos apurados; ele recebe +10  em todos os testes de Percepção.  +2 PM: além do normal, o alvo escuta  falsidades; ele recebe +10 em todos os  testes de Intuição.  +4 PM: além do normal, enxerga seres invisíveis."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "barragem-elemental--de-vectorius",
+  "name": "Barragem elemental  de Vectorius",
+  "circle": 5,
+  "type": "Arcana",
+  "school": "Evocação",
+  "execution": "padrão;",
+  "range": "longo;",
+  "duration": "Instantânea",
+  "description": "Efeito: 4 esferas elementais; Duração: instantânea; Resistência: Reflexos parcial. Criada pelo arquimago Vectorius, esta  magia produz quatro esferas, de ácido, eletricidade, fogo e frio, que voam  até um ponto a sua escolha. Quando  atingem o ponto escolhido, explodem  causando 6d6 pontos de dano de seu  respectivo tipo numa área com 12m  de raio. Um teste de Reflexos reduz o  dano à metade. Você pode mirar cada  esfera em uma criatura ou ponto diferente. Uma criatura ao alcance da ex- "
+}

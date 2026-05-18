@@ -1,0 +1,11 @@
+{
+  "id": "dificultar-detecção",
+  "name": "Dificultar Detecção",
+  "circle": 3,
+  "type": "Arcana",
+  "school": "Abjuração",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "1 dia",
+  "description": "190 Magia   Esta magia oculta a presença do alvo  contra qualquer meio mágico de detecção, inclusive detectar magia. Um conjurador que lance uma magia de adivinhação para detectar a presença ou  localização do alvo deve fazer um teste  de Vontade. Se falhar, a magia não funciona, mas os PM são gastos mesmo  assim. Se for lançada sobre uma criatura, Dificultar Detecção protege tanto a  criatura quanto seu equipamento.  +4 PM: muda o alvo para área de cubo  de 9m. Qualquer criatura ou objeto na área."
+}

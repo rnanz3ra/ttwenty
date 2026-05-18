@@ -1,0 +1,11 @@
+{
+  "id": "alterar-tamanho",
+  "name": "Alterar Tamanho",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Transmutação",
+  "execution": "padrão;",
+  "range": "curto;",
+  "duration": "1 dia",
+  "description": "Esta magia aumenta ou diminui o  tamanho de um item mundano em  até três categorias (um objeto Enorme vira Pequeno, por exemplo). Você  também pode mudar a consistência  do item, deixando-o rígido como pedra ou flexível como seda (isso não altera sua RD ou PV, apenas suas propriedades físicas). Se lançar a magia  num objeto de uma criatura involuntária, ela pode fazer um teste de Vontade para anulá-la. +1 PM: aumenta o número de alvos  em +1. +2 PM: muda o alcance para toque e  o alvvo para você."
+}

@@ -1,0 +1,21 @@
+{
+    "downtime": {
+        "treinamento": {
+            "regra": "3 testes de Atributo (CD 10 + 1/2 lvl). Passar em 2 = Benefício do próximo nível.",
+            "beneficios": [
+                "PV do próx. nível",
+                "PM do próx. nível",
+                "Habilidade de classe"
+            ]
+        },
+        "busca": {
+            "regra": "3 perícias (1 do jogador, 1 do mestre, 1 aleatória 2d12). CD 20 + 1/2 lvl.",
+            "resultados": {
+                "0 sucessos": "Castigo (Abalo, Ferimento, Ruína ou Maldição).",
+                "1 sucesso": "Fracasso parcial (pode tentar novamente com penalidade).",
+                "2 sucessos": "Consegue o objetivo.",
+                "3 sucessos": "Objetivo + Benefício extra (Favor ou Tesouro)."
+            }
+        }
+    }
+}

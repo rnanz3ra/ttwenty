@@ -1,0 +1,12 @@
+{
+  "id": "toque-vampírico",
+  "name": "Toque Vampírico",
+  "circle": 2,
+  "type": "Arcana",
+  "school": "Necromancia",
+  "execution": "padrão;",
+  "range": "toque;",
+  "duration": "instantânea",
+  "description": "Sua mão brilha com energia sombria,  causando 6d6 pontos de dano de trevas. Você recupera pontos de vida  iguais à metade do dano causado (se  causou algum dano). +2 PM: muda a  resistência para nenhum . Como parte da execução da magia, você pode fazer um ataque corpo  a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do  dano da magia.  +2 PM: aumenta o dano em +2d6. +2 PM: muda o alcance para pessoal,  o alvo para você e a magia causa +2d6 de dano de trevas.",
+  "resistance": "Fortitude reduz à  metade"
+}

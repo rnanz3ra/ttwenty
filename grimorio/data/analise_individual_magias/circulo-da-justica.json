@@ -1,0 +1,12 @@
+{
+  "id": "círculo-da-justiça",
+  "name": "Círculo da Justiça",
+  "circle": 2,
+  "type": "Divina",
+  "school": "Abjuração",
+  "execution": "completa;",
+  "range": "Curto",
+  "duration": "1 dia",
+  "description": "Também conhecida como Lágrimas de  Hyninn, esta magia é usada em tribunais e para proteger áreas sensíveis.  Criaturas na área sofrem –10 em testes de Acrobacia, Enganação, Furtividade e Ladinagem e não podem mentir  deliberadamente — mas podem tentar  evitar perguntas que normalmente responderiam com uma mentira (sendo  evasivas ou cometendo omissões, por  exemplo). Uma criatura que passe na  resistência tem as penalidades reduzidas para –5 e pode mentir. +1 PM: muda a execução para ação completa.",
+  "resistance": "Vontade parcial"
+}

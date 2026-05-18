@@ -1,0 +1,300 @@
+{
+    "pericias": {
+        "regra_calculo": "1d20 + Metade do Nível + Atributo + Bônus de Treinamento",
+        "bonus_treinamento": {
+            "1-6": 2,
+            "7-14": 4,
+            "15-20": 6
+        },
+        "lista": [
+            {
+                "nome": "Acrobacia",
+                "atributo": "des",
+                "treinada": false,
+                "penalidade_armadura": true,
+                "usos": [
+                    "Amortecer Queda (CD 15)",
+                    "Equilíbrio",
+                    "Escapar",
+                    "Levantar-se Rapidamente (CD 20)",
+                    "Passar por Espaço Apertado (CD 25)",
+                    "Passar por Inimigo"
+                ]
+            },
+            {
+                "nome": "Adestramento",
+                "atributo": "car",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Acalmar Animal (CD 25)",
+                    "Manejar Animal (CD 15)"
+                ]
+            },
+            {
+                "nome": "Atletismo",
+                "atributo": "for",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Corrida",
+                    "Escalar",
+                    "Natação",
+                    "Saltar"
+                ]
+            },
+            {
+                "nome": "Atuação",
+                "atributo": "car",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Apresentação (CD 20)",
+                    "Impressionar"
+                ]
+            },
+            {
+                "nome": "Cavalgar",
+                "atributo": "des",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Conduzir",
+                    "Galopar",
+                    "Montar Rapidamente (CD 20)"
+                ]
+            },
+            {
+                "nome": "Conhecimento",
+                "atributo": "int",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Idiomas (CD 20)",
+                    "Informação (CD 20/30)"
+                ]
+            },
+            {
+                "nome": "Cura",
+                "atributo": "sab",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Cuidados Prolongados (CD 15)",
+                    "Necropsia (CD 20)",
+                    "Primeiros Socorros (CD 15)",
+                    "Tratamento"
+                ]
+            },
+            {
+                "nome": "Diplomacia",
+                "atributo": "car",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Barganha",
+                    "Mudar Atitude",
+                    "Persuasão (CD 20)"
+                ]
+            },
+            {
+                "nome": "Enganação",
+                "atributo": "car",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Disfarce",
+                    "Falsificação",
+                    "Fintar",
+                    "Insinuação (CD 20)",
+                    "Intriga (CD 20)",
+                    "Mentir"
+                ]
+            },
+            {
+                "nome": "Fortitude",
+                "atributo": "con",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "desc": "Resistir a venenos, doenças e fadiga."
+            },
+            {
+                "nome": "Furtividade",
+                "atributo": "des",
+                "treinada": false,
+                "penalidade_armadura": true,
+                "usos": [
+                    "Esconder-se",
+                    "Seguir"
+                ]
+            },
+            {
+                "nome": "Guerra",
+                "atributo": "int",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Analisar Terreno (CD 20)",
+                    "Plano de Ação (CD 20)"
+                ]
+            },
+            {
+                "nome": "Iniciativa",
+                "atributo": "des",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "desc": "Determina a ordem de agir."
+            },
+            {
+                "nome": "Intimidação",
+                "atributo": "car",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Assustar",
+                    "Coagir"
+                ]
+            },
+            {
+                "nome": "Intuição",
+                "atributo": "sab",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Perceber Mentira",
+                    "Pressentimento (CD 20)"
+                ]
+            },
+            {
+                "nome": "Investigação",
+                "atributo": "int",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Interrogar",
+                    "Procurar"
+                ]
+            },
+            {
+                "nome": "Jogatina",
+                "atributo": "car",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Apostar"
+                ]
+            },
+            {
+                "nome": "Ladinagem",
+                "atributo": "des",
+                "treinada": true,
+                "penalidade_armadura": true,
+                "usos": [
+                    "Abrir Fechadura",
+                    "Ocultar",
+                    "Punga (CD 20)",
+                    "Sabotar"
+                ]
+            },
+            {
+                "nome": "Luta",
+                "atributo": "for",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "desc": "Ataques corpo a corpo."
+            },
+            {
+                "nome": "Misticismo",
+                "atributo": "int",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Detectar Magia (CD 15)",
+                    "Identificar Criatura",
+                    "Identificar Item Mágico",
+                    "Lançar Magia de Armadura (CD 20 + PM)"
+                ]
+            },
+            {
+                "nome": "Nobreza",
+                "atributo": "int",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Etiqueta (CD 15)",
+                    "Informação"
+                ]
+            },
+            {
+                "nome": "Ofício",
+                "atributo": "int",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Consertar",
+                    "Fabricar",
+                    "Sustento (CD 15)"
+                ]
+            },
+            {
+                "nome": "Percepção",
+                "atributo": "sab",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Observar",
+                    "Ouvir"
+                ]
+            },
+            {
+                "nome": "Pilotagem",
+                "atributo": "des",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "desc": "Operar veículos."
+            },
+            {
+                "nome": "Pontaria",
+                "atributo": "des",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "desc": "Ataques à distância."
+            },
+            {
+                "nome": "Reflexos",
+                "atributo": "des",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "desc": "Resistir a explosões e armadilhas."
+            },
+            {
+                "nome": "Religião",
+                "atributo": "sab",
+                "treinada": true,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Rito (CD 20)",
+                    "Identificar Criatura/Item Divino"
+                ]
+            },
+            {
+                "nome": "Sobrevivência",
+                "atributo": "sab",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "usos": [
+                    "Acampamento",
+                    "Orientar-se",
+                    "Rastrear"
+                ]
+            },
+            {
+                "nome": "Vontade",
+                "atributo": "sab",
+                "treinada": false,
+                "penalidade_armadura": false,
+                "desc": "Resistir a efeitos mentais."
+            }
+        ]
+    }
+}

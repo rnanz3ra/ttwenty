@@ -1,0 +1,11 @@
+{
+  "id": "controlar-o-clima",
+  "name": "Controlar o Clima",
+  "circle": 4,
+  "type": "Divina",
+  "school": "Transmutação",
+  "execution": "completa;",
+  "range": "Curto",
+  "duration": "Instantânea",
+  "description": "Execução: completa; Alcance: 2km;  Área: esfera com 2km de raio; Duração: 4d12 horas. Você muda o clima da área onde se  encontra, podendo criar qualquer  condição climática: chuva, neve, ventos, névoas... Veja o Capítulo 6: O  Mestre para os efeitos do clima. +1 PM (Apenas Druidas): muda o  raio da área para 3km e duração para  1d4 dias."
+}
